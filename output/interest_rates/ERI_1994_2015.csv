@@ -1,63 +1,63 @@
-entity_code,entity_name,counterpart_name,income_level,continent,indicator_code,year,value
-ERI,Eritrea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2015,0.75
-ERI,Eritrea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2001,0.75
-ERI,Eritrea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1997,0.7257
-ERI,Eritrea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1996,0.7499
-ERI,Eritrea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2006,1.0
-ERI,Eritrea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2001,2.0
-ERI,Eritrea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1997,3.0
-ERI,Eritrea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1995,3.0
-ERI,Eritrea,Arab Fund for Economic & Social Development,Low income,Africa,DT.INR.OFFT,1995,2.4999
-ERI,Eritrea,China,Low income,Africa,DT.INR.OFFT,2009,0.1399
-ERI,Eritrea,China,Low income,Africa,DT.INR.OFFT,2008,5.5412
-ERI,Eritrea,China,Low income,Africa,DT.INR.OFFT,2007,2.0
-ERI,Eritrea,China,Low income,Africa,DT.INR.OFFT,2006,2.9999
-ERI,Eritrea,European Investment Bank,Low income,Africa,DT.INR.OFFT,1994,2.0
-ERI,Eritrea,India,Low income,Africa,DT.INR.OFFT,2009,3.0
-ERI,Eritrea,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2010,0.7499
-ERI,Eritrea,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2006,0.7499
-ERI,Eritrea,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2002,0.75
-ERI,Eritrea,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1995,0.75
-ERI,Eritrea,Italy,Low income,Africa,DT.INR.OFFT,2004,0.4999
-ERI,Eritrea,Italy,Low income,Africa,DT.INR.OFFT,1997,1.0
-ERI,Eritrea,Kuwait,Low income,Africa,DT.INR.OFFT,2004,1.0
-ERI,Eritrea,Kuwait,Low income,Africa,DT.INR.OFFT,2001,1.4326
-ERI,Eritrea,Kuwait,Low income,Africa,DT.INR.OFFT,1997,2.0
-ERI,Eritrea,Kuwait,Low income,Africa,DT.INR.OFFT,1995,1.0
-ERI,Eritrea,Kuwait,Low income,Africa,DT.INR.OFFT,1994,1.0
-ERI,Eritrea,Libya,Low income,Africa,DT.INR.OFFT,1998,3.7142
-ERI,Eritrea,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2006,1.0
-ERI,Eritrea,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1997,3.0
-ERI,Eritrea,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1996,2.0
-ERI,Eritrea,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2001,2.5
-ERI,Eritrea,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1998,1.0
-ERI,Eritrea,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1995,2.4999
-ERI,Eritrea,United Arab Emirates,Low income,Africa,DT.INR.OFFT,2009,1.07
-ERI,Eritrea,United Arab Emirates,Low income,Africa,DT.INR.OFFT,2002,3.0
-ERI,Eritrea,United States,Low income,Africa,DT.INR.OFFT,2002,1.0
-ERI,Eritrea,United States,Low income,Africa,DT.INR.OFFT,2001,1.0
-ERI,Eritrea,United States,Low income,Africa,DT.INR.OFFT,1998,2.661
-ERI,Eritrea,World,Low income,Africa,DT.INR.OFFT,2015,0.75
-ERI,Eritrea,World,Low income,Africa,DT.INR.OFFT,2010,0.7499
-ERI,Eritrea,World,Low income,Africa,DT.INR.OFFT,2009,1.6891
-ERI,Eritrea,World,Low income,Africa,DT.INR.OFFT,2008,5.5412
-ERI,Eritrea,World,Low income,Africa,DT.INR.OFFT,2007,2.0
-ERI,Eritrea,World,Low income,Africa,DT.INR.OFFT,2006,2.0014
-ERI,Eritrea,World,Low income,Africa,DT.INR.OFFT,2004,0.6578
-ERI,Eritrea,World,Low income,Africa,DT.INR.OFFT,2003,0.75
-ERI,Eritrea,World,Low income,Africa,DT.INR.OFFT,2002,0.9108
-ERI,Eritrea,World,Low income,Africa,DT.INR.OFFT,2001,1.2281
-ERI,Eritrea,World,Low income,Africa,DT.INR.OFFT,2000,0.7343
-ERI,Eritrea,World,Low income,Africa,DT.INR.OFFT,1998,1.2897
-ERI,Eritrea,World,Low income,Africa,DT.INR.OFFT,1997,1.1553
-ERI,Eritrea,World,Low income,Africa,DT.INR.OFFT,1996,0.9547
-ERI,Eritrea,World,Low income,Africa,DT.INR.OFFT,1995,2.0031
-ERI,Eritrea,World,Low income,Africa,DT.INR.OFFT,1994,1.2023
-ERI,Eritrea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2004,0.75
-ERI,Eritrea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2003,0.75
-ERI,Eritrea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2002,0.75
-ERI,Eritrea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2001,0.75
-ERI,Eritrea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2000,0.75
-ERI,Eritrea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1998,0.5
-ERI,Eritrea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1997,0.6666
-ERI,Eritrea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1996,0.75
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+ERI,Eritrea,African Dev. Bank (official),Low income,Africa,2015,0.75
+ERI,Eritrea,African Dev. Bank (official),Low income,Africa,2001,0.75
+ERI,Eritrea,African Dev. Bank (official),Low income,Africa,1997,0.7257
+ERI,Eritrea,African Dev. Bank (official),Low income,Africa,1996,0.7499
+ERI,Eritrea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2006,1.0
+ERI,Eritrea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2001,2.0
+ERI,Eritrea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1997,3.0
+ERI,Eritrea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1995,3.0
+ERI,Eritrea,Arab Fund for Economic & Social Development (official),Low income,Africa,1995,2.4999
+ERI,Eritrea,China (official),Low income,Africa,2009,0.1399
+ERI,Eritrea,China (official),Low income,Africa,2008,5.5412
+ERI,Eritrea,China (official),Low income,Africa,2007,2.0
+ERI,Eritrea,China (official),Low income,Africa,2006,2.9999
+ERI,Eritrea,European Investment Bank (official),Low income,Africa,1994,2.0
+ERI,Eritrea,India (official),Low income,Africa,2009,3.0
+ERI,Eritrea,International Fund for Agricultural Dev. (official),Low income,Africa,2010,0.7499
+ERI,Eritrea,International Fund for Agricultural Dev. (official),Low income,Africa,2006,0.7499
+ERI,Eritrea,International Fund for Agricultural Dev. (official),Low income,Africa,2002,0.75
+ERI,Eritrea,International Fund for Agricultural Dev. (official),Low income,Africa,1995,0.75
+ERI,Eritrea,Italy (official),Low income,Africa,2004,0.4999
+ERI,Eritrea,Italy (official),Low income,Africa,1997,1.0
+ERI,Eritrea,Kuwait (official),Low income,Africa,2004,1.0
+ERI,Eritrea,Kuwait (official),Low income,Africa,2001,1.4326
+ERI,Eritrea,Kuwait (official),Low income,Africa,1997,2.0
+ERI,Eritrea,Kuwait (official),Low income,Africa,1995,1.0
+ERI,Eritrea,Kuwait (official),Low income,Africa,1994,1.0
+ERI,Eritrea,Libya (official),Low income,Africa,1998,3.7142
+ERI,Eritrea,OPEC Fund for International Dev. (official),Low income,Africa,2006,1.0
+ERI,Eritrea,OPEC Fund for International Dev. (official),Low income,Africa,1997,3.0
+ERI,Eritrea,OPEC Fund for International Dev. (official),Low income,Africa,1996,2.0
+ERI,Eritrea,Saudi Arabia (official),Low income,Africa,2001,2.5
+ERI,Eritrea,Saudi Arabia (official),Low income,Africa,1998,1.0
+ERI,Eritrea,Saudi Arabia (official),Low income,Africa,1995,2.4999
+ERI,Eritrea,United Arab Emirates (official),Low income,Africa,2009,1.07
+ERI,Eritrea,United Arab Emirates (official),Low income,Africa,2002,3.0
+ERI,Eritrea,United States (official),Low income,Africa,2002,1.0
+ERI,Eritrea,United States (official),Low income,Africa,2001,1.0
+ERI,Eritrea,United States (official),Low income,Africa,1998,2.661
+ERI,Eritrea,World (official),Low income,Africa,2015,0.75
+ERI,Eritrea,World (official),Low income,Africa,2010,0.7499
+ERI,Eritrea,World (official),Low income,Africa,2009,1.6891
+ERI,Eritrea,World (official),Low income,Africa,2008,5.5412
+ERI,Eritrea,World (official),Low income,Africa,2007,2.0
+ERI,Eritrea,World (official),Low income,Africa,2006,2.0014
+ERI,Eritrea,World (official),Low income,Africa,2004,0.6578
+ERI,Eritrea,World (official),Low income,Africa,2003,0.75
+ERI,Eritrea,World (official),Low income,Africa,2002,0.9108
+ERI,Eritrea,World (official),Low income,Africa,2001,1.2281
+ERI,Eritrea,World (official),Low income,Africa,2000,0.7343
+ERI,Eritrea,World (official),Low income,Africa,1998,1.2897
+ERI,Eritrea,World (official),Low income,Africa,1997,1.1553
+ERI,Eritrea,World (official),Low income,Africa,1996,0.9547
+ERI,Eritrea,World (official),Low income,Africa,1995,2.0031
+ERI,Eritrea,World (official),Low income,Africa,1994,1.2023
+ERI,Eritrea,World Bank-IDA (official),Low income,Africa,2004,0.75
+ERI,Eritrea,World Bank-IDA (official),Low income,Africa,2003,0.75
+ERI,Eritrea,World Bank-IDA (official),Low income,Africa,2002,0.75
+ERI,Eritrea,World Bank-IDA (official),Low income,Africa,2001,0.75
+ERI,Eritrea,World Bank-IDA (official),Low income,Africa,2000,0.75
+ERI,Eritrea,World Bank-IDA (official),Low income,Africa,1998,0.5
+ERI,Eritrea,World Bank-IDA (official),Low income,Africa,1997,0.6666
+ERI,Eritrea,World Bank-IDA (official),Low income,Africa,1996,0.75

@@ -1,462 +1,462 @@
-entity_code,entity_name,counterpart_name,income_level,continent,indicator_code,year,value
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2023,1.0
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2022,1.3356
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2020,0.7499
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2019,0.75
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2018,0.7499
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2017,0.75
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2016,0.75
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2015,0.75
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2014,0.75
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2013,0.7499
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2007,0.7499
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2006,0.75
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2004,0.7499
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2003,0.75
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2002,0.7499
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2001,0.75
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2000,0.75
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1997,0.75
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1993,0.75
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1992,6.6814
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1991,0.75
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1990,6.8353
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1989,2.5112
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1987,4.387
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1986,0.5245
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1985,0.75
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1984,3.7726
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1983,5.5004
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1982,6.9999
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1981,0.7499
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1979,0.987
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1978,4.5019
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1976,7.3342
-GIN,Guinea,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1974,6.0
-GIN,Guinea,African Export-Import Bank,Low income,Africa,DT.INR.OFFT,2023,5.0914
-GIN,Guinea,Algeria,Low income,Africa,DT.INR.OFFT,1974,1.0
-GIN,Guinea,Angola,Low income,Africa,DT.INR.OFFT,2011,0.75
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2020,1.777
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2018,6.0
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2017,1.0
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2016,1.0
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2015,1.0
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2013,1.0
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2012,1.0
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2009,1.0
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2008,1.0
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2007,1.0
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2004,1.0
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2003,2.0
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2000,2.6422
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1999,3.0
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1996,4.5
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1995,3.3513
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1993,3.0
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1991,4.0
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1990,4.0
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1986,5.0
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1985,6.0
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1984,6.0
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1979,4.0
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1978,1.0
-GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1977,5.0
-GIN,Guinea,Argentina,Low income,Africa,DT.INR.OFFT,1985,5.0
-GIN,Guinea,Argentina,Low income,Africa,DT.INR.PRVT,1974,7.5
-GIN,Guinea,Austria,Low income,Africa,DT.INR.OFFT,1985,6.0
-GIN,Guinea,Austria,Low income,Africa,DT.INR.OFFT,1980,9.7499
-GIN,Guinea,Austria,Low income,Africa,DT.INR.PRVT,1980,9.75
-GIN,Guinea,Austria,Low income,Africa,DT.INR.OFFT,1979,6.0
-GIN,Guinea,Austria,Low income,Africa,DT.INR.PRVT,1970,8.0
-GIN,Guinea,Belgium,Low income,Africa,DT.INR.OFFT,1993,3.0
-GIN,Guinea,Belgium,Low income,Africa,DT.INR.OFFT,1978,7.0
-GIN,Guinea,Belgium,Low income,Africa,DT.INR.OFFT,1974,6.1817
-GIN,Guinea,Brazil,Low income,Africa,DT.INR.PRVT,1984,8.0
-GIN,Guinea,Bulgaria,Low income,Africa,DT.INR.OFFT,1988,2.5
-GIN,Guinea,Bulgaria,Low income,Africa,DT.INR.OFFT,1987,2.5
-GIN,Guinea,Bulgaria,Low income,Africa,DT.INR.OFFT,1986,2.5
-GIN,Guinea,Bulgaria,Low income,Africa,DT.INR.OFFT,1985,2.5
-GIN,Guinea,Bulgaria,Low income,Africa,DT.INR.OFFT,1983,2.5
-GIN,Guinea,Bulgaria,Low income,Africa,DT.INR.OFFT,1982,2.5
-GIN,Guinea,Bulgaria,Low income,Africa,DT.INR.OFFT,1980,2.5
-GIN,Guinea,Bulgaria,Low income,Africa,DT.INR.OFFT,1976,2.5
-GIN,Guinea,Bulgaria,Low income,Africa,DT.INR.OFFT,1974,2.5
-GIN,Guinea,Bulgaria,Low income,Africa,DT.INR.OFFT,1970,2.5
-GIN,Guinea,China,Low income,Africa,DT.INR.OFFT,2018,4.6038
-GIN,Guinea,China,Low income,Africa,DT.INR.PRVT,2018,2.5
-GIN,Guinea,China,Low income,Africa,DT.INR.OFFT,2015,2.0
-GIN,Guinea,China,Low income,Africa,DT.INR.OFFT,2014,2.0
-GIN,Guinea,China,Low income,Africa,DT.INR.OFFT,2013,1.9332
-GIN,Guinea,China,Low income,Africa,DT.INR.OFFT,2007,7.0713
-GIN,Guinea,China,Low income,Africa,DT.INR.OFFT,2005,6.6005
-GIN,Guinea,China,Low income,Africa,DT.INR.OFFT,2004,3.16
-GIN,Guinea,China,Low income,Africa,DT.INR.OFFT,2003,2.0
-GIN,Guinea,Congo Republic,Low income,Africa,DT.INR.OFFT,2011,1.95
-GIN,Guinea,Czechia,Low income,Africa,DT.INR.OFFT,1979,2.4221
-GIN,Guinea,Czechia,Low income,Africa,DT.INR.OFFT,1974,2.5
-GIN,Guinea,Czechia,Low income,Africa,DT.INR.OFFT,1973,2.5
-GIN,Guinea,Czechia,Low income,Africa,DT.INR.OFFT,1971,2.5
-GIN,Guinea,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,2018,1.5
-GIN,Guinea,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,2012,2.75
-GIN,Guinea,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,2011,2.75
-GIN,Guinea,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,1993,5.6
-GIN,Guinea,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,1991,6.6
-GIN,Guinea,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,1987,6.9999
-GIN,Guinea,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,1985,7.2499
-GIN,Guinea,Egypt,Low income,Africa,DT.INR.OFFT,1970,2.5
-GIN,Guinea,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1991,0.75
-GIN,Guinea,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1990,0.4999
-GIN,Guinea,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1989,0.8916
-GIN,Guinea,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1981,1.0
-GIN,Guinea,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1978,1.0
-GIN,Guinea,European Economic Community (EEC),Low income,Africa,DT.INR.OFFT,1979,0.75
-GIN,Guinea,European Investment Bank,Low income,Africa,DT.INR.OFFT,2022,1.2999
-GIN,Guinea,European Investment Bank,Low income,Africa,DT.INR.OFFT,2021,1.2999
-GIN,Guinea,European Investment Bank,Low income,Africa,DT.INR.OFFT,2015,0.6
-GIN,Guinea,European Investment Bank,Low income,Africa,DT.INR.OFFT,1995,2.0
-GIN,Guinea,European Investment Bank,Low income,Africa,DT.INR.OFFT,1994,3.0
-GIN,Guinea,European Investment Bank,Low income,Africa,DT.INR.OFFT,1991,3.25
-GIN,Guinea,European Investment Bank,Low income,Africa,DT.INR.OFFT,1990,1.8536
-GIN,Guinea,European Investment Bank,Low income,Africa,DT.INR.OFFT,1989,2.0
-GIN,Guinea,European Investment Bank,Low income,Africa,DT.INR.OFFT,1988,2.0
-GIN,Guinea,European Investment Bank,Low income,Africa,DT.INR.OFFT,1987,2.0
-GIN,Guinea,European Investment Bank,Low income,Africa,DT.INR.OFFT,1985,2.0
-GIN,Guinea,European Investment Bank,Low income,Africa,DT.INR.OFFT,1984,6.5
-GIN,Guinea,European Investment Bank,Low income,Africa,DT.INR.OFFT,1982,2.0
-GIN,Guinea,European Investment Bank,Low income,Africa,DT.INR.OFFT,1980,7.8021
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,2023,2.8194
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,2022,0.25
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,2020,0.2499
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,2019,0.2499
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,2018,1.0199
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,2016,0.2499
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,2015,2.0
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,2004,3.7837
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,1996,4.04
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,1993,2.0
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,1990,1.5
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,1989,2.118
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,1988,2.2779
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,1987,2.4723
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,1986,3.7489
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,1985,4.6594
-GIN,Guinea,France,Low income,Africa,DT.INR.PRVT,1985,8.9189
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,1984,5.0
-GIN,Guinea,France,Low income,Africa,DT.INR.PRVT,1984,5.8547
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,1983,5.0
-GIN,Guinea,France,Low income,Africa,DT.INR.PRVT,1983,10.6
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,1982,4.9999
-GIN,Guinea,France,Low income,Africa,DT.INR.PRVT,1982,9.115
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,1981,5.9999
-GIN,Guinea,France,Low income,Africa,DT.INR.PRVT,1981,7.8156
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,1980,7.9135
-GIN,Guinea,France,Low income,Africa,DT.INR.PRVT,1980,7.2343
-GIN,Guinea,France,Low income,Africa,DT.INR.OFFT,1979,5.9999
-GIN,Guinea,France,Low income,Africa,DT.INR.PRVT,1979,7.8987
-GIN,Guinea,France,Low income,Africa,DT.INR.PRVT,1978,7.4205
-GIN,Guinea,France,Low income,Africa,DT.INR.PRVT,1977,8.3225
-GIN,Guinea,France,Low income,Africa,DT.INR.PRVT,1976,7.9999
-GIN,Guinea,France,Low income,Africa,DT.INR.PRVT,1975,8.4633
-GIN,Guinea,France,Low income,Africa,DT.INR.PRVT,1971,5.0
-GIN,Guinea,France,Low income,Africa,DT.INR.PRVT,1970,6.0
-GIN,Guinea,German Dem. Rep.,Low income,Africa,DT.INR.OFFT,1973,3.0
-GIN,Guinea,German Dem. Rep.,Low income,Africa,DT.INR.OFFT,1970,2.5
-GIN,Guinea,Germany,Low income,Africa,DT.INR.OFFT,1983,10.7499
-GIN,Guinea,Germany,Low income,Africa,DT.INR.PRVT,1983,10.9999
-GIN,Guinea,Germany,Low income,Africa,DT.INR.OFFT,1982,10.7499
-GIN,Guinea,Germany,Low income,Africa,DT.INR.OFFT,1979,1.7537
-GIN,Guinea,Germany,Low income,Africa,DT.INR.OFFT,1970,1.0
-GIN,Guinea,India,Low income,Africa,DT.INR.OFFT,2020,1.5
-GIN,Guinea,India,Low income,Africa,DT.INR.OFFT,2019,1.5
-GIN,Guinea,India,Low income,Africa,DT.INR.OFFT,2015,1.7
-GIN,Guinea,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2018,0.75
-GIN,Guinea,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2004,0.75
-GIN,Guinea,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1998,0.75
-GIN,Guinea,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1993,1.0
-GIN,Guinea,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1992,1.0
-GIN,Guinea,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1989,1.0
-GIN,Guinea,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1988,1.0
-GIN,Guinea,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1985,1.0
-GIN,Guinea,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1980,1.0
-GIN,Guinea,Iraq,Low income,Africa,DT.INR.OFFT,1979,3.0
-GIN,Guinea,Iraq,Low income,Africa,DT.INR.OFFT,1974,2.5
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2023,1.6139
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2022,1.5
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2020,2.3599
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2019,5.3275
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2018,4.69
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2017,1.4999
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2016,1.2503
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2015,1.6139
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2014,1.0619
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2013,2.4999
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2012,1.4437
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2011,1.3286
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2010,2.5
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2008,2.5
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2006,1.4999
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1998,2.4999
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1996,1.7071
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1995,2.4967
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1994,1.386
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1993,1.5226
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1992,1.7718
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1991,2.5
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1989,2.4669
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1988,1.6
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1987,2.4999
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1986,2.4278
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1982,1.8745
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1979,0.0046
-GIN,Guinea,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1977,1.625
-GIN,Guinea,Italy,Low income,Africa,DT.INR.PRVT,2019,1.5
-GIN,Guinea,Italy,Low income,Africa,DT.INR.OFFT,1989,1.5
-GIN,Guinea,Italy,Low income,Africa,DT.INR.PRVT,1983,10.0
-GIN,Guinea,Italy,Low income,Africa,DT.INR.PRVT,1980,8.0
-GIN,Guinea,Italy,Low income,Africa,DT.INR.OFFT,1977,8.5
-GIN,Guinea,Italy,Low income,Africa,DT.INR.PRVT,1976,8.5
-GIN,Guinea,Italy,Low income,Africa,DT.INR.OFFT,1974,8.25
-GIN,Guinea,Italy,Low income,Africa,DT.INR.PRVT,1973,8.25
-GIN,Guinea,Italy,Low income,Africa,DT.INR.PRVT,1972,8.25
-GIN,Guinea,Italy,Low income,Africa,DT.INR.PRVT,1971,7.0995
-GIN,Guinea,Italy,Low income,Africa,DT.INR.PRVT,1970,6.5
-GIN,Guinea,Japan,Low income,Africa,DT.INR.OFFT,1990,1.0
-GIN,Guinea,Japan,Low income,Africa,DT.INR.OFFT,1989,1.25
-GIN,Guinea,Japan,Low income,Africa,DT.INR.OFFT,1986,1.5
-GIN,Guinea,Japan,Low income,Africa,DT.INR.OFFT,1983,2.5
-GIN,Guinea,Japan,Low income,Africa,DT.INR.PRVT,1980,7.5
-GIN,Guinea,Japan,Low income,Africa,DT.INR.PRVT,1977,1.6707
-GIN,Guinea,Japan,Low income,Africa,DT.INR.PRVT,1976,7.2943
-GIN,Guinea,Japan,Low income,Africa,DT.INR.PRVT,1974,7.0
-GIN,Guinea,Japan,Low income,Africa,DT.INR.PRVT,1972,6.5
-GIN,Guinea,Japan,Low income,Africa,DT.INR.PRVT,1970,7.0
-GIN,Guinea,Kuwait,Low income,Africa,DT.INR.OFFT,2018,1.9999
-GIN,Guinea,Kuwait,Low income,Africa,DT.INR.OFFT,2017,1.5
-GIN,Guinea,Kuwait,Low income,Africa,DT.INR.OFFT,2007,2.5
-GIN,Guinea,Kuwait,Low income,Africa,DT.INR.OFFT,2001,2.5
-GIN,Guinea,Kuwait,Low income,Africa,DT.INR.OFFT,1999,2.5
-GIN,Guinea,Kuwait,Low income,Africa,DT.INR.OFFT,1997,2.5
-GIN,Guinea,Kuwait,Low income,Africa,DT.INR.OFFT,1994,2.3333
-GIN,Guinea,Kuwait,Low income,Africa,DT.INR.OFFT,1990,2.0
-GIN,Guinea,Kuwait,Low income,Africa,DT.INR.OFFT,1984,2.0
-GIN,Guinea,Kuwait,Low income,Africa,DT.INR.OFFT,1976,3.9999
-GIN,Guinea,Libya,Low income,Africa,DT.INR.OFFT,1980,6.0
-GIN,Guinea,Libya,Low income,Africa,DT.INR.OFFT,1978,4.0
-GIN,Guinea,Libya,Low income,Africa,DT.INR.OFFT,1974,3.5
-GIN,Guinea,Libya,Low income,Africa,DT.INR.OFFT,1973,5.0
-GIN,Guinea,Mali,Low income,Africa,DT.INR.PRVT,1975,8.5
-GIN,Guinea,Morocco,Low income,Africa,DT.INR.OFFT,1984,10.0
-GIN,Guinea,Multiple Lenders,Low income,Africa,DT.INR.OFFT,2004,3.9999
-GIN,Guinea,Multiple Lenders,Low income,Africa,DT.INR.PRVT,1978,13.5629
-GIN,Guinea,Netherlands,Low income,Africa,DT.INR.PRVT,2021,1.4999
-GIN,Guinea,Netherlands,Low income,Africa,DT.INR.OFFT,1977,4.75
-GIN,Guinea,Norway,Low income,Africa,DT.INR.PRVT,1979,7.4999
-GIN,Guinea,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2017,1.0
-GIN,Guinea,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2013,1.0
-GIN,Guinea,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2012,2.0
-GIN,Guinea,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2007,2.0
-GIN,Guinea,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1995,3.25
-GIN,Guinea,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1993,2.25
-GIN,Guinea,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1991,2.25
-GIN,Guinea,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1989,3.3666
-GIN,Guinea,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1987,2.0
-GIN,Guinea,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1984,1.0
-GIN,Guinea,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1982,0.7115
-GIN,Guinea,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1979,0.5
-GIN,Guinea,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1978,0.5
-GIN,Guinea,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1976,0.5
-GIN,Guinea,Qatar,Low income,Africa,DT.INR.OFFT,2018,0.5
-GIN,Guinea,Qatar,Low income,Africa,DT.INR.OFFT,1975,3.0
-GIN,Guinea,Romania,Low income,Africa,DT.INR.OFFT,2006,2.0
-GIN,Guinea,Romania,Low income,Africa,DT.INR.OFFT,1978,2.5
-GIN,Guinea,Romania,Low income,Africa,DT.INR.OFFT,1975,4.0
-GIN,Guinea,Romania,Low income,Africa,DT.INR.OFFT,1974,3.623
-GIN,Guinea,Romania,Low income,Africa,DT.INR.OFFT,1972,4.0
-GIN,Guinea,Russia,Low income,Africa,DT.INR.PRVT,1995,5.0
-GIN,Guinea,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2014,1.0
-GIN,Guinea,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2013,1.0
-GIN,Guinea,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2008,2.0
-GIN,Guinea,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2004,1.0
-GIN,Guinea,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2002,2.9999
-GIN,Guinea,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1997,1.9999
-GIN,Guinea,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1995,2.0
-GIN,Guinea,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1994,2.0
-GIN,Guinea,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1993,2.0
-GIN,Guinea,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1987,1.0
-GIN,Guinea,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1984,2.0
-GIN,Guinea,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1983,1.9999
-GIN,Guinea,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1981,2.0
-GIN,Guinea,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1980,1.9999
-GIN,Guinea,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1976,4.0
-GIN,Guinea,Senegal,Low income,Africa,DT.INR.PRVT,1970,5.6
-GIN,Guinea,Serbia,Low income,Africa,DT.INR.PRVT,1983,5.9
-GIN,Guinea,Serbia,Low income,Africa,DT.INR.PRVT,1982,5.5
-GIN,Guinea,Serbia,Low income,Africa,DT.INR.OFFT,1979,3.0
-GIN,Guinea,Serbia,Low income,Africa,DT.INR.OFFT,1975,2.9919
-GIN,Guinea,Serbia,Low income,Africa,DT.INR.OFFT,1974,2.8948
-GIN,Guinea,Spain,Low income,Africa,DT.INR.OFFT,1983,5.5
-GIN,Guinea,Spain,Low income,Africa,DT.INR.PRVT,1980,8.3926
-GIN,Guinea,Spain,Low income,Africa,DT.INR.PRVT,1977,7.5
-GIN,Guinea,Spain,Low income,Africa,DT.INR.PRVT,1976,8.0
-GIN,Guinea,Spain,Low income,Africa,DT.INR.PRVT,1975,8.0
-GIN,Guinea,Spain,Low income,Africa,DT.INR.PRVT,1971,6.5
-GIN,Guinea,Switzerland,Low income,Africa,DT.INR.PRVT,1985,7.5
-GIN,Guinea,Switzerland,Low income,Africa,DT.INR.PRVT,1983,10.8789
-GIN,Guinea,Switzerland,Low income,Africa,DT.INR.PRVT,1981,14.8182
-GIN,Guinea,Switzerland,Low income,Africa,DT.INR.PRVT,1980,12.1068
-GIN,Guinea,Switzerland,Low income,Africa,DT.INR.PRVT,1979,7.4999
-GIN,Guinea,Switzerland,Low income,Africa,DT.INR.PRVT,1978,7.7638
-GIN,Guinea,Switzerland,Low income,Africa,DT.INR.PRVT,1977,7.4999
-GIN,Guinea,Switzerland,Low income,Africa,DT.INR.PRVT,1976,7.1706
-GIN,Guinea,Switzerland,Low income,Africa,DT.INR.PRVT,1972,6.7431
-GIN,Guinea,Switzerland,Low income,Africa,DT.INR.PRVT,1970,5.0
-GIN,Guinea,Thailand,Low income,Africa,DT.INR.OFFT,1989,4.0
-GIN,Guinea,Togo,Low income,Africa,DT.INR.OFFT,2004,6.0
-GIN,Guinea,USSR,Low income,Africa,DT.INR.OFFT,1986,5.0
-GIN,Guinea,USSR,Low income,Africa,DT.INR.OFFT,1984,3.9444
-GIN,Guinea,USSR,Low income,Africa,DT.INR.OFFT,1983,2.5
-GIN,Guinea,USSR,Low income,Africa,DT.INR.OFFT,1982,2.5
-GIN,Guinea,USSR,Low income,Africa,DT.INR.OFFT,1981,2.5
-GIN,Guinea,USSR,Low income,Africa,DT.INR.OFFT,1980,2.5
-GIN,Guinea,USSR,Low income,Africa,DT.INR.OFFT,1979,2.5
-GIN,Guinea,USSR,Low income,Africa,DT.INR.OFFT,1978,2.5
-GIN,Guinea,USSR,Low income,Africa,DT.INR.OFFT,1976,2.5
-GIN,Guinea,USSR,Low income,Africa,DT.INR.OFFT,1975,2.5
-GIN,Guinea,USSR,Low income,Africa,DT.INR.OFFT,1974,2.4999
-GIN,Guinea,USSR,Low income,Africa,DT.INR.OFFT,1973,2.5
-GIN,Guinea,USSR,Low income,Africa,DT.INR.OFFT,1972,2.5
-GIN,Guinea,USSR,Low income,Africa,DT.INR.OFFT,1971,2.4999
-GIN,Guinea,United Arab Emirates,Low income,Africa,DT.INR.OFFT,1977,4.5
-GIN,Guinea,United Kingdom,Low income,Africa,DT.INR.PRVT,2003,2.97
-GIN,Guinea,United States,Low income,Africa,DT.INR.PRVT,1993,8.0
-GIN,Guinea,United States,Low income,Africa,DT.INR.OFFT,1987,2.3765
-GIN,Guinea,United States,Low income,Africa,DT.INR.OFFT,1986,2.8275
-GIN,Guinea,United States,Low income,Africa,DT.INR.OFFT,1985,2.5185
-GIN,Guinea,United States,Low income,Africa,DT.INR.OFFT,1984,2.8965
-GIN,Guinea,United States,Low income,Africa,DT.INR.OFFT,1983,2.8928
-GIN,Guinea,United States,Low income,Africa,DT.INR.PRVT,1983,11.25
-GIN,Guinea,United States,Low income,Africa,DT.INR.OFFT,1982,2.862
-GIN,Guinea,United States,Low income,Africa,DT.INR.OFFT,1981,5.899
-GIN,Guinea,United States,Low income,Africa,DT.INR.OFFT,1980,2.8253
-GIN,Guinea,United States,Low income,Africa,DT.INR.OFFT,1979,2.8433
-GIN,Guinea,United States,Low income,Africa,DT.INR.OFFT,1977,2.815
-GIN,Guinea,United States,Low income,Africa,DT.INR.OFFT,1976,2.8481
-GIN,Guinea,United States,Low income,Africa,DT.INR.OFFT,1975,2.8571
-GIN,Guinea,United States,Low income,Africa,DT.INR.OFFT,1974,2.8571
-GIN,Guinea,United States,Low income,Africa,DT.INR.OFFT,1973,2.8571
-GIN,Guinea,United States,Low income,Africa,DT.INR.OFFT,1971,2.8571
-GIN,Guinea,United States,Low income,Africa,DT.INR.OFFT,1970,3.2148
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2023,3.3594
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2022,0.9264
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2021,1.1215
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,2021,1.4999
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2020,1.2287
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2019,1.1917
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,2019,1.5
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2018,3.3019
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,2018,2.5
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2017,1.3563
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2016,0.8507
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2015,1.2768
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2014,1.3844
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2013,1.7404
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2012,1.7047
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2011,1.2202
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2010,2.5
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2009,1.0
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2008,1.8019
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2007,3.6232
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2006,1.2978
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2005,2.4486
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2004,2.9155
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2003,1.2903
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,2003,2.97
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2002,1.5185
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2001,0.9215
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,2000,1.2911
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1999,1.2387
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1998,1.4071
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1997,0.7821
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1996,2.4506
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1995,2.0009
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,1995,2.6739
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1994,1.6771
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1993,1.5206
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,1993,8.0
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1992,3.0414
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1991,2.6003
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1990,2.561
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1989,1.8696
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1988,1.1532
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1987,2.203
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1986,3.3402
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1985,3.2263
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,1985,8.4729
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1984,3.4669
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,1984,6.8224
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1983,2.9896
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,1983,9.526
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1982,2.682
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,1982,3.2728
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1981,2.2453
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,1981,10.0706
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1980,3.4362
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,1980,7.8969
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1979,1.9674
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,1979,7.6893
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1978,2.5707
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,1978,7.8867
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1977,4.134
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,1977,5.9657
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1976,2.5993
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,1976,7.3323
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1975,2.2422
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,1975,8.4606
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1974,3.3735
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,1974,3.2091
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1973,2.0327
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,1973,3.4649
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1972,1.5735
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,1972,5.4432
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1971,3.0778
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,1971,6.4078
-GIN,Guinea,World,Low income,Africa,DT.INR.OFFT,1970,0.9234
-GIN,Guinea,World,Low income,Africa,DT.INR.PRVT,1970,6.1645
-GIN,Guinea,World Bank-IBRD,Low income,Africa,DT.INR.OFFT,1971,7.25
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2023,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2022,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2021,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2020,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2019,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2018,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2017,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2016,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2015,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2014,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2005,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2004,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2002,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2001,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2000,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1999,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1998,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1997,0.5
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1996,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1995,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1994,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1993,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1992,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1990,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1989,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1988,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1987,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1986,0.6908
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1985,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1984,0.7499
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1983,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1982,0.7499
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1981,0.7499
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1980,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1979,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1978,0.75
-GIN,Guinea,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1975,0.75
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,2023,1.0
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,2022,1.3356
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,2020,0.7499
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,2019,0.75
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,2018,0.7499
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,2017,0.75
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,2016,0.75
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,2015,0.75
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,2014,0.75
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,2013,0.7499
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,2007,0.7499
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,2006,0.75
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,2004,0.7499
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,2003,0.75
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,2002,0.7499
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,2001,0.75
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,2000,0.75
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,1997,0.75
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,1993,0.75
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,1992,6.6814
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,1991,0.75
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,1990,6.8353
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,1989,2.5112
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,1987,4.387
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,1986,0.5245
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,1985,0.75
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,1984,3.7726
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,1983,5.5004
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,1982,6.9999
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,1981,0.7499
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,1979,0.987
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,1978,4.5019
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,1976,7.3342
+GIN,Guinea,African Dev. Bank (official),Low income,Africa,1974,6.0
+GIN,Guinea,African Export-Import Bank (official),Low income,Africa,2023,5.0914
+GIN,Guinea,Algeria (official),Low income,Africa,1974,1.0
+GIN,Guinea,Angola (official),Low income,Africa,2011,0.75
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2020,1.777
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2018,6.0
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2017,1.0
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2016,1.0
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2015,1.0
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2013,1.0
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2012,1.0
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2009,1.0
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2008,1.0
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2007,1.0
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2004,1.0
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2003,2.0
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2000,2.6422
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1999,3.0
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1996,4.5
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1995,3.3513
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1993,3.0
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1991,4.0
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1990,4.0
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1986,5.0
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1985,6.0
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1984,6.0
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1979,4.0
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1978,1.0
+GIN,Guinea,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1977,5.0
+GIN,Guinea,Argentina (official),Low income,Africa,1985,5.0
+GIN,Guinea,Argentina (private),Low income,Africa,1974,7.5
+GIN,Guinea,Austria (official),Low income,Africa,1985,6.0
+GIN,Guinea,Austria (official),Low income,Africa,1980,9.7499
+GIN,Guinea,Austria (official),Low income,Africa,1979,6.0
+GIN,Guinea,Austria (private),Low income,Africa,1980,9.75
+GIN,Guinea,Austria (private),Low income,Africa,1970,8.0
+GIN,Guinea,Belgium (official),Low income,Africa,1993,3.0
+GIN,Guinea,Belgium (official),Low income,Africa,1978,7.0
+GIN,Guinea,Belgium (official),Low income,Africa,1974,6.1817
+GIN,Guinea,Brazil (private),Low income,Africa,1984,8.0
+GIN,Guinea,Bulgaria (official),Low income,Africa,1988,2.5
+GIN,Guinea,Bulgaria (official),Low income,Africa,1987,2.5
+GIN,Guinea,Bulgaria (official),Low income,Africa,1986,2.5
+GIN,Guinea,Bulgaria (official),Low income,Africa,1985,2.5
+GIN,Guinea,Bulgaria (official),Low income,Africa,1983,2.5
+GIN,Guinea,Bulgaria (official),Low income,Africa,1982,2.5
+GIN,Guinea,Bulgaria (official),Low income,Africa,1980,2.5
+GIN,Guinea,Bulgaria (official),Low income,Africa,1976,2.5
+GIN,Guinea,Bulgaria (official),Low income,Africa,1974,2.5
+GIN,Guinea,Bulgaria (official),Low income,Africa,1970,2.5
+GIN,Guinea,China (official),Low income,Africa,2018,4.6038
+GIN,Guinea,China (official),Low income,Africa,2015,2.0
+GIN,Guinea,China (official),Low income,Africa,2014,2.0
+GIN,Guinea,China (official),Low income,Africa,2013,1.9332
+GIN,Guinea,China (official),Low income,Africa,2007,7.0713
+GIN,Guinea,China (official),Low income,Africa,2005,6.6005
+GIN,Guinea,China (official),Low income,Africa,2004,3.16
+GIN,Guinea,China (official),Low income,Africa,2003,2.0
+GIN,Guinea,China (private),Low income,Africa,2018,2.5
+GIN,Guinea,Congo Republic (official),Low income,Africa,2011,1.95
+GIN,Guinea,Czechia (official),Low income,Africa,1979,2.4221
+GIN,Guinea,Czechia (official),Low income,Africa,1974,2.5
+GIN,Guinea,Czechia (official),Low income,Africa,1973,2.5
+GIN,Guinea,Czechia (official),Low income,Africa,1971,2.5
+GIN,Guinea,Economic Community of West African States (ECOWAS) (official),Low income,Africa,2018,1.5
+GIN,Guinea,Economic Community of West African States (ECOWAS) (official),Low income,Africa,2012,2.75
+GIN,Guinea,Economic Community of West African States (ECOWAS) (official),Low income,Africa,2011,2.75
+GIN,Guinea,Economic Community of West African States (ECOWAS) (official),Low income,Africa,1993,5.6
+GIN,Guinea,Economic Community of West African States (ECOWAS) (official),Low income,Africa,1991,6.6
+GIN,Guinea,Economic Community of West African States (ECOWAS) (official),Low income,Africa,1987,6.9999
+GIN,Guinea,Economic Community of West African States (ECOWAS) (official),Low income,Africa,1985,7.2499
+GIN,Guinea,Egypt (official),Low income,Africa,1970,2.5
+GIN,Guinea,European Development Fund (EDF) (official),Low income,Africa,1991,0.75
+GIN,Guinea,European Development Fund (EDF) (official),Low income,Africa,1990,0.4999
+GIN,Guinea,European Development Fund (EDF) (official),Low income,Africa,1989,0.8916
+GIN,Guinea,European Development Fund (EDF) (official),Low income,Africa,1981,1.0
+GIN,Guinea,European Development Fund (EDF) (official),Low income,Africa,1978,1.0
+GIN,Guinea,European Economic Community (EEC) (official),Low income,Africa,1979,0.75
+GIN,Guinea,European Investment Bank (official),Low income,Africa,2022,1.2999
+GIN,Guinea,European Investment Bank (official),Low income,Africa,2021,1.2999
+GIN,Guinea,European Investment Bank (official),Low income,Africa,2015,0.6
+GIN,Guinea,European Investment Bank (official),Low income,Africa,1995,2.0
+GIN,Guinea,European Investment Bank (official),Low income,Africa,1994,3.0
+GIN,Guinea,European Investment Bank (official),Low income,Africa,1991,3.25
+GIN,Guinea,European Investment Bank (official),Low income,Africa,1990,1.8536
+GIN,Guinea,European Investment Bank (official),Low income,Africa,1989,2.0
+GIN,Guinea,European Investment Bank (official),Low income,Africa,1988,2.0
+GIN,Guinea,European Investment Bank (official),Low income,Africa,1987,2.0
+GIN,Guinea,European Investment Bank (official),Low income,Africa,1985,2.0
+GIN,Guinea,European Investment Bank (official),Low income,Africa,1984,6.5
+GIN,Guinea,European Investment Bank (official),Low income,Africa,1982,2.0
+GIN,Guinea,European Investment Bank (official),Low income,Africa,1980,7.8021
+GIN,Guinea,France (official),Low income,Africa,2023,2.8194
+GIN,Guinea,France (official),Low income,Africa,2022,0.25
+GIN,Guinea,France (official),Low income,Africa,2020,0.2499
+GIN,Guinea,France (official),Low income,Africa,2019,0.2499
+GIN,Guinea,France (official),Low income,Africa,2018,1.0199
+GIN,Guinea,France (official),Low income,Africa,2016,0.2499
+GIN,Guinea,France (official),Low income,Africa,2015,2.0
+GIN,Guinea,France (official),Low income,Africa,2004,3.7837
+GIN,Guinea,France (official),Low income,Africa,1996,4.04
+GIN,Guinea,France (official),Low income,Africa,1993,2.0
+GIN,Guinea,France (official),Low income,Africa,1990,1.5
+GIN,Guinea,France (official),Low income,Africa,1989,2.118
+GIN,Guinea,France (official),Low income,Africa,1988,2.2779
+GIN,Guinea,France (official),Low income,Africa,1987,2.4723
+GIN,Guinea,France (official),Low income,Africa,1986,3.7489
+GIN,Guinea,France (official),Low income,Africa,1985,4.6594
+GIN,Guinea,France (official),Low income,Africa,1984,5.0
+GIN,Guinea,France (official),Low income,Africa,1983,5.0
+GIN,Guinea,France (official),Low income,Africa,1982,4.9999
+GIN,Guinea,France (official),Low income,Africa,1981,5.9999
+GIN,Guinea,France (official),Low income,Africa,1980,7.9135
+GIN,Guinea,France (official),Low income,Africa,1979,5.9999
+GIN,Guinea,France (private),Low income,Africa,1985,8.9189
+GIN,Guinea,France (private),Low income,Africa,1984,5.8547
+GIN,Guinea,France (private),Low income,Africa,1983,10.6
+GIN,Guinea,France (private),Low income,Africa,1982,9.115
+GIN,Guinea,France (private),Low income,Africa,1981,7.8156
+GIN,Guinea,France (private),Low income,Africa,1980,7.2343
+GIN,Guinea,France (private),Low income,Africa,1979,7.8987
+GIN,Guinea,France (private),Low income,Africa,1978,7.4205
+GIN,Guinea,France (private),Low income,Africa,1977,8.3225
+GIN,Guinea,France (private),Low income,Africa,1976,7.9999
+GIN,Guinea,France (private),Low income,Africa,1975,8.4633
+GIN,Guinea,France (private),Low income,Africa,1971,5.0
+GIN,Guinea,France (private),Low income,Africa,1970,6.0
+GIN,Guinea,German Dem. Rep. (official),Low income,Africa,1973,3.0
+GIN,Guinea,German Dem. Rep. (official),Low income,Africa,1970,2.5
+GIN,Guinea,Germany (official),Low income,Africa,1983,10.7499
+GIN,Guinea,Germany (official),Low income,Africa,1982,10.7499
+GIN,Guinea,Germany (official),Low income,Africa,1979,1.7537
+GIN,Guinea,Germany (official),Low income,Africa,1970,1.0
+GIN,Guinea,Germany (private),Low income,Africa,1983,10.9999
+GIN,Guinea,India (official),Low income,Africa,2020,1.5
+GIN,Guinea,India (official),Low income,Africa,2019,1.5
+GIN,Guinea,India (official),Low income,Africa,2015,1.7
+GIN,Guinea,International Fund for Agricultural Dev. (official),Low income,Africa,2018,0.75
+GIN,Guinea,International Fund for Agricultural Dev. (official),Low income,Africa,2004,0.75
+GIN,Guinea,International Fund for Agricultural Dev. (official),Low income,Africa,1998,0.75
+GIN,Guinea,International Fund for Agricultural Dev. (official),Low income,Africa,1993,1.0
+GIN,Guinea,International Fund for Agricultural Dev. (official),Low income,Africa,1992,1.0
+GIN,Guinea,International Fund for Agricultural Dev. (official),Low income,Africa,1989,1.0
+GIN,Guinea,International Fund for Agricultural Dev. (official),Low income,Africa,1988,1.0
+GIN,Guinea,International Fund for Agricultural Dev. (official),Low income,Africa,1985,1.0
+GIN,Guinea,International Fund for Agricultural Dev. (official),Low income,Africa,1980,1.0
+GIN,Guinea,Iraq (official),Low income,Africa,1979,3.0
+GIN,Guinea,Iraq (official),Low income,Africa,1974,2.5
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,2023,1.6139
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,2022,1.5
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,2020,2.3599
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,2019,5.3275
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,2018,4.69
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,2017,1.4999
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,2016,1.2503
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,2015,1.6139
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,2014,1.0619
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,2013,2.4999
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,2012,1.4437
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,2011,1.3286
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,2010,2.5
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,2008,2.5
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,2006,1.4999
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,1998,2.4999
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,1996,1.7071
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,1995,2.4967
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,1994,1.386
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,1993,1.5226
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,1992,1.7718
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,1991,2.5
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,1989,2.4669
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,1988,1.6
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,1987,2.4999
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,1986,2.4278
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,1982,1.8745
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,1979,0.0046
+GIN,Guinea,Islamic Dev. Bank (official),Low income,Africa,1977,1.625
+GIN,Guinea,Italy (official),Low income,Africa,1989,1.5
+GIN,Guinea,Italy (official),Low income,Africa,1977,8.5
+GIN,Guinea,Italy (official),Low income,Africa,1974,8.25
+GIN,Guinea,Italy (private),Low income,Africa,2019,1.5
+GIN,Guinea,Italy (private),Low income,Africa,1983,10.0
+GIN,Guinea,Italy (private),Low income,Africa,1980,8.0
+GIN,Guinea,Italy (private),Low income,Africa,1976,8.5
+GIN,Guinea,Italy (private),Low income,Africa,1973,8.25
+GIN,Guinea,Italy (private),Low income,Africa,1972,8.25
+GIN,Guinea,Italy (private),Low income,Africa,1971,7.0995
+GIN,Guinea,Italy (private),Low income,Africa,1970,6.5
+GIN,Guinea,Japan (official),Low income,Africa,1990,1.0
+GIN,Guinea,Japan (official),Low income,Africa,1989,1.25
+GIN,Guinea,Japan (official),Low income,Africa,1986,1.5
+GIN,Guinea,Japan (official),Low income,Africa,1983,2.5
+GIN,Guinea,Japan (private),Low income,Africa,1980,7.5
+GIN,Guinea,Japan (private),Low income,Africa,1977,1.6707
+GIN,Guinea,Japan (private),Low income,Africa,1976,7.2943
+GIN,Guinea,Japan (private),Low income,Africa,1974,7.0
+GIN,Guinea,Japan (private),Low income,Africa,1972,6.5
+GIN,Guinea,Japan (private),Low income,Africa,1970,7.0
+GIN,Guinea,Kuwait (official),Low income,Africa,2018,1.9999
+GIN,Guinea,Kuwait (official),Low income,Africa,2017,1.5
+GIN,Guinea,Kuwait (official),Low income,Africa,2007,2.5
+GIN,Guinea,Kuwait (official),Low income,Africa,2001,2.5
+GIN,Guinea,Kuwait (official),Low income,Africa,1999,2.5
+GIN,Guinea,Kuwait (official),Low income,Africa,1997,2.5
+GIN,Guinea,Kuwait (official),Low income,Africa,1994,2.3333
+GIN,Guinea,Kuwait (official),Low income,Africa,1990,2.0
+GIN,Guinea,Kuwait (official),Low income,Africa,1984,2.0
+GIN,Guinea,Kuwait (official),Low income,Africa,1976,3.9999
+GIN,Guinea,Libya (official),Low income,Africa,1980,6.0
+GIN,Guinea,Libya (official),Low income,Africa,1978,4.0
+GIN,Guinea,Libya (official),Low income,Africa,1974,3.5
+GIN,Guinea,Libya (official),Low income,Africa,1973,5.0
+GIN,Guinea,Mali (private),Low income,Africa,1975,8.5
+GIN,Guinea,Morocco (official),Low income,Africa,1984,10.0
+GIN,Guinea,Multiple Lenders (official),Low income,Africa,2004,3.9999
+GIN,Guinea,Multiple Lenders (private),Low income,Africa,1978,13.5629
+GIN,Guinea,Netherlands (official),Low income,Africa,1977,4.75
+GIN,Guinea,Netherlands (private),Low income,Africa,2021,1.4999
+GIN,Guinea,Norway (private),Low income,Africa,1979,7.4999
+GIN,Guinea,OPEC Fund for International Dev. (official),Low income,Africa,2017,1.0
+GIN,Guinea,OPEC Fund for International Dev. (official),Low income,Africa,2013,1.0
+GIN,Guinea,OPEC Fund for International Dev. (official),Low income,Africa,2012,2.0
+GIN,Guinea,OPEC Fund for International Dev. (official),Low income,Africa,2007,2.0
+GIN,Guinea,OPEC Fund for International Dev. (official),Low income,Africa,1995,3.25
+GIN,Guinea,OPEC Fund for International Dev. (official),Low income,Africa,1993,2.25
+GIN,Guinea,OPEC Fund for International Dev. (official),Low income,Africa,1991,2.25
+GIN,Guinea,OPEC Fund for International Dev. (official),Low income,Africa,1989,3.3666
+GIN,Guinea,OPEC Fund for International Dev. (official),Low income,Africa,1987,2.0
+GIN,Guinea,OPEC Fund for International Dev. (official),Low income,Africa,1984,1.0
+GIN,Guinea,OPEC Fund for International Dev. (official),Low income,Africa,1982,0.7115
+GIN,Guinea,OPEC Fund for International Dev. (official),Low income,Africa,1979,0.5
+GIN,Guinea,OPEC Fund for International Dev. (official),Low income,Africa,1978,0.5
+GIN,Guinea,OPEC Fund for International Dev. (official),Low income,Africa,1976,0.5
+GIN,Guinea,Qatar (official),Low income,Africa,2018,0.5
+GIN,Guinea,Qatar (official),Low income,Africa,1975,3.0
+GIN,Guinea,Romania (official),Low income,Africa,2006,2.0
+GIN,Guinea,Romania (official),Low income,Africa,1978,2.5
+GIN,Guinea,Romania (official),Low income,Africa,1975,4.0
+GIN,Guinea,Romania (official),Low income,Africa,1974,3.623
+GIN,Guinea,Romania (official),Low income,Africa,1972,4.0
+GIN,Guinea,Russia (private),Low income,Africa,1995,5.0
+GIN,Guinea,Saudi Arabia (official),Low income,Africa,2014,1.0
+GIN,Guinea,Saudi Arabia (official),Low income,Africa,2013,1.0
+GIN,Guinea,Saudi Arabia (official),Low income,Africa,2008,2.0
+GIN,Guinea,Saudi Arabia (official),Low income,Africa,2004,1.0
+GIN,Guinea,Saudi Arabia (official),Low income,Africa,2002,2.9999
+GIN,Guinea,Saudi Arabia (official),Low income,Africa,1997,1.9999
+GIN,Guinea,Saudi Arabia (official),Low income,Africa,1995,2.0
+GIN,Guinea,Saudi Arabia (official),Low income,Africa,1994,2.0
+GIN,Guinea,Saudi Arabia (official),Low income,Africa,1993,2.0
+GIN,Guinea,Saudi Arabia (official),Low income,Africa,1987,1.0
+GIN,Guinea,Saudi Arabia (official),Low income,Africa,1984,2.0
+GIN,Guinea,Saudi Arabia (official),Low income,Africa,1983,1.9999
+GIN,Guinea,Saudi Arabia (official),Low income,Africa,1981,2.0
+GIN,Guinea,Saudi Arabia (official),Low income,Africa,1980,1.9999
+GIN,Guinea,Saudi Arabia (official),Low income,Africa,1976,4.0
+GIN,Guinea,Senegal (private),Low income,Africa,1970,5.6
+GIN,Guinea,Serbia (official),Low income,Africa,1979,3.0
+GIN,Guinea,Serbia (official),Low income,Africa,1975,2.9919
+GIN,Guinea,Serbia (official),Low income,Africa,1974,2.8948
+GIN,Guinea,Serbia (private),Low income,Africa,1983,5.9
+GIN,Guinea,Serbia (private),Low income,Africa,1982,5.5
+GIN,Guinea,Spain (official),Low income,Africa,1983,5.5
+GIN,Guinea,Spain (private),Low income,Africa,1980,8.3926
+GIN,Guinea,Spain (private),Low income,Africa,1977,7.5
+GIN,Guinea,Spain (private),Low income,Africa,1976,8.0
+GIN,Guinea,Spain (private),Low income,Africa,1975,8.0
+GIN,Guinea,Spain (private),Low income,Africa,1971,6.5
+GIN,Guinea,Switzerland (private),Low income,Africa,1985,7.5
+GIN,Guinea,Switzerland (private),Low income,Africa,1983,10.8789
+GIN,Guinea,Switzerland (private),Low income,Africa,1981,14.8182
+GIN,Guinea,Switzerland (private),Low income,Africa,1980,12.1068
+GIN,Guinea,Switzerland (private),Low income,Africa,1979,7.4999
+GIN,Guinea,Switzerland (private),Low income,Africa,1978,7.7638
+GIN,Guinea,Switzerland (private),Low income,Africa,1977,7.4999
+GIN,Guinea,Switzerland (private),Low income,Africa,1976,7.1706
+GIN,Guinea,Switzerland (private),Low income,Africa,1972,6.7431
+GIN,Guinea,Switzerland (private),Low income,Africa,1970,5.0
+GIN,Guinea,Thailand (official),Low income,Africa,1989,4.0
+GIN,Guinea,Togo (official),Low income,Africa,2004,6.0
+GIN,Guinea,USSR (official),Low income,Africa,1986,5.0
+GIN,Guinea,USSR (official),Low income,Africa,1984,3.9444
+GIN,Guinea,USSR (official),Low income,Africa,1983,2.5
+GIN,Guinea,USSR (official),Low income,Africa,1982,2.5
+GIN,Guinea,USSR (official),Low income,Africa,1981,2.5
+GIN,Guinea,USSR (official),Low income,Africa,1980,2.5
+GIN,Guinea,USSR (official),Low income,Africa,1979,2.5
+GIN,Guinea,USSR (official),Low income,Africa,1978,2.5
+GIN,Guinea,USSR (official),Low income,Africa,1976,2.5
+GIN,Guinea,USSR (official),Low income,Africa,1975,2.5
+GIN,Guinea,USSR (official),Low income,Africa,1974,2.4999
+GIN,Guinea,USSR (official),Low income,Africa,1973,2.5
+GIN,Guinea,USSR (official),Low income,Africa,1972,2.5
+GIN,Guinea,USSR (official),Low income,Africa,1971,2.4999
+GIN,Guinea,United Arab Emirates (official),Low income,Africa,1977,4.5
+GIN,Guinea,United Kingdom (private),Low income,Africa,2003,2.97
+GIN,Guinea,United States (official),Low income,Africa,1987,2.3765
+GIN,Guinea,United States (official),Low income,Africa,1986,2.8275
+GIN,Guinea,United States (official),Low income,Africa,1985,2.5185
+GIN,Guinea,United States (official),Low income,Africa,1984,2.8965
+GIN,Guinea,United States (official),Low income,Africa,1983,2.8928
+GIN,Guinea,United States (official),Low income,Africa,1982,2.862
+GIN,Guinea,United States (official),Low income,Africa,1981,5.899
+GIN,Guinea,United States (official),Low income,Africa,1980,2.8253
+GIN,Guinea,United States (official),Low income,Africa,1979,2.8433
+GIN,Guinea,United States (official),Low income,Africa,1977,2.815
+GIN,Guinea,United States (official),Low income,Africa,1976,2.8481
+GIN,Guinea,United States (official),Low income,Africa,1975,2.8571
+GIN,Guinea,United States (official),Low income,Africa,1974,2.8571
+GIN,Guinea,United States (official),Low income,Africa,1973,2.8571
+GIN,Guinea,United States (official),Low income,Africa,1971,2.8571
+GIN,Guinea,United States (official),Low income,Africa,1970,3.2148
+GIN,Guinea,United States (private),Low income,Africa,1993,8.0
+GIN,Guinea,United States (private),Low income,Africa,1983,11.25
+GIN,Guinea,World (official),Low income,Africa,2023,3.3594
+GIN,Guinea,World (official),Low income,Africa,2022,0.9264
+GIN,Guinea,World (official),Low income,Africa,2021,1.1215
+GIN,Guinea,World (official),Low income,Africa,2020,1.2287
+GIN,Guinea,World (official),Low income,Africa,2019,1.1917
+GIN,Guinea,World (official),Low income,Africa,2018,3.3019
+GIN,Guinea,World (official),Low income,Africa,2017,1.3563
+GIN,Guinea,World (official),Low income,Africa,2016,0.8507
+GIN,Guinea,World (official),Low income,Africa,2015,1.2768
+GIN,Guinea,World (official),Low income,Africa,2014,1.3844
+GIN,Guinea,World (official),Low income,Africa,2013,1.7404
+GIN,Guinea,World (official),Low income,Africa,2012,1.7047
+GIN,Guinea,World (official),Low income,Africa,2011,1.2202
+GIN,Guinea,World (official),Low income,Africa,2010,2.5
+GIN,Guinea,World (official),Low income,Africa,2009,1.0
+GIN,Guinea,World (official),Low income,Africa,2008,1.8019
+GIN,Guinea,World (official),Low income,Africa,2007,3.6232
+GIN,Guinea,World (official),Low income,Africa,2006,1.2978
+GIN,Guinea,World (official),Low income,Africa,2005,2.4486
+GIN,Guinea,World (official),Low income,Africa,2004,2.9155
+GIN,Guinea,World (official),Low income,Africa,2003,1.2903
+GIN,Guinea,World (official),Low income,Africa,2002,1.5185
+GIN,Guinea,World (official),Low income,Africa,2001,0.9215
+GIN,Guinea,World (official),Low income,Africa,2000,1.2911
+GIN,Guinea,World (official),Low income,Africa,1999,1.2387
+GIN,Guinea,World (official),Low income,Africa,1998,1.4071
+GIN,Guinea,World (official),Low income,Africa,1997,0.7821
+GIN,Guinea,World (official),Low income,Africa,1996,2.4506
+GIN,Guinea,World (official),Low income,Africa,1995,2.0009
+GIN,Guinea,World (official),Low income,Africa,1994,1.6771
+GIN,Guinea,World (official),Low income,Africa,1993,1.5206
+GIN,Guinea,World (official),Low income,Africa,1992,3.0414
+GIN,Guinea,World (official),Low income,Africa,1991,2.6003
+GIN,Guinea,World (official),Low income,Africa,1990,2.561
+GIN,Guinea,World (official),Low income,Africa,1989,1.8696
+GIN,Guinea,World (official),Low income,Africa,1988,1.1532
+GIN,Guinea,World (official),Low income,Africa,1987,2.203
+GIN,Guinea,World (official),Low income,Africa,1986,3.3402
+GIN,Guinea,World (official),Low income,Africa,1985,3.2263
+GIN,Guinea,World (official),Low income,Africa,1984,3.4669
+GIN,Guinea,World (official),Low income,Africa,1983,2.9896
+GIN,Guinea,World (official),Low income,Africa,1982,2.682
+GIN,Guinea,World (official),Low income,Africa,1981,2.2453
+GIN,Guinea,World (official),Low income,Africa,1980,3.4362
+GIN,Guinea,World (official),Low income,Africa,1979,1.9674
+GIN,Guinea,World (official),Low income,Africa,1978,2.5707
+GIN,Guinea,World (official),Low income,Africa,1977,4.134
+GIN,Guinea,World (official),Low income,Africa,1976,2.5993
+GIN,Guinea,World (official),Low income,Africa,1975,2.2422
+GIN,Guinea,World (official),Low income,Africa,1974,3.3735
+GIN,Guinea,World (official),Low income,Africa,1973,2.0327
+GIN,Guinea,World (official),Low income,Africa,1972,1.5735
+GIN,Guinea,World (official),Low income,Africa,1971,3.0778
+GIN,Guinea,World (official),Low income,Africa,1970,0.9234
+GIN,Guinea,World (private),Low income,Africa,2021,1.4999
+GIN,Guinea,World (private),Low income,Africa,2019,1.5
+GIN,Guinea,World (private),Low income,Africa,2018,2.5
+GIN,Guinea,World (private),Low income,Africa,2003,2.97
+GIN,Guinea,World (private),Low income,Africa,1995,2.6739
+GIN,Guinea,World (private),Low income,Africa,1993,8.0
+GIN,Guinea,World (private),Low income,Africa,1985,8.4729
+GIN,Guinea,World (private),Low income,Africa,1984,6.8224
+GIN,Guinea,World (private),Low income,Africa,1983,9.526
+GIN,Guinea,World (private),Low income,Africa,1982,3.2728
+GIN,Guinea,World (private),Low income,Africa,1981,10.0706
+GIN,Guinea,World (private),Low income,Africa,1980,7.8969
+GIN,Guinea,World (private),Low income,Africa,1979,7.6893
+GIN,Guinea,World (private),Low income,Africa,1978,7.8867
+GIN,Guinea,World (private),Low income,Africa,1977,5.9657
+GIN,Guinea,World (private),Low income,Africa,1976,7.3323
+GIN,Guinea,World (private),Low income,Africa,1975,8.4606
+GIN,Guinea,World (private),Low income,Africa,1974,3.2091
+GIN,Guinea,World (private),Low income,Africa,1973,3.4649
+GIN,Guinea,World (private),Low income,Africa,1972,5.4432
+GIN,Guinea,World (private),Low income,Africa,1971,6.4078
+GIN,Guinea,World (private),Low income,Africa,1970,6.1645
+GIN,Guinea,World Bank-IBRD (official),Low income,Africa,1971,7.25
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,2023,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,2022,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,2021,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,2020,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,2019,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,2018,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,2017,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,2016,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,2015,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,2014,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,2005,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,2004,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,2002,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,2001,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,2000,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1999,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1998,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1997,0.5
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1996,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1995,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1994,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1993,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1992,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1990,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1989,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1988,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1987,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1986,0.6908
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1985,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1984,0.7499
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1983,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1982,0.7499
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1981,0.7499
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1980,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1979,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1978,0.75
+GIN,Guinea,World Bank-IDA (official),Low income,Africa,1975,0.75

@@ -1,3 +1,4 @@
+import numpy as np
 import pandas as pd
 
 from scripts.config import Paths
@@ -26,9 +27,20 @@ def _download_and_clean_interest_data(country: str) -> pd.DataFrame:
             ]
         )
 
-    df = df.loc[lambda d: d.value != 0].sort_values(
-        ["counterpart_name", "year", "indicator_code"],
-        ascending=(True, False, True),
+    # Add "(private)" to counterpart_name when indicator_code is "DT.INR.PRVT" else add "(official)"
+    df["counterpart_name"] = np.where(
+        df["indicator_code"] == "DT.INR.PRVT",
+        df["counterpart_name"] + " (private)",
+        df["counterpart_name"] + " (official)",
+    )
+
+    df = (
+        df.loc[lambda d: d.value != 0]
+        .drop(columns="indicator_code")
+        .sort_values(
+            ["counterpart_name", "year"],
+            ascending=(True, False),
+        )
     )
 
     return df

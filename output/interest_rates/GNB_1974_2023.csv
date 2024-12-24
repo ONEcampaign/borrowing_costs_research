@@ -1,207 +1,207 @@
-entity_code,entity_name,counterpart_name,income_level,continent,indicator_code,year,value
-GNB,Guinea-Bissau,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2021,0.75
-GNB,Guinea-Bissau,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2019,0.7499
-GNB,Guinea-Bissau,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2018,0.75
-GNB,Guinea-Bissau,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2017,0.75
-GNB,Guinea-Bissau,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2015,0.75
-GNB,Guinea-Bissau,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2005,0.7499
-GNB,Guinea-Bissau,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2002,0.75
-GNB,Guinea-Bissau,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2001,0.7499
-GNB,Guinea-Bissau,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1997,0.75
-GNB,Guinea-Bissau,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1991,0.75
-GNB,Guinea-Bissau,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1990,0.75
-GNB,Guinea-Bissau,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1989,0.75
-GNB,Guinea-Bissau,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1988,0.75
-GNB,Guinea-Bissau,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1987,0.7499
-GNB,Guinea-Bissau,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1984,0.6707
-GNB,Guinea-Bissau,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1983,0.75
-GNB,Guinea-Bissau,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1982,7.0
-GNB,Guinea-Bissau,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1980,0.75
-GNB,Guinea-Bissau,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1979,1.8826
-GNB,Guinea-Bissau,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1976,0.7499
-GNB,Guinea-Bissau,Algeria,Low income,Africa,DT.INR.OFFT,1982,2.0
-GNB,Guinea-Bissau,Algeria,Low income,Africa,DT.INR.OFFT,1980,5.0
-GNB,Guinea-Bissau,Algeria,Low income,Africa,DT.INR.OFFT,1975,1.3636
-GNB,Guinea-Bissau,Angola,Low income,Africa,DT.INR.OFFT,1987,5.0
-GNB,Guinea-Bissau,Angola,Low income,Africa,DT.INR.OFFT,1985,5.0
-GNB,Guinea-Bissau,Angola,Low income,Africa,DT.INR.OFFT,1984,5.0
-GNB,Guinea-Bissau,Angola,Low income,Africa,DT.INR.OFFT,1978,5.0
-GNB,Guinea-Bissau,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2017,1.0
-GNB,Guinea-Bissau,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1987,5.0
-GNB,Guinea-Bissau,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1986,6.0
-GNB,Guinea-Bissau,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1983,6.0
-GNB,Guinea-Bissau,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1978,1.0
-GNB,Guinea-Bissau,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1974,1.0
-GNB,Guinea-Bissau,Belgium,Low income,Africa,DT.INR.PRVT,1980,7.5
-GNB,Guinea-Bissau,Belgium,Low income,Africa,DT.INR.PRVT,1979,7.5
-GNB,Guinea-Bissau,Belgium,Low income,Africa,DT.INR.PRVT,1977,7.9999
-GNB,Guinea-Bissau,Bondholders,Low income,Africa,DT.INR.PRVT,2013,6.0
-GNB,Guinea-Bissau,Brazil,Low income,Africa,DT.INR.PRVT,1984,8.5
-GNB,Guinea-Bissau,Brazil,Low income,Africa,DT.INR.PRVT,1979,6.0
-GNB,Guinea-Bissau,Cabo Verde,Low income,Africa,DT.INR.OFFT,1979,4.0
-GNB,Guinea-Bissau,Cuba,Low income,Africa,DT.INR.OFFT,1982,1.0
-GNB,Guinea-Bissau,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,1992,6.5
-GNB,Guinea-Bissau,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,1989,6.4999
-GNB,Guinea-Bissau,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,1987,8.5
-GNB,Guinea-Bissau,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,1985,6.5
-GNB,Guinea-Bissau,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1980,0.75
-GNB,Guinea-Bissau,European Investment Bank,Low income,Africa,DT.INR.OFFT,1990,2.1202
-GNB,Guinea-Bissau,European Investment Bank,Low income,Africa,DT.INR.OFFT,1984,2.0
-GNB,Guinea-Bissau,France,Low income,Africa,DT.INR.OFFT,1986,4.9999
-GNB,Guinea-Bissau,France,Low income,Africa,DT.INR.OFFT,1985,1.8436
-GNB,Guinea-Bissau,France,Low income,Africa,DT.INR.OFFT,1982,5.4999
-GNB,Guinea-Bissau,France,Low income,Africa,DT.INR.PRVT,1982,7.5
-GNB,Guinea-Bissau,France,Low income,Africa,DT.INR.PRVT,1980,7.2499
-GNB,Guinea-Bissau,France,Low income,Africa,DT.INR.PRVT,1979,7.2983
-GNB,Guinea-Bissau,France,Low income,Africa,DT.INR.OFFT,1978,6.0
-GNB,Guinea-Bissau,France,Low income,Africa,DT.INR.PRVT,1978,7.25
-GNB,Guinea-Bissau,France,Low income,Africa,DT.INR.OFFT,1977,5.0
-GNB,Guinea-Bissau,France,Low income,Africa,DT.INR.PRVT,1977,7.25
-GNB,Guinea-Bissau,France,Low income,Africa,DT.INR.PRVT,1976,4.2724
-GNB,Guinea-Bissau,German Dem. Rep.,Low income,Africa,DT.INR.PRVT,1977,2.5
-GNB,Guinea-Bissau,Germany,Low income,Africa,DT.INR.OFFT,1986,7.1999
-GNB,Guinea-Bissau,India,Low income,Africa,DT.INR.OFFT,2007,1.75
-GNB,Guinea-Bissau,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2002,0.75
-GNB,Guinea-Bissau,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2001,0.7499
-GNB,Guinea-Bissau,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1987,1.0
-GNB,Guinea-Bissau,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1984,1.0
-GNB,Guinea-Bissau,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2020,1.1015
-GNB,Guinea-Bissau,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2019,0.75
-GNB,Guinea-Bissau,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1996,2.4999
-GNB,Guinea-Bissau,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1990,2.4671
-GNB,Guinea-Bissau,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1989,2.5
-GNB,Guinea-Bissau,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1988,2.5
-GNB,Guinea-Bissau,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1986,1.5
-GNB,Guinea-Bissau,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1985,2.4999
-GNB,Guinea-Bissau,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1981,6.75
-GNB,Guinea-Bissau,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1980,3.3955
-GNB,Guinea-Bissau,Italy,Low income,Africa,DT.INR.PRVT,1986,6.9999
-GNB,Guinea-Bissau,Italy,Low income,Africa,DT.INR.PRVT,1984,7.0
-GNB,Guinea-Bissau,Kuwait,Low income,Africa,DT.INR.OFFT,2021,1.5
-GNB,Guinea-Bissau,Kuwait,Low income,Africa,DT.INR.OFFT,1985,1.0
-GNB,Guinea-Bissau,Kuwait,Low income,Africa,DT.INR.OFFT,1983,2.0
-GNB,Guinea-Bissau,Kuwait,Low income,Africa,DT.INR.OFFT,1978,2.0
-GNB,Guinea-Bissau,Libya,Low income,Africa,DT.INR.OFFT,1975,3.0
-GNB,Guinea-Bissau,Multiple Lenders,Low income,Africa,DT.INR.OFFT,1990,4.0
-GNB,Guinea-Bissau,Netherlands,Low income,Africa,DT.INR.OFFT,1994,5.0999
-GNB,Guinea-Bissau,Netherlands,Low income,Africa,DT.INR.OFFT,1980,0.7499
-GNB,Guinea-Bissau,Netherlands,Low income,Africa,DT.INR.OFFT,1979,0.7499
-GNB,Guinea-Bissau,Netherlands,Low income,Africa,DT.INR.OFFT,1976,0.75
-GNB,Guinea-Bissau,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2018,1.25
-GNB,Guinea-Bissau,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1989,2.0
-GNB,Guinea-Bissau,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1984,0.9999
-GNB,Guinea-Bissau,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1983,1.0
-GNB,Guinea-Bissau,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1982,0.5
-GNB,Guinea-Bissau,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1981,0.5
-GNB,Guinea-Bissau,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1980,0.5
-GNB,Guinea-Bissau,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1979,0.5
-GNB,Guinea-Bissau,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1978,0.5
-GNB,Guinea-Bissau,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1977,0.5
-GNB,Guinea-Bissau,Pakistan,Low income,Africa,DT.INR.OFFT,2017,1.0
-GNB,Guinea-Bissau,Pakistan,Low income,Africa,DT.INR.OFFT,1988,2.0
-GNB,Guinea-Bissau,Portugal,Low income,Africa,DT.INR.OFFT,1983,7.0
-GNB,Guinea-Bissau,Portugal,Low income,Africa,DT.INR.OFFT,1982,6.2533
-GNB,Guinea-Bissau,Portugal,Low income,Africa,DT.INR.OFFT,1977,2.0
-GNB,Guinea-Bissau,Portugal,Low income,Africa,DT.INR.OFFT,1976,4.7777
-GNB,Guinea-Bissau,Portugal,Low income,Africa,DT.INR.OFFT,1975,4.0
-GNB,Guinea-Bissau,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2017,1.0
-GNB,Guinea-Bissau,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1989,1.0
-GNB,Guinea-Bissau,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1987,2.0
-GNB,Guinea-Bissau,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1985,2.0
-GNB,Guinea-Bissau,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1983,1.9999
-GNB,Guinea-Bissau,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1978,2.0
-GNB,Guinea-Bissau,Spain,Low income,Africa,DT.INR.OFFT,1993,2.0
-GNB,Guinea-Bissau,Spain,Low income,Africa,DT.INR.OFFT,1991,2.15
-GNB,Guinea-Bissau,Spain,Low income,Africa,DT.INR.OFFT,1988,2.0
-GNB,Guinea-Bissau,Sweden,Low income,Africa,DT.INR.OFFT,1991,12.5
-GNB,Guinea-Bissau,Switzerland,Low income,Africa,DT.INR.PRVT,1979,5.75
-GNB,Guinea-Bissau,USSR,Low income,Africa,DT.INR.OFFT,1982,4.0
-GNB,Guinea-Bissau,USSR,Low income,Africa,DT.INR.PRVT,1982,5.0
-GNB,Guinea-Bissau,USSR,Low income,Africa,DT.INR.OFFT,1975,1.986
-GNB,Guinea-Bissau,United Arab Emirates,Low income,Africa,DT.INR.OFFT,1980,3.0
-GNB,Guinea-Bissau,United States,Low income,Africa,DT.INR.PRVT,1978,11.5649
-GNB,Guinea-Bissau,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2023,0.8999
-GNB,Guinea-Bissau,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2021,2.4
-GNB,Guinea-Bissau,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2020,2.7659
-GNB,Guinea-Bissau,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2019,2.4
-GNB,Guinea-Bissau,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2018,3.5999
-GNB,Guinea-Bissau,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2017,4.0277
-GNB,Guinea-Bissau,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2016,3.7877
-GNB,Guinea-Bissau,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2015,0.7499
-GNB,Guinea-Bissau,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2013,0.75
-GNB,Guinea-Bissau,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2012,0.7499
-GNB,Guinea-Bissau,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2000,3.0
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,2023,0.8999
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,2021,0.5412
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,2020,2.2989
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,2019,1.5414
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,2018,2.2848
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,2017,2.6972
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,2016,3.7877
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,2015,0.7499
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,2014,0.75
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,2013,0.75
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.PRVT,2013,6.0
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,2012,0.7499
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,2007,1.75
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,2005,0.7499
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,2004,0.75
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,2002,0.75
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,2001,0.7499
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,2000,0.9327
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1998,0.75
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1997,0.66
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1996,2.4999
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1995,0.75
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1994,5.0999
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1993,0.7842
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1992,1.3581
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1991,0.6416
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1990,2.2149
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1989,0.844
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1988,1.0623
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1987,1.1725
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1986,2.5543
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.PRVT,1986,6.9999
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1985,2.9292
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1984,2.0387
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.PRVT,1984,7.421
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1983,1.9898
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1982,4.5845
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.PRVT,1982,5.1251
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1981,2.9674
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1980,2.6567
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.PRVT,1980,7.3534
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1979,1.3471
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.PRVT,1979,6.7737
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1978,2.1698
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.PRVT,1978,9.5707
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1977,1.6563
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.PRVT,1977,4.6891
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1976,0.8716
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.PRVT,1976,4.2724
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1975,1.5995
-GNB,Guinea-Bissau,World,Low income,Africa,DT.INR.OFFT,1974,1.0
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2019,0.75
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2017,0.75
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2015,0.75
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2014,0.75
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2005,0.75
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2004,0.75
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2002,0.75
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2000,0.75
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1998,0.75
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1997,0.5
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1995,0.75
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1993,0.75
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1992,0.75
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1991,0.75
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1990,0.75
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1989,0.75
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1988,0.7499
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1987,0.75
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1986,0.75
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1984,0.7499
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1983,0.75
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1981,0.75
-GNB,Guinea-Bissau,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1979,0.75
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+GNB,Guinea-Bissau,African Dev. Bank (official),Low income,Africa,2021,0.75
+GNB,Guinea-Bissau,African Dev. Bank (official),Low income,Africa,2019,0.7499
+GNB,Guinea-Bissau,African Dev. Bank (official),Low income,Africa,2018,0.75
+GNB,Guinea-Bissau,African Dev. Bank (official),Low income,Africa,2017,0.75
+GNB,Guinea-Bissau,African Dev. Bank (official),Low income,Africa,2015,0.75
+GNB,Guinea-Bissau,African Dev. Bank (official),Low income,Africa,2005,0.7499
+GNB,Guinea-Bissau,African Dev. Bank (official),Low income,Africa,2002,0.75
+GNB,Guinea-Bissau,African Dev. Bank (official),Low income,Africa,2001,0.7499
+GNB,Guinea-Bissau,African Dev. Bank (official),Low income,Africa,1997,0.75
+GNB,Guinea-Bissau,African Dev. Bank (official),Low income,Africa,1991,0.75
+GNB,Guinea-Bissau,African Dev. Bank (official),Low income,Africa,1990,0.75
+GNB,Guinea-Bissau,African Dev. Bank (official),Low income,Africa,1989,0.75
+GNB,Guinea-Bissau,African Dev. Bank (official),Low income,Africa,1988,0.75
+GNB,Guinea-Bissau,African Dev. Bank (official),Low income,Africa,1987,0.7499
+GNB,Guinea-Bissau,African Dev. Bank (official),Low income,Africa,1984,0.6707
+GNB,Guinea-Bissau,African Dev. Bank (official),Low income,Africa,1983,0.75
+GNB,Guinea-Bissau,African Dev. Bank (official),Low income,Africa,1982,7.0
+GNB,Guinea-Bissau,African Dev. Bank (official),Low income,Africa,1980,0.75
+GNB,Guinea-Bissau,African Dev. Bank (official),Low income,Africa,1979,1.8826
+GNB,Guinea-Bissau,African Dev. Bank (official),Low income,Africa,1976,0.7499
+GNB,Guinea-Bissau,Algeria (official),Low income,Africa,1982,2.0
+GNB,Guinea-Bissau,Algeria (official),Low income,Africa,1980,5.0
+GNB,Guinea-Bissau,Algeria (official),Low income,Africa,1975,1.3636
+GNB,Guinea-Bissau,Angola (official),Low income,Africa,1987,5.0
+GNB,Guinea-Bissau,Angola (official),Low income,Africa,1985,5.0
+GNB,Guinea-Bissau,Angola (official),Low income,Africa,1984,5.0
+GNB,Guinea-Bissau,Angola (official),Low income,Africa,1978,5.0
+GNB,Guinea-Bissau,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2017,1.0
+GNB,Guinea-Bissau,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1987,5.0
+GNB,Guinea-Bissau,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1986,6.0
+GNB,Guinea-Bissau,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1983,6.0
+GNB,Guinea-Bissau,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1978,1.0
+GNB,Guinea-Bissau,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1974,1.0
+GNB,Guinea-Bissau,Belgium (private),Low income,Africa,1980,7.5
+GNB,Guinea-Bissau,Belgium (private),Low income,Africa,1979,7.5
+GNB,Guinea-Bissau,Belgium (private),Low income,Africa,1977,7.9999
+GNB,Guinea-Bissau,Bondholders (private),Low income,Africa,2013,6.0
+GNB,Guinea-Bissau,Brazil (private),Low income,Africa,1984,8.5
+GNB,Guinea-Bissau,Brazil (private),Low income,Africa,1979,6.0
+GNB,Guinea-Bissau,Cabo Verde (official),Low income,Africa,1979,4.0
+GNB,Guinea-Bissau,Cuba (official),Low income,Africa,1982,1.0
+GNB,Guinea-Bissau,Economic Community of West African States (ECOWAS) (official),Low income,Africa,1992,6.5
+GNB,Guinea-Bissau,Economic Community of West African States (ECOWAS) (official),Low income,Africa,1989,6.4999
+GNB,Guinea-Bissau,Economic Community of West African States (ECOWAS) (official),Low income,Africa,1987,8.5
+GNB,Guinea-Bissau,Economic Community of West African States (ECOWAS) (official),Low income,Africa,1985,6.5
+GNB,Guinea-Bissau,European Development Fund (EDF) (official),Low income,Africa,1980,0.75
+GNB,Guinea-Bissau,European Investment Bank (official),Low income,Africa,1990,2.1202
+GNB,Guinea-Bissau,European Investment Bank (official),Low income,Africa,1984,2.0
+GNB,Guinea-Bissau,France (official),Low income,Africa,1986,4.9999
+GNB,Guinea-Bissau,France (official),Low income,Africa,1985,1.8436
+GNB,Guinea-Bissau,France (official),Low income,Africa,1982,5.4999
+GNB,Guinea-Bissau,France (official),Low income,Africa,1978,6.0
+GNB,Guinea-Bissau,France (official),Low income,Africa,1977,5.0
+GNB,Guinea-Bissau,France (private),Low income,Africa,1982,7.5
+GNB,Guinea-Bissau,France (private),Low income,Africa,1980,7.2499
+GNB,Guinea-Bissau,France (private),Low income,Africa,1979,7.2983
+GNB,Guinea-Bissau,France (private),Low income,Africa,1978,7.25
+GNB,Guinea-Bissau,France (private),Low income,Africa,1977,7.25
+GNB,Guinea-Bissau,France (private),Low income,Africa,1976,4.2724
+GNB,Guinea-Bissau,German Dem. Rep. (private),Low income,Africa,1977,2.5
+GNB,Guinea-Bissau,Germany (official),Low income,Africa,1986,7.1999
+GNB,Guinea-Bissau,India (official),Low income,Africa,2007,1.75
+GNB,Guinea-Bissau,International Fund for Agricultural Dev. (official),Low income,Africa,2002,0.75
+GNB,Guinea-Bissau,International Fund for Agricultural Dev. (official),Low income,Africa,2001,0.7499
+GNB,Guinea-Bissau,International Fund for Agricultural Dev. (official),Low income,Africa,1987,1.0
+GNB,Guinea-Bissau,International Fund for Agricultural Dev. (official),Low income,Africa,1984,1.0
+GNB,Guinea-Bissau,Islamic Dev. Bank (official),Low income,Africa,2020,1.1015
+GNB,Guinea-Bissau,Islamic Dev. Bank (official),Low income,Africa,2019,0.75
+GNB,Guinea-Bissau,Islamic Dev. Bank (official),Low income,Africa,1996,2.4999
+GNB,Guinea-Bissau,Islamic Dev. Bank (official),Low income,Africa,1990,2.4671
+GNB,Guinea-Bissau,Islamic Dev. Bank (official),Low income,Africa,1989,2.5
+GNB,Guinea-Bissau,Islamic Dev. Bank (official),Low income,Africa,1988,2.5
+GNB,Guinea-Bissau,Islamic Dev. Bank (official),Low income,Africa,1986,1.5
+GNB,Guinea-Bissau,Islamic Dev. Bank (official),Low income,Africa,1985,2.4999
+GNB,Guinea-Bissau,Islamic Dev. Bank (official),Low income,Africa,1981,6.75
+GNB,Guinea-Bissau,Islamic Dev. Bank (official),Low income,Africa,1980,3.3955
+GNB,Guinea-Bissau,Italy (private),Low income,Africa,1986,6.9999
+GNB,Guinea-Bissau,Italy (private),Low income,Africa,1984,7.0
+GNB,Guinea-Bissau,Kuwait (official),Low income,Africa,2021,1.5
+GNB,Guinea-Bissau,Kuwait (official),Low income,Africa,1985,1.0
+GNB,Guinea-Bissau,Kuwait (official),Low income,Africa,1983,2.0
+GNB,Guinea-Bissau,Kuwait (official),Low income,Africa,1978,2.0
+GNB,Guinea-Bissau,Libya (official),Low income,Africa,1975,3.0
+GNB,Guinea-Bissau,Multiple Lenders (official),Low income,Africa,1990,4.0
+GNB,Guinea-Bissau,Netherlands (official),Low income,Africa,1994,5.0999
+GNB,Guinea-Bissau,Netherlands (official),Low income,Africa,1980,0.7499
+GNB,Guinea-Bissau,Netherlands (official),Low income,Africa,1979,0.7499
+GNB,Guinea-Bissau,Netherlands (official),Low income,Africa,1976,0.75
+GNB,Guinea-Bissau,OPEC Fund for International Dev. (official),Low income,Africa,2018,1.25
+GNB,Guinea-Bissau,OPEC Fund for International Dev. (official),Low income,Africa,1989,2.0
+GNB,Guinea-Bissau,OPEC Fund for International Dev. (official),Low income,Africa,1984,0.9999
+GNB,Guinea-Bissau,OPEC Fund for International Dev. (official),Low income,Africa,1983,1.0
+GNB,Guinea-Bissau,OPEC Fund for International Dev. (official),Low income,Africa,1982,0.5
+GNB,Guinea-Bissau,OPEC Fund for International Dev. (official),Low income,Africa,1981,0.5
+GNB,Guinea-Bissau,OPEC Fund for International Dev. (official),Low income,Africa,1980,0.5
+GNB,Guinea-Bissau,OPEC Fund for International Dev. (official),Low income,Africa,1979,0.5
+GNB,Guinea-Bissau,OPEC Fund for International Dev. (official),Low income,Africa,1978,0.5
+GNB,Guinea-Bissau,OPEC Fund for International Dev. (official),Low income,Africa,1977,0.5
+GNB,Guinea-Bissau,Pakistan (official),Low income,Africa,2017,1.0
+GNB,Guinea-Bissau,Pakistan (official),Low income,Africa,1988,2.0
+GNB,Guinea-Bissau,Portugal (official),Low income,Africa,1983,7.0
+GNB,Guinea-Bissau,Portugal (official),Low income,Africa,1982,6.2533
+GNB,Guinea-Bissau,Portugal (official),Low income,Africa,1977,2.0
+GNB,Guinea-Bissau,Portugal (official),Low income,Africa,1976,4.7777
+GNB,Guinea-Bissau,Portugal (official),Low income,Africa,1975,4.0
+GNB,Guinea-Bissau,Saudi Arabia (official),Low income,Africa,2017,1.0
+GNB,Guinea-Bissau,Saudi Arabia (official),Low income,Africa,1989,1.0
+GNB,Guinea-Bissau,Saudi Arabia (official),Low income,Africa,1987,2.0
+GNB,Guinea-Bissau,Saudi Arabia (official),Low income,Africa,1985,2.0
+GNB,Guinea-Bissau,Saudi Arabia (official),Low income,Africa,1983,1.9999
+GNB,Guinea-Bissau,Saudi Arabia (official),Low income,Africa,1978,2.0
+GNB,Guinea-Bissau,Spain (official),Low income,Africa,1993,2.0
+GNB,Guinea-Bissau,Spain (official),Low income,Africa,1991,2.15
+GNB,Guinea-Bissau,Spain (official),Low income,Africa,1988,2.0
+GNB,Guinea-Bissau,Sweden (official),Low income,Africa,1991,12.5
+GNB,Guinea-Bissau,Switzerland (private),Low income,Africa,1979,5.75
+GNB,Guinea-Bissau,USSR (official),Low income,Africa,1982,4.0
+GNB,Guinea-Bissau,USSR (official),Low income,Africa,1975,1.986
+GNB,Guinea-Bissau,USSR (private),Low income,Africa,1982,5.0
+GNB,Guinea-Bissau,United Arab Emirates (official),Low income,Africa,1980,3.0
+GNB,Guinea-Bissau,United States (private),Low income,Africa,1978,11.5649
+GNB,Guinea-Bissau,West African Development Bank - BOAD (official),Low income,Africa,2023,0.8999
+GNB,Guinea-Bissau,West African Development Bank - BOAD (official),Low income,Africa,2021,2.4
+GNB,Guinea-Bissau,West African Development Bank - BOAD (official),Low income,Africa,2020,2.7659
+GNB,Guinea-Bissau,West African Development Bank - BOAD (official),Low income,Africa,2019,2.4
+GNB,Guinea-Bissau,West African Development Bank - BOAD (official),Low income,Africa,2018,3.5999
+GNB,Guinea-Bissau,West African Development Bank - BOAD (official),Low income,Africa,2017,4.0277
+GNB,Guinea-Bissau,West African Development Bank - BOAD (official),Low income,Africa,2016,3.7877
+GNB,Guinea-Bissau,West African Development Bank - BOAD (official),Low income,Africa,2015,0.7499
+GNB,Guinea-Bissau,West African Development Bank - BOAD (official),Low income,Africa,2013,0.75
+GNB,Guinea-Bissau,West African Development Bank - BOAD (official),Low income,Africa,2012,0.7499
+GNB,Guinea-Bissau,West African Development Bank - BOAD (official),Low income,Africa,2000,3.0
+GNB,Guinea-Bissau,World (official),Low income,Africa,2023,0.8999
+GNB,Guinea-Bissau,World (official),Low income,Africa,2021,0.5412
+GNB,Guinea-Bissau,World (official),Low income,Africa,2020,2.2989
+GNB,Guinea-Bissau,World (official),Low income,Africa,2019,1.5414
+GNB,Guinea-Bissau,World (official),Low income,Africa,2018,2.2848
+GNB,Guinea-Bissau,World (official),Low income,Africa,2017,2.6972
+GNB,Guinea-Bissau,World (official),Low income,Africa,2016,3.7877
+GNB,Guinea-Bissau,World (official),Low income,Africa,2015,0.7499
+GNB,Guinea-Bissau,World (official),Low income,Africa,2014,0.75
+GNB,Guinea-Bissau,World (official),Low income,Africa,2013,0.75
+GNB,Guinea-Bissau,World (official),Low income,Africa,2012,0.7499
+GNB,Guinea-Bissau,World (official),Low income,Africa,2007,1.75
+GNB,Guinea-Bissau,World (official),Low income,Africa,2005,0.7499
+GNB,Guinea-Bissau,World (official),Low income,Africa,2004,0.75
+GNB,Guinea-Bissau,World (official),Low income,Africa,2002,0.75
+GNB,Guinea-Bissau,World (official),Low income,Africa,2001,0.7499
+GNB,Guinea-Bissau,World (official),Low income,Africa,2000,0.9327
+GNB,Guinea-Bissau,World (official),Low income,Africa,1998,0.75
+GNB,Guinea-Bissau,World (official),Low income,Africa,1997,0.66
+GNB,Guinea-Bissau,World (official),Low income,Africa,1996,2.4999
+GNB,Guinea-Bissau,World (official),Low income,Africa,1995,0.75
+GNB,Guinea-Bissau,World (official),Low income,Africa,1994,5.0999
+GNB,Guinea-Bissau,World (official),Low income,Africa,1993,0.7842
+GNB,Guinea-Bissau,World (official),Low income,Africa,1992,1.3581
+GNB,Guinea-Bissau,World (official),Low income,Africa,1991,0.6416
+GNB,Guinea-Bissau,World (official),Low income,Africa,1990,2.2149
+GNB,Guinea-Bissau,World (official),Low income,Africa,1989,0.844
+GNB,Guinea-Bissau,World (official),Low income,Africa,1988,1.0623
+GNB,Guinea-Bissau,World (official),Low income,Africa,1987,1.1725
+GNB,Guinea-Bissau,World (official),Low income,Africa,1986,2.5543
+GNB,Guinea-Bissau,World (official),Low income,Africa,1985,2.9292
+GNB,Guinea-Bissau,World (official),Low income,Africa,1984,2.0387
+GNB,Guinea-Bissau,World (official),Low income,Africa,1983,1.9898
+GNB,Guinea-Bissau,World (official),Low income,Africa,1982,4.5845
+GNB,Guinea-Bissau,World (official),Low income,Africa,1981,2.9674
+GNB,Guinea-Bissau,World (official),Low income,Africa,1980,2.6567
+GNB,Guinea-Bissau,World (official),Low income,Africa,1979,1.3471
+GNB,Guinea-Bissau,World (official),Low income,Africa,1978,2.1698
+GNB,Guinea-Bissau,World (official),Low income,Africa,1977,1.6563
+GNB,Guinea-Bissau,World (official),Low income,Africa,1976,0.8716
+GNB,Guinea-Bissau,World (official),Low income,Africa,1975,1.5995
+GNB,Guinea-Bissau,World (official),Low income,Africa,1974,1.0
+GNB,Guinea-Bissau,World (private),Low income,Africa,2013,6.0
+GNB,Guinea-Bissau,World (private),Low income,Africa,1986,6.9999
+GNB,Guinea-Bissau,World (private),Low income,Africa,1984,7.421
+GNB,Guinea-Bissau,World (private),Low income,Africa,1982,5.1251
+GNB,Guinea-Bissau,World (private),Low income,Africa,1980,7.3534
+GNB,Guinea-Bissau,World (private),Low income,Africa,1979,6.7737
+GNB,Guinea-Bissau,World (private),Low income,Africa,1978,9.5707
+GNB,Guinea-Bissau,World (private),Low income,Africa,1977,4.6891
+GNB,Guinea-Bissau,World (private),Low income,Africa,1976,4.2724
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,2019,0.75
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,2017,0.75
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,2015,0.75
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,2014,0.75
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,2005,0.75
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,2004,0.75
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,2002,0.75
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,2000,0.75
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,1998,0.75
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,1997,0.5
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,1995,0.75
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,1993,0.75
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,1992,0.75
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,1991,0.75
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,1990,0.75
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,1989,0.75
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,1988,0.7499
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,1987,0.75
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,1986,0.75
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,1984,0.7499
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,1983,0.75
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,1981,0.75
+GNB,Guinea-Bissau,World Bank-IDA (official),Low income,Africa,1979,0.75

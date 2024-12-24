@@ -1,163 +1,163 @@
-entity_code,entity_name,counterpart_name,income_level,continent,indicator_code,year,value
-SOM,Somalia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2022,0.75
-SOM,Somalia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1990,0.7499
-SOM,Somalia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1989,0.75
-SOM,Somalia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1988,4.0
-SOM,Somalia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1987,0.7499
-SOM,Somalia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1985,0.7499
-SOM,Somalia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1983,6.5695
-SOM,Somalia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1981,0.7499
-SOM,Somalia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1980,0.75
-SOM,Somalia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1979,0.7499
-SOM,Somalia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1977,0.75
-SOM,Somalia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1976,0.75
-SOM,Somalia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1975,0.75
-SOM,Somalia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1974,0.75
-SOM,Somalia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1972,5.9999
-SOM,Somalia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1971,6.0
-SOM,Somalia,Algeria,Low income,Africa,DT.INR.OFFT,1977,2.0
-SOM,Somalia,Arab Fund for Economic & Social Development,Low income,Africa,DT.INR.OFFT,1985,4.0
-SOM,Somalia,Arab Fund for Economic & Social Development,Low income,Africa,DT.INR.OFFT,1984,4.0
-SOM,Somalia,Arab Fund for Economic & Social Development,Low income,Africa,DT.INR.OFFT,1983,4.0
-SOM,Somalia,Arab Fund for Economic & Social Development,Low income,Africa,DT.INR.OFFT,1982,3.9999
-SOM,Somalia,Arab Fund for Economic & Social Development,Low income,Africa,DT.INR.OFFT,1981,4.0
-SOM,Somalia,Arab Fund for Economic & Social Development,Low income,Africa,DT.INR.OFFT,1980,4.0
-SOM,Somalia,Arab Fund for Economic & Social Development,Low income,Africa,DT.INR.OFFT,1977,3.9999
-SOM,Somalia,Arab Fund for Economic & Social Development,Low income,Africa,DT.INR.OFFT,1976,4.0
-SOM,Somalia,Arab Monetary Fund,Low income,Africa,DT.INR.OFFT,1984,1.9999
-SOM,Somalia,Arab Monetary Fund,Low income,Africa,DT.INR.OFFT,1981,0.25
-SOM,Somalia,Arab Monetary Fund,Low income,Africa,DT.INR.OFFT,1980,3.75
-SOM,Somalia,Bulgaria,Low income,Africa,DT.INR.OFFT,1976,2.5
-SOM,Somalia,Bulgaria,Low income,Africa,DT.INR.OFFT,1972,2.5
-SOM,Somalia,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1981,1.0
-SOM,Somalia,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1977,1.0
-SOM,Somalia,European Economic Community (EEC),Low income,Africa,DT.INR.OFFT,1979,0.75
-SOM,Somalia,European Investment Bank,Low income,Africa,DT.INR.OFFT,1989,1.0
-SOM,Somalia,European Investment Bank,Low income,Africa,DT.INR.OFFT,1987,1.0
-SOM,Somalia,France,Low income,Africa,DT.INR.OFFT,1988,2.0
-SOM,Somalia,France,Low income,Africa,DT.INR.OFFT,1986,3.3318
-SOM,Somalia,France,Low income,Africa,DT.INR.OFFT,1984,6.5061
-SOM,Somalia,France,Low income,Africa,DT.INR.OFFT,1983,9.2119
-SOM,Somalia,France,Low income,Africa,DT.INR.PRVT,1983,9.9999
-SOM,Somalia,France,Low income,Africa,DT.INR.OFFT,1981,8.7444
-SOM,Somalia,France,Low income,Africa,DT.INR.OFFT,1979,6.9999
-SOM,Somalia,German Dem. Rep.,Low income,Africa,DT.INR.OFFT,1975,2.5
-SOM,Somalia,Germany,Low income,Africa,DT.INR.OFFT,1978,0.7499
-SOM,Somalia,Germany,Low income,Africa,DT.INR.OFFT,1977,0.7499
-SOM,Somalia,Germany,Low income,Africa,DT.INR.OFFT,1974,0.75
-SOM,Somalia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1990,1.0
-SOM,Somalia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1986,0.5
-SOM,Somalia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1985,1.4999
-SOM,Somalia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1980,0.4999
-SOM,Somalia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1979,0.5
-SOM,Somalia,Iraq,Low income,Africa,DT.INR.OFFT,1983,7.0
-SOM,Somalia,Iraq,Low income,Africa,DT.INR.OFFT,1974,2.763
-SOM,Somalia,Iraq,Low income,Africa,DT.INR.OFFT,1971,2.5
-SOM,Somalia,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1988,2.4708
-SOM,Somalia,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1987,2.0854
-SOM,Somalia,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1986,1.4803
-SOM,Somalia,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1979,0.349
-SOM,Somalia,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1977,2.5
-SOM,Somalia,Italy,Low income,Africa,DT.INR.OFFT,1983,2.25
-SOM,Somalia,Italy,Low income,Africa,DT.INR.OFFT,1982,7.1344
-SOM,Somalia,Italy,Low income,Africa,DT.INR.OFFT,1981,7.1715
-SOM,Somalia,Italy,Low income,Africa,DT.INR.PRVT,1981,8.0
-SOM,Somalia,Italy,Low income,Africa,DT.INR.OFFT,1980,4.0
-SOM,Somalia,Italy,Low income,Africa,DT.INR.PRVT,1980,7.0
-SOM,Somalia,Italy,Low income,Africa,DT.INR.PRVT,1979,7.0
-SOM,Somalia,Italy,Low income,Africa,DT.INR.PRVT,1977,7.0
-SOM,Somalia,Italy,Low income,Africa,DT.INR.OFFT,1973,3.0
-SOM,Somalia,Italy,Low income,Africa,DT.INR.PRVT,1973,3.0
-SOM,Somalia,Italy,Low income,Africa,DT.INR.PRVT,1971,6.0
-SOM,Somalia,Japan,Low income,Africa,DT.INR.OFFT,1987,1.25
-SOM,Somalia,Japan,Low income,Africa,DT.INR.OFFT,1983,1.5
-SOM,Somalia,Kuwait,Low income,Africa,DT.INR.OFFT,1982,1.4999
-SOM,Somalia,Kuwait,Low income,Africa,DT.INR.OFFT,1981,1.5
-SOM,Somalia,Kuwait,Low income,Africa,DT.INR.OFFT,1976,1.5
-SOM,Somalia,Kuwait,Low income,Africa,DT.INR.OFFT,1975,1.0
-SOM,Somalia,Libya,Low income,Africa,DT.INR.OFFT,2002,4.8099
-SOM,Somalia,Libya,Low income,Africa,DT.INR.OFFT,1974,5.0
-SOM,Somalia,Libya,Low income,Africa,DT.INR.OFFT,1972,2.0
-SOM,Somalia,Netherlands,Low income,Africa,DT.INR.OFFT,1984,5.9999
-SOM,Somalia,Norway,Low income,Africa,DT.INR.OFFT,1979,6.0
-SOM,Somalia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1987,3.0
-SOM,Somalia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1982,0.5
-SOM,Somalia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1981,0.5
-SOM,Somalia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1980,0.75
-SOM,Somalia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1979,0.3696
-SOM,Somalia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1977,0.5
-SOM,Somalia,Qatar,Low income,Africa,DT.INR.OFFT,1974,3.0
-SOM,Somalia,Romania,Low income,Africa,DT.INR.OFFT,1980,3.7578
-SOM,Somalia,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1987,1.0
-SOM,Somalia,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1980,2.0
-SOM,Somalia,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1977,2.8788
-SOM,Somalia,Serbia,Low income,Africa,DT.INR.OFFT,1978,4.5
-SOM,Somalia,Serbia,Low income,Africa,DT.INR.OFFT,1977,5.0
-SOM,Somalia,Spain,Low income,Africa,DT.INR.OFFT,1987,2.0
-SOM,Somalia,USSR,Low income,Africa,DT.INR.OFFT,1977,2.5
-SOM,Somalia,USSR,Low income,Africa,DT.INR.OFFT,1976,2.4999
-SOM,Somalia,USSR,Low income,Africa,DT.INR.OFFT,1975,2.4999
-SOM,Somalia,USSR,Low income,Africa,DT.INR.OFFT,1974,2.1656
-SOM,Somalia,USSR,Low income,Africa,DT.INR.OFFT,1972,2.5
-SOM,Somalia,USSR,Low income,Africa,DT.INR.OFFT,1971,2.5
-SOM,Somalia,United Arab Emirates,Low income,Africa,DT.INR.OFFT,1980,3.9999
-SOM,Somalia,United Arab Emirates,Low income,Africa,DT.INR.OFFT,1978,3.8565
-SOM,Somalia,United States,Low income,Africa,DT.INR.OFFT,1987,2.0
-SOM,Somalia,United States,Low income,Africa,DT.INR.OFFT,1986,2.7692
-SOM,Somalia,United States,Low income,Africa,DT.INR.OFFT,1985,2.7435
-SOM,Somalia,United States,Low income,Africa,DT.INR.OFFT,1984,2.7341
-SOM,Somalia,United States,Low income,Africa,DT.INR.OFFT,1983,6.4775
-SOM,Somalia,United States,Low income,Africa,DT.INR.OFFT,1982,6.5261
-SOM,Somalia,United States,Low income,Africa,DT.INR.OFFT,1981,7.4521
-SOM,Somalia,United States,Low income,Africa,DT.INR.OFFT,1980,8.3065
-SOM,Somalia,United States,Low income,Africa,DT.INR.OFFT,1979,2.7849
-SOM,Somalia,United States,Low income,Africa,DT.INR.OFFT,1978,2.7999
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,2022,0.75
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,2002,4.8099
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,1990,0.7919
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,1989,0.7543
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,1988,2.4933
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,1987,1.085
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,1986,1.4609
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,1985,1.5832
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,1984,2.1574
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,1983,4.3933
-SOM,Somalia,World,Low income,Africa,DT.INR.PRVT,1983,9.9999
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,1982,5.066
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,1981,4.3641
-SOM,Somalia,World,Low income,Africa,DT.INR.PRVT,1981,8.0
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,1980,3.0289
-SOM,Somalia,World,Low income,Africa,DT.INR.PRVT,1980,7.0
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,1979,0.8748
-SOM,Somalia,World,Low income,Africa,DT.INR.PRVT,1979,7.0
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,1978,3.096
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,1977,2.6221
-SOM,Somalia,World,Low income,Africa,DT.INR.PRVT,1977,7.0
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,1976,2.3151
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,1975,1.1609
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,1974,2.0108
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,1973,0.808
-SOM,Somalia,World,Low income,Africa,DT.INR.PRVT,1973,3.0
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,1972,1.4528
-SOM,Somalia,World,Low income,Africa,DT.INR.OFFT,1971,2.3218
-SOM,Somalia,World,Low income,Africa,DT.INR.PRVT,1971,6.0
-SOM,Somalia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1990,0.75
-SOM,Somalia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1989,0.75
-SOM,Somalia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1988,0.7499
-SOM,Somalia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1987,0.75
-SOM,Somalia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1986,0.75
-SOM,Somalia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1985,0.75
-SOM,Somalia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1984,0.7499
-SOM,Somalia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1983,0.75
-SOM,Somalia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1982,0.7499
-SOM,Somalia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1981,0.75
-SOM,Somalia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1980,0.75
-SOM,Somalia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1979,0.75
-SOM,Somalia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1978,0.75
-SOM,Somalia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1977,0.75
-SOM,Somalia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1976,0.75
-SOM,Somalia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1975,0.75
-SOM,Somalia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1974,0.75
-SOM,Somalia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1973,0.75
-SOM,Somalia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1972,0.75
-SOM,Somalia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1971,0.75
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+SOM,Somalia,African Dev. Bank (official),Low income,Africa,2022,0.75
+SOM,Somalia,African Dev. Bank (official),Low income,Africa,1990,0.7499
+SOM,Somalia,African Dev. Bank (official),Low income,Africa,1989,0.75
+SOM,Somalia,African Dev. Bank (official),Low income,Africa,1988,4.0
+SOM,Somalia,African Dev. Bank (official),Low income,Africa,1987,0.7499
+SOM,Somalia,African Dev. Bank (official),Low income,Africa,1985,0.7499
+SOM,Somalia,African Dev. Bank (official),Low income,Africa,1983,6.5695
+SOM,Somalia,African Dev. Bank (official),Low income,Africa,1981,0.7499
+SOM,Somalia,African Dev. Bank (official),Low income,Africa,1980,0.75
+SOM,Somalia,African Dev. Bank (official),Low income,Africa,1979,0.7499
+SOM,Somalia,African Dev. Bank (official),Low income,Africa,1977,0.75
+SOM,Somalia,African Dev. Bank (official),Low income,Africa,1976,0.75
+SOM,Somalia,African Dev. Bank (official),Low income,Africa,1975,0.75
+SOM,Somalia,African Dev. Bank (official),Low income,Africa,1974,0.75
+SOM,Somalia,African Dev. Bank (official),Low income,Africa,1972,5.9999
+SOM,Somalia,African Dev. Bank (official),Low income,Africa,1971,6.0
+SOM,Somalia,Algeria (official),Low income,Africa,1977,2.0
+SOM,Somalia,Arab Fund for Economic & Social Development (official),Low income,Africa,1985,4.0
+SOM,Somalia,Arab Fund for Economic & Social Development (official),Low income,Africa,1984,4.0
+SOM,Somalia,Arab Fund for Economic & Social Development (official),Low income,Africa,1983,4.0
+SOM,Somalia,Arab Fund for Economic & Social Development (official),Low income,Africa,1982,3.9999
+SOM,Somalia,Arab Fund for Economic & Social Development (official),Low income,Africa,1981,4.0
+SOM,Somalia,Arab Fund for Economic & Social Development (official),Low income,Africa,1980,4.0
+SOM,Somalia,Arab Fund for Economic & Social Development (official),Low income,Africa,1977,3.9999
+SOM,Somalia,Arab Fund for Economic & Social Development (official),Low income,Africa,1976,4.0
+SOM,Somalia,Arab Monetary Fund (official),Low income,Africa,1984,1.9999
+SOM,Somalia,Arab Monetary Fund (official),Low income,Africa,1981,0.25
+SOM,Somalia,Arab Monetary Fund (official),Low income,Africa,1980,3.75
+SOM,Somalia,Bulgaria (official),Low income,Africa,1976,2.5
+SOM,Somalia,Bulgaria (official),Low income,Africa,1972,2.5
+SOM,Somalia,European Development Fund (EDF) (official),Low income,Africa,1981,1.0
+SOM,Somalia,European Development Fund (EDF) (official),Low income,Africa,1977,1.0
+SOM,Somalia,European Economic Community (EEC) (official),Low income,Africa,1979,0.75
+SOM,Somalia,European Investment Bank (official),Low income,Africa,1989,1.0
+SOM,Somalia,European Investment Bank (official),Low income,Africa,1987,1.0
+SOM,Somalia,France (official),Low income,Africa,1988,2.0
+SOM,Somalia,France (official),Low income,Africa,1986,3.3318
+SOM,Somalia,France (official),Low income,Africa,1984,6.5061
+SOM,Somalia,France (official),Low income,Africa,1983,9.2119
+SOM,Somalia,France (official),Low income,Africa,1981,8.7444
+SOM,Somalia,France (official),Low income,Africa,1979,6.9999
+SOM,Somalia,France (private),Low income,Africa,1983,9.9999
+SOM,Somalia,German Dem. Rep. (official),Low income,Africa,1975,2.5
+SOM,Somalia,Germany (official),Low income,Africa,1978,0.7499
+SOM,Somalia,Germany (official),Low income,Africa,1977,0.7499
+SOM,Somalia,Germany (official),Low income,Africa,1974,0.75
+SOM,Somalia,International Fund for Agricultural Dev. (official),Low income,Africa,1990,1.0
+SOM,Somalia,International Fund for Agricultural Dev. (official),Low income,Africa,1986,0.5
+SOM,Somalia,International Fund for Agricultural Dev. (official),Low income,Africa,1985,1.4999
+SOM,Somalia,International Fund for Agricultural Dev. (official),Low income,Africa,1980,0.4999
+SOM,Somalia,International Fund for Agricultural Dev. (official),Low income,Africa,1979,0.5
+SOM,Somalia,Iraq (official),Low income,Africa,1983,7.0
+SOM,Somalia,Iraq (official),Low income,Africa,1974,2.763
+SOM,Somalia,Iraq (official),Low income,Africa,1971,2.5
+SOM,Somalia,Islamic Dev. Bank (official),Low income,Africa,1988,2.4708
+SOM,Somalia,Islamic Dev. Bank (official),Low income,Africa,1987,2.0854
+SOM,Somalia,Islamic Dev. Bank (official),Low income,Africa,1986,1.4803
+SOM,Somalia,Islamic Dev. Bank (official),Low income,Africa,1979,0.349
+SOM,Somalia,Islamic Dev. Bank (official),Low income,Africa,1977,2.5
+SOM,Somalia,Italy (official),Low income,Africa,1983,2.25
+SOM,Somalia,Italy (official),Low income,Africa,1982,7.1344
+SOM,Somalia,Italy (official),Low income,Africa,1981,7.1715
+SOM,Somalia,Italy (official),Low income,Africa,1980,4.0
+SOM,Somalia,Italy (official),Low income,Africa,1973,3.0
+SOM,Somalia,Italy (private),Low income,Africa,1981,8.0
+SOM,Somalia,Italy (private),Low income,Africa,1980,7.0
+SOM,Somalia,Italy (private),Low income,Africa,1979,7.0
+SOM,Somalia,Italy (private),Low income,Africa,1977,7.0
+SOM,Somalia,Italy (private),Low income,Africa,1973,3.0
+SOM,Somalia,Italy (private),Low income,Africa,1971,6.0
+SOM,Somalia,Japan (official),Low income,Africa,1987,1.25
+SOM,Somalia,Japan (official),Low income,Africa,1983,1.5
+SOM,Somalia,Kuwait (official),Low income,Africa,1982,1.4999
+SOM,Somalia,Kuwait (official),Low income,Africa,1981,1.5
+SOM,Somalia,Kuwait (official),Low income,Africa,1976,1.5
+SOM,Somalia,Kuwait (official),Low income,Africa,1975,1.0
+SOM,Somalia,Libya (official),Low income,Africa,2002,4.8099
+SOM,Somalia,Libya (official),Low income,Africa,1974,5.0
+SOM,Somalia,Libya (official),Low income,Africa,1972,2.0
+SOM,Somalia,Netherlands (official),Low income,Africa,1984,5.9999
+SOM,Somalia,Norway (official),Low income,Africa,1979,6.0
+SOM,Somalia,OPEC Fund for International Dev. (official),Low income,Africa,1987,3.0
+SOM,Somalia,OPEC Fund for International Dev. (official),Low income,Africa,1982,0.5
+SOM,Somalia,OPEC Fund for International Dev. (official),Low income,Africa,1981,0.5
+SOM,Somalia,OPEC Fund for International Dev. (official),Low income,Africa,1980,0.75
+SOM,Somalia,OPEC Fund for International Dev. (official),Low income,Africa,1979,0.3696
+SOM,Somalia,OPEC Fund for International Dev. (official),Low income,Africa,1977,0.5
+SOM,Somalia,Qatar (official),Low income,Africa,1974,3.0
+SOM,Somalia,Romania (official),Low income,Africa,1980,3.7578
+SOM,Somalia,Saudi Arabia (official),Low income,Africa,1987,1.0
+SOM,Somalia,Saudi Arabia (official),Low income,Africa,1980,2.0
+SOM,Somalia,Saudi Arabia (official),Low income,Africa,1977,2.8788
+SOM,Somalia,Serbia (official),Low income,Africa,1978,4.5
+SOM,Somalia,Serbia (official),Low income,Africa,1977,5.0
+SOM,Somalia,Spain (official),Low income,Africa,1987,2.0
+SOM,Somalia,USSR (official),Low income,Africa,1977,2.5
+SOM,Somalia,USSR (official),Low income,Africa,1976,2.4999
+SOM,Somalia,USSR (official),Low income,Africa,1975,2.4999
+SOM,Somalia,USSR (official),Low income,Africa,1974,2.1656
+SOM,Somalia,USSR (official),Low income,Africa,1972,2.5
+SOM,Somalia,USSR (official),Low income,Africa,1971,2.5
+SOM,Somalia,United Arab Emirates (official),Low income,Africa,1980,3.9999
+SOM,Somalia,United Arab Emirates (official),Low income,Africa,1978,3.8565
+SOM,Somalia,United States (official),Low income,Africa,1987,2.0
+SOM,Somalia,United States (official),Low income,Africa,1986,2.7692
+SOM,Somalia,United States (official),Low income,Africa,1985,2.7435
+SOM,Somalia,United States (official),Low income,Africa,1984,2.7341
+SOM,Somalia,United States (official),Low income,Africa,1983,6.4775
+SOM,Somalia,United States (official),Low income,Africa,1982,6.5261
+SOM,Somalia,United States (official),Low income,Africa,1981,7.4521
+SOM,Somalia,United States (official),Low income,Africa,1980,8.3065
+SOM,Somalia,United States (official),Low income,Africa,1979,2.7849
+SOM,Somalia,United States (official),Low income,Africa,1978,2.7999
+SOM,Somalia,World (official),Low income,Africa,2022,0.75
+SOM,Somalia,World (official),Low income,Africa,2002,4.8099
+SOM,Somalia,World (official),Low income,Africa,1990,0.7919
+SOM,Somalia,World (official),Low income,Africa,1989,0.7543
+SOM,Somalia,World (official),Low income,Africa,1988,2.4933
+SOM,Somalia,World (official),Low income,Africa,1987,1.085
+SOM,Somalia,World (official),Low income,Africa,1986,1.4609
+SOM,Somalia,World (official),Low income,Africa,1985,1.5832
+SOM,Somalia,World (official),Low income,Africa,1984,2.1574
+SOM,Somalia,World (official),Low income,Africa,1983,4.3933
+SOM,Somalia,World (official),Low income,Africa,1982,5.066
+SOM,Somalia,World (official),Low income,Africa,1981,4.3641
+SOM,Somalia,World (official),Low income,Africa,1980,3.0289
+SOM,Somalia,World (official),Low income,Africa,1979,0.8748
+SOM,Somalia,World (official),Low income,Africa,1978,3.096
+SOM,Somalia,World (official),Low income,Africa,1977,2.6221
+SOM,Somalia,World (official),Low income,Africa,1976,2.3151
+SOM,Somalia,World (official),Low income,Africa,1975,1.1609
+SOM,Somalia,World (official),Low income,Africa,1974,2.0108
+SOM,Somalia,World (official),Low income,Africa,1973,0.808
+SOM,Somalia,World (official),Low income,Africa,1972,1.4528
+SOM,Somalia,World (official),Low income,Africa,1971,2.3218
+SOM,Somalia,World (private),Low income,Africa,1983,9.9999
+SOM,Somalia,World (private),Low income,Africa,1981,8.0
+SOM,Somalia,World (private),Low income,Africa,1980,7.0
+SOM,Somalia,World (private),Low income,Africa,1979,7.0
+SOM,Somalia,World (private),Low income,Africa,1977,7.0
+SOM,Somalia,World (private),Low income,Africa,1973,3.0
+SOM,Somalia,World (private),Low income,Africa,1971,6.0
+SOM,Somalia,World Bank-IDA (official),Low income,Africa,1990,0.75
+SOM,Somalia,World Bank-IDA (official),Low income,Africa,1989,0.75
+SOM,Somalia,World Bank-IDA (official),Low income,Africa,1988,0.7499
+SOM,Somalia,World Bank-IDA (official),Low income,Africa,1987,0.75
+SOM,Somalia,World Bank-IDA (official),Low income,Africa,1986,0.75
+SOM,Somalia,World Bank-IDA (official),Low income,Africa,1985,0.75
+SOM,Somalia,World Bank-IDA (official),Low income,Africa,1984,0.7499
+SOM,Somalia,World Bank-IDA (official),Low income,Africa,1983,0.75
+SOM,Somalia,World Bank-IDA (official),Low income,Africa,1982,0.7499
+SOM,Somalia,World Bank-IDA (official),Low income,Africa,1981,0.75
+SOM,Somalia,World Bank-IDA (official),Low income,Africa,1980,0.75
+SOM,Somalia,World Bank-IDA (official),Low income,Africa,1979,0.75
+SOM,Somalia,World Bank-IDA (official),Low income,Africa,1978,0.75
+SOM,Somalia,World Bank-IDA (official),Low income,Africa,1977,0.75
+SOM,Somalia,World Bank-IDA (official),Low income,Africa,1976,0.75
+SOM,Somalia,World Bank-IDA (official),Low income,Africa,1975,0.75
+SOM,Somalia,World Bank-IDA (official),Low income,Africa,1974,0.75
+SOM,Somalia,World Bank-IDA (official),Low income,Africa,1973,0.75
+SOM,Somalia,World Bank-IDA (official),Low income,Africa,1972,0.75
+SOM,Somalia,World Bank-IDA (official),Low income,Africa,1971,0.75

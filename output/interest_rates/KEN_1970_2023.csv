@@ -1,707 +1,707 @@
-entity_code,entity_name,counterpart_name,income_level,continent,indicator_code,year,value
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2023,1.4205
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2022,1.197
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2021,1.385
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2020,1.2943
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2019,1.0932
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2018,0.4419
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2017,1.2798
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2016,0.9011
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2015,0.7499
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2014,0.75
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2013,0.7499
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2012,0.6608
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2011,0.7499
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2010,0.7499
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2009,0.75
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2007,0.75
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2006,0.75
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2005,0.75
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2004,0.7738
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2002,0.7499
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2000,0.7499
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1999,0.75
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1998,0.75
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1996,0.75
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1991,3.0889
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1989,4.2537
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1987,2.0131
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1986,0.75
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1985,10.0
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1983,6.4717
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1981,5.9049
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1980,8.0
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1979,3.4787
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1978,6.9999
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1977,8.0
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1976,1.0
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1975,6.0
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1974,6.0
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1973,6.5
-KEN,Kenya,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1971,5.9999
-KEN,Kenya,African Export-Import Bank,Lower middle income,Africa,DT.INR.OFFT,2016,6.6939
-KEN,Kenya,Arab African International Bank,Lower middle income,Africa,DT.INR.OFFT,2015,1.0
-KEN,Kenya,Arab African International Bank,Lower middle income,Africa,DT.INR.OFFT,2008,1.0
-KEN,Kenya,Arab African International Bank,Lower middle income,Africa,DT.INR.OFFT,2007,2.0
-KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA),Lower middle income,Africa,DT.INR.OFFT,2021,2.0
-KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA),Lower middle income,Africa,DT.INR.OFFT,2016,1.0
-KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA),Lower middle income,Africa,DT.INR.OFFT,2013,1.0
-KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA),Lower middle income,Africa,DT.INR.OFFT,2012,1.0
-KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA),Lower middle income,Africa,DT.INR.OFFT,2011,1.0
-KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA),Lower middle income,Africa,DT.INR.OFFT,2010,1.0
-KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA),Lower middle income,Africa,DT.INR.OFFT,2009,1.0
-KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA),Lower middle income,Africa,DT.INR.OFFT,2006,1.0
-KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA),Lower middle income,Africa,DT.INR.OFFT,2005,1.25
-KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA),Lower middle income,Africa,DT.INR.OFFT,2004,1.0
-KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA),Lower middle income,Africa,DT.INR.OFFT,2000,6.0017
-KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA),Lower middle income,Africa,DT.INR.OFFT,1986,6.0
-KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA),Lower middle income,Africa,DT.INR.OFFT,1982,8.0
-KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA),Lower middle income,Africa,DT.INR.OFFT,1980,7.0
-KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA),Lower middle income,Africa,DT.INR.OFFT,1976,4.0
-KEN,Kenya,Arab League,Lower middle income,Africa,DT.INR.OFFT,1975,1.0
-KEN,Kenya,Austria,Lower middle income,Africa,DT.INR.PRVT,2017,1.0
-KEN,Kenya,Austria,Lower middle income,Africa,DT.INR.OFFT,2015,0.054
-KEN,Kenya,Austria,Lower middle income,Africa,DT.INR.PRVT,2014,0.8571
-KEN,Kenya,Austria,Lower middle income,Africa,DT.INR.PRVT,1986,8.4999
-KEN,Kenya,Austria,Lower middle income,Africa,DT.INR.OFFT,1979,8.6728
-KEN,Kenya,Belgium,Lower middle income,Africa,DT.INR.PRVT,2021,1.1847
-KEN,Kenya,Belgium,Lower middle income,Africa,DT.INR.PRVT,2017,1.6397
-KEN,Kenya,Belgium,Lower middle income,Africa,DT.INR.PRVT,2016,1.0969
-KEN,Kenya,Belgium,Lower middle income,Africa,DT.INR.PRVT,2015,1.4724
-KEN,Kenya,Belgium,Lower middle income,Africa,DT.INR.PRVT,2014,1.9422
-KEN,Kenya,Belgium,Lower middle income,Africa,DT.INR.PRVT,2013,0.8797
-KEN,Kenya,Belgium,Lower middle income,Africa,DT.INR.OFFT,2011,0.4031
-KEN,Kenya,Belgium,Lower middle income,Africa,DT.INR.PRVT,2011,4.13
-KEN,Kenya,Belgium,Lower middle income,Africa,DT.INR.PRVT,2009,3.8599
-KEN,Kenya,Belgium,Lower middle income,Africa,DT.INR.PRVT,2008,4.1999
-KEN,Kenya,Belgium,Lower middle income,Africa,DT.INR.OFFT,2003,2.6679
-KEN,Kenya,Belgium,Lower middle income,Africa,DT.INR.PRVT,1996,5.0
-KEN,Kenya,Belgium,Lower middle income,Africa,DT.INR.PRVT,1995,5.1465
-KEN,Kenya,Belgium,Lower middle income,Africa,DT.INR.PRVT,1991,3.41
-KEN,Kenya,Belgium,Lower middle income,Africa,DT.INR.PRVT,1990,3.2776
-KEN,Kenya,Belgium,Lower middle income,Africa,DT.INR.PRVT,1989,2.5999
-KEN,Kenya,Belgium,Lower middle income,Africa,DT.INR.PRVT,1988,7.4999
-KEN,Kenya,Belgium,Lower middle income,Africa,DT.INR.OFFT,1977,5.0
-KEN,Kenya,Bondholders,Lower middle income,Africa,DT.INR.PRVT,2021,6.3
-KEN,Kenya,Bondholders,Lower middle income,Africa,DT.INR.PRVT,2019,7.5714
-KEN,Kenya,Bondholders,Lower middle income,Africa,DT.INR.PRVT,2018,7.75
-KEN,Kenya,Bondholders,Lower middle income,Africa,DT.INR.PRVT,2014,6.6022
-KEN,Kenya,Brazil,Lower middle income,Africa,DT.INR.PRVT,1976,7.0
-KEN,Kenya,Canada,Lower middle income,Africa,DT.INR.PRVT,1995,9.0649
-KEN,Kenya,Canada,Lower middle income,Africa,DT.INR.OFFT,1993,8.05
-KEN,Kenya,Canada,Lower middle income,Africa,DT.INR.OFFT,1990,8.7021
-KEN,Kenya,Canada,Lower middle income,Africa,DT.INR.OFFT,1989,8.3
-KEN,Kenya,Canada,Lower middle income,Africa,DT.INR.PRVT,1989,9.0649
-KEN,Kenya,Canada,Lower middle income,Africa,DT.INR.OFFT,1986,9.85
-KEN,Kenya,Canada,Lower middle income,Africa,DT.INR.PRVT,1986,8.625
-KEN,Kenya,Canada,Lower middle income,Africa,DT.INR.OFFT,1983,11.0
-KEN,Kenya,Canada,Lower middle income,Africa,DT.INR.OFFT,1977,7.3616
-KEN,Kenya,China,Lower middle income,Africa,DT.INR.OFFT,2019,2.0
-KEN,Kenya,China,Lower middle income,Africa,DT.INR.OFFT,2018,3.755
-KEN,Kenya,China,Lower middle income,Africa,DT.INR.OFFT,2017,3.8247
-KEN,Kenya,China,Lower middle income,Africa,DT.INR.OFFT,2016,5.147
-KEN,Kenya,China,Lower middle income,Africa,DT.INR.OFFT,2015,3.6787
-KEN,Kenya,China,Lower middle income,Africa,DT.INR.OFFT,2014,3.8372
-KEN,Kenya,China,Lower middle income,Africa,DT.INR.OFFT,2013,1.3846
-KEN,Kenya,China,Lower middle income,Africa,DT.INR.OFFT,2012,2.0
-KEN,Kenya,China,Lower middle income,Africa,DT.INR.OFFT,2011,1.9595
-KEN,Kenya,China,Lower middle income,Africa,DT.INR.OFFT,2010,1.8873
-KEN,Kenya,China,Lower middle income,Africa,DT.INR.OFFT,2009,2.0
-KEN,Kenya,China,Lower middle income,Africa,DT.INR.OFFT,2008,1.9995
-KEN,Kenya,China,Lower middle income,Africa,DT.INR.OFFT,2007,1.9999
-KEN,Kenya,China,Lower middle income,Africa,DT.INR.OFFT,2006,2.0
-KEN,Kenya,Denmark,Lower middle income,Africa,DT.INR.OFFT,1973,1.2534
-KEN,Kenya,Egypt,Lower middle income,Africa,DT.INR.OFFT,2023,9.146
-KEN,Kenya,European Development Fund (EDF),Lower middle income,Africa,DT.INR.OFFT,1989,1.0
-KEN,Kenya,European Development Fund (EDF),Lower middle income,Africa,DT.INR.OFFT,1987,2.0
-KEN,Kenya,European Economic Community (EEC),Lower middle income,Africa,DT.INR.OFFT,2004,1.0
-KEN,Kenya,European Economic Community (EEC),Lower middle income,Africa,DT.INR.OFFT,1992,1.0
-KEN,Kenya,European Economic Community (EEC),Lower middle income,Africa,DT.INR.OFFT,1988,1.0
-KEN,Kenya,European Economic Community (EEC),Lower middle income,Africa,DT.INR.OFFT,1984,1.0
-KEN,Kenya,European Economic Community (EEC),Lower middle income,Africa,DT.INR.OFFT,1982,1.0
-KEN,Kenya,European Economic Community (EEC),Lower middle income,Africa,DT.INR.OFFT,1981,0.75
-KEN,Kenya,European Economic Community (EEC),Lower middle income,Africa,DT.INR.OFFT,1980,0.75
-KEN,Kenya,European Economic Community (EEC),Lower middle income,Africa,DT.INR.OFFT,1979,1.0
-KEN,Kenya,European Economic Community (EEC),Lower middle income,Africa,DT.INR.OFFT,1977,1.0
-KEN,Kenya,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,2020,0.5
-KEN,Kenya,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,2017,0.5
-KEN,Kenya,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,2010,1.7269
-KEN,Kenya,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,2009,3.0
-KEN,Kenya,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,2005,2.47
-KEN,Kenya,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,2004,5.0499
-KEN,Kenya,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1999,3.0
-KEN,Kenya,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1998,3.0
-KEN,Kenya,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1991,5.05
-KEN,Kenya,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1989,5.25
-KEN,Kenya,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1988,5.0
-KEN,Kenya,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1987,5.0
-KEN,Kenya,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1985,5.5999
-KEN,Kenya,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1982,8.0
-KEN,Kenya,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1981,1.9999
-KEN,Kenya,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1980,8.0
-KEN,Kenya,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1979,6.3
-KEN,Kenya,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1978,5.4
-KEN,Kenya,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1977,5.1303
-KEN,Kenya,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1976,6.0
-KEN,Kenya,Finland,Lower middle income,Africa,DT.INR.OFFT,2013,0.246
-KEN,Kenya,Finland,Lower middle income,Africa,DT.INR.PRVT,1990,3.544
-KEN,Kenya,Finland,Lower middle income,Africa,DT.INR.PRVT,1989,3.1427
-KEN,Kenya,Finland,Lower middle income,Africa,DT.INR.OFFT,1984,0.75
-KEN,Kenya,Finland,Lower middle income,Africa,DT.INR.OFFT,1975,0.75
-KEN,Kenya,Finland,Lower middle income,Africa,DT.INR.OFFT,1974,0.7499
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2022,4.0144
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2021,1.5017
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2020,1.8672
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2019,2.0411
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2018,2.5
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2017,0.7549
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.PRVT,2017,3.6212
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2016,1.2001
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2015,0.046
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2014,0.73
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2013,1.616
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.PRVT,2013,0.3889
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2012,1.0437
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2011,3.6749
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2010,1.8804
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2009,2.2466
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2006,4.8475
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2005,2.4373
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2004,2.9
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2003,2.5
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2002,1.415
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2001,5.4
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,2000,2.5341
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,1999,2.9861
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.PRVT,1999,7.0
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,1998,5.9999
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.PRVT,1998,0.4603
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.PRVT,1996,7.0
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.PRVT,1991,8.3486
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,1990,2.7999
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.PRVT,1990,8.3474
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,1989,3.2181
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.PRVT,1989,8.0771
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.PRVT,1988,8.5915
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,1987,2.9
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.PRVT,1987,8.1194
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,1986,2.0999
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.PRVT,1986,5.1986
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,1985,3.0
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.PRVT,1985,10.3379
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,1984,2.9999
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.PRVT,1984,10.4667
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.PRVT,1983,10.1643
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,1982,3.0
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.PRVT,1982,8.0763
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,1981,3.0
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.PRVT,1981,8.2499
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.PRVT,1979,8.9048
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.PRVT,1978,7.5739
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.OFFT,1977,3.0
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.PRVT,1976,8.5487
-KEN,Kenya,France,Lower middle income,Africa,DT.INR.PRVT,1975,7.8029
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,2022,0.5037
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,2020,0.75
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.PRVT,2020,1.4
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,2019,0.75
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,2018,0.75
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,2017,2.3393
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.PRVT,2017,2.4143
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,2015,0.7499
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,2014,2.9287
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,2011,2.0881
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,2010,2.5
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,2009,0.75
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,2008,0.7499
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,2006,0.75
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,2005,0.8508
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,2004,0.6987
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,2003,0.75
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,2001,0.75
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1999,0.7499
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1998,0.75
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1997,0.7499
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1995,3.4651
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1991,0.75
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1990,0.7499
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1989,0.75
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1988,6.2083
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1987,0.7499
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1986,0.7499
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1985,0.75
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.PRVT,1985,8.75
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1984,4.0822
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1983,8.9999
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.PRVT,1983,11.0
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1982,1.0457
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1981,2.6307
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1980,0.75
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1979,0.8362
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1978,0.75
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1977,4.8669
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.PRVT,1977,8.5
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1976,5.7496
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.PRVT,1976,8.1156
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1975,3.1202
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.PRVT,1975,11.0
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1974,2.0
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1973,2.0925
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1971,2.7478
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.OFFT,1970,2.5
-KEN,Kenya,Germany,Lower middle income,Africa,DT.INR.PRVT,1970,7.0
-KEN,Kenya,India,Lower middle income,Africa,DT.INR.OFFT,2017,1.5
-KEN,Kenya,India,Lower middle income,Africa,DT.INR.OFFT,2016,1.5
-KEN,Kenya,India,Lower middle income,Africa,DT.INR.OFFT,2010,0.9609
-KEN,Kenya,India,Lower middle income,Africa,DT.INR.OFFT,1987,9.25
-KEN,Kenya,India,Lower middle income,Africa,DT.INR.OFFT,1983,5.0
-KEN,Kenya,India,Lower middle income,Africa,DT.INR.PRVT,1981,7.75
-KEN,Kenya,India,Lower middle income,Africa,DT.INR.OFFT,1979,8.5
-KEN,Kenya,India,Lower middle income,Africa,DT.INR.OFFT,1976,9.0
-KEN,Kenya,India,Lower middle income,Africa,DT.INR.PRVT,1976,7.9999
-KEN,Kenya,International Finance Corporation,Lower middle income,Africa,DT.INR.OFFT,1983,10.171
-KEN,Kenya,International Finance Corporation,Lower middle income,Africa,DT.INR.OFFT,1981,10.5
-KEN,Kenya,International Finance Corporation,Lower middle income,Africa,DT.INR.OFFT,1975,10.0
-KEN,Kenya,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2022,0.7499
-KEN,Kenya,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2021,1.2499
-KEN,Kenya,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2020,0.7499
-KEN,Kenya,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2018,0.75
-KEN,Kenya,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2016,0.75
-KEN,Kenya,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2015,0.7499
-KEN,Kenya,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2012,0.75
-KEN,Kenya,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2010,0.75
-KEN,Kenya,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2009,0.75
-KEN,Kenya,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2007,0.7499
-KEN,Kenya,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2006,0.75
-KEN,Kenya,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2004,0.7499
-KEN,Kenya,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2003,0.75
-KEN,Kenya,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2001,0.75
-KEN,Kenya,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,1995,0.75
-KEN,Kenya,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,1991,1.0
-KEN,Kenya,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,1989,1.0
-KEN,Kenya,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,1986,1.0
-KEN,Kenya,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,1983,1.0
-KEN,Kenya,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,1979,1.0
-KEN,Kenya,Iraq,Lower middle income,Africa,DT.INR.OFFT,1980,2.5
-KEN,Kenya,Israel,Lower middle income,Africa,DT.INR.PRVT,2015,2.8343
-KEN,Kenya,Italy,Lower middle income,Africa,DT.INR.OFFT,2022,0.5
-KEN,Kenya,Italy,Lower middle income,Africa,DT.INR.PRVT,2017,3.9227
-KEN,Kenya,Italy,Lower middle income,Africa,DT.INR.PRVT,2015,4.767
-KEN,Kenya,Italy,Lower middle income,Africa,DT.INR.OFFT,1992,0.9893
-KEN,Kenya,Italy,Lower middle income,Africa,DT.INR.OFFT,1988,1.5
-KEN,Kenya,Italy,Lower middle income,Africa,DT.INR.OFFT,1987,1.5
-KEN,Kenya,Italy,Lower middle income,Africa,DT.INR.OFFT,1986,2.5
-KEN,Kenya,Italy,Lower middle income,Africa,DT.INR.PRVT,1984,4.216
-KEN,Kenya,Italy,Lower middle income,Africa,DT.INR.OFFT,1983,2.25
-KEN,Kenya,Italy,Lower middle income,Africa,DT.INR.PRVT,1976,8.75
-KEN,Kenya,Italy,Lower middle income,Africa,DT.INR.PRVT,1973,13.5
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,2020,0.2508
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,2019,0.1
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,2018,1.0
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,2017,1.7
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,2016,0.2
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,2015,0.1166
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,2012,1.2
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,2010,0.4504
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,2007,0.3142
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,2004,0.75
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,1997,2.2999
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,1995,2.5999
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,1993,2.891
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,1991,2.5
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,1990,3.636
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.PRVT,1990,7.55
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,1989,2.5
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.PRVT,1989,7.5
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,1988,2.9999
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,1987,3.5
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,1985,3.7933
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,1984,3.5
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,1983,3.4128
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,1982,3.0
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,1980,3.0
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.PRVT,1979,7.75
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,1978,3.5
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,1977,4.0
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.PRVT,1976,7.5
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,1975,4.2331
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.PRVT,1975,8.0
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,1973,4.8759
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,1971,5.75
-KEN,Kenya,Japan,Lower middle income,Africa,DT.INR.OFFT,1970,5.75
-KEN,Kenya,Kuwait,Lower middle income,Africa,DT.INR.OFFT,2018,1.5
-KEN,Kenya,Kuwait,Lower middle income,Africa,DT.INR.OFFT,2012,1.5
-KEN,Kenya,Kuwait,Lower middle income,Africa,DT.INR.OFFT,2010,0.5535
-KEN,Kenya,Kuwait,Lower middle income,Africa,DT.INR.OFFT,2009,0.6333
-KEN,Kenya,Kuwait,Lower middle income,Africa,DT.INR.OFFT,2007,2.0
-KEN,Kenya,Kuwait,Lower middle income,Africa,DT.INR.OFFT,1997,2.5
-KEN,Kenya,Multiple Lenders,Lower middle income,Africa,DT.INR.PRVT,2012,5.4864
-KEN,Kenya,Multiple Lenders,Lower middle income,Africa,DT.INR.PRVT,1979,12.5033
-KEN,Kenya,Netherlands,Lower middle income,Africa,DT.INR.PRVT,2022,5.7656
-KEN,Kenya,Netherlands,Lower middle income,Africa,DT.INR.PRVT,2010,2.7179
-KEN,Kenya,Netherlands,Lower middle income,Africa,DT.INR.OFFT,2009,3.604
-KEN,Kenya,Netherlands,Lower middle income,Africa,DT.INR.PRVT,1990,8.3
-KEN,Kenya,Netherlands,Lower middle income,Africa,DT.INR.PRVT,1989,8.2625
-KEN,Kenya,Netherlands,Lower middle income,Africa,DT.INR.PRVT,1988,4.5058
-KEN,Kenya,Netherlands,Lower middle income,Africa,DT.INR.OFFT,1987,2.4999
-KEN,Kenya,Netherlands,Lower middle income,Africa,DT.INR.PRVT,1987,6.0
-KEN,Kenya,Netherlands,Lower middle income,Africa,DT.INR.PRVT,1984,9.5
-KEN,Kenya,Netherlands,Lower middle income,Africa,DT.INR.OFFT,1982,3.9637
-KEN,Kenya,Netherlands,Lower middle income,Africa,DT.INR.OFFT,1980,2.5
-KEN,Kenya,Netherlands,Lower middle income,Africa,DT.INR.OFFT,1978,2.5
-KEN,Kenya,Netherlands,Lower middle income,Africa,DT.INR.OFFT,1977,2.5
-KEN,Kenya,Netherlands,Lower middle income,Africa,DT.INR.OFFT,1976,10.1249
-KEN,Kenya,Netherlands,Lower middle income,Africa,DT.INR.PRVT,1976,6.75
-KEN,Kenya,Netherlands,Lower middle income,Africa,DT.INR.OFFT,1975,2.4999
-KEN,Kenya,Netherlands,Lower middle income,Africa,DT.INR.OFFT,1973,2.5
-KEN,Kenya,Netherlands,Lower middle income,Africa,DT.INR.OFFT,1972,2.5
-KEN,Kenya,Netherlands,Lower middle income,Africa,DT.INR.OFFT,1971,2.5
-KEN,Kenya,Nordic Development Fund,Lower middle income,Africa,DT.INR.OFFT,2006,0.7499
-KEN,Kenya,Nordic Development Fund,Lower middle income,Africa,DT.INR.OFFT,2004,0.75
-KEN,Kenya,Nordic Investment Bank,Lower middle income,Africa,DT.INR.OFFT,2007,0.7499
-KEN,Kenya,Nordic Investment Bank,Lower middle income,Africa,DT.INR.OFFT,2004,0.7499
-KEN,Kenya,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2023,7.6499
-KEN,Kenya,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2021,1.75
-KEN,Kenya,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2016,1.6982
-KEN,Kenya,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2013,2.7469
-KEN,Kenya,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2011,2.5
-KEN,Kenya,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2010,1.0203
-KEN,Kenya,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2009,1.1184
-KEN,Kenya,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2007,1.25
-KEN,Kenya,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2006,1.0
-KEN,Kenya,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2005,1.0
-KEN,Kenya,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2002,0.9999
-KEN,Kenya,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2001,1.0
-KEN,Kenya,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1998,2.0
-KEN,Kenya,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1986,2.2689
-KEN,Kenya,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1985,3.0
-KEN,Kenya,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1984,2.0
-KEN,Kenya,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1981,0.375
-KEN,Kenya,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1980,0.75
-KEN,Kenya,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1978,0.75
-KEN,Kenya,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1977,0.5937
-KEN,Kenya,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,2021,1.0
-KEN,Kenya,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,2017,1.0
-KEN,Kenya,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,2013,1.0
-KEN,Kenya,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,2009,1.0
-KEN,Kenya,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,2007,1.9999
-KEN,Kenya,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,1999,2.9999
-KEN,Kenya,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,1985,1.0
-KEN,Kenya,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,1984,2.9999
-KEN,Kenya,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,1982,2.9999
-KEN,Kenya,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,1981,3.0
-KEN,Kenya,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,1980,3.0
-KEN,Kenya,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,1978,3.0
-KEN,Kenya,Serbia,Lower middle income,Africa,DT.INR.OFFT,1984,8.0
-KEN,Kenya,South Africa,Lower middle income,Africa,DT.INR.OFFT,2023,12.2003
-KEN,Kenya,South Africa,Lower middle income,Africa,DT.INR.PRVT,2023,9.6258
-KEN,Kenya,South Africa,Lower middle income,Africa,DT.INR.OFFT,2022,6.4208
-KEN,Kenya,South Africa,Lower middle income,Africa,DT.INR.OFFT,2019,3.9351
-KEN,Kenya,South Africa,Lower middle income,Africa,DT.INR.OFFT,2018,8.9512
-KEN,Kenya,South Africa,Lower middle income,Africa,DT.INR.OFFT,2017,8.1743
-KEN,Kenya,South Africa,Lower middle income,Africa,DT.INR.OFFT,2016,6.5176
-KEN,Kenya,South Korea,Lower middle income,Africa,DT.INR.OFFT,2021,0.1
-KEN,Kenya,South Korea,Lower middle income,Africa,DT.INR.OFFT,2017,0.0999
-KEN,Kenya,South Korea,Lower middle income,Africa,DT.INR.OFFT,2009,0.1465
-KEN,Kenya,South Korea,Lower middle income,Africa,DT.INR.OFFT,2005,1.0
-KEN,Kenya,South Korea,Lower middle income,Africa,DT.INR.OFFT,1994,3.5
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.PRVT,2020,1.5132
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.OFFT,2019,0.2
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.OFFT,2017,1.0399
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.OFFT,2015,1.0399
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.OFFT,2014,0.9176
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.OFFT,2013,2.0
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.PRVT,2013,4.273
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.OFFT,2012,0.5
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.OFFT,2007,1.1
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.OFFT,2006,1.1
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.PRVT,2003,3.0
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.OFFT,2001,0.3
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.PRVT,2001,5.0
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.OFFT,2000,0.3
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.PRVT,2000,7.4899
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.OFFT,1998,1.0
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.PRVT,1998,5.0331
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.OFFT,1997,2.7614
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.PRVT,1997,6.1999
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.PRVT,1995,3.75
-KEN,Kenya,Spain,Lower middle income,Africa,DT.INR.PRVT,1989,6.275
-KEN,Kenya,Sweden,Lower middle income,Africa,DT.INR.OFFT,1989,3.7499
-KEN,Kenya,Sweden,Lower middle income,Africa,DT.INR.PRVT,1989,1.4999
-KEN,Kenya,Sweden,Lower middle income,Africa,DT.INR.PRVT,1986,3.0
-KEN,Kenya,Sweden,Lower middle income,Africa,DT.INR.OFFT,1984,3.75
-KEN,Kenya,Sweden,Lower middle income,Africa,DT.INR.OFFT,1974,0.4326
-KEN,Kenya,Sweden,Lower middle income,Africa,DT.INR.OFFT,1973,0.9796
-KEN,Kenya,Sweden,Lower middle income,Africa,DT.INR.OFFT,1972,1.2401
-KEN,Kenya,Sweden,Lower middle income,Africa,DT.INR.OFFT,1971,7.9999
-KEN,Kenya,Sweden,Lower middle income,Africa,DT.INR.OFFT,1970,2.1462
-KEN,Kenya,Switzerland,Lower middle income,Africa,DT.INR.PRVT,2015,0.6999
-KEN,Kenya,Switzerland,Lower middle income,Africa,DT.INR.PRVT,2002,3.4147
-KEN,Kenya,Switzerland,Lower middle income,Africa,DT.INR.OFFT,1995,3.9999
-KEN,Kenya,Switzerland,Lower middle income,Africa,DT.INR.PRVT,1995,3.75
-KEN,Kenya,Switzerland,Lower middle income,Africa,DT.INR.PRVT,1987,6.7499
-KEN,Kenya,Switzerland,Lower middle income,Africa,DT.INR.PRVT,1984,6.9699
-KEN,Kenya,Switzerland,Lower middle income,Africa,DT.INR.PRVT,1983,7.5
-KEN,Kenya,Switzerland,Lower middle income,Africa,DT.INR.PRVT,1982,7.5523
-KEN,Kenya,Switzerland,Lower middle income,Africa,DT.INR.PRVT,1978,7.5528
-KEN,Kenya,Switzerland,Lower middle income,Africa,DT.INR.OFFT,1973,2.0
-KEN,Kenya,United Arab Emirates,Lower middle income,Africa,DT.INR.OFFT,2022,1.5
-KEN,Kenya,United Arab Emirates,Lower middle income,Africa,DT.INR.OFFT,2013,2.4999
-KEN,Kenya,United Arab Emirates,Lower middle income,Africa,DT.INR.OFFT,2010,1.9999
-KEN,Kenya,United Arab Emirates,Lower middle income,Africa,DT.INR.PRVT,1998,9.1999
-KEN,Kenya,United Arab Emirates,Lower middle income,Africa,DT.INR.PRVT,1995,9.1999
-KEN,Kenya,United Arab Emirates,Lower middle income,Africa,DT.INR.OFFT,1985,3.0
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,2017,6.7176
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,2015,5.7515
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,2012,2.539
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,2002,4.3152
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.OFFT,2001,7.1999
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,2001,4.9279
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1998,6.8129
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1995,4.2855
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1992,1.83
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1991,8.6472
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1990,8.4052
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.OFFT,1989,8.2808
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1989,7.8513
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1988,8.4121
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.OFFT,1987,8.5
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1987,7.7058
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1986,7.9954
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1985,8.8275
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.OFFT,1984,9.5
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1984,9.4127
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.OFFT,1983,10.4999
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1983,9.4999
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1982,7.6947
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.OFFT,1981,7.4999
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1981,16.8483
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.OFFT,1980,7.6497
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1980,8.0
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.OFFT,1979,7.0
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1979,7.5
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.OFFT,1978,9.0327
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1978,7.5
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.OFFT,1977,8.5
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1977,7.5081
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.OFFT,1976,8.3258
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1976,7.5
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.OFFT,1975,4.9999
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1975,8.9256
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.OFFT,1974,3.9598
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1974,5.9999
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.OFFT,1973,8.2622
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1973,8.4411
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.OFFT,1972,8.0145
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1972,6.068
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.OFFT,1971,2.4397
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1971,7.1174
-KEN,Kenya,United Kingdom,Lower middle income,Africa,DT.INR.OFFT,1970,2.6794
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,2017,2.67
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,2004,2.6849
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.PRVT,2002,4.8699
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,2000,6.8309
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.PRVT,1998,6.0
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.PRVT,1997,4.0
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.PRVT,1995,9.0
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,1991,8.3
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.PRVT,1990,8.902
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,1988,5.9059
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.PRVT,1988,10.0
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,1987,5.9466
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,1986,2.744
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.PRVT,1986,12.5
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,1985,2.0
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.PRVT,1985,7.4091
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,1984,4.179
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,1983,5.2935
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,1982,6.027
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,1981,6.1906
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,1980,5.5561
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,1978,3.9761
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.PRVT,1978,9.3521
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,1977,3.1105
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.PRVT,1977,9.0
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,1976,9.0
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.PRVT,1976,9.1048
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,1975,5.8839
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.PRVT,1975,9.0
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,1974,2.765
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,1973,2.5329
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.PRVT,1973,8.3198
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,1972,6.0
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.PRVT,1972,6.9311
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.PRVT,1971,7.0
-KEN,Kenya,United States,Lower middle income,Africa,DT.INR.OFFT,1970,2.8118
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2023,4.1498
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,2023,9.6258
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2022,1.9934
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,2022,5.7656
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2021,1.6275
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,2021,5.9088
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2020,1.3976
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,2020,1.4761
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2019,2.306
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,2019,7.5714
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2018,3.0501
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,2018,7.75
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2017,3.4445
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,2017,4.7641
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2016,2.6881
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,2016,1.0969
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2015,2.0756
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,2015,4.8389
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2014,3.2837
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,2014,6.5796
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2013,1.1419
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,2013,3.1113
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2012,0.98
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,2012,5.1255
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2011,1.4325
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,2011,4.13
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2010,0.9787
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,2010,2.7179
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2009,1.3151
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,2009,3.8599
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2008,1.2229
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,2008,4.1999
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2007,0.724
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2006,1.7354
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2005,1.4661
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2004,0.8402
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2003,1.4314
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,2003,3.0
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2002,0.9343
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,2002,4.138
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2001,1.8099
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,2001,4.9306
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,2000,1.2666
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,2000,7.4899
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1999,2.0279
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1999,7.0
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1998,1.692
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1998,4.8714
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1997,1.6195
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1997,4.3332
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1996,0.7073
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1996,6.5353
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1995,2.0732
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1995,4.7583
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1994,0.7505
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1993,2.2574
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1992,0.7849
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1992,1.83
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1991,2.1124
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1991,8.1408
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1990,3.0588
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1990,7.4324
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1989,2.1572
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1989,7.3541
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1988,2.1623
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1988,7.7474
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1987,2.4488
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1987,7.6617
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1986,3.5012
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1986,7.0231
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1985,4.1176
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1985,9.4968
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1984,5.5118
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1984,8.3728
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1983,5.5575
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1983,9.1674
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1982,5.0323
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1982,7.745
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1981,5.3785
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1981,15.7652
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1980,3.4603
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1980,8.0
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1979,4.0163
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1979,10.7676
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1978,4.3582
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1978,7.6752
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1977,4.6805
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1977,7.6423
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1976,4.4985
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1976,8.0305
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1975,6.5358
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1975,7.9663
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1974,2.5689
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1974,5.9999
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1973,4.155
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1973,11.4543
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1972,3.4481
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1972,6.6737
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1971,4.9303
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1971,7.0724
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.OFFT,1970,2.3583
-KEN,Kenya,World,Lower middle income,Africa,DT.INR.PRVT,1970,7.0
-KEN,Kenya,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,2023,6.13
-KEN,Kenya,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,2022,1.2575
-KEN,Kenya,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,2020,1.9097
-KEN,Kenya,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,2019,0.9499
-KEN,Kenya,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,1986,8.5
-KEN,Kenya,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,1984,10.0799
-KEN,Kenya,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,1983,10.47
-KEN,Kenya,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,1982,11.6
-KEN,Kenya,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,1981,9.6
-KEN,Kenya,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,1980,8.0785
-KEN,Kenya,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,1979,7.0
-KEN,Kenya,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,1978,7.3932
-KEN,Kenya,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,1977,8.069
-KEN,Kenya,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,1976,5.3661
-KEN,Kenya,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,1975,8.5
-KEN,Kenya,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,1974,7.25
-KEN,Kenya,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,1973,7.25
-KEN,Kenya,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,1972,7.25
-KEN,Kenya,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,1971,7.25
-KEN,Kenya,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,1970,7.25
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2023,1.2205
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2022,1.4512
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2021,1.9324
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2020,1.6074
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2019,1.8375
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2018,1.4064
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2017,1.6343
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2016,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2015,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2014,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2013,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2012,0.7499
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2011,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2010,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2009,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2008,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2007,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2006,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2004,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2003,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2002,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2001,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2000,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1998,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1997,0.5
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1996,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1995,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1994,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1993,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1992,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1991,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1990,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1989,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1988,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1987,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1986,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1985,0.7499
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1984,0.7499
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1983,0.7499
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1982,0.7499
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1981,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1980,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1979,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1978,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1977,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1976,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1975,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1974,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1972,0.75
-KEN,Kenya,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1970,0.75
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2023,1.4205
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2022,1.197
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2021,1.385
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2020,1.2943
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2019,1.0932
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2018,0.4419
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2017,1.2798
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2016,0.9011
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2015,0.7499
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2014,0.75
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2013,0.7499
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2012,0.6608
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2011,0.7499
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2010,0.7499
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2009,0.75
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2007,0.75
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2006,0.75
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2005,0.75
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2004,0.7738
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2002,0.7499
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,2000,0.7499
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,1999,0.75
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,1998,0.75
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,1996,0.75
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,1991,3.0889
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,1989,4.2537
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,1987,2.0131
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,1986,0.75
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,1985,10.0
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,1983,6.4717
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,1981,5.9049
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,1980,8.0
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,1979,3.4787
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,1978,6.9999
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,1977,8.0
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,1976,1.0
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,1975,6.0
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,1974,6.0
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,1973,6.5
+KEN,Kenya,African Dev. Bank (official),Lower middle income,Africa,1971,5.9999
+KEN,Kenya,African Export-Import Bank (official),Lower middle income,Africa,2016,6.6939
+KEN,Kenya,Arab African International Bank (official),Lower middle income,Africa,2015,1.0
+KEN,Kenya,Arab African International Bank (official),Lower middle income,Africa,2008,1.0
+KEN,Kenya,Arab African International Bank (official),Lower middle income,Africa,2007,2.0
+KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA) (official),Lower middle income,Africa,2021,2.0
+KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA) (official),Lower middle income,Africa,2016,1.0
+KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA) (official),Lower middle income,Africa,2013,1.0
+KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA) (official),Lower middle income,Africa,2012,1.0
+KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA) (official),Lower middle income,Africa,2011,1.0
+KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA) (official),Lower middle income,Africa,2010,1.0
+KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA) (official),Lower middle income,Africa,2009,1.0
+KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA) (official),Lower middle income,Africa,2006,1.0
+KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA) (official),Lower middle income,Africa,2005,1.25
+KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA) (official),Lower middle income,Africa,2004,1.0
+KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA) (official),Lower middle income,Africa,2000,6.0017
+KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA) (official),Lower middle income,Africa,1986,6.0
+KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA) (official),Lower middle income,Africa,1982,8.0
+KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA) (official),Lower middle income,Africa,1980,7.0
+KEN,Kenya,Arab Bank for Economic Dev. in Africa (BADEA) (official),Lower middle income,Africa,1976,4.0
+KEN,Kenya,Arab League (official),Lower middle income,Africa,1975,1.0
+KEN,Kenya,Austria (official),Lower middle income,Africa,2015,0.054
+KEN,Kenya,Austria (official),Lower middle income,Africa,1979,8.6728
+KEN,Kenya,Austria (private),Lower middle income,Africa,2017,1.0
+KEN,Kenya,Austria (private),Lower middle income,Africa,2014,0.8571
+KEN,Kenya,Austria (private),Lower middle income,Africa,1986,8.4999
+KEN,Kenya,Belgium (official),Lower middle income,Africa,2011,0.4031
+KEN,Kenya,Belgium (official),Lower middle income,Africa,2003,2.6679
+KEN,Kenya,Belgium (official),Lower middle income,Africa,1977,5.0
+KEN,Kenya,Belgium (private),Lower middle income,Africa,2021,1.1847
+KEN,Kenya,Belgium (private),Lower middle income,Africa,2017,1.6397
+KEN,Kenya,Belgium (private),Lower middle income,Africa,2016,1.0969
+KEN,Kenya,Belgium (private),Lower middle income,Africa,2015,1.4724
+KEN,Kenya,Belgium (private),Lower middle income,Africa,2014,1.9422
+KEN,Kenya,Belgium (private),Lower middle income,Africa,2013,0.8797
+KEN,Kenya,Belgium (private),Lower middle income,Africa,2011,4.13
+KEN,Kenya,Belgium (private),Lower middle income,Africa,2009,3.8599
+KEN,Kenya,Belgium (private),Lower middle income,Africa,2008,4.1999
+KEN,Kenya,Belgium (private),Lower middle income,Africa,1996,5.0
+KEN,Kenya,Belgium (private),Lower middle income,Africa,1995,5.1465
+KEN,Kenya,Belgium (private),Lower middle income,Africa,1991,3.41
+KEN,Kenya,Belgium (private),Lower middle income,Africa,1990,3.2776
+KEN,Kenya,Belgium (private),Lower middle income,Africa,1989,2.5999
+KEN,Kenya,Belgium (private),Lower middle income,Africa,1988,7.4999
+KEN,Kenya,Bondholders (private),Lower middle income,Africa,2021,6.3
+KEN,Kenya,Bondholders (private),Lower middle income,Africa,2019,7.5714
+KEN,Kenya,Bondholders (private),Lower middle income,Africa,2018,7.75
+KEN,Kenya,Bondholders (private),Lower middle income,Africa,2014,6.6022
+KEN,Kenya,Brazil (private),Lower middle income,Africa,1976,7.0
+KEN,Kenya,Canada (official),Lower middle income,Africa,1993,8.05
+KEN,Kenya,Canada (official),Lower middle income,Africa,1990,8.7021
+KEN,Kenya,Canada (official),Lower middle income,Africa,1989,8.3
+KEN,Kenya,Canada (official),Lower middle income,Africa,1986,9.85
+KEN,Kenya,Canada (official),Lower middle income,Africa,1983,11.0
+KEN,Kenya,Canada (official),Lower middle income,Africa,1977,7.3616
+KEN,Kenya,Canada (private),Lower middle income,Africa,1995,9.0649
+KEN,Kenya,Canada (private),Lower middle income,Africa,1989,9.0649
+KEN,Kenya,Canada (private),Lower middle income,Africa,1986,8.625
+KEN,Kenya,China (official),Lower middle income,Africa,2019,2.0
+KEN,Kenya,China (official),Lower middle income,Africa,2018,3.755
+KEN,Kenya,China (official),Lower middle income,Africa,2017,3.8247
+KEN,Kenya,China (official),Lower middle income,Africa,2016,5.147
+KEN,Kenya,China (official),Lower middle income,Africa,2015,3.6787
+KEN,Kenya,China (official),Lower middle income,Africa,2014,3.8372
+KEN,Kenya,China (official),Lower middle income,Africa,2013,1.3846
+KEN,Kenya,China (official),Lower middle income,Africa,2012,2.0
+KEN,Kenya,China (official),Lower middle income,Africa,2011,1.9595
+KEN,Kenya,China (official),Lower middle income,Africa,2010,1.8873
+KEN,Kenya,China (official),Lower middle income,Africa,2009,2.0
+KEN,Kenya,China (official),Lower middle income,Africa,2008,1.9995
+KEN,Kenya,China (official),Lower middle income,Africa,2007,1.9999
+KEN,Kenya,China (official),Lower middle income,Africa,2006,2.0
+KEN,Kenya,Denmark (official),Lower middle income,Africa,1973,1.2534
+KEN,Kenya,Egypt (official),Lower middle income,Africa,2023,9.146
+KEN,Kenya,European Development Fund (EDF) (official),Lower middle income,Africa,1989,1.0
+KEN,Kenya,European Development Fund (EDF) (official),Lower middle income,Africa,1987,2.0
+KEN,Kenya,European Economic Community (EEC) (official),Lower middle income,Africa,2004,1.0
+KEN,Kenya,European Economic Community (EEC) (official),Lower middle income,Africa,1992,1.0
+KEN,Kenya,European Economic Community (EEC) (official),Lower middle income,Africa,1988,1.0
+KEN,Kenya,European Economic Community (EEC) (official),Lower middle income,Africa,1984,1.0
+KEN,Kenya,European Economic Community (EEC) (official),Lower middle income,Africa,1982,1.0
+KEN,Kenya,European Economic Community (EEC) (official),Lower middle income,Africa,1981,0.75
+KEN,Kenya,European Economic Community (EEC) (official),Lower middle income,Africa,1980,0.75
+KEN,Kenya,European Economic Community (EEC) (official),Lower middle income,Africa,1979,1.0
+KEN,Kenya,European Economic Community (EEC) (official),Lower middle income,Africa,1977,1.0
+KEN,Kenya,European Investment Bank (official),Lower middle income,Africa,2020,0.5
+KEN,Kenya,European Investment Bank (official),Lower middle income,Africa,2017,0.5
+KEN,Kenya,European Investment Bank (official),Lower middle income,Africa,2010,1.7269
+KEN,Kenya,European Investment Bank (official),Lower middle income,Africa,2009,3.0
+KEN,Kenya,European Investment Bank (official),Lower middle income,Africa,2005,2.47
+KEN,Kenya,European Investment Bank (official),Lower middle income,Africa,2004,5.0499
+KEN,Kenya,European Investment Bank (official),Lower middle income,Africa,1999,3.0
+KEN,Kenya,European Investment Bank (official),Lower middle income,Africa,1998,3.0
+KEN,Kenya,European Investment Bank (official),Lower middle income,Africa,1991,5.05
+KEN,Kenya,European Investment Bank (official),Lower middle income,Africa,1989,5.25
+KEN,Kenya,European Investment Bank (official),Lower middle income,Africa,1988,5.0
+KEN,Kenya,European Investment Bank (official),Lower middle income,Africa,1987,5.0
+KEN,Kenya,European Investment Bank (official),Lower middle income,Africa,1985,5.5999
+KEN,Kenya,European Investment Bank (official),Lower middle income,Africa,1982,8.0
+KEN,Kenya,European Investment Bank (official),Lower middle income,Africa,1981,1.9999
+KEN,Kenya,European Investment Bank (official),Lower middle income,Africa,1980,8.0
+KEN,Kenya,European Investment Bank (official),Lower middle income,Africa,1979,6.3
+KEN,Kenya,European Investment Bank (official),Lower middle income,Africa,1978,5.4
+KEN,Kenya,European Investment Bank (official),Lower middle income,Africa,1977,5.1303
+KEN,Kenya,European Investment Bank (official),Lower middle income,Africa,1976,6.0
+KEN,Kenya,Finland (official),Lower middle income,Africa,2013,0.246
+KEN,Kenya,Finland (official),Lower middle income,Africa,1984,0.75
+KEN,Kenya,Finland (official),Lower middle income,Africa,1975,0.75
+KEN,Kenya,Finland (official),Lower middle income,Africa,1974,0.7499
+KEN,Kenya,Finland (private),Lower middle income,Africa,1990,3.544
+KEN,Kenya,Finland (private),Lower middle income,Africa,1989,3.1427
+KEN,Kenya,France (official),Lower middle income,Africa,2022,4.0144
+KEN,Kenya,France (official),Lower middle income,Africa,2021,1.5017
+KEN,Kenya,France (official),Lower middle income,Africa,2020,1.8672
+KEN,Kenya,France (official),Lower middle income,Africa,2019,2.0411
+KEN,Kenya,France (official),Lower middle income,Africa,2018,2.5
+KEN,Kenya,France (official),Lower middle income,Africa,2017,0.7549
+KEN,Kenya,France (official),Lower middle income,Africa,2016,1.2001
+KEN,Kenya,France (official),Lower middle income,Africa,2015,0.046
+KEN,Kenya,France (official),Lower middle income,Africa,2014,0.73
+KEN,Kenya,France (official),Lower middle income,Africa,2013,1.616
+KEN,Kenya,France (official),Lower middle income,Africa,2012,1.0437
+KEN,Kenya,France (official),Lower middle income,Africa,2011,3.6749
+KEN,Kenya,France (official),Lower middle income,Africa,2010,1.8804
+KEN,Kenya,France (official),Lower middle income,Africa,2009,2.2466
+KEN,Kenya,France (official),Lower middle income,Africa,2006,4.8475
+KEN,Kenya,France (official),Lower middle income,Africa,2005,2.4373
+KEN,Kenya,France (official),Lower middle income,Africa,2004,2.9
+KEN,Kenya,France (official),Lower middle income,Africa,2003,2.5
+KEN,Kenya,France (official),Lower middle income,Africa,2002,1.415
+KEN,Kenya,France (official),Lower middle income,Africa,2001,5.4
+KEN,Kenya,France (official),Lower middle income,Africa,2000,2.5341
+KEN,Kenya,France (official),Lower middle income,Africa,1999,2.9861
+KEN,Kenya,France (official),Lower middle income,Africa,1998,5.9999
+KEN,Kenya,France (official),Lower middle income,Africa,1990,2.7999
+KEN,Kenya,France (official),Lower middle income,Africa,1989,3.2181
+KEN,Kenya,France (official),Lower middle income,Africa,1987,2.9
+KEN,Kenya,France (official),Lower middle income,Africa,1986,2.0999
+KEN,Kenya,France (official),Lower middle income,Africa,1985,3.0
+KEN,Kenya,France (official),Lower middle income,Africa,1984,2.9999
+KEN,Kenya,France (official),Lower middle income,Africa,1982,3.0
+KEN,Kenya,France (official),Lower middle income,Africa,1981,3.0
+KEN,Kenya,France (official),Lower middle income,Africa,1977,3.0
+KEN,Kenya,France (private),Lower middle income,Africa,2017,3.6212
+KEN,Kenya,France (private),Lower middle income,Africa,2013,0.3889
+KEN,Kenya,France (private),Lower middle income,Africa,1999,7.0
+KEN,Kenya,France (private),Lower middle income,Africa,1998,0.4603
+KEN,Kenya,France (private),Lower middle income,Africa,1996,7.0
+KEN,Kenya,France (private),Lower middle income,Africa,1991,8.3486
+KEN,Kenya,France (private),Lower middle income,Africa,1990,8.3474
+KEN,Kenya,France (private),Lower middle income,Africa,1989,8.0771
+KEN,Kenya,France (private),Lower middle income,Africa,1988,8.5915
+KEN,Kenya,France (private),Lower middle income,Africa,1987,8.1194
+KEN,Kenya,France (private),Lower middle income,Africa,1986,5.1986
+KEN,Kenya,France (private),Lower middle income,Africa,1985,10.3379
+KEN,Kenya,France (private),Lower middle income,Africa,1984,10.4667
+KEN,Kenya,France (private),Lower middle income,Africa,1983,10.1643
+KEN,Kenya,France (private),Lower middle income,Africa,1982,8.0763
+KEN,Kenya,France (private),Lower middle income,Africa,1981,8.2499
+KEN,Kenya,France (private),Lower middle income,Africa,1979,8.9048
+KEN,Kenya,France (private),Lower middle income,Africa,1978,7.5739
+KEN,Kenya,France (private),Lower middle income,Africa,1976,8.5487
+KEN,Kenya,France (private),Lower middle income,Africa,1975,7.8029
+KEN,Kenya,Germany (official),Lower middle income,Africa,2022,0.5037
+KEN,Kenya,Germany (official),Lower middle income,Africa,2020,0.75
+KEN,Kenya,Germany (official),Lower middle income,Africa,2019,0.75
+KEN,Kenya,Germany (official),Lower middle income,Africa,2018,0.75
+KEN,Kenya,Germany (official),Lower middle income,Africa,2017,2.3393
+KEN,Kenya,Germany (official),Lower middle income,Africa,2015,0.7499
+KEN,Kenya,Germany (official),Lower middle income,Africa,2014,2.9287
+KEN,Kenya,Germany (official),Lower middle income,Africa,2011,2.0881
+KEN,Kenya,Germany (official),Lower middle income,Africa,2010,2.5
+KEN,Kenya,Germany (official),Lower middle income,Africa,2009,0.75
+KEN,Kenya,Germany (official),Lower middle income,Africa,2008,0.7499
+KEN,Kenya,Germany (official),Lower middle income,Africa,2006,0.75
+KEN,Kenya,Germany (official),Lower middle income,Africa,2005,0.8508
+KEN,Kenya,Germany (official),Lower middle income,Africa,2004,0.6987
+KEN,Kenya,Germany (official),Lower middle income,Africa,2003,0.75
+KEN,Kenya,Germany (official),Lower middle income,Africa,2001,0.75
+KEN,Kenya,Germany (official),Lower middle income,Africa,1999,0.7499
+KEN,Kenya,Germany (official),Lower middle income,Africa,1998,0.75
+KEN,Kenya,Germany (official),Lower middle income,Africa,1997,0.7499
+KEN,Kenya,Germany (official),Lower middle income,Africa,1995,3.4651
+KEN,Kenya,Germany (official),Lower middle income,Africa,1991,0.75
+KEN,Kenya,Germany (official),Lower middle income,Africa,1990,0.7499
+KEN,Kenya,Germany (official),Lower middle income,Africa,1989,0.75
+KEN,Kenya,Germany (official),Lower middle income,Africa,1988,6.2083
+KEN,Kenya,Germany (official),Lower middle income,Africa,1987,0.7499
+KEN,Kenya,Germany (official),Lower middle income,Africa,1986,0.7499
+KEN,Kenya,Germany (official),Lower middle income,Africa,1985,0.75
+KEN,Kenya,Germany (official),Lower middle income,Africa,1984,4.0822
+KEN,Kenya,Germany (official),Lower middle income,Africa,1983,8.9999
+KEN,Kenya,Germany (official),Lower middle income,Africa,1982,1.0457
+KEN,Kenya,Germany (official),Lower middle income,Africa,1981,2.6307
+KEN,Kenya,Germany (official),Lower middle income,Africa,1980,0.75
+KEN,Kenya,Germany (official),Lower middle income,Africa,1979,0.8362
+KEN,Kenya,Germany (official),Lower middle income,Africa,1978,0.75
+KEN,Kenya,Germany (official),Lower middle income,Africa,1977,4.8669
+KEN,Kenya,Germany (official),Lower middle income,Africa,1976,5.7496
+KEN,Kenya,Germany (official),Lower middle income,Africa,1975,3.1202
+KEN,Kenya,Germany (official),Lower middle income,Africa,1974,2.0
+KEN,Kenya,Germany (official),Lower middle income,Africa,1973,2.0925
+KEN,Kenya,Germany (official),Lower middle income,Africa,1971,2.7478
+KEN,Kenya,Germany (official),Lower middle income,Africa,1970,2.5
+KEN,Kenya,Germany (private),Lower middle income,Africa,2020,1.4
+KEN,Kenya,Germany (private),Lower middle income,Africa,2017,2.4143
+KEN,Kenya,Germany (private),Lower middle income,Africa,1985,8.75
+KEN,Kenya,Germany (private),Lower middle income,Africa,1983,11.0
+KEN,Kenya,Germany (private),Lower middle income,Africa,1977,8.5
+KEN,Kenya,Germany (private),Lower middle income,Africa,1976,8.1156
+KEN,Kenya,Germany (private),Lower middle income,Africa,1975,11.0
+KEN,Kenya,Germany (private),Lower middle income,Africa,1970,7.0
+KEN,Kenya,India (official),Lower middle income,Africa,2017,1.5
+KEN,Kenya,India (official),Lower middle income,Africa,2016,1.5
+KEN,Kenya,India (official),Lower middle income,Africa,2010,0.9609
+KEN,Kenya,India (official),Lower middle income,Africa,1987,9.25
+KEN,Kenya,India (official),Lower middle income,Africa,1983,5.0
+KEN,Kenya,India (official),Lower middle income,Africa,1979,8.5
+KEN,Kenya,India (official),Lower middle income,Africa,1976,9.0
+KEN,Kenya,India (private),Lower middle income,Africa,1981,7.75
+KEN,Kenya,India (private),Lower middle income,Africa,1976,7.9999
+KEN,Kenya,International Finance Corporation (official),Lower middle income,Africa,1983,10.171
+KEN,Kenya,International Finance Corporation (official),Lower middle income,Africa,1981,10.5
+KEN,Kenya,International Finance Corporation (official),Lower middle income,Africa,1975,10.0
+KEN,Kenya,International Fund for Agricultural Dev. (official),Lower middle income,Africa,2022,0.7499
+KEN,Kenya,International Fund for Agricultural Dev. (official),Lower middle income,Africa,2021,1.2499
+KEN,Kenya,International Fund for Agricultural Dev. (official),Lower middle income,Africa,2020,0.7499
+KEN,Kenya,International Fund for Agricultural Dev. (official),Lower middle income,Africa,2018,0.75
+KEN,Kenya,International Fund for Agricultural Dev. (official),Lower middle income,Africa,2016,0.75
+KEN,Kenya,International Fund for Agricultural Dev. (official),Lower middle income,Africa,2015,0.7499
+KEN,Kenya,International Fund for Agricultural Dev. (official),Lower middle income,Africa,2012,0.75
+KEN,Kenya,International Fund for Agricultural Dev. (official),Lower middle income,Africa,2010,0.75
+KEN,Kenya,International Fund for Agricultural Dev. (official),Lower middle income,Africa,2009,0.75
+KEN,Kenya,International Fund for Agricultural Dev. (official),Lower middle income,Africa,2007,0.7499
+KEN,Kenya,International Fund for Agricultural Dev. (official),Lower middle income,Africa,2006,0.75
+KEN,Kenya,International Fund for Agricultural Dev. (official),Lower middle income,Africa,2004,0.7499
+KEN,Kenya,International Fund for Agricultural Dev. (official),Lower middle income,Africa,2003,0.75
+KEN,Kenya,International Fund for Agricultural Dev. (official),Lower middle income,Africa,2001,0.75
+KEN,Kenya,International Fund for Agricultural Dev. (official),Lower middle income,Africa,1995,0.75
+KEN,Kenya,International Fund for Agricultural Dev. (official),Lower middle income,Africa,1991,1.0
+KEN,Kenya,International Fund for Agricultural Dev. (official),Lower middle income,Africa,1989,1.0
+KEN,Kenya,International Fund for Agricultural Dev. (official),Lower middle income,Africa,1986,1.0
+KEN,Kenya,International Fund for Agricultural Dev. (official),Lower middle income,Africa,1983,1.0
+KEN,Kenya,International Fund for Agricultural Dev. (official),Lower middle income,Africa,1979,1.0
+KEN,Kenya,Iraq (official),Lower middle income,Africa,1980,2.5
+KEN,Kenya,Israel (private),Lower middle income,Africa,2015,2.8343
+KEN,Kenya,Italy (official),Lower middle income,Africa,2022,0.5
+KEN,Kenya,Italy (official),Lower middle income,Africa,1992,0.9893
+KEN,Kenya,Italy (official),Lower middle income,Africa,1988,1.5
+KEN,Kenya,Italy (official),Lower middle income,Africa,1987,1.5
+KEN,Kenya,Italy (official),Lower middle income,Africa,1986,2.5
+KEN,Kenya,Italy (official),Lower middle income,Africa,1983,2.25
+KEN,Kenya,Italy (private),Lower middle income,Africa,2017,3.9227
+KEN,Kenya,Italy (private),Lower middle income,Africa,2015,4.767
+KEN,Kenya,Italy (private),Lower middle income,Africa,1984,4.216
+KEN,Kenya,Italy (private),Lower middle income,Africa,1976,8.75
+KEN,Kenya,Italy (private),Lower middle income,Africa,1973,13.5
+KEN,Kenya,Japan (official),Lower middle income,Africa,2020,0.2508
+KEN,Kenya,Japan (official),Lower middle income,Africa,2019,0.1
+KEN,Kenya,Japan (official),Lower middle income,Africa,2018,1.0
+KEN,Kenya,Japan (official),Lower middle income,Africa,2017,1.7
+KEN,Kenya,Japan (official),Lower middle income,Africa,2016,0.2
+KEN,Kenya,Japan (official),Lower middle income,Africa,2015,0.1166
+KEN,Kenya,Japan (official),Lower middle income,Africa,2012,1.2
+KEN,Kenya,Japan (official),Lower middle income,Africa,2010,0.4504
+KEN,Kenya,Japan (official),Lower middle income,Africa,2007,0.3142
+KEN,Kenya,Japan (official),Lower middle income,Africa,2004,0.75
+KEN,Kenya,Japan (official),Lower middle income,Africa,1997,2.2999
+KEN,Kenya,Japan (official),Lower middle income,Africa,1995,2.5999
+KEN,Kenya,Japan (official),Lower middle income,Africa,1993,2.891
+KEN,Kenya,Japan (official),Lower middle income,Africa,1991,2.5
+KEN,Kenya,Japan (official),Lower middle income,Africa,1990,3.636
+KEN,Kenya,Japan (official),Lower middle income,Africa,1989,2.5
+KEN,Kenya,Japan (official),Lower middle income,Africa,1988,2.9999
+KEN,Kenya,Japan (official),Lower middle income,Africa,1987,3.5
+KEN,Kenya,Japan (official),Lower middle income,Africa,1985,3.7933
+KEN,Kenya,Japan (official),Lower middle income,Africa,1984,3.5
+KEN,Kenya,Japan (official),Lower middle income,Africa,1983,3.4128
+KEN,Kenya,Japan (official),Lower middle income,Africa,1982,3.0
+KEN,Kenya,Japan (official),Lower middle income,Africa,1980,3.0
+KEN,Kenya,Japan (official),Lower middle income,Africa,1978,3.5
+KEN,Kenya,Japan (official),Lower middle income,Africa,1977,4.0
+KEN,Kenya,Japan (official),Lower middle income,Africa,1975,4.2331
+KEN,Kenya,Japan (official),Lower middle income,Africa,1973,4.8759
+KEN,Kenya,Japan (official),Lower middle income,Africa,1971,5.75
+KEN,Kenya,Japan (official),Lower middle income,Africa,1970,5.75
+KEN,Kenya,Japan (private),Lower middle income,Africa,1990,7.55
+KEN,Kenya,Japan (private),Lower middle income,Africa,1989,7.5
+KEN,Kenya,Japan (private),Lower middle income,Africa,1979,7.75
+KEN,Kenya,Japan (private),Lower middle income,Africa,1976,7.5
+KEN,Kenya,Japan (private),Lower middle income,Africa,1975,8.0
+KEN,Kenya,Kuwait (official),Lower middle income,Africa,2018,1.5
+KEN,Kenya,Kuwait (official),Lower middle income,Africa,2012,1.5
+KEN,Kenya,Kuwait (official),Lower middle income,Africa,2010,0.5535
+KEN,Kenya,Kuwait (official),Lower middle income,Africa,2009,0.6333
+KEN,Kenya,Kuwait (official),Lower middle income,Africa,2007,2.0
+KEN,Kenya,Kuwait (official),Lower middle income,Africa,1997,2.5
+KEN,Kenya,Multiple Lenders (private),Lower middle income,Africa,2012,5.4864
+KEN,Kenya,Multiple Lenders (private),Lower middle income,Africa,1979,12.5033
+KEN,Kenya,Netherlands (official),Lower middle income,Africa,2009,3.604
+KEN,Kenya,Netherlands (official),Lower middle income,Africa,1987,2.4999
+KEN,Kenya,Netherlands (official),Lower middle income,Africa,1982,3.9637
+KEN,Kenya,Netherlands (official),Lower middle income,Africa,1980,2.5
+KEN,Kenya,Netherlands (official),Lower middle income,Africa,1978,2.5
+KEN,Kenya,Netherlands (official),Lower middle income,Africa,1977,2.5
+KEN,Kenya,Netherlands (official),Lower middle income,Africa,1976,10.1249
+KEN,Kenya,Netherlands (official),Lower middle income,Africa,1975,2.4999
+KEN,Kenya,Netherlands (official),Lower middle income,Africa,1973,2.5
+KEN,Kenya,Netherlands (official),Lower middle income,Africa,1972,2.5
+KEN,Kenya,Netherlands (official),Lower middle income,Africa,1971,2.5
+KEN,Kenya,Netherlands (private),Lower middle income,Africa,2022,5.7656
+KEN,Kenya,Netherlands (private),Lower middle income,Africa,2010,2.7179
+KEN,Kenya,Netherlands (private),Lower middle income,Africa,1990,8.3
+KEN,Kenya,Netherlands (private),Lower middle income,Africa,1989,8.2625
+KEN,Kenya,Netherlands (private),Lower middle income,Africa,1988,4.5058
+KEN,Kenya,Netherlands (private),Lower middle income,Africa,1987,6.0
+KEN,Kenya,Netherlands (private),Lower middle income,Africa,1984,9.5
+KEN,Kenya,Netherlands (private),Lower middle income,Africa,1976,6.75
+KEN,Kenya,Nordic Development Fund (official),Lower middle income,Africa,2006,0.7499
+KEN,Kenya,Nordic Development Fund (official),Lower middle income,Africa,2004,0.75
+KEN,Kenya,Nordic Investment Bank (official),Lower middle income,Africa,2007,0.7499
+KEN,Kenya,Nordic Investment Bank (official),Lower middle income,Africa,2004,0.7499
+KEN,Kenya,OPEC Fund for International Dev. (official),Lower middle income,Africa,2023,7.6499
+KEN,Kenya,OPEC Fund for International Dev. (official),Lower middle income,Africa,2021,1.75
+KEN,Kenya,OPEC Fund for International Dev. (official),Lower middle income,Africa,2016,1.6982
+KEN,Kenya,OPEC Fund for International Dev. (official),Lower middle income,Africa,2013,2.7469
+KEN,Kenya,OPEC Fund for International Dev. (official),Lower middle income,Africa,2011,2.5
+KEN,Kenya,OPEC Fund for International Dev. (official),Lower middle income,Africa,2010,1.0203
+KEN,Kenya,OPEC Fund for International Dev. (official),Lower middle income,Africa,2009,1.1184
+KEN,Kenya,OPEC Fund for International Dev. (official),Lower middle income,Africa,2007,1.25
+KEN,Kenya,OPEC Fund for International Dev. (official),Lower middle income,Africa,2006,1.0
+KEN,Kenya,OPEC Fund for International Dev. (official),Lower middle income,Africa,2005,1.0
+KEN,Kenya,OPEC Fund for International Dev. (official),Lower middle income,Africa,2002,0.9999
+KEN,Kenya,OPEC Fund for International Dev. (official),Lower middle income,Africa,2001,1.0
+KEN,Kenya,OPEC Fund for International Dev. (official),Lower middle income,Africa,1998,2.0
+KEN,Kenya,OPEC Fund for International Dev. (official),Lower middle income,Africa,1986,2.2689
+KEN,Kenya,OPEC Fund for International Dev. (official),Lower middle income,Africa,1985,3.0
+KEN,Kenya,OPEC Fund for International Dev. (official),Lower middle income,Africa,1984,2.0
+KEN,Kenya,OPEC Fund for International Dev. (official),Lower middle income,Africa,1981,0.375
+KEN,Kenya,OPEC Fund for International Dev. (official),Lower middle income,Africa,1980,0.75
+KEN,Kenya,OPEC Fund for International Dev. (official),Lower middle income,Africa,1978,0.75
+KEN,Kenya,OPEC Fund for International Dev. (official),Lower middle income,Africa,1977,0.5937
+KEN,Kenya,Saudi Arabia (official),Lower middle income,Africa,2021,1.0
+KEN,Kenya,Saudi Arabia (official),Lower middle income,Africa,2017,1.0
+KEN,Kenya,Saudi Arabia (official),Lower middle income,Africa,2013,1.0
+KEN,Kenya,Saudi Arabia (official),Lower middle income,Africa,2009,1.0
+KEN,Kenya,Saudi Arabia (official),Lower middle income,Africa,2007,1.9999
+KEN,Kenya,Saudi Arabia (official),Lower middle income,Africa,1999,2.9999
+KEN,Kenya,Saudi Arabia (official),Lower middle income,Africa,1985,1.0
+KEN,Kenya,Saudi Arabia (official),Lower middle income,Africa,1984,2.9999
+KEN,Kenya,Saudi Arabia (official),Lower middle income,Africa,1982,2.9999
+KEN,Kenya,Saudi Arabia (official),Lower middle income,Africa,1981,3.0
+KEN,Kenya,Saudi Arabia (official),Lower middle income,Africa,1980,3.0
+KEN,Kenya,Saudi Arabia (official),Lower middle income,Africa,1978,3.0
+KEN,Kenya,Serbia (official),Lower middle income,Africa,1984,8.0
+KEN,Kenya,South Africa (official),Lower middle income,Africa,2023,12.2003
+KEN,Kenya,South Africa (official),Lower middle income,Africa,2022,6.4208
+KEN,Kenya,South Africa (official),Lower middle income,Africa,2019,3.9351
+KEN,Kenya,South Africa (official),Lower middle income,Africa,2018,8.9512
+KEN,Kenya,South Africa (official),Lower middle income,Africa,2017,8.1743
+KEN,Kenya,South Africa (official),Lower middle income,Africa,2016,6.5176
+KEN,Kenya,South Africa (private),Lower middle income,Africa,2023,9.6258
+KEN,Kenya,South Korea (official),Lower middle income,Africa,2021,0.1
+KEN,Kenya,South Korea (official),Lower middle income,Africa,2017,0.0999
+KEN,Kenya,South Korea (official),Lower middle income,Africa,2009,0.1465
+KEN,Kenya,South Korea (official),Lower middle income,Africa,2005,1.0
+KEN,Kenya,South Korea (official),Lower middle income,Africa,1994,3.5
+KEN,Kenya,Spain (official),Lower middle income,Africa,2019,0.2
+KEN,Kenya,Spain (official),Lower middle income,Africa,2017,1.0399
+KEN,Kenya,Spain (official),Lower middle income,Africa,2015,1.0399
+KEN,Kenya,Spain (official),Lower middle income,Africa,2014,0.9176
+KEN,Kenya,Spain (official),Lower middle income,Africa,2013,2.0
+KEN,Kenya,Spain (official),Lower middle income,Africa,2012,0.5
+KEN,Kenya,Spain (official),Lower middle income,Africa,2007,1.1
+KEN,Kenya,Spain (official),Lower middle income,Africa,2006,1.1
+KEN,Kenya,Spain (official),Lower middle income,Africa,2001,0.3
+KEN,Kenya,Spain (official),Lower middle income,Africa,2000,0.3
+KEN,Kenya,Spain (official),Lower middle income,Africa,1998,1.0
+KEN,Kenya,Spain (official),Lower middle income,Africa,1997,2.7614
+KEN,Kenya,Spain (private),Lower middle income,Africa,2020,1.5132
+KEN,Kenya,Spain (private),Lower middle income,Africa,2013,4.273
+KEN,Kenya,Spain (private),Lower middle income,Africa,2003,3.0
+KEN,Kenya,Spain (private),Lower middle income,Africa,2001,5.0
+KEN,Kenya,Spain (private),Lower middle income,Africa,2000,7.4899
+KEN,Kenya,Spain (private),Lower middle income,Africa,1998,5.0331
+KEN,Kenya,Spain (private),Lower middle income,Africa,1997,6.1999
+KEN,Kenya,Spain (private),Lower middle income,Africa,1995,3.75
+KEN,Kenya,Spain (private),Lower middle income,Africa,1989,6.275
+KEN,Kenya,Sweden (official),Lower middle income,Africa,1989,3.7499
+KEN,Kenya,Sweden (official),Lower middle income,Africa,1984,3.75
+KEN,Kenya,Sweden (official),Lower middle income,Africa,1974,0.4326
+KEN,Kenya,Sweden (official),Lower middle income,Africa,1973,0.9796
+KEN,Kenya,Sweden (official),Lower middle income,Africa,1972,1.2401
+KEN,Kenya,Sweden (official),Lower middle income,Africa,1971,7.9999
+KEN,Kenya,Sweden (official),Lower middle income,Africa,1970,2.1462
+KEN,Kenya,Sweden (private),Lower middle income,Africa,1989,1.4999
+KEN,Kenya,Sweden (private),Lower middle income,Africa,1986,3.0
+KEN,Kenya,Switzerland (official),Lower middle income,Africa,1995,3.9999
+KEN,Kenya,Switzerland (official),Lower middle income,Africa,1973,2.0
+KEN,Kenya,Switzerland (private),Lower middle income,Africa,2015,0.6999
+KEN,Kenya,Switzerland (private),Lower middle income,Africa,2002,3.4147
+KEN,Kenya,Switzerland (private),Lower middle income,Africa,1995,3.75
+KEN,Kenya,Switzerland (private),Lower middle income,Africa,1987,6.7499
+KEN,Kenya,Switzerland (private),Lower middle income,Africa,1984,6.9699
+KEN,Kenya,Switzerland (private),Lower middle income,Africa,1983,7.5
+KEN,Kenya,Switzerland (private),Lower middle income,Africa,1982,7.5523
+KEN,Kenya,Switzerland (private),Lower middle income,Africa,1978,7.5528
+KEN,Kenya,United Arab Emirates (official),Lower middle income,Africa,2022,1.5
+KEN,Kenya,United Arab Emirates (official),Lower middle income,Africa,2013,2.4999
+KEN,Kenya,United Arab Emirates (official),Lower middle income,Africa,2010,1.9999
+KEN,Kenya,United Arab Emirates (official),Lower middle income,Africa,1985,3.0
+KEN,Kenya,United Arab Emirates (private),Lower middle income,Africa,1998,9.1999
+KEN,Kenya,United Arab Emirates (private),Lower middle income,Africa,1995,9.1999
+KEN,Kenya,United Kingdom (official),Lower middle income,Africa,2001,7.1999
+KEN,Kenya,United Kingdom (official),Lower middle income,Africa,1989,8.2808
+KEN,Kenya,United Kingdom (official),Lower middle income,Africa,1987,8.5
+KEN,Kenya,United Kingdom (official),Lower middle income,Africa,1984,9.5
+KEN,Kenya,United Kingdom (official),Lower middle income,Africa,1983,10.4999
+KEN,Kenya,United Kingdom (official),Lower middle income,Africa,1981,7.4999
+KEN,Kenya,United Kingdom (official),Lower middle income,Africa,1980,7.6497
+KEN,Kenya,United Kingdom (official),Lower middle income,Africa,1979,7.0
+KEN,Kenya,United Kingdom (official),Lower middle income,Africa,1978,9.0327
+KEN,Kenya,United Kingdom (official),Lower middle income,Africa,1977,8.5
+KEN,Kenya,United Kingdom (official),Lower middle income,Africa,1976,8.3258
+KEN,Kenya,United Kingdom (official),Lower middle income,Africa,1975,4.9999
+KEN,Kenya,United Kingdom (official),Lower middle income,Africa,1974,3.9598
+KEN,Kenya,United Kingdom (official),Lower middle income,Africa,1973,8.2622
+KEN,Kenya,United Kingdom (official),Lower middle income,Africa,1972,8.0145
+KEN,Kenya,United Kingdom (official),Lower middle income,Africa,1971,2.4397
+KEN,Kenya,United Kingdom (official),Lower middle income,Africa,1970,2.6794
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,2017,6.7176
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,2015,5.7515
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,2012,2.539
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,2002,4.3152
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,2001,4.9279
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1998,6.8129
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1995,4.2855
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1992,1.83
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1991,8.6472
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1990,8.4052
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1989,7.8513
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1988,8.4121
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1987,7.7058
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1986,7.9954
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1985,8.8275
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1984,9.4127
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1983,9.4999
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1982,7.6947
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1981,16.8483
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1980,8.0
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1979,7.5
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1978,7.5
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1977,7.5081
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1976,7.5
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1975,8.9256
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1974,5.9999
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1973,8.4411
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1972,6.068
+KEN,Kenya,United Kingdom (private),Lower middle income,Africa,1971,7.1174
+KEN,Kenya,United States (official),Lower middle income,Africa,2017,2.67
+KEN,Kenya,United States (official),Lower middle income,Africa,2004,2.6849
+KEN,Kenya,United States (official),Lower middle income,Africa,2000,6.8309
+KEN,Kenya,United States (official),Lower middle income,Africa,1991,8.3
+KEN,Kenya,United States (official),Lower middle income,Africa,1988,5.9059
+KEN,Kenya,United States (official),Lower middle income,Africa,1987,5.9466
+KEN,Kenya,United States (official),Lower middle income,Africa,1986,2.744
+KEN,Kenya,United States (official),Lower middle income,Africa,1985,2.0
+KEN,Kenya,United States (official),Lower middle income,Africa,1984,4.179
+KEN,Kenya,United States (official),Lower middle income,Africa,1983,5.2935
+KEN,Kenya,United States (official),Lower middle income,Africa,1982,6.027
+KEN,Kenya,United States (official),Lower middle income,Africa,1981,6.1906
+KEN,Kenya,United States (official),Lower middle income,Africa,1980,5.5561
+KEN,Kenya,United States (official),Lower middle income,Africa,1978,3.9761
+KEN,Kenya,United States (official),Lower middle income,Africa,1977,3.1105
+KEN,Kenya,United States (official),Lower middle income,Africa,1976,9.0
+KEN,Kenya,United States (official),Lower middle income,Africa,1975,5.8839
+KEN,Kenya,United States (official),Lower middle income,Africa,1974,2.765
+KEN,Kenya,United States (official),Lower middle income,Africa,1973,2.5329
+KEN,Kenya,United States (official),Lower middle income,Africa,1972,6.0
+KEN,Kenya,United States (official),Lower middle income,Africa,1970,2.8118
+KEN,Kenya,United States (private),Lower middle income,Africa,2002,4.8699
+KEN,Kenya,United States (private),Lower middle income,Africa,1998,6.0
+KEN,Kenya,United States (private),Lower middle income,Africa,1997,4.0
+KEN,Kenya,United States (private),Lower middle income,Africa,1995,9.0
+KEN,Kenya,United States (private),Lower middle income,Africa,1990,8.902
+KEN,Kenya,United States (private),Lower middle income,Africa,1988,10.0
+KEN,Kenya,United States (private),Lower middle income,Africa,1986,12.5
+KEN,Kenya,United States (private),Lower middle income,Africa,1985,7.4091
+KEN,Kenya,United States (private),Lower middle income,Africa,1978,9.3521
+KEN,Kenya,United States (private),Lower middle income,Africa,1977,9.0
+KEN,Kenya,United States (private),Lower middle income,Africa,1976,9.1048
+KEN,Kenya,United States (private),Lower middle income,Africa,1975,9.0
+KEN,Kenya,United States (private),Lower middle income,Africa,1973,8.3198
+KEN,Kenya,United States (private),Lower middle income,Africa,1972,6.9311
+KEN,Kenya,United States (private),Lower middle income,Africa,1971,7.0
+KEN,Kenya,World (official),Lower middle income,Africa,2023,4.1498
+KEN,Kenya,World (official),Lower middle income,Africa,2022,1.9934
+KEN,Kenya,World (official),Lower middle income,Africa,2021,1.6275
+KEN,Kenya,World (official),Lower middle income,Africa,2020,1.3976
+KEN,Kenya,World (official),Lower middle income,Africa,2019,2.306
+KEN,Kenya,World (official),Lower middle income,Africa,2018,3.0501
+KEN,Kenya,World (official),Lower middle income,Africa,2017,3.4445
+KEN,Kenya,World (official),Lower middle income,Africa,2016,2.6881
+KEN,Kenya,World (official),Lower middle income,Africa,2015,2.0756
+KEN,Kenya,World (official),Lower middle income,Africa,2014,3.2837
+KEN,Kenya,World (official),Lower middle income,Africa,2013,1.1419
+KEN,Kenya,World (official),Lower middle income,Africa,2012,0.98
+KEN,Kenya,World (official),Lower middle income,Africa,2011,1.4325
+KEN,Kenya,World (official),Lower middle income,Africa,2010,0.9787
+KEN,Kenya,World (official),Lower middle income,Africa,2009,1.3151
+KEN,Kenya,World (official),Lower middle income,Africa,2008,1.2229
+KEN,Kenya,World (official),Lower middle income,Africa,2007,0.724
+KEN,Kenya,World (official),Lower middle income,Africa,2006,1.7354
+KEN,Kenya,World (official),Lower middle income,Africa,2005,1.4661
+KEN,Kenya,World (official),Lower middle income,Africa,2004,0.8402
+KEN,Kenya,World (official),Lower middle income,Africa,2003,1.4314
+KEN,Kenya,World (official),Lower middle income,Africa,2002,0.9343
+KEN,Kenya,World (official),Lower middle income,Africa,2001,1.8099
+KEN,Kenya,World (official),Lower middle income,Africa,2000,1.2666
+KEN,Kenya,World (official),Lower middle income,Africa,1999,2.0279
+KEN,Kenya,World (official),Lower middle income,Africa,1998,1.692
+KEN,Kenya,World (official),Lower middle income,Africa,1997,1.6195
+KEN,Kenya,World (official),Lower middle income,Africa,1996,0.7073
+KEN,Kenya,World (official),Lower middle income,Africa,1995,2.0732
+KEN,Kenya,World (official),Lower middle income,Africa,1994,0.7505
+KEN,Kenya,World (official),Lower middle income,Africa,1993,2.2574
+KEN,Kenya,World (official),Lower middle income,Africa,1992,0.7849
+KEN,Kenya,World (official),Lower middle income,Africa,1991,2.1124
+KEN,Kenya,World (official),Lower middle income,Africa,1990,3.0588
+KEN,Kenya,World (official),Lower middle income,Africa,1989,2.1572
+KEN,Kenya,World (official),Lower middle income,Africa,1988,2.1623
+KEN,Kenya,World (official),Lower middle income,Africa,1987,2.4488
+KEN,Kenya,World (official),Lower middle income,Africa,1986,3.5012
+KEN,Kenya,World (official),Lower middle income,Africa,1985,4.1176
+KEN,Kenya,World (official),Lower middle income,Africa,1984,5.5118
+KEN,Kenya,World (official),Lower middle income,Africa,1983,5.5575
+KEN,Kenya,World (official),Lower middle income,Africa,1982,5.0323
+KEN,Kenya,World (official),Lower middle income,Africa,1981,5.3785
+KEN,Kenya,World (official),Lower middle income,Africa,1980,3.4603
+KEN,Kenya,World (official),Lower middle income,Africa,1979,4.0163
+KEN,Kenya,World (official),Lower middle income,Africa,1978,4.3582
+KEN,Kenya,World (official),Lower middle income,Africa,1977,4.6805
+KEN,Kenya,World (official),Lower middle income,Africa,1976,4.4985
+KEN,Kenya,World (official),Lower middle income,Africa,1975,6.5358
+KEN,Kenya,World (official),Lower middle income,Africa,1974,2.5689
+KEN,Kenya,World (official),Lower middle income,Africa,1973,4.155
+KEN,Kenya,World (official),Lower middle income,Africa,1972,3.4481
+KEN,Kenya,World (official),Lower middle income,Africa,1971,4.9303
+KEN,Kenya,World (official),Lower middle income,Africa,1970,2.3583
+KEN,Kenya,World (private),Lower middle income,Africa,2023,9.6258
+KEN,Kenya,World (private),Lower middle income,Africa,2022,5.7656
+KEN,Kenya,World (private),Lower middle income,Africa,2021,5.9088
+KEN,Kenya,World (private),Lower middle income,Africa,2020,1.4761
+KEN,Kenya,World (private),Lower middle income,Africa,2019,7.5714
+KEN,Kenya,World (private),Lower middle income,Africa,2018,7.75
+KEN,Kenya,World (private),Lower middle income,Africa,2017,4.7641
+KEN,Kenya,World (private),Lower middle income,Africa,2016,1.0969
+KEN,Kenya,World (private),Lower middle income,Africa,2015,4.8389
+KEN,Kenya,World (private),Lower middle income,Africa,2014,6.5796
+KEN,Kenya,World (private),Lower middle income,Africa,2013,3.1113
+KEN,Kenya,World (private),Lower middle income,Africa,2012,5.1255
+KEN,Kenya,World (private),Lower middle income,Africa,2011,4.13
+KEN,Kenya,World (private),Lower middle income,Africa,2010,2.7179
+KEN,Kenya,World (private),Lower middle income,Africa,2009,3.8599
+KEN,Kenya,World (private),Lower middle income,Africa,2008,4.1999
+KEN,Kenya,World (private),Lower middle income,Africa,2003,3.0
+KEN,Kenya,World (private),Lower middle income,Africa,2002,4.138
+KEN,Kenya,World (private),Lower middle income,Africa,2001,4.9306
+KEN,Kenya,World (private),Lower middle income,Africa,2000,7.4899
+KEN,Kenya,World (private),Lower middle income,Africa,1999,7.0
+KEN,Kenya,World (private),Lower middle income,Africa,1998,4.8714
+KEN,Kenya,World (private),Lower middle income,Africa,1997,4.3332
+KEN,Kenya,World (private),Lower middle income,Africa,1996,6.5353
+KEN,Kenya,World (private),Lower middle income,Africa,1995,4.7583
+KEN,Kenya,World (private),Lower middle income,Africa,1992,1.83
+KEN,Kenya,World (private),Lower middle income,Africa,1991,8.1408
+KEN,Kenya,World (private),Lower middle income,Africa,1990,7.4324
+KEN,Kenya,World (private),Lower middle income,Africa,1989,7.3541
+KEN,Kenya,World (private),Lower middle income,Africa,1988,7.7474
+KEN,Kenya,World (private),Lower middle income,Africa,1987,7.6617
+KEN,Kenya,World (private),Lower middle income,Africa,1986,7.0231
+KEN,Kenya,World (private),Lower middle income,Africa,1985,9.4968
+KEN,Kenya,World (private),Lower middle income,Africa,1984,8.3728
+KEN,Kenya,World (private),Lower middle income,Africa,1983,9.1674
+KEN,Kenya,World (private),Lower middle income,Africa,1982,7.745
+KEN,Kenya,World (private),Lower middle income,Africa,1981,15.7652
+KEN,Kenya,World (private),Lower middle income,Africa,1980,8.0
+KEN,Kenya,World (private),Lower middle income,Africa,1979,10.7676
+KEN,Kenya,World (private),Lower middle income,Africa,1978,7.6752
+KEN,Kenya,World (private),Lower middle income,Africa,1977,7.6423
+KEN,Kenya,World (private),Lower middle income,Africa,1976,8.0305
+KEN,Kenya,World (private),Lower middle income,Africa,1975,7.9663
+KEN,Kenya,World (private),Lower middle income,Africa,1974,5.9999
+KEN,Kenya,World (private),Lower middle income,Africa,1973,11.4543
+KEN,Kenya,World (private),Lower middle income,Africa,1972,6.6737
+KEN,Kenya,World (private),Lower middle income,Africa,1971,7.0724
+KEN,Kenya,World (private),Lower middle income,Africa,1970,7.0
+KEN,Kenya,World Bank-IBRD (official),Lower middle income,Africa,2023,6.13
+KEN,Kenya,World Bank-IBRD (official),Lower middle income,Africa,2022,1.2575
+KEN,Kenya,World Bank-IBRD (official),Lower middle income,Africa,2020,1.9097
+KEN,Kenya,World Bank-IBRD (official),Lower middle income,Africa,2019,0.9499
+KEN,Kenya,World Bank-IBRD (official),Lower middle income,Africa,1986,8.5
+KEN,Kenya,World Bank-IBRD (official),Lower middle income,Africa,1984,10.0799
+KEN,Kenya,World Bank-IBRD (official),Lower middle income,Africa,1983,10.47
+KEN,Kenya,World Bank-IBRD (official),Lower middle income,Africa,1982,11.6
+KEN,Kenya,World Bank-IBRD (official),Lower middle income,Africa,1981,9.6
+KEN,Kenya,World Bank-IBRD (official),Lower middle income,Africa,1980,8.0785
+KEN,Kenya,World Bank-IBRD (official),Lower middle income,Africa,1979,7.0
+KEN,Kenya,World Bank-IBRD (official),Lower middle income,Africa,1978,7.3932
+KEN,Kenya,World Bank-IBRD (official),Lower middle income,Africa,1977,8.069
+KEN,Kenya,World Bank-IBRD (official),Lower middle income,Africa,1976,5.3661
+KEN,Kenya,World Bank-IBRD (official),Lower middle income,Africa,1975,8.5
+KEN,Kenya,World Bank-IBRD (official),Lower middle income,Africa,1974,7.25
+KEN,Kenya,World Bank-IBRD (official),Lower middle income,Africa,1973,7.25
+KEN,Kenya,World Bank-IBRD (official),Lower middle income,Africa,1972,7.25
+KEN,Kenya,World Bank-IBRD (official),Lower middle income,Africa,1971,7.25
+KEN,Kenya,World Bank-IBRD (official),Lower middle income,Africa,1970,7.25
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2023,1.2205
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2022,1.4512
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2021,1.9324
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2020,1.6074
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2019,1.8375
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2018,1.4064
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2017,1.6343
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2016,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2015,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2014,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2013,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2012,0.7499
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2011,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2010,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2009,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2008,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2007,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2006,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2004,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2003,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2002,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2001,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,2000,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1998,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1997,0.5
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1996,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1995,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1994,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1993,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1992,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1991,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1990,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1989,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1988,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1987,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1986,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1985,0.7499
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1984,0.7499
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1983,0.7499
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1982,0.7499
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1981,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1980,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1979,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1978,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1977,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1976,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1975,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1974,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1972,0.75
+KEN,Kenya,World Bank-IDA (official),Lower middle income,Africa,1970,0.75

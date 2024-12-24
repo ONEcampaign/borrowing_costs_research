@@ -1,203 +1,203 @@
-entity_code,entity_name,counterpart_name,income_level,continent,indicator_code,year,value
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2023,1.0
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2022,0.75
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2021,0.75
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2020,0.7499
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2018,0.7499
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2017,0.7499
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2016,0.75
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2015,0.75
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2014,0.7499
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2013,0.75
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2012,0.5
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1990,3.9999
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1985,9.5
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1984,6.1984
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1983,9.5
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1982,0.75
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1981,8.5
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1979,8.0
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1978,7.9999
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1977,6.6019
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1975,7.0
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1974,7.0
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1973,7.0
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1972,6.9999
-LBR,Liberia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1970,7.0
-LBR,Liberia,African Export-Import Bank,Low income,Africa,DT.INR.OFFT,2018,7.0
-LBR,Liberia,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2014,1.0
-LBR,Liberia,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2013,0.5
-LBR,Liberia,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1978,6.1011
-LBR,Liberia,Canada,Low income,Africa,DT.INR.OFFT,1978,8.0
-LBR,Liberia,China,Low income,Africa,DT.INR.OFFT,2016,1.9999
-LBR,Liberia,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,2019,2.25
-LBR,Liberia,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,1986,7.5
-LBR,Liberia,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,1984,7.4999
-LBR,Liberia,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1977,1.0
-LBR,Liberia,European Economic Community (EEC),Low income,Africa,DT.INR.OFFT,1979,0.75
-LBR,Liberia,European Investment Bank,Low income,Africa,DT.INR.OFFT,2012,1.4299
-LBR,Liberia,European Investment Bank,Low income,Africa,DT.INR.OFFT,1984,7.0999
-LBR,Liberia,European Investment Bank,Low income,Africa,DT.INR.OFFT,1981,6.3
-LBR,Liberia,European Investment Bank,Low income,Africa,DT.INR.OFFT,1978,5.7734
-LBR,Liberia,Finland,Low income,Africa,DT.INR.OFFT,1981,2.0
-LBR,Liberia,France,Low income,Africa,DT.INR.OFFT,1983,4.4999
-LBR,Liberia,France,Low income,Africa,DT.INR.PRVT,1983,10.2096
-LBR,Liberia,France,Low income,Africa,DT.INR.OFFT,1982,5.5
-LBR,Liberia,Germany,Low income,Africa,DT.INR.OFFT,1984,2.0
-LBR,Liberia,Germany,Low income,Africa,DT.INR.OFFT,1983,2.0
-LBR,Liberia,Germany,Low income,Africa,DT.INR.OFFT,1982,1.9999
-LBR,Liberia,Germany,Low income,Africa,DT.INR.OFFT,1980,2.0
-LBR,Liberia,Germany,Low income,Africa,DT.INR.OFFT,1979,2.0
-LBR,Liberia,Germany,Low income,Africa,DT.INR.OFFT,1978,2.0
-LBR,Liberia,Germany,Low income,Africa,DT.INR.PRVT,1978,13.8699
-LBR,Liberia,Germany,Low income,Africa,DT.INR.OFFT,1977,1.9999
-LBR,Liberia,Germany,Low income,Africa,DT.INR.OFFT,1976,2.0
-LBR,Liberia,Germany,Low income,Africa,DT.INR.OFFT,1974,2.0
-LBR,Liberia,Germany,Low income,Africa,DT.INR.OFFT,1972,2.9999
-LBR,Liberia,India,Low income,Africa,DT.INR.OFFT,2013,1.75
-LBR,Liberia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2016,0.7499
-LBR,Liberia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2012,0.7499
-LBR,Liberia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1984,1.0
-LBR,Liberia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1981,4.0
-LBR,Liberia,Israel,Low income,Africa,DT.INR.PRVT,2023,4.02
-LBR,Liberia,Italy,Low income,Africa,DT.INR.PRVT,1977,9.0
-LBR,Liberia,Italy,Low income,Africa,DT.INR.OFFT,1975,8.5
-LBR,Liberia,Italy,Low income,Africa,DT.INR.PRVT,1970,6.0
-LBR,Liberia,Japan,Low income,Africa,DT.INR.OFFT,1979,4.0
-LBR,Liberia,Japan,Low income,Africa,DT.INR.PRVT,1979,8.0
-LBR,Liberia,Japan,Low income,Africa,DT.INR.OFFT,1976,4.0
-LBR,Liberia,Kuwait,Low income,Africa,DT.INR.OFFT,2019,1.4999
-LBR,Liberia,Kuwait,Low income,Africa,DT.INR.OFFT,2016,1.5
-LBR,Liberia,Kuwait,Low income,Africa,DT.INR.OFFT,2012,1.5
-LBR,Liberia,Kuwait,Low income,Africa,DT.INR.OFFT,1978,3.5
-LBR,Liberia,Multiple Lenders,Low income,Africa,DT.INR.PRVT,1978,13.6199
-LBR,Liberia,Multiple Lenders,Low income,Africa,DT.INR.PRVT,1977,7.9349
-LBR,Liberia,Multiple Lenders,Low income,Africa,DT.INR.OFFT,1974,5.0
-LBR,Liberia,Netherlands,Low income,Africa,DT.INR.PRVT,1983,8.7499
-LBR,Liberia,Norway,Low income,Africa,DT.INR.PRVT,1976,8.25
-LBR,Liberia,Norway,Low income,Africa,DT.INR.PRVT,1975,8.0
-LBR,Liberia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2022,1.0
-LBR,Liberia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2016,1.0
-LBR,Liberia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2010,0.3
-LBR,Liberia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1982,0.75
-LBR,Liberia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1980,4.0
-LBR,Liberia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1978,4.0
-LBR,Liberia,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2017,1.0
-LBR,Liberia,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2015,1.0
-LBR,Liberia,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1982,2.0
-LBR,Liberia,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1981,2.0
-LBR,Liberia,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1978,2.0
-LBR,Liberia,Sweden,Low income,Africa,DT.INR.PRVT,1980,6.0
-LBR,Liberia,Sweden,Low income,Africa,DT.INR.PRVT,1979,3.9607
-LBR,Liberia,Sweden,Low income,Africa,DT.INR.PRVT,1976,10.0
-LBR,Liberia,Switzerland,Low income,Africa,DT.INR.PRVT,1981,8.0
-LBR,Liberia,Switzerland,Low income,Africa,DT.INR.PRVT,1970,8.0
-LBR,Liberia,United Kingdom,Low income,Africa,DT.INR.OFFT,1979,7.6176
-LBR,Liberia,United Kingdom,Low income,Africa,DT.INR.OFFT,1978,7.25
-LBR,Liberia,United Kingdom,Low income,Africa,DT.INR.PRVT,1978,7.5
-LBR,Liberia,United Kingdom,Low income,Africa,DT.INR.PRVT,1977,8.2966
-LBR,Liberia,United Kingdom,Low income,Africa,DT.INR.OFFT,1976,7.1
-LBR,Liberia,United Kingdom,Low income,Africa,DT.INR.PRVT,1975,7.0
-LBR,Liberia,United Kingdom,Low income,Africa,DT.INR.PRVT,1973,6.0
-LBR,Liberia,United States,Low income,Africa,DT.INR.OFFT,1987,2.5777
-LBR,Liberia,United States,Low income,Africa,DT.INR.OFFT,1985,2.6458
-LBR,Liberia,United States,Low income,Africa,DT.INR.OFFT,1983,5.0101
-LBR,Liberia,United States,Low income,Africa,DT.INR.OFFT,1982,4.6095
-LBR,Liberia,United States,Low income,Africa,DT.INR.PRVT,1982,18.625
-LBR,Liberia,United States,Low income,Africa,DT.INR.OFFT,1981,5.8373
-LBR,Liberia,United States,Low income,Africa,DT.INR.OFFT,1980,5.3586
-LBR,Liberia,United States,Low income,Africa,DT.INR.PRVT,1980,18.625
-LBR,Liberia,United States,Low income,Africa,DT.INR.OFFT,1979,3.8415
-LBR,Liberia,United States,Low income,Africa,DT.INR.PRVT,1979,12.8149
-LBR,Liberia,United States,Low income,Africa,DT.INR.OFFT,1978,5.6671
-LBR,Liberia,United States,Low income,Africa,DT.INR.PRVT,1978,10.7062
-LBR,Liberia,United States,Low income,Africa,DT.INR.OFFT,1977,3.2419
-LBR,Liberia,United States,Low income,Africa,DT.INR.OFFT,1976,6.9946
-LBR,Liberia,United States,Low income,Africa,DT.INR.OFFT,1975,3.657
-LBR,Liberia,United States,Low income,Africa,DT.INR.OFFT,1974,6.0
-LBR,Liberia,United States,Low income,Africa,DT.INR.OFFT,1973,2.7627
-LBR,Liberia,United States,Low income,Africa,DT.INR.PRVT,1973,8.6035
-LBR,Liberia,United States,Low income,Africa,DT.INR.OFFT,1972,3.4257
-LBR,Liberia,United States,Low income,Africa,DT.INR.OFFT,1971,6.9766
-LBR,Liberia,United States,Low income,Africa,DT.INR.OFFT,1970,2.8631
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,2023,0.7676
-LBR,Liberia,World,Low income,Africa,DT.INR.PRVT,2023,4.02
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,2022,0.7763
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,2021,1.0078
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,2020,0.8041
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,2019,1.1818
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,2018,3.7859
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,2017,0.7895
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,2016,1.2144
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,2015,0.7928
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,2014,0.7694
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,2013,1.1767
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,2012,0.9055
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,2011,0.75
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,2010,0.5556
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,1990,3.9999
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,1987,2.5777
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,1986,0.7918
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,1985,4.9321
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,1984,4.6639
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,1983,4.9304
-LBR,Liberia,World,Low income,Africa,DT.INR.PRVT,1983,9.6777
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,1982,3.5552
-LBR,Liberia,World,Low income,Africa,DT.INR.PRVT,1982,18.625
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,1981,5.8183
-LBR,Liberia,World,Low income,Africa,DT.INR.PRVT,1981,8.0
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,1980,5.2544
-LBR,Liberia,World,Low income,Africa,DT.INR.PRVT,1980,12.6471
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,1979,5.3797
-LBR,Liberia,World,Low income,Africa,DT.INR.PRVT,1979,6.528
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,1978,4.1784
-LBR,Liberia,World,Low income,Africa,DT.INR.PRVT,1978,12.0795
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,1977,4.016
-LBR,Liberia,World,Low income,Africa,DT.INR.PRVT,1977,8.0492
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,1976,4.7139
-LBR,Liberia,World,Low income,Africa,DT.INR.PRVT,1976,8.3364
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,1975,6.5165
-LBR,Liberia,World,Low income,Africa,DT.INR.PRVT,1975,7.3462
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,1974,4.5688
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,1973,3.9042
-LBR,Liberia,World,Low income,Africa,DT.INR.PRVT,1973,6.2074
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,1972,2.5825
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,1971,7.1443
-LBR,Liberia,World,Low income,Africa,DT.INR.OFFT,1970,6.3901
-LBR,Liberia,World,Low income,Africa,DT.INR.PRVT,1970,7.8572
-LBR,Liberia,World Bank-IBRD,Low income,Africa,DT.INR.OFFT,1982,11.6
-LBR,Liberia,World Bank-IBRD,Low income,Africa,DT.INR.OFFT,1980,9.25
-LBR,Liberia,World Bank-IBRD,Low income,Africa,DT.INR.OFFT,1979,7.5022
-LBR,Liberia,World Bank-IBRD,Low income,Africa,DT.INR.OFFT,1978,7.4886
-LBR,Liberia,World Bank-IBRD,Low income,Africa,DT.INR.OFFT,1977,8.1999
-LBR,Liberia,World Bank-IBRD,Low income,Africa,DT.INR.OFFT,1976,7.2999
-LBR,Liberia,World Bank-IBRD,Low income,Africa,DT.INR.OFFT,1975,8.5
-LBR,Liberia,World Bank-IBRD,Low income,Africa,DT.INR.OFFT,1974,8.0
-LBR,Liberia,World Bank-IBRD,Low income,Africa,DT.INR.OFFT,1973,7.25
-LBR,Liberia,World Bank-IBRD,Low income,Africa,DT.INR.OFFT,1972,7.25
-LBR,Liberia,World Bank-IBRD,Low income,Africa,DT.INR.OFFT,1971,7.25
-LBR,Liberia,World Bank-IBRD,Low income,Africa,DT.INR.OFFT,1970,7.0
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2023,0.75
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2022,0.75
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2021,1.0234
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2020,1.0065
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2019,0.75
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2017,0.75
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2016,0.75
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2015,0.75
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2014,0.75
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2013,0.7499
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2012,0.75
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2011,0.75
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2010,0.75
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1985,0.7499
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1984,0.7499
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1983,0.75
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1982,0.7499
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1981,0.75
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1979,0.75
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1978,0.75
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1977,0.75
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1975,0.75
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1973,0.75
-LBR,Liberia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1972,0.75
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,2023,1.0
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,2022,0.75
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,2021,0.75
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,2020,0.7499
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,2018,0.7499
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,2017,0.7499
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,2016,0.75
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,2015,0.75
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,2014,0.7499
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,2013,0.75
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,2012,0.5
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,1990,3.9999
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,1985,9.5
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,1984,6.1984
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,1983,9.5
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,1982,0.75
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,1981,8.5
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,1979,8.0
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,1978,7.9999
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,1977,6.6019
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,1975,7.0
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,1974,7.0
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,1973,7.0
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,1972,6.9999
+LBR,Liberia,African Dev. Bank (official),Low income,Africa,1970,7.0
+LBR,Liberia,African Export-Import Bank (official),Low income,Africa,2018,7.0
+LBR,Liberia,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2014,1.0
+LBR,Liberia,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2013,0.5
+LBR,Liberia,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1978,6.1011
+LBR,Liberia,Canada (official),Low income,Africa,1978,8.0
+LBR,Liberia,China (official),Low income,Africa,2016,1.9999
+LBR,Liberia,Economic Community of West African States (ECOWAS) (official),Low income,Africa,2019,2.25
+LBR,Liberia,Economic Community of West African States (ECOWAS) (official),Low income,Africa,1986,7.5
+LBR,Liberia,Economic Community of West African States (ECOWAS) (official),Low income,Africa,1984,7.4999
+LBR,Liberia,European Development Fund (EDF) (official),Low income,Africa,1977,1.0
+LBR,Liberia,European Economic Community (EEC) (official),Low income,Africa,1979,0.75
+LBR,Liberia,European Investment Bank (official),Low income,Africa,2012,1.4299
+LBR,Liberia,European Investment Bank (official),Low income,Africa,1984,7.0999
+LBR,Liberia,European Investment Bank (official),Low income,Africa,1981,6.3
+LBR,Liberia,European Investment Bank (official),Low income,Africa,1978,5.7734
+LBR,Liberia,Finland (official),Low income,Africa,1981,2.0
+LBR,Liberia,France (official),Low income,Africa,1983,4.4999
+LBR,Liberia,France (official),Low income,Africa,1982,5.5
+LBR,Liberia,France (private),Low income,Africa,1983,10.2096
+LBR,Liberia,Germany (official),Low income,Africa,1984,2.0
+LBR,Liberia,Germany (official),Low income,Africa,1983,2.0
+LBR,Liberia,Germany (official),Low income,Africa,1982,1.9999
+LBR,Liberia,Germany (official),Low income,Africa,1980,2.0
+LBR,Liberia,Germany (official),Low income,Africa,1979,2.0
+LBR,Liberia,Germany (official),Low income,Africa,1978,2.0
+LBR,Liberia,Germany (official),Low income,Africa,1977,1.9999
+LBR,Liberia,Germany (official),Low income,Africa,1976,2.0
+LBR,Liberia,Germany (official),Low income,Africa,1974,2.0
+LBR,Liberia,Germany (official),Low income,Africa,1972,2.9999
+LBR,Liberia,Germany (private),Low income,Africa,1978,13.8699
+LBR,Liberia,India (official),Low income,Africa,2013,1.75
+LBR,Liberia,International Fund for Agricultural Dev. (official),Low income,Africa,2016,0.7499
+LBR,Liberia,International Fund for Agricultural Dev. (official),Low income,Africa,2012,0.7499
+LBR,Liberia,International Fund for Agricultural Dev. (official),Low income,Africa,1984,1.0
+LBR,Liberia,International Fund for Agricultural Dev. (official),Low income,Africa,1981,4.0
+LBR,Liberia,Israel (private),Low income,Africa,2023,4.02
+LBR,Liberia,Italy (official),Low income,Africa,1975,8.5
+LBR,Liberia,Italy (private),Low income,Africa,1977,9.0
+LBR,Liberia,Italy (private),Low income,Africa,1970,6.0
+LBR,Liberia,Japan (official),Low income,Africa,1979,4.0
+LBR,Liberia,Japan (official),Low income,Africa,1976,4.0
+LBR,Liberia,Japan (private),Low income,Africa,1979,8.0
+LBR,Liberia,Kuwait (official),Low income,Africa,2019,1.4999
+LBR,Liberia,Kuwait (official),Low income,Africa,2016,1.5
+LBR,Liberia,Kuwait (official),Low income,Africa,2012,1.5
+LBR,Liberia,Kuwait (official),Low income,Africa,1978,3.5
+LBR,Liberia,Multiple Lenders (official),Low income,Africa,1974,5.0
+LBR,Liberia,Multiple Lenders (private),Low income,Africa,1978,13.6199
+LBR,Liberia,Multiple Lenders (private),Low income,Africa,1977,7.9349
+LBR,Liberia,Netherlands (private),Low income,Africa,1983,8.7499
+LBR,Liberia,Norway (private),Low income,Africa,1976,8.25
+LBR,Liberia,Norway (private),Low income,Africa,1975,8.0
+LBR,Liberia,OPEC Fund for International Dev. (official),Low income,Africa,2022,1.0
+LBR,Liberia,OPEC Fund for International Dev. (official),Low income,Africa,2016,1.0
+LBR,Liberia,OPEC Fund for International Dev. (official),Low income,Africa,2010,0.3
+LBR,Liberia,OPEC Fund for International Dev. (official),Low income,Africa,1982,0.75
+LBR,Liberia,OPEC Fund for International Dev. (official),Low income,Africa,1980,4.0
+LBR,Liberia,OPEC Fund for International Dev. (official),Low income,Africa,1978,4.0
+LBR,Liberia,Saudi Arabia (official),Low income,Africa,2017,1.0
+LBR,Liberia,Saudi Arabia (official),Low income,Africa,2015,1.0
+LBR,Liberia,Saudi Arabia (official),Low income,Africa,1982,2.0
+LBR,Liberia,Saudi Arabia (official),Low income,Africa,1981,2.0
+LBR,Liberia,Saudi Arabia (official),Low income,Africa,1978,2.0
+LBR,Liberia,Sweden (private),Low income,Africa,1980,6.0
+LBR,Liberia,Sweden (private),Low income,Africa,1979,3.9607
+LBR,Liberia,Sweden (private),Low income,Africa,1976,10.0
+LBR,Liberia,Switzerland (private),Low income,Africa,1981,8.0
+LBR,Liberia,Switzerland (private),Low income,Africa,1970,8.0
+LBR,Liberia,United Kingdom (official),Low income,Africa,1979,7.6176
+LBR,Liberia,United Kingdom (official),Low income,Africa,1978,7.25
+LBR,Liberia,United Kingdom (official),Low income,Africa,1976,7.1
+LBR,Liberia,United Kingdom (private),Low income,Africa,1978,7.5
+LBR,Liberia,United Kingdom (private),Low income,Africa,1977,8.2966
+LBR,Liberia,United Kingdom (private),Low income,Africa,1975,7.0
+LBR,Liberia,United Kingdom (private),Low income,Africa,1973,6.0
+LBR,Liberia,United States (official),Low income,Africa,1987,2.5777
+LBR,Liberia,United States (official),Low income,Africa,1985,2.6458
+LBR,Liberia,United States (official),Low income,Africa,1983,5.0101
+LBR,Liberia,United States (official),Low income,Africa,1982,4.6095
+LBR,Liberia,United States (official),Low income,Africa,1981,5.8373
+LBR,Liberia,United States (official),Low income,Africa,1980,5.3586
+LBR,Liberia,United States (official),Low income,Africa,1979,3.8415
+LBR,Liberia,United States (official),Low income,Africa,1978,5.6671
+LBR,Liberia,United States (official),Low income,Africa,1977,3.2419
+LBR,Liberia,United States (official),Low income,Africa,1976,6.9946
+LBR,Liberia,United States (official),Low income,Africa,1975,3.657
+LBR,Liberia,United States (official),Low income,Africa,1974,6.0
+LBR,Liberia,United States (official),Low income,Africa,1973,2.7627
+LBR,Liberia,United States (official),Low income,Africa,1972,3.4257
+LBR,Liberia,United States (official),Low income,Africa,1971,6.9766
+LBR,Liberia,United States (official),Low income,Africa,1970,2.8631
+LBR,Liberia,United States (private),Low income,Africa,1982,18.625
+LBR,Liberia,United States (private),Low income,Africa,1980,18.625
+LBR,Liberia,United States (private),Low income,Africa,1979,12.8149
+LBR,Liberia,United States (private),Low income,Africa,1978,10.7062
+LBR,Liberia,United States (private),Low income,Africa,1973,8.6035
+LBR,Liberia,World (official),Low income,Africa,2023,0.7676
+LBR,Liberia,World (official),Low income,Africa,2022,0.7763
+LBR,Liberia,World (official),Low income,Africa,2021,1.0078
+LBR,Liberia,World (official),Low income,Africa,2020,0.8041
+LBR,Liberia,World (official),Low income,Africa,2019,1.1818
+LBR,Liberia,World (official),Low income,Africa,2018,3.7859
+LBR,Liberia,World (official),Low income,Africa,2017,0.7895
+LBR,Liberia,World (official),Low income,Africa,2016,1.2144
+LBR,Liberia,World (official),Low income,Africa,2015,0.7928
+LBR,Liberia,World (official),Low income,Africa,2014,0.7694
+LBR,Liberia,World (official),Low income,Africa,2013,1.1767
+LBR,Liberia,World (official),Low income,Africa,2012,0.9055
+LBR,Liberia,World (official),Low income,Africa,2011,0.75
+LBR,Liberia,World (official),Low income,Africa,2010,0.5556
+LBR,Liberia,World (official),Low income,Africa,1990,3.9999
+LBR,Liberia,World (official),Low income,Africa,1987,2.5777
+LBR,Liberia,World (official),Low income,Africa,1986,0.7918
+LBR,Liberia,World (official),Low income,Africa,1985,4.9321
+LBR,Liberia,World (official),Low income,Africa,1984,4.6639
+LBR,Liberia,World (official),Low income,Africa,1983,4.9304
+LBR,Liberia,World (official),Low income,Africa,1982,3.5552
+LBR,Liberia,World (official),Low income,Africa,1981,5.8183
+LBR,Liberia,World (official),Low income,Africa,1980,5.2544
+LBR,Liberia,World (official),Low income,Africa,1979,5.3797
+LBR,Liberia,World (official),Low income,Africa,1978,4.1784
+LBR,Liberia,World (official),Low income,Africa,1977,4.016
+LBR,Liberia,World (official),Low income,Africa,1976,4.7139
+LBR,Liberia,World (official),Low income,Africa,1975,6.5165
+LBR,Liberia,World (official),Low income,Africa,1974,4.5688
+LBR,Liberia,World (official),Low income,Africa,1973,3.9042
+LBR,Liberia,World (official),Low income,Africa,1972,2.5825
+LBR,Liberia,World (official),Low income,Africa,1971,7.1443
+LBR,Liberia,World (official),Low income,Africa,1970,6.3901
+LBR,Liberia,World (private),Low income,Africa,2023,4.02
+LBR,Liberia,World (private),Low income,Africa,1983,9.6777
+LBR,Liberia,World (private),Low income,Africa,1982,18.625
+LBR,Liberia,World (private),Low income,Africa,1981,8.0
+LBR,Liberia,World (private),Low income,Africa,1980,12.6471
+LBR,Liberia,World (private),Low income,Africa,1979,6.528
+LBR,Liberia,World (private),Low income,Africa,1978,12.0795
+LBR,Liberia,World (private),Low income,Africa,1977,8.0492
+LBR,Liberia,World (private),Low income,Africa,1976,8.3364
+LBR,Liberia,World (private),Low income,Africa,1975,7.3462
+LBR,Liberia,World (private),Low income,Africa,1973,6.2074
+LBR,Liberia,World (private),Low income,Africa,1970,7.8572
+LBR,Liberia,World Bank-IBRD (official),Low income,Africa,1982,11.6
+LBR,Liberia,World Bank-IBRD (official),Low income,Africa,1980,9.25
+LBR,Liberia,World Bank-IBRD (official),Low income,Africa,1979,7.5022
+LBR,Liberia,World Bank-IBRD (official),Low income,Africa,1978,7.4886
+LBR,Liberia,World Bank-IBRD (official),Low income,Africa,1977,8.1999
+LBR,Liberia,World Bank-IBRD (official),Low income,Africa,1976,7.2999
+LBR,Liberia,World Bank-IBRD (official),Low income,Africa,1975,8.5
+LBR,Liberia,World Bank-IBRD (official),Low income,Africa,1974,8.0
+LBR,Liberia,World Bank-IBRD (official),Low income,Africa,1973,7.25
+LBR,Liberia,World Bank-IBRD (official),Low income,Africa,1972,7.25
+LBR,Liberia,World Bank-IBRD (official),Low income,Africa,1971,7.25
+LBR,Liberia,World Bank-IBRD (official),Low income,Africa,1970,7.0
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,2023,0.75
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,2022,0.75
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,2021,1.0234
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,2020,1.0065
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,2019,0.75
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,2017,0.75
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,2016,0.75
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,2015,0.75
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,2014,0.75
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,2013,0.7499
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,2012,0.75
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,2011,0.75
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,2010,0.75
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,1985,0.7499
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,1984,0.7499
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,1983,0.75
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,1982,0.7499
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,1981,0.75
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,1979,0.75
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,1978,0.75
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,1977,0.75
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,1975,0.75
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,1973,0.75
+LBR,Liberia,World Bank-IDA (official),Low income,Africa,1972,0.75

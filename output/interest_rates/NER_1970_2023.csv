@@ -1,440 +1,440 @@
-entity_code,entity_name,counterpart_name,income_level,continent,indicator_code,year,value
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2023,0.75
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2022,0.7499
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2021,0.75
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2020,0.7499
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2019,0.75
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2018,0.75
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2017,0.7499
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2016,0.75
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2015,0.75
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2014,0.7499
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2012,0.75
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2011,0.75
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2010,0.7499
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2008,0.7499
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2006,0.75
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2005,0.75
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2004,0.75
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2003,0.75
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2002,0.75
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2001,0.7499
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1998,0.75
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1993,0.75
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1989,0.75
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1987,0.75
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1985,0.7499
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1984,0.7499
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1983,0.75
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1982,4.0854
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1981,7.5
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1980,5.9736
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1979,0.7499
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1978,5.4677
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1977,4.1799
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1976,0.7499
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1975,0.7499
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1972,7.0
-NER,Niger,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1971,7.0
-NER,Niger,Algeria,Low income,Africa,DT.INR.OFFT,2010,2.0
-NER,Niger,Algeria,Low income,Africa,DT.INR.OFFT,2005,3.2928
-NER,Niger,Algeria,Low income,Africa,DT.INR.OFFT,1998,2.0
-NER,Niger,Algeria,Low income,Africa,DT.INR.PRVT,1996,1.5
-NER,Niger,Algeria,Low income,Africa,DT.INR.OFFT,1993,5.0
-NER,Niger,Algeria,Low income,Africa,DT.INR.OFFT,1984,6.0
-NER,Niger,Algeria,Low income,Africa,DT.INR.OFFT,1975,1.2702
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2023,1.0
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2020,1.0
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2018,1.0
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2017,1.0
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2016,1.0
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2012,1.0
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2011,1.0
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2009,1.0
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2008,1.0
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2007,1.7655
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2005,1.0
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2004,0.2166
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2003,6.0
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2002,0.6506
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2001,0.2567
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1985,3.388
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1984,6.0
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1983,5.0
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1979,7.0
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1978,1.0
-NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1976,2.0
-NER,Niger,Canada,Low income,Africa,DT.INR.PRVT,1972,9.9062
-NER,Niger,China,Low income,Africa,DT.INR.OFFT,2014,1.0
-NER,Niger,China,Low income,Africa,DT.INR.OFFT,2013,1.2499
-NER,Niger,China,Low income,Africa,DT.INR.OFFT,2010,2.0
-NER,Niger,China,Low income,Africa,DT.INR.OFFT,2008,0.9967
-NER,Niger,China,Low income,Africa,DT.INR.OFFT,1993,3.8333
-NER,Niger,Congo Republic,Low income,Africa,DT.INR.OFFT,2013,4.0
-NER,Niger,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,2021,1.75
-NER,Niger,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,2014,2.9999
-NER,Niger,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,2012,2.8417
-NER,Niger,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,2009,3.0
-NER,Niger,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,1983,6.5
-NER,Niger,Entente Council,Low income,Africa,DT.INR.OFFT,1988,2.2894
-NER,Niger,Entente Council,Low income,Africa,DT.INR.OFFT,1986,2.2894
-NER,Niger,Entente Council,Low income,Africa,DT.INR.OFFT,1983,1.842
-NER,Niger,Entente Council,Low income,Africa,DT.INR.OFFT,1980,3.5
-NER,Niger,Entente Council,Low income,Africa,DT.INR.OFFT,1976,1.673
-NER,Niger,Entente Council,Low income,Africa,DT.INR.OFFT,1975,2.7234
-NER,Niger,Entente Council,Low income,Africa,DT.INR.OFFT,1974,2.8737
-NER,Niger,Entente Council,Low income,Africa,DT.INR.OFFT,1973,3.2386
-NER,Niger,Entente Council,Low income,Africa,DT.INR.OFFT,1972,3.0
-NER,Niger,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,2005,0.5
-NER,Niger,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1990,0.4999
-NER,Niger,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1989,0.5
-NER,Niger,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1985,1.0
-NER,Niger,European Economic Community (EEC),Low income,Africa,DT.INR.OFFT,1980,0.75
-NER,Niger,European Investment Bank,Low income,Africa,DT.INR.OFFT,2020,1.12
-NER,Niger,European Investment Bank,Low income,Africa,DT.INR.OFFT,2019,1.9312
-NER,Niger,European Investment Bank,Low income,Africa,DT.INR.OFFT,2014,1.7499
-NER,Niger,European Investment Bank,Low income,Africa,DT.INR.OFFT,2005,1.9999
-NER,Niger,European Investment Bank,Low income,Africa,DT.INR.OFFT,1992,2.0
-NER,Niger,European Investment Bank,Low income,Africa,DT.INR.OFFT,1987,2.0
-NER,Niger,European Investment Bank,Low income,Africa,DT.INR.OFFT,1981,8.0
-NER,Niger,European Investment Bank,Low income,Africa,DT.INR.OFFT,1979,6.0
-NER,Niger,European Investment Bank,Low income,Africa,DT.INR.OFFT,1978,3.9999
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,2022,0.49
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,2021,0.97
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,2020,0.25
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,2019,0.55
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,2018,1.3749
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,2017,1.72
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,2016,0.2499
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,2015,0.25
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,2014,6.1599
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,2012,5.3517
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1991,1.822
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1989,3.1577
-NER,Niger,France,Low income,Africa,DT.INR.PRVT,1989,12.1719
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1988,1.4838
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1987,4.7102
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1986,2.1417
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1985,5.1832
-NER,Niger,France,Low income,Africa,DT.INR.PRVT,1985,9.5
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1984,5.9057
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1983,7.2372
-NER,Niger,France,Low income,Africa,DT.INR.PRVT,1983,11.5171
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1982,8.0638
-NER,Niger,France,Low income,Africa,DT.INR.PRVT,1982,12.0606
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1981,8.2019
-NER,Niger,France,Low income,Africa,DT.INR.PRVT,1981,7.4991
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1980,9.5423
-NER,Niger,France,Low income,Africa,DT.INR.PRVT,1980,9.7952
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1979,5.2433
-NER,Niger,France,Low income,Africa,DT.INR.PRVT,1979,16.6003
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1978,7.7561
-NER,Niger,France,Low income,Africa,DT.INR.PRVT,1978,7.8694
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1977,6.4736
-NER,Niger,France,Low income,Africa,DT.INR.PRVT,1977,8.0
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1976,5.845
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1975,5.7917
-NER,Niger,France,Low income,Africa,DT.INR.PRVT,1975,7.9999
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1974,5.7235
-NER,Niger,France,Low income,Africa,DT.INR.PRVT,1974,7.4999
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1973,5.6328
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1972,2.9999
-NER,Niger,France,Low income,Africa,DT.INR.PRVT,1972,7.0
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1971,3.0999
-NER,Niger,France,Low income,Africa,DT.INR.PRVT,1971,6.9999
-NER,Niger,France,Low income,Africa,DT.INR.OFFT,1970,3.6264
-NER,Niger,Germany,Low income,Africa,DT.INR.PRVT,2020,5.25
-NER,Niger,Germany,Low income,Africa,DT.INR.OFFT,1978,0.75
-NER,Niger,Germany,Low income,Africa,DT.INR.OFFT,1977,0.7499
-NER,Niger,Germany,Low income,Africa,DT.INR.OFFT,1976,0.799
-NER,Niger,Germany,Low income,Africa,DT.INR.OFFT,1975,0.7499
-NER,Niger,Germany,Low income,Africa,DT.INR.OFFT,1973,0.8247
-NER,Niger,Germany,Low income,Africa,DT.INR.OFFT,1972,0.75
-NER,Niger,Germany,Low income,Africa,DT.INR.OFFT,1971,1.0
-NER,Niger,Germany,Low income,Africa,DT.INR.OFFT,1970,2.0
-NER,Niger,India,Low income,Africa,DT.INR.OFFT,2016,1.5
-NER,Niger,India,Low income,Africa,DT.INR.OFFT,2014,1.75
-NER,Niger,India,Low income,Africa,DT.INR.OFFT,2013,1.75
-NER,Niger,India,Low income,Africa,DT.INR.OFFT,2008,1.75
-NER,Niger,India,Low income,Africa,DT.INR.OFFT,2006,1.75
-NER,Niger,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2021,0.75
-NER,Niger,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2020,0.75
-NER,Niger,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2019,0.7499
-NER,Niger,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2015,0.75
-NER,Niger,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2012,0.8813
-NER,Niger,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2011,0.7499
-NER,Niger,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2009,0.75
-NER,Niger,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2007,0.75
-NER,Niger,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2006,0.75
-NER,Niger,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2005,1.0
-NER,Niger,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2003,0.75
-NER,Niger,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2002,0.7499
-NER,Niger,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2000,0.7499
-NER,Niger,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1997,0.7499
-NER,Niger,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1992,1.0
-NER,Niger,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1990,1.0
-NER,Niger,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1988,1.0
-NER,Niger,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1980,1.0
-NER,Niger,Iraq,Low income,Africa,DT.INR.OFFT,1981,2.5
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2022,2.3356
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2019,3.5707
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2018,2.9363
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2016,1.9621
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2015,1.5715
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2014,1.4178
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2013,2.031
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2012,1.9638
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2011,1.5271
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2010,1.0
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2008,3.8819
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2006,1.1205
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2005,0.4999
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2004,1.0162
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2003,0.587
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2002,0.7499
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2001,0.7499
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2000,0.7499
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1999,0.7499
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1990,5.2056
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1988,2.4694
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1987,2.062
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1985,2.4375
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1984,0.9441
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1982,2.4999
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1981,6.3666
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1980,5.1007
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1979,1.9999
-NER,Niger,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1977,2.5
-NER,Niger,Italy,Low income,Africa,DT.INR.PRVT,1970,4.5
-NER,Niger,Japan,Low income,Africa,DT.INR.OFFT,2002,1.25
-NER,Niger,Japan,Low income,Africa,DT.INR.OFFT,1994,4.9999
-NER,Niger,Japan,Low income,Africa,DT.INR.OFFT,1988,1.25
-NER,Niger,Kuwait,Low income,Africa,DT.INR.OFFT,2019,1.9999
-NER,Niger,Kuwait,Low income,Africa,DT.INR.OFFT,2015,1.3355
-NER,Niger,Kuwait,Low income,Africa,DT.INR.OFFT,2012,1.5
-NER,Niger,Kuwait,Low income,Africa,DT.INR.OFFT,2009,0.4514
-NER,Niger,Kuwait,Low income,Africa,DT.INR.OFFT,2008,0.9668
-NER,Niger,Kuwait,Low income,Africa,DT.INR.OFFT,2001,1.5
-NER,Niger,Kuwait,Low income,Africa,DT.INR.OFFT,1994,1.0
-NER,Niger,Kuwait,Low income,Africa,DT.INR.OFFT,1991,1.4999
-NER,Niger,Kuwait,Low income,Africa,DT.INR.OFFT,1988,1.4999
-NER,Niger,Kuwait,Low income,Africa,DT.INR.OFFT,1984,1.4999
-NER,Niger,Kuwait,Low income,Africa,DT.INR.OFFT,1982,1.4999
-NER,Niger,Kuwait,Low income,Africa,DT.INR.OFFT,1980,4.0
-NER,Niger,Libya,Low income,Africa,DT.INR.OFFT,1997,3.0
-NER,Niger,Libya,Low income,Africa,DT.INR.OFFT,1996,5.9999
-NER,Niger,Libya,Low income,Africa,DT.INR.OFFT,1994,6.0
-NER,Niger,Libya,Low income,Africa,DT.INR.OFFT,1993,5.9999
-NER,Niger,Libya,Low income,Africa,DT.INR.OFFT,1979,4.5
-NER,Niger,Libya,Low income,Africa,DT.INR.OFFT,1978,5.0
-NER,Niger,Multiple Lenders,Low income,Africa,DT.INR.OFFT,1992,5.0
-NER,Niger,Multiple Lenders,Low income,Africa,DT.INR.PRVT,1982,15.9399
-NER,Niger,Multiple Lenders,Low income,Africa,DT.INR.PRVT,1979,13.7449
-NER,Niger,Multiple Lenders,Low income,Africa,DT.INR.PRVT,1976,8.5649
-NER,Niger,Netherlands,Low income,Africa,DT.INR.PRVT,1978,9.0
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2023,1.25
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2020,2.0
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2018,2.0
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2015,1.0
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2014,1.0
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2012,2.0
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2011,1.0
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2009,1.0
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2008,1.0
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2007,2.0105
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2006,1.0369
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2005,2.0477
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2002,1.6216
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1998,2.0
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1996,2.0
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1994,2.0
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1991,3.0
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1990,3.0
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1989,2.5
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1987,5.5
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1984,0.5
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1980,0.5
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1979,0.5
-NER,Niger,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1977,0.5
-NER,Niger,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2023,1.0
-NER,Niger,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2019,1.0
-NER,Niger,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2017,1.0
-NER,Niger,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2011,1.0
-NER,Niger,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2009,1.0
-NER,Niger,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2002,1.0
-NER,Niger,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1998,1.0
-NER,Niger,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1989,2.0
-NER,Niger,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1986,0.8879
-NER,Niger,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1985,1.9813
-NER,Niger,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1984,0.6028
-NER,Niger,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1982,1.0
-NER,Niger,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1976,2.0
-NER,Niger,Spain,Low income,Africa,DT.INR.OFFT,2021,0.75
-NER,Niger,Spain,Low income,Africa,DT.INR.OFFT,1994,1.0
-NER,Niger,Spain,Low income,Africa,DT.INR.OFFT,1981,8.25
-NER,Niger,Sweden,Low income,Africa,DT.INR.PRVT,1979,8.0
-NER,Niger,United Arab Emirates,Low income,Africa,DT.INR.OFFT,2020,1.0
-NER,Niger,United Arab Emirates,Low income,Africa,DT.INR.OFFT,2011,1.4999
-NER,Niger,United Arab Emirates,Low income,Africa,DT.INR.OFFT,1981,4.0
-NER,Niger,United Kingdom,Low income,Africa,DT.INR.PRVT,1981,7.7499
-NER,Niger,United States,Low income,Africa,DT.INR.OFFT,1990,8.66
-NER,Niger,United States,Low income,Africa,DT.INR.OFFT,1989,2.2655
-NER,Niger,United States,Low income,Africa,DT.INR.OFFT,1983,9.8149
-NER,Niger,United States,Low income,Africa,DT.INR.OFFT,1982,14.0
-NER,Niger,United States,Low income,Africa,DT.INR.OFFT,1981,14.0
-NER,Niger,United States,Low income,Africa,DT.INR.PRVT,1981,16.1849
-NER,Niger,United States,Low income,Africa,DT.INR.PRVT,1979,12.25
-NER,Niger,United States,Low income,Africa,DT.INR.OFFT,1978,8.375
-NER,Niger,United States,Low income,Africa,DT.INR.PRVT,1978,13.897
-NER,Niger,United States,Low income,Africa,DT.INR.OFFT,1973,2.7679
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2023,4.7101
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2022,5.2623
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2021,4.9924
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2020,4.6349
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2019,4.9285
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2018,4.7563
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2017,1.72
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2015,3.7016
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2014,5.4271
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2013,6.4883
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2012,1.7086
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2011,1.7831
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2010,2.8717
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2009,1.8493
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2008,2.4162
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2007,1.767
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2006,2.0
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2005,6.0578
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2004,2.5
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2003,3.1754
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2002,3.2326
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2001,3.7499
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,1990,3.9
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,1989,9.0
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,1988,5.985
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,1985,6.0
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,1983,11.3333
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,1982,9.3245
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,1981,8.6174
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,1980,5.5
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,1979,8.0
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,1978,9.0
-NER,Niger,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,1977,6.5
-NER,Niger,West African Monetary Union (UMOA),Low income,Africa,DT.INR.OFFT,1999,1.0
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2023,1.69
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2022,0.9857
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2021,1.3249
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2020,1.2056
-NER,Niger,World,Low income,Africa,DT.INR.PRVT,2020,5.25
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2019,1.6505
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2018,1.6789
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2017,0.9914
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2016,1.1677
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2015,1.6733
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2014,1.9621
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2013,3.2632
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2012,1.5346
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2011,1.0417
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2010,1.4538
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2009,1.2368
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2008,1.1406
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2007,1.5527
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2006,0.9249
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2005,0.9273
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2004,1.2113
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2003,1.0215
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2002,1.2682
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2001,0.8802
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,2000,0.694
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1999,0.9274
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1998,0.6825
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1997,1.0087
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1996,0.9497
-NER,Niger,World,Low income,Africa,DT.INR.PRVT,1996,1.5
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1995,0.6144
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1994,0.9986
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1993,2.2336
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1992,2.8885
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1991,1.2628
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1990,1.935
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1989,2.551
-NER,Niger,World,Low income,Africa,DT.INR.PRVT,1989,12.1719
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1988,1.3949
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1987,1.6149
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1986,1.0417
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1985,2.8511
-NER,Niger,World,Low income,Africa,DT.INR.PRVT,1985,9.5
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1984,2.3487
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1983,3.8974
-NER,Niger,World,Low income,Africa,DT.INR.PRVT,1983,11.5171
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1982,3.2065
-NER,Niger,World,Low income,Africa,DT.INR.PRVT,1982,12.8994
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1981,5.5589
-NER,Niger,World,Low income,Africa,DT.INR.PRVT,1981,11.5945
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1980,5.3839
-NER,Niger,World,Low income,Africa,DT.INR.PRVT,1980,9.7952
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1979,2.743
-NER,Niger,World,Low income,Africa,DT.INR.PRVT,1979,15.1851
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1978,5.3425
-NER,Niger,World,Low income,Africa,DT.INR.PRVT,1978,8.9197
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1977,3.3694
-NER,Niger,World,Low income,Africa,DT.INR.PRVT,1977,8.0
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1976,1.398
-NER,Niger,World,Low income,Africa,DT.INR.PRVT,1976,8.5649
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1975,0.7797
-NER,Niger,World,Low income,Africa,DT.INR.PRVT,1975,7.9999
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1974,0.2564
-NER,Niger,World,Low income,Africa,DT.INR.PRVT,1974,7.4999
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1973,1.926
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1972,1.9324
-NER,Niger,World,Low income,Africa,DT.INR.PRVT,1972,7.0465
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1971,1.6448
-NER,Niger,World,Low income,Africa,DT.INR.PRVT,1971,6.9999
-NER,Niger,World,Low income,Africa,DT.INR.OFFT,1970,0.555
-NER,Niger,World,Low income,Africa,DT.INR.PRVT,1970,4.5
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2023,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2022,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2021,0.9483
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2020,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2019,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2018,0.7499
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2017,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2016,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2015,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2014,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2013,0.7499
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2012,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2011,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2009,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2008,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2006,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2005,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2004,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2003,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2002,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2001,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2000,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1998,0.542
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1997,0.5
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1996,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1995,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1994,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1992,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1991,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1990,0.7499
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1988,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1987,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1986,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1985,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1984,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1983,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1982,0.7499
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1981,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1980,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1979,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1978,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1976,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1974,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1973,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1971,0.75
-NER,Niger,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1970,0.75
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+NER,Niger,African Dev. Bank (official),Low income,Africa,2023,0.75
+NER,Niger,African Dev. Bank (official),Low income,Africa,2022,0.7499
+NER,Niger,African Dev. Bank (official),Low income,Africa,2021,0.75
+NER,Niger,African Dev. Bank (official),Low income,Africa,2020,0.7499
+NER,Niger,African Dev. Bank (official),Low income,Africa,2019,0.75
+NER,Niger,African Dev. Bank (official),Low income,Africa,2018,0.75
+NER,Niger,African Dev. Bank (official),Low income,Africa,2017,0.7499
+NER,Niger,African Dev. Bank (official),Low income,Africa,2016,0.75
+NER,Niger,African Dev. Bank (official),Low income,Africa,2015,0.75
+NER,Niger,African Dev. Bank (official),Low income,Africa,2014,0.7499
+NER,Niger,African Dev. Bank (official),Low income,Africa,2012,0.75
+NER,Niger,African Dev. Bank (official),Low income,Africa,2011,0.75
+NER,Niger,African Dev. Bank (official),Low income,Africa,2010,0.7499
+NER,Niger,African Dev. Bank (official),Low income,Africa,2008,0.7499
+NER,Niger,African Dev. Bank (official),Low income,Africa,2006,0.75
+NER,Niger,African Dev. Bank (official),Low income,Africa,2005,0.75
+NER,Niger,African Dev. Bank (official),Low income,Africa,2004,0.75
+NER,Niger,African Dev. Bank (official),Low income,Africa,2003,0.75
+NER,Niger,African Dev. Bank (official),Low income,Africa,2002,0.75
+NER,Niger,African Dev. Bank (official),Low income,Africa,2001,0.7499
+NER,Niger,African Dev. Bank (official),Low income,Africa,1998,0.75
+NER,Niger,African Dev. Bank (official),Low income,Africa,1993,0.75
+NER,Niger,African Dev. Bank (official),Low income,Africa,1989,0.75
+NER,Niger,African Dev. Bank (official),Low income,Africa,1987,0.75
+NER,Niger,African Dev. Bank (official),Low income,Africa,1985,0.7499
+NER,Niger,African Dev. Bank (official),Low income,Africa,1984,0.7499
+NER,Niger,African Dev. Bank (official),Low income,Africa,1983,0.75
+NER,Niger,African Dev. Bank (official),Low income,Africa,1982,4.0854
+NER,Niger,African Dev. Bank (official),Low income,Africa,1981,7.5
+NER,Niger,African Dev. Bank (official),Low income,Africa,1980,5.9736
+NER,Niger,African Dev. Bank (official),Low income,Africa,1979,0.7499
+NER,Niger,African Dev. Bank (official),Low income,Africa,1978,5.4677
+NER,Niger,African Dev. Bank (official),Low income,Africa,1977,4.1799
+NER,Niger,African Dev. Bank (official),Low income,Africa,1976,0.7499
+NER,Niger,African Dev. Bank (official),Low income,Africa,1975,0.7499
+NER,Niger,African Dev. Bank (official),Low income,Africa,1972,7.0
+NER,Niger,African Dev. Bank (official),Low income,Africa,1971,7.0
+NER,Niger,Algeria (official),Low income,Africa,2010,2.0
+NER,Niger,Algeria (official),Low income,Africa,2005,3.2928
+NER,Niger,Algeria (official),Low income,Africa,1998,2.0
+NER,Niger,Algeria (official),Low income,Africa,1993,5.0
+NER,Niger,Algeria (official),Low income,Africa,1984,6.0
+NER,Niger,Algeria (official),Low income,Africa,1975,1.2702
+NER,Niger,Algeria (private),Low income,Africa,1996,1.5
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2023,1.0
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2020,1.0
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2018,1.0
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2017,1.0
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2016,1.0
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2012,1.0
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2011,1.0
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2009,1.0
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2008,1.0
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2007,1.7655
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2005,1.0
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2004,0.2166
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2003,6.0
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2002,0.6506
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2001,0.2567
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1985,3.388
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1984,6.0
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1983,5.0
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1979,7.0
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1978,1.0
+NER,Niger,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1976,2.0
+NER,Niger,Canada (private),Low income,Africa,1972,9.9062
+NER,Niger,China (official),Low income,Africa,2014,1.0
+NER,Niger,China (official),Low income,Africa,2013,1.2499
+NER,Niger,China (official),Low income,Africa,2010,2.0
+NER,Niger,China (official),Low income,Africa,2008,0.9967
+NER,Niger,China (official),Low income,Africa,1993,3.8333
+NER,Niger,Congo Republic (official),Low income,Africa,2013,4.0
+NER,Niger,Economic Community of West African States (ECOWAS) (official),Low income,Africa,2021,1.75
+NER,Niger,Economic Community of West African States (ECOWAS) (official),Low income,Africa,2014,2.9999
+NER,Niger,Economic Community of West African States (ECOWAS) (official),Low income,Africa,2012,2.8417
+NER,Niger,Economic Community of West African States (ECOWAS) (official),Low income,Africa,2009,3.0
+NER,Niger,Economic Community of West African States (ECOWAS) (official),Low income,Africa,1983,6.5
+NER,Niger,Entente Council (official),Low income,Africa,1988,2.2894
+NER,Niger,Entente Council (official),Low income,Africa,1986,2.2894
+NER,Niger,Entente Council (official),Low income,Africa,1983,1.842
+NER,Niger,Entente Council (official),Low income,Africa,1980,3.5
+NER,Niger,Entente Council (official),Low income,Africa,1976,1.673
+NER,Niger,Entente Council (official),Low income,Africa,1975,2.7234
+NER,Niger,Entente Council (official),Low income,Africa,1974,2.8737
+NER,Niger,Entente Council (official),Low income,Africa,1973,3.2386
+NER,Niger,Entente Council (official),Low income,Africa,1972,3.0
+NER,Niger,European Development Fund (EDF) (official),Low income,Africa,2005,0.5
+NER,Niger,European Development Fund (EDF) (official),Low income,Africa,1990,0.4999
+NER,Niger,European Development Fund (EDF) (official),Low income,Africa,1989,0.5
+NER,Niger,European Development Fund (EDF) (official),Low income,Africa,1985,1.0
+NER,Niger,European Economic Community (EEC) (official),Low income,Africa,1980,0.75
+NER,Niger,European Investment Bank (official),Low income,Africa,2020,1.12
+NER,Niger,European Investment Bank (official),Low income,Africa,2019,1.9312
+NER,Niger,European Investment Bank (official),Low income,Africa,2014,1.7499
+NER,Niger,European Investment Bank (official),Low income,Africa,2005,1.9999
+NER,Niger,European Investment Bank (official),Low income,Africa,1992,2.0
+NER,Niger,European Investment Bank (official),Low income,Africa,1987,2.0
+NER,Niger,European Investment Bank (official),Low income,Africa,1981,8.0
+NER,Niger,European Investment Bank (official),Low income,Africa,1979,6.0
+NER,Niger,European Investment Bank (official),Low income,Africa,1978,3.9999
+NER,Niger,France (official),Low income,Africa,2022,0.49
+NER,Niger,France (official),Low income,Africa,2021,0.97
+NER,Niger,France (official),Low income,Africa,2020,0.25
+NER,Niger,France (official),Low income,Africa,2019,0.55
+NER,Niger,France (official),Low income,Africa,2018,1.3749
+NER,Niger,France (official),Low income,Africa,2017,1.72
+NER,Niger,France (official),Low income,Africa,2016,0.2499
+NER,Niger,France (official),Low income,Africa,2015,0.25
+NER,Niger,France (official),Low income,Africa,2014,6.1599
+NER,Niger,France (official),Low income,Africa,2012,5.3517
+NER,Niger,France (official),Low income,Africa,1991,1.822
+NER,Niger,France (official),Low income,Africa,1989,3.1577
+NER,Niger,France (official),Low income,Africa,1988,1.4838
+NER,Niger,France (official),Low income,Africa,1987,4.7102
+NER,Niger,France (official),Low income,Africa,1986,2.1417
+NER,Niger,France (official),Low income,Africa,1985,5.1832
+NER,Niger,France (official),Low income,Africa,1984,5.9057
+NER,Niger,France (official),Low income,Africa,1983,7.2372
+NER,Niger,France (official),Low income,Africa,1982,8.0638
+NER,Niger,France (official),Low income,Africa,1981,8.2019
+NER,Niger,France (official),Low income,Africa,1980,9.5423
+NER,Niger,France (official),Low income,Africa,1979,5.2433
+NER,Niger,France (official),Low income,Africa,1978,7.7561
+NER,Niger,France (official),Low income,Africa,1977,6.4736
+NER,Niger,France (official),Low income,Africa,1976,5.845
+NER,Niger,France (official),Low income,Africa,1975,5.7917
+NER,Niger,France (official),Low income,Africa,1974,5.7235
+NER,Niger,France (official),Low income,Africa,1973,5.6328
+NER,Niger,France (official),Low income,Africa,1972,2.9999
+NER,Niger,France (official),Low income,Africa,1971,3.0999
+NER,Niger,France (official),Low income,Africa,1970,3.6264
+NER,Niger,France (private),Low income,Africa,1989,12.1719
+NER,Niger,France (private),Low income,Africa,1985,9.5
+NER,Niger,France (private),Low income,Africa,1983,11.5171
+NER,Niger,France (private),Low income,Africa,1982,12.0606
+NER,Niger,France (private),Low income,Africa,1981,7.4991
+NER,Niger,France (private),Low income,Africa,1980,9.7952
+NER,Niger,France (private),Low income,Africa,1979,16.6003
+NER,Niger,France (private),Low income,Africa,1978,7.8694
+NER,Niger,France (private),Low income,Africa,1977,8.0
+NER,Niger,France (private),Low income,Africa,1975,7.9999
+NER,Niger,France (private),Low income,Africa,1974,7.4999
+NER,Niger,France (private),Low income,Africa,1972,7.0
+NER,Niger,France (private),Low income,Africa,1971,6.9999
+NER,Niger,Germany (official),Low income,Africa,1978,0.75
+NER,Niger,Germany (official),Low income,Africa,1977,0.7499
+NER,Niger,Germany (official),Low income,Africa,1976,0.799
+NER,Niger,Germany (official),Low income,Africa,1975,0.7499
+NER,Niger,Germany (official),Low income,Africa,1973,0.8247
+NER,Niger,Germany (official),Low income,Africa,1972,0.75
+NER,Niger,Germany (official),Low income,Africa,1971,1.0
+NER,Niger,Germany (official),Low income,Africa,1970,2.0
+NER,Niger,Germany (private),Low income,Africa,2020,5.25
+NER,Niger,India (official),Low income,Africa,2016,1.5
+NER,Niger,India (official),Low income,Africa,2014,1.75
+NER,Niger,India (official),Low income,Africa,2013,1.75
+NER,Niger,India (official),Low income,Africa,2008,1.75
+NER,Niger,India (official),Low income,Africa,2006,1.75
+NER,Niger,International Fund for Agricultural Dev. (official),Low income,Africa,2021,0.75
+NER,Niger,International Fund for Agricultural Dev. (official),Low income,Africa,2020,0.75
+NER,Niger,International Fund for Agricultural Dev. (official),Low income,Africa,2019,0.7499
+NER,Niger,International Fund for Agricultural Dev. (official),Low income,Africa,2015,0.75
+NER,Niger,International Fund for Agricultural Dev. (official),Low income,Africa,2012,0.8813
+NER,Niger,International Fund for Agricultural Dev. (official),Low income,Africa,2011,0.7499
+NER,Niger,International Fund for Agricultural Dev. (official),Low income,Africa,2009,0.75
+NER,Niger,International Fund for Agricultural Dev. (official),Low income,Africa,2007,0.75
+NER,Niger,International Fund for Agricultural Dev. (official),Low income,Africa,2006,0.75
+NER,Niger,International Fund for Agricultural Dev. (official),Low income,Africa,2005,1.0
+NER,Niger,International Fund for Agricultural Dev. (official),Low income,Africa,2003,0.75
+NER,Niger,International Fund for Agricultural Dev. (official),Low income,Africa,2002,0.7499
+NER,Niger,International Fund for Agricultural Dev. (official),Low income,Africa,2000,0.7499
+NER,Niger,International Fund for Agricultural Dev. (official),Low income,Africa,1997,0.7499
+NER,Niger,International Fund for Agricultural Dev. (official),Low income,Africa,1992,1.0
+NER,Niger,International Fund for Agricultural Dev. (official),Low income,Africa,1990,1.0
+NER,Niger,International Fund for Agricultural Dev. (official),Low income,Africa,1988,1.0
+NER,Niger,International Fund for Agricultural Dev. (official),Low income,Africa,1980,1.0
+NER,Niger,Iraq (official),Low income,Africa,1981,2.5
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,2022,2.3356
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,2019,3.5707
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,2018,2.9363
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,2016,1.9621
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,2015,1.5715
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,2014,1.4178
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,2013,2.031
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,2012,1.9638
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,2011,1.5271
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,2010,1.0
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,2008,3.8819
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,2006,1.1205
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,2005,0.4999
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,2004,1.0162
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,2003,0.587
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,2002,0.7499
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,2001,0.7499
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,2000,0.7499
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,1999,0.7499
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,1990,5.2056
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,1988,2.4694
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,1987,2.062
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,1985,2.4375
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,1984,0.9441
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,1982,2.4999
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,1981,6.3666
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,1980,5.1007
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,1979,1.9999
+NER,Niger,Islamic Dev. Bank (official),Low income,Africa,1977,2.5
+NER,Niger,Italy (private),Low income,Africa,1970,4.5
+NER,Niger,Japan (official),Low income,Africa,2002,1.25
+NER,Niger,Japan (official),Low income,Africa,1994,4.9999
+NER,Niger,Japan (official),Low income,Africa,1988,1.25
+NER,Niger,Kuwait (official),Low income,Africa,2019,1.9999
+NER,Niger,Kuwait (official),Low income,Africa,2015,1.3355
+NER,Niger,Kuwait (official),Low income,Africa,2012,1.5
+NER,Niger,Kuwait (official),Low income,Africa,2009,0.4514
+NER,Niger,Kuwait (official),Low income,Africa,2008,0.9668
+NER,Niger,Kuwait (official),Low income,Africa,2001,1.5
+NER,Niger,Kuwait (official),Low income,Africa,1994,1.0
+NER,Niger,Kuwait (official),Low income,Africa,1991,1.4999
+NER,Niger,Kuwait (official),Low income,Africa,1988,1.4999
+NER,Niger,Kuwait (official),Low income,Africa,1984,1.4999
+NER,Niger,Kuwait (official),Low income,Africa,1982,1.4999
+NER,Niger,Kuwait (official),Low income,Africa,1980,4.0
+NER,Niger,Libya (official),Low income,Africa,1997,3.0
+NER,Niger,Libya (official),Low income,Africa,1996,5.9999
+NER,Niger,Libya (official),Low income,Africa,1994,6.0
+NER,Niger,Libya (official),Low income,Africa,1993,5.9999
+NER,Niger,Libya (official),Low income,Africa,1979,4.5
+NER,Niger,Libya (official),Low income,Africa,1978,5.0
+NER,Niger,Multiple Lenders (official),Low income,Africa,1992,5.0
+NER,Niger,Multiple Lenders (private),Low income,Africa,1982,15.9399
+NER,Niger,Multiple Lenders (private),Low income,Africa,1979,13.7449
+NER,Niger,Multiple Lenders (private),Low income,Africa,1976,8.5649
+NER,Niger,Netherlands (private),Low income,Africa,1978,9.0
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,2023,1.25
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,2020,2.0
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,2018,2.0
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,2015,1.0
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,2014,1.0
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,2012,2.0
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,2011,1.0
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,2009,1.0
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,2008,1.0
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,2007,2.0105
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,2006,1.0369
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,2005,2.0477
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,2002,1.6216
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,1998,2.0
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,1996,2.0
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,1994,2.0
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,1991,3.0
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,1990,3.0
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,1989,2.5
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,1987,5.5
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,1984,0.5
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,1980,0.5
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,1979,0.5
+NER,Niger,OPEC Fund for International Dev. (official),Low income,Africa,1977,0.5
+NER,Niger,Saudi Arabia (official),Low income,Africa,2023,1.0
+NER,Niger,Saudi Arabia (official),Low income,Africa,2019,1.0
+NER,Niger,Saudi Arabia (official),Low income,Africa,2017,1.0
+NER,Niger,Saudi Arabia (official),Low income,Africa,2011,1.0
+NER,Niger,Saudi Arabia (official),Low income,Africa,2009,1.0
+NER,Niger,Saudi Arabia (official),Low income,Africa,2002,1.0
+NER,Niger,Saudi Arabia (official),Low income,Africa,1998,1.0
+NER,Niger,Saudi Arabia (official),Low income,Africa,1989,2.0
+NER,Niger,Saudi Arabia (official),Low income,Africa,1986,0.8879
+NER,Niger,Saudi Arabia (official),Low income,Africa,1985,1.9813
+NER,Niger,Saudi Arabia (official),Low income,Africa,1984,0.6028
+NER,Niger,Saudi Arabia (official),Low income,Africa,1982,1.0
+NER,Niger,Saudi Arabia (official),Low income,Africa,1976,2.0
+NER,Niger,Spain (official),Low income,Africa,2021,0.75
+NER,Niger,Spain (official),Low income,Africa,1994,1.0
+NER,Niger,Spain (official),Low income,Africa,1981,8.25
+NER,Niger,Sweden (private),Low income,Africa,1979,8.0
+NER,Niger,United Arab Emirates (official),Low income,Africa,2020,1.0
+NER,Niger,United Arab Emirates (official),Low income,Africa,2011,1.4999
+NER,Niger,United Arab Emirates (official),Low income,Africa,1981,4.0
+NER,Niger,United Kingdom (private),Low income,Africa,1981,7.7499
+NER,Niger,United States (official),Low income,Africa,1990,8.66
+NER,Niger,United States (official),Low income,Africa,1989,2.2655
+NER,Niger,United States (official),Low income,Africa,1983,9.8149
+NER,Niger,United States (official),Low income,Africa,1982,14.0
+NER,Niger,United States (official),Low income,Africa,1981,14.0
+NER,Niger,United States (official),Low income,Africa,1978,8.375
+NER,Niger,United States (official),Low income,Africa,1973,2.7679
+NER,Niger,United States (private),Low income,Africa,1981,16.1849
+NER,Niger,United States (private),Low income,Africa,1979,12.25
+NER,Niger,United States (private),Low income,Africa,1978,13.897
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2023,4.7101
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2022,5.2623
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2021,4.9924
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2020,4.6349
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2019,4.9285
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2018,4.7563
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2017,1.72
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2015,3.7016
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2014,5.4271
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2013,6.4883
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2012,1.7086
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2011,1.7831
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2010,2.8717
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2009,1.8493
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2008,2.4162
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2007,1.767
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2006,2.0
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2005,6.0578
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2004,2.5
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2003,3.1754
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2002,3.2326
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,2001,3.7499
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,1990,3.9
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,1989,9.0
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,1988,5.985
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,1985,6.0
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,1983,11.3333
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,1982,9.3245
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,1981,8.6174
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,1980,5.5
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,1979,8.0
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,1978,9.0
+NER,Niger,West African Development Bank - BOAD (official),Low income,Africa,1977,6.5
+NER,Niger,West African Monetary Union (UMOA) (official),Low income,Africa,1999,1.0
+NER,Niger,World (official),Low income,Africa,2023,1.69
+NER,Niger,World (official),Low income,Africa,2022,0.9857
+NER,Niger,World (official),Low income,Africa,2021,1.3249
+NER,Niger,World (official),Low income,Africa,2020,1.2056
+NER,Niger,World (official),Low income,Africa,2019,1.6505
+NER,Niger,World (official),Low income,Africa,2018,1.6789
+NER,Niger,World (official),Low income,Africa,2017,0.9914
+NER,Niger,World (official),Low income,Africa,2016,1.1677
+NER,Niger,World (official),Low income,Africa,2015,1.6733
+NER,Niger,World (official),Low income,Africa,2014,1.9621
+NER,Niger,World (official),Low income,Africa,2013,3.2632
+NER,Niger,World (official),Low income,Africa,2012,1.5346
+NER,Niger,World (official),Low income,Africa,2011,1.0417
+NER,Niger,World (official),Low income,Africa,2010,1.4538
+NER,Niger,World (official),Low income,Africa,2009,1.2368
+NER,Niger,World (official),Low income,Africa,2008,1.1406
+NER,Niger,World (official),Low income,Africa,2007,1.5527
+NER,Niger,World (official),Low income,Africa,2006,0.9249
+NER,Niger,World (official),Low income,Africa,2005,0.9273
+NER,Niger,World (official),Low income,Africa,2004,1.2113
+NER,Niger,World (official),Low income,Africa,2003,1.0215
+NER,Niger,World (official),Low income,Africa,2002,1.2682
+NER,Niger,World (official),Low income,Africa,2001,0.8802
+NER,Niger,World (official),Low income,Africa,2000,0.694
+NER,Niger,World (official),Low income,Africa,1999,0.9274
+NER,Niger,World (official),Low income,Africa,1998,0.6825
+NER,Niger,World (official),Low income,Africa,1997,1.0087
+NER,Niger,World (official),Low income,Africa,1996,0.9497
+NER,Niger,World (official),Low income,Africa,1995,0.6144
+NER,Niger,World (official),Low income,Africa,1994,0.9986
+NER,Niger,World (official),Low income,Africa,1993,2.2336
+NER,Niger,World (official),Low income,Africa,1992,2.8885
+NER,Niger,World (official),Low income,Africa,1991,1.2628
+NER,Niger,World (official),Low income,Africa,1990,1.935
+NER,Niger,World (official),Low income,Africa,1989,2.551
+NER,Niger,World (official),Low income,Africa,1988,1.3949
+NER,Niger,World (official),Low income,Africa,1987,1.6149
+NER,Niger,World (official),Low income,Africa,1986,1.0417
+NER,Niger,World (official),Low income,Africa,1985,2.8511
+NER,Niger,World (official),Low income,Africa,1984,2.3487
+NER,Niger,World (official),Low income,Africa,1983,3.8974
+NER,Niger,World (official),Low income,Africa,1982,3.2065
+NER,Niger,World (official),Low income,Africa,1981,5.5589
+NER,Niger,World (official),Low income,Africa,1980,5.3839
+NER,Niger,World (official),Low income,Africa,1979,2.743
+NER,Niger,World (official),Low income,Africa,1978,5.3425
+NER,Niger,World (official),Low income,Africa,1977,3.3694
+NER,Niger,World (official),Low income,Africa,1976,1.398
+NER,Niger,World (official),Low income,Africa,1975,0.7797
+NER,Niger,World (official),Low income,Africa,1974,0.2564
+NER,Niger,World (official),Low income,Africa,1973,1.926
+NER,Niger,World (official),Low income,Africa,1972,1.9324
+NER,Niger,World (official),Low income,Africa,1971,1.6448
+NER,Niger,World (official),Low income,Africa,1970,0.555
+NER,Niger,World (private),Low income,Africa,2020,5.25
+NER,Niger,World (private),Low income,Africa,1996,1.5
+NER,Niger,World (private),Low income,Africa,1989,12.1719
+NER,Niger,World (private),Low income,Africa,1985,9.5
+NER,Niger,World (private),Low income,Africa,1983,11.5171
+NER,Niger,World (private),Low income,Africa,1982,12.8994
+NER,Niger,World (private),Low income,Africa,1981,11.5945
+NER,Niger,World (private),Low income,Africa,1980,9.7952
+NER,Niger,World (private),Low income,Africa,1979,15.1851
+NER,Niger,World (private),Low income,Africa,1978,8.9197
+NER,Niger,World (private),Low income,Africa,1977,8.0
+NER,Niger,World (private),Low income,Africa,1976,8.5649
+NER,Niger,World (private),Low income,Africa,1975,7.9999
+NER,Niger,World (private),Low income,Africa,1974,7.4999
+NER,Niger,World (private),Low income,Africa,1972,7.0465
+NER,Niger,World (private),Low income,Africa,1971,6.9999
+NER,Niger,World (private),Low income,Africa,1970,4.5
+NER,Niger,World Bank-IDA (official),Low income,Africa,2023,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,2022,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,2021,0.9483
+NER,Niger,World Bank-IDA (official),Low income,Africa,2020,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,2019,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,2018,0.7499
+NER,Niger,World Bank-IDA (official),Low income,Africa,2017,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,2016,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,2015,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,2014,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,2013,0.7499
+NER,Niger,World Bank-IDA (official),Low income,Africa,2012,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,2011,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,2009,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,2008,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,2006,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,2005,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,2004,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,2003,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,2002,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,2001,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,2000,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,1998,0.542
+NER,Niger,World Bank-IDA (official),Low income,Africa,1997,0.5
+NER,Niger,World Bank-IDA (official),Low income,Africa,1996,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,1995,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,1994,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,1992,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,1991,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,1990,0.7499
+NER,Niger,World Bank-IDA (official),Low income,Africa,1988,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,1987,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,1986,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,1985,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,1984,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,1983,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,1982,0.7499
+NER,Niger,World Bank-IDA (official),Low income,Africa,1981,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,1980,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,1979,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,1978,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,1976,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,1974,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,1973,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,1971,0.75
+NER,Niger,World Bank-IDA (official),Low income,Africa,1970,0.75
