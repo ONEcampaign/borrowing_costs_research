@@ -1,0 +1,501 @@
+entity_code,entity_name,counterpart_name,income_level,continent,indicator_code,year,value
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2023,0.9783
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2021,0.75
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2020,1.7499
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2019,1.6346
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2018,3.014
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2017,0.7499
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2016,2.3358
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2014,0.75
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2013,0.75
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2009,0.4296
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2008,0.75
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2007,0.75
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2005,1.5211
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2004,0.75
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2003,1.0609
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2001,2.3459
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2000,0.75
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1999,0.75
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1997,0.7499
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1996,0.75
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1993,0.75
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1991,0.75
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1990,8.0
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1989,0.75
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1988,0.75
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1987,0.7499
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1986,0.75
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1983,9.0713
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1982,7.6505
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1981,1.2693
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1980,8.0
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1979,0.7499
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1978,5.259
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1976,3.2527
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1974,0.75
+MRT,Mauritania,African Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1973,6.9999
+MRT,Mauritania,Algeria,Lower middle income,Africa,DT.INR.OFFT,1985,2.5
+MRT,Mauritania,Algeria,Lower middle income,Africa,DT.INR.OFFT,1984,2.5
+MRT,Mauritania,Algeria,Lower middle income,Africa,DT.INR.OFFT,1983,6.0
+MRT,Mauritania,Algeria,Lower middle income,Africa,DT.INR.OFFT,1982,2.5
+MRT,Mauritania,Algeria,Lower middle income,Africa,DT.INR.OFFT,1981,2.5
+MRT,Mauritania,Algeria,Lower middle income,Africa,DT.INR.OFFT,1980,2.5
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,2022,2.0
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,2020,2.0
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,2019,2.0
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,2018,1.9999
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,2017,1.9999
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,2016,2.4999
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,2015,2.5
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,2014,2.3391
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,2013,2.5
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,2012,2.5
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,2011,2.4999
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,2010,2.5
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,2009,2.005
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,2008,3.0
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,2007,3.0
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,2005,3.0
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,2004,3.0
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,2001,3.0
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,1997,3.0
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,1996,2.9999
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,1994,3.0
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,1993,3.0
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,1992,3.0
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,1989,3.0
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,1988,4.0
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,1987,4.0
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,1986,3.9999
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,1985,4.0
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,1984,3.9999
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,1983,3.9999
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,1982,3.9999
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,1979,4.0
+MRT,Mauritania,Arab Fund for Economic & Social Development,Lower middle income,Africa,DT.INR.OFFT,1976,4.0
+MRT,Mauritania,Arab Monetary Fund,Lower middle income,Africa,DT.INR.OFFT,2016,2.5707
+MRT,Mauritania,Arab Monetary Fund,Lower middle income,Africa,DT.INR.OFFT,2014,2.15
+MRT,Mauritania,Arab Monetary Fund,Lower middle income,Africa,DT.INR.OFFT,2010,0.599
+MRT,Mauritania,Arab Monetary Fund,Lower middle income,Africa,DT.INR.OFFT,2009,2.63
+MRT,Mauritania,Arab Monetary Fund,Lower middle income,Africa,DT.INR.OFFT,2008,3.8712
+MRT,Mauritania,Arab Monetary Fund,Lower middle income,Africa,DT.INR.OFFT,2005,1.7142
+MRT,Mauritania,Arab Monetary Fund,Lower middle income,Africa,DT.INR.OFFT,2004,5.7499
+MRT,Mauritania,Arab Monetary Fund,Lower middle income,Africa,DT.INR.OFFT,2003,5.75
+MRT,Mauritania,Arab Monetary Fund,Lower middle income,Africa,DT.INR.OFFT,2000,5.75
+MRT,Mauritania,Arab Monetary Fund,Lower middle income,Africa,DT.INR.OFFT,1996,5.7499
+MRT,Mauritania,Arab Monetary Fund,Lower middle income,Africa,DT.INR.OFFT,1994,5.7499
+MRT,Mauritania,Arab Monetary Fund,Lower middle income,Africa,DT.INR.OFFT,1993,5.7499
+MRT,Mauritania,Arab Monetary Fund,Lower middle income,Africa,DT.INR.OFFT,1989,5.7499
+MRT,Mauritania,Arab Monetary Fund,Lower middle income,Africa,DT.INR.OFFT,1988,4.1474
+MRT,Mauritania,Arab Monetary Fund,Lower middle income,Africa,DT.INR.OFFT,1986,4.7449
+MRT,Mauritania,Arab Monetary Fund,Lower middle income,Africa,DT.INR.OFFT,1985,4.006
+MRT,Mauritania,Arab Monetary Fund,Lower middle income,Africa,DT.INR.OFFT,1983,4.1249
+MRT,Mauritania,Arab Monetary Fund,Lower middle income,Africa,DT.INR.OFFT,1982,5.9485
+MRT,Mauritania,Arab Monetary Fund,Lower middle income,Africa,DT.INR.OFFT,1980,5.7945
+MRT,Mauritania,Arab Monetary Fund,Lower middle income,Africa,DT.INR.OFFT,1979,4.7179
+MRT,Mauritania,Austria,Lower middle income,Africa,DT.INR.PRVT,1977,8.2499
+MRT,Mauritania,Austria,Lower middle income,Africa,DT.INR.PRVT,1976,8.25
+MRT,Mauritania,Austria,Lower middle income,Africa,DT.INR.PRVT,1973,8.2499
+MRT,Mauritania,Bahrain,Lower middle income,Africa,DT.INR.PRVT,1980,16.9379
+MRT,Mauritania,Brazil,Lower middle income,Africa,DT.INR.OFFT,2011,6.687
+MRT,Mauritania,Brazil,Lower middle income,Africa,DT.INR.PRVT,1983,6.3333
+MRT,Mauritania,Brazil,Lower middle income,Africa,DT.INR.PRVT,1981,6.0
+MRT,Mauritania,Brazil,Lower middle income,Africa,DT.INR.PRVT,1979,6.0
+MRT,Mauritania,China,Lower middle income,Africa,DT.INR.OFFT,2019,1.9999
+MRT,Mauritania,China,Lower middle income,Africa,DT.INR.OFFT,2014,2.0
+MRT,Mauritania,China,Lower middle income,Africa,DT.INR.OFFT,2013,2.0
+MRT,Mauritania,China,Lower middle income,Africa,DT.INR.OFFT,2010,1.8133
+MRT,Mauritania,China,Lower middle income,Africa,DT.INR.OFFT,2009,1.9417
+MRT,Mauritania,China,Lower middle income,Africa,DT.INR.OFFT,2005,3.0
+MRT,Mauritania,Denmark,Lower middle income,Africa,DT.INR.OFFT,1985,3.0
+MRT,Mauritania,Egypt,Lower middle income,Africa,DT.INR.PRVT,1981,16.8749
+MRT,Mauritania,European Development Fund (EDF),Lower middle income,Africa,DT.INR.OFFT,1998,2.9999
+MRT,Mauritania,European Development Fund (EDF),Lower middle income,Africa,DT.INR.OFFT,1996,3.0
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,2020,0.9499
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,2018,8.0117
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,2014,7.5
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,2013,2.0
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,2010,1.6243
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,2009,7.5
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,2008,7.0
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,2006,1.7999
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,2004,7.0
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,2001,3.0
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,2000,3.0
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1996,3.0
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1994,1.0
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1993,1.0
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1991,4.0592
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1988,0.564
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1987,1.6666
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1986,0.7499
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1985,1.0
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1982,1.0
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1981,1.0
+MRT,Mauritania,European Investment Bank,Lower middle income,Africa,DT.INR.OFFT,1979,7.4
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,2013,1.0
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,2012,2.0
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,2011,6.3299
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,2010,5.76
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,2009,7.8
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,2008,4.1885
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,2006,5.51
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,2005,5.9
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.PRVT,1999,5.5999
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1996,5.0
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.PRVT,1996,8.75
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1995,7.7386
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1993,2.8666
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1992,3.0
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1991,1.6923
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1990,1.6015
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1989,1.8358
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1988,3.5187
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1987,1.8479
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1986,4.9999
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.PRVT,1986,9.9999
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1984,3.6532
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.PRVT,1984,12.102
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1983,5.0
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.PRVT,1983,10.5318
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.PRVT,1982,9.9999
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1981,3.4368
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.PRVT,1981,7.7399
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1980,1.8789
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.PRVT,1980,7.4971
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1979,8.6988
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.PRVT,1979,7.25
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1978,6.0
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.PRVT,1978,7.4518
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.PRVT,1977,7.6607
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1976,5.4999
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.PRVT,1976,7.2273
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1975,6.0
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.PRVT,1975,6.9941
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1974,5.4047
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.PRVT,1974,6.3577
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1973,3.8336
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.PRVT,1973,7.3442
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1972,3.8347
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.PRVT,1972,6.2579
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1971,3.9999
+MRT,Mauritania,France,Lower middle income,Africa,DT.INR.OFFT,1970,3.5
+MRT,Mauritania,Germany,Lower middle income,Africa,DT.INR.OFFT,2012,7.3
+MRT,Mauritania,Germany,Lower middle income,Africa,DT.INR.OFFT,2009,6.5935
+MRT,Mauritania,Germany,Lower middle income,Africa,DT.INR.OFFT,1998,0.7499
+MRT,Mauritania,Germany,Lower middle income,Africa,DT.INR.OFFT,1996,2.0
+MRT,Mauritania,Germany,Lower middle income,Africa,DT.INR.OFFT,1986,0.7499
+MRT,Mauritania,Germany,Lower middle income,Africa,DT.INR.PRVT,1984,8.5
+MRT,Mauritania,Germany,Lower middle income,Africa,DT.INR.OFFT,1983,0.75
+MRT,Mauritania,Germany,Lower middle income,Africa,DT.INR.OFFT,1982,0.75
+MRT,Mauritania,Germany,Lower middle income,Africa,DT.INR.PRVT,1982,8.5
+MRT,Mauritania,Germany,Lower middle income,Africa,DT.INR.OFFT,1981,0.7499
+MRT,Mauritania,Germany,Lower middle income,Africa,DT.INR.OFFT,1980,0.75
+MRT,Mauritania,Germany,Lower middle income,Africa,DT.INR.OFFT,1979,0.75
+MRT,Mauritania,Germany,Lower middle income,Africa,DT.INR.OFFT,1977,0.75
+MRT,Mauritania,Germany,Lower middle income,Africa,DT.INR.OFFT,1976,2.0
+MRT,Mauritania,Germany,Lower middle income,Africa,DT.INR.OFFT,1974,2.0
+MRT,Mauritania,Germany,Lower middle income,Africa,DT.INR.OFFT,1971,1.9999
+MRT,Mauritania,Germany,Lower middle income,Africa,DT.INR.OFFT,1970,2.5
+MRT,Mauritania,India,Lower middle income,Africa,DT.INR.OFFT,2017,3.3699
+MRT,Mauritania,India,Lower middle income,Africa,DT.INR.OFFT,2010,1.75
+MRT,Mauritania,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2023,1.4999
+MRT,Mauritania,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2020,1.2999
+MRT,Mauritania,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2011,0.75
+MRT,Mauritania,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2009,0.7499
+MRT,Mauritania,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2004,0.75
+MRT,Mauritania,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2002,0.75
+MRT,Mauritania,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,2001,0.75
+MRT,Mauritania,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,1994,0.75
+MRT,Mauritania,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,1992,1.0
+MRT,Mauritania,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,1990,1.0
+MRT,Mauritania,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,1986,1.0
+MRT,Mauritania,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,1985,1.0
+MRT,Mauritania,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,1982,1.0
+MRT,Mauritania,International Fund for Agricultural Dev.,Lower middle income,Africa,DT.INR.OFFT,1980,1.0
+MRT,Mauritania,Iraq,Lower middle income,Africa,DT.INR.OFFT,1981,2.0072
+MRT,Mauritania,Iraq,Lower middle income,Africa,DT.INR.OFFT,1980,2.0
+MRT,Mauritania,Iraq,Lower middle income,Africa,DT.INR.OFFT,1979,1.9999
+MRT,Mauritania,Iraq,Lower middle income,Africa,DT.INR.OFFT,1978,2.0
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2023,2.5
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2022,2.5
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2021,2.2627
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2020,2.5
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2019,2.3071
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2018,2.4784
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2017,2.4999
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2016,2.0
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2015,2.4447
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2014,1.6612
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2012,2.0801
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2011,2.1473
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2010,2.6147
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2009,7.1502
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2008,2.5
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2007,2.5
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2006,3.0627
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2005,5.9584
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2003,2.2147
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2002,2.0886
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2001,2.5
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,2000,1.6806
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1999,2.5
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1998,2.5
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1997,2.2685
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1996,0.75
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1995,1.1497
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1994,0.7499
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1993,2.4999
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1992,0.7499
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1991,0.7499
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1990,1.4999
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1989,2.4525
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1987,2.4999
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1985,2.4999
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1984,2.2779
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1983,2.4999
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1982,2.4999
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1980,2.5
+MRT,Mauritania,Islamic Dev. Bank,Lower middle income,Africa,DT.INR.OFFT,1978,2.4999
+MRT,Mauritania,Italy,Lower middle income,Africa,DT.INR.PRVT,1983,4.0
+MRT,Mauritania,Japan,Lower middle income,Africa,DT.INR.OFFT,1995,1.0
+MRT,Mauritania,Japan,Lower middle income,Africa,DT.INR.OFFT,1993,1.0
+MRT,Mauritania,Japan,Lower middle income,Africa,DT.INR.OFFT,1980,4.0
+MRT,Mauritania,Japan,Lower middle income,Africa,DT.INR.PRVT,1970,7.4
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,2020,1.5
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,2019,1.9999
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,2017,2.0
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,2015,2.0
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,2013,2.0
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,2012,2.0
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,2011,1.9999
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,2010,2.0
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,2008,1.5
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,2007,1.5
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,2004,1.5289
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,1997,3.0
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,1990,2.0
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,1988,1.4999
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,1987,1.5
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,1984,1.5
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,1982,1.9999
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,1981,0.5
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.PRVT,1981,16.8749
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,1979,2.2063
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,1978,6.0
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,1977,6.0
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,1976,6.8741
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,1975,2.1314
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,1974,1.0
+MRT,Mauritania,Kuwait,Lower middle income,Africa,DT.INR.OFFT,1973,5.75
+MRT,Mauritania,Libya,Lower middle income,Africa,DT.INR.OFFT,1980,4.0447
+MRT,Mauritania,Libya,Lower middle income,Africa,DT.INR.OFFT,1973,4.4179
+MRT,Mauritania,Morocco,Lower middle income,Africa,DT.INR.PRVT,2003,2.0
+MRT,Mauritania,Morocco,Lower middle income,Africa,DT.INR.OFFT,1978,2.0
+MRT,Mauritania,Morocco,Lower middle income,Africa,DT.INR.OFFT,1975,1.5625
+MRT,Mauritania,Multiple Lenders,Lower middle income,Africa,DT.INR.PRVT,1978,13.3699
+MRT,Mauritania,Netherlands,Lower middle income,Africa,DT.INR.PRVT,1983,8.5
+MRT,Mauritania,Netherlands,Lower middle income,Africa,DT.INR.PRVT,1981,4.25
+MRT,Mauritania,Nordic Development Fund,Lower middle income,Africa,DT.INR.OFFT,1999,3.5
+MRT,Mauritania,Norway,Lower middle income,Africa,DT.INR.PRVT,1974,10.0
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2023,1.75
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2017,1.75
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2014,1.75
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2012,2.0
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2008,2.0
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2007,1.0
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2005,2.25
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2003,2.5
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2002,2.0603
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2001,1.25
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,2000,3.5
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1996,3.5
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1995,2.5
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1994,3.5
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1993,3.25
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1990,3.5
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1989,3.5
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1986,3.5
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1985,1.0
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1983,1.0
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1982,0.5
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1981,0.5
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1980,0.5
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1978,0.75
+MRT,Mauritania,OPEC Fund for International Dev.,Lower middle income,Africa,DT.INR.OFFT,1977,0.5
+MRT,Mauritania,Qatar,Lower middle income,Africa,DT.INR.OFFT,1984,4.0
+MRT,Mauritania,Qatar,Lower middle income,Africa,DT.INR.OFFT,1978,3.0
+MRT,Mauritania,Qatar,Lower middle income,Africa,DT.INR.OFFT,1977,3.0
+MRT,Mauritania,Qatar,Lower middle income,Africa,DT.INR.OFFT,1976,3.0
+MRT,Mauritania,Qatar,Lower middle income,Africa,DT.INR.OFFT,1975,3.0
+MRT,Mauritania,Qatar,Lower middle income,Africa,DT.INR.OFFT,1974,3.0
+MRT,Mauritania,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,2023,2.0
+MRT,Mauritania,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,2022,2.0
+MRT,Mauritania,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,2017,2.0
+MRT,Mauritania,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,2016,2.0
+MRT,Mauritania,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,2015,2.8982
+MRT,Mauritania,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,2013,1.0
+MRT,Mauritania,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,2012,1.0
+MRT,Mauritania,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,2011,1.0
+MRT,Mauritania,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,2010,1.0
+MRT,Mauritania,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,2009,2.0
+MRT,Mauritania,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,2008,1.9785
+MRT,Mauritania,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,2004,2.0
+MRT,Mauritania,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,1990,1.0
+MRT,Mauritania,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,1987,1.0
+MRT,Mauritania,Saudi Arabia,Lower middle income,Africa,DT.INR.PRVT,1986,7.4
+MRT,Mauritania,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,1982,2.0
+MRT,Mauritania,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,1981,2.0
+MRT,Mauritania,Saudi Arabia,Lower middle income,Africa,DT.INR.OFFT,1979,2.4163
+MRT,Mauritania,Spain,Lower middle income,Africa,DT.INR.OFFT,2020,1.6
+MRT,Mauritania,Spain,Lower middle income,Africa,DT.INR.OFFT,2009,1.6
+MRT,Mauritania,Spain,Lower middle income,Africa,DT.INR.OFFT,2007,1.6
+MRT,Mauritania,Spain,Lower middle income,Africa,DT.INR.OFFT,2006,0.8999
+MRT,Mauritania,Spain,Lower middle income,Africa,DT.INR.OFFT,2005,1.3297
+MRT,Mauritania,Spain,Lower middle income,Africa,DT.INR.PRVT,2005,5.81
+MRT,Mauritania,Spain,Lower middle income,Africa,DT.INR.OFFT,2004,0.8999
+MRT,Mauritania,Spain,Lower middle income,Africa,DT.INR.PRVT,2004,5.81
+MRT,Mauritania,Spain,Lower middle income,Africa,DT.INR.OFFT,2001,0.55
+MRT,Mauritania,Spain,Lower middle income,Africa,DT.INR.PRVT,2001,5.8099
+MRT,Mauritania,Spain,Lower middle income,Africa,DT.INR.OFFT,1999,0.6499
+MRT,Mauritania,Spain,Lower middle income,Africa,DT.INR.OFFT,1992,2.0
+MRT,Mauritania,Spain,Lower middle income,Africa,DT.INR.OFFT,1984,14.255
+MRT,Mauritania,Spain,Lower middle income,Africa,DT.INR.OFFT,1978,8.25
+MRT,Mauritania,Spain,Lower middle income,Africa,DT.INR.OFFT,1977,5.0
+MRT,Mauritania,Switzerland,Lower middle income,Africa,DT.INR.PRVT,1978,7.5324
+MRT,Mauritania,Switzerland,Lower middle income,Africa,DT.INR.PRVT,1977,7.3354
+MRT,Mauritania,Switzerland,Lower middle income,Africa,DT.INR.PRVT,1976,10.625
+MRT,Mauritania,United Arab Emirates,Lower middle income,Africa,DT.INR.OFFT,2023,2.0
+MRT,Mauritania,United Arab Emirates,Lower middle income,Africa,DT.INR.OFFT,2020,2.0
+MRT,Mauritania,United Arab Emirates,Lower middle income,Africa,DT.INR.OFFT,2014,2.0
+MRT,Mauritania,United Arab Emirates,Lower middle income,Africa,DT.INR.OFFT,2013,2.0
+MRT,Mauritania,United Arab Emirates,Lower middle income,Africa,DT.INR.OFFT,1982,4.0
+MRT,Mauritania,United Arab Emirates,Lower middle income,Africa,DT.INR.OFFT,1980,3.0
+MRT,Mauritania,United Arab Emirates,Lower middle income,Africa,DT.INR.OFFT,1979,4.1666
+MRT,Mauritania,United Arab Emirates,Lower middle income,Africa,DT.INR.OFFT,1974,4.0
+MRT,Mauritania,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1982,7.4999
+MRT,Mauritania,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1978,8.0
+MRT,Mauritania,United Kingdom,Lower middle income,Africa,DT.INR.PRVT,1977,7.9999
+MRT,Mauritania,United States,Lower middle income,Africa,DT.INR.PRVT,1977,8.2808
+MRT,Mauritania,United States,Lower middle income,Africa,DT.INR.PRVT,1976,9.5
+MRT,Mauritania,United States,Lower middle income,Africa,DT.INR.OFFT,1974,6.0853
+MRT,Mauritania,United States,Lower middle income,Africa,DT.INR.PRVT,1974,8.5886
+MRT,Mauritania,United States,Lower middle income,Africa,DT.INR.OFFT,1973,6.0
+MRT,Mauritania,United States,Lower middle income,Africa,DT.INR.PRVT,1973,6.0
+MRT,Mauritania,West African Monetary Union (UMOA),Lower middle income,Africa,DT.INR.OFFT,1973,4.0
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2023,2.0248
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2022,1.9856
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2021,2.1851
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2020,1.8286
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2019,2.0926
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2018,4.433
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2017,2.1687
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2016,2.4391
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2015,2.757
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2014,1.9415
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2013,1.9665
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2012,1.7489
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2011,2.6107
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2010,2.2152
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2009,4.1217
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2008,2.7646
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2007,2.5825
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2006,1.5636
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2005,3.2803
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,2005,5.81
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2004,2.528
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,2004,5.81
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2003,1.4527
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,2003,2.0
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2002,1.7849
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2001,1.5672
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,2001,5.8099
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,2000,1.8807
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1999,0.987
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,1999,5.5999
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1998,1.8407
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1997,2.3105
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1996,2.4216
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,1996,8.75
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1995,1.0527
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1994,1.9637
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1993,2.0132
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1992,1.541
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1991,2.5382
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1990,3.0853
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1989,2.9383
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1988,1.5549
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1987,1.5048
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1986,2.752
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,1986,7.8105
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1985,2.1081
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1984,2.6515
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,1984,11.1896
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1983,4.4132
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,1983,7.328
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1982,2.746
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,1982,8.7467
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1981,1.8176
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,1981,5.1094
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1980,2.7017
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,1980,7.7425
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1979,4.2437
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,1979,6.104
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1978,3.0939
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,1978,12.2171
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1977,4.3496
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,1977,7.8994
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1976,3.7074
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,1976,7.4673
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1975,1.7394
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,1975,6.9941
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1974,0.7906
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,1974,7.4137
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1973,4.2222
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,1973,8.233
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1972,3.8347
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,1972,6.2579
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1971,0.1839
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.OFFT,1970,3.1651
+MRT,Mauritania,World,Lower middle income,Africa,DT.INR.PRVT,1970,6.6728
+MRT,Mauritania,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,1986,8.5
+MRT,Mauritania,World Bank-IBRD,Lower middle income,Africa,DT.INR.OFFT,1979,7.9
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2023,2.0
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2022,1.7816
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2014,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2013,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2011,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2010,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2009,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2008,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2006,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2005,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2004,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2003,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2001,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,2000,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1999,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1998,0.5
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1997,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1996,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1995,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1994,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1993,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1992,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1990,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1988,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1987,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1986,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1985,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1983,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1982,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1981,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1980,0.7499
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1979,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1977,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1976,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1975,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1974,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1973,0.75
+MRT,Mauritania,World Bank-IDA,Lower middle income,Africa,DT.INR.OFFT,1971,0.75
