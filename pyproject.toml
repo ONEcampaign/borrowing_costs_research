@@ -12,10 +12,6 @@ bblocks-data-importers = "^0.2.1"
 [tool.poetry.group.dev.dependencies]
 black = "^24.10"
 
-[tool.black]
-line-length = 88
-target-version = ['py310', 'py311', 'py312', 'py313']
-
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
