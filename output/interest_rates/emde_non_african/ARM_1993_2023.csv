@@ -1,0 +1,177 @@
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+ARM,Armenia,Asian Dev. Bank (official),Upper middle income,Asia,2023,4.8289
+ARM,Armenia,Asian Dev. Bank (official),Upper middle income,Asia,2022,0.799
+ARM,Armenia,Asian Dev. Bank (official),Upper middle income,Asia,2019,0.5001
+ARM,Armenia,Asian Dev. Bank (official),Upper middle income,Asia,2018,3.3945
+ARM,Armenia,Asian Dev. Bank (official),Upper middle income,Asia,2017,1.8176
+ARM,Armenia,Asian Dev. Bank (official),Upper middle income,Asia,2016,1.4438
+ARM,Armenia,Asian Dev. Bank (official),Upper middle income,Asia,2015,1.4662
+ARM,Armenia,Asian Dev. Bank (official),Upper middle income,Asia,2014,1.1161
+ARM,Armenia,Asian Dev. Bank (official),Upper middle income,Asia,2013,1.3572
+ARM,Armenia,Asian Dev. Bank (official),Upper middle income,Asia,2012,1.4897
+ARM,Armenia,Asian Dev. Bank (official),Upper middle income,Asia,2011,0.8936
+ARM,Armenia,Asian Dev. Bank (official),Upper middle income,Asia,2009,1.4245
+ARM,Armenia,Asian Dev. Bank (official),Upper middle income,Asia,2008,1.3728
+ARM,Armenia,Asian Dev. Bank (official),Upper middle income,Asia,2007,1.3852
+ARM,Armenia,Austria (private),Upper middle income,Asia,2017,1.0
+ARM,Armenia,Austria (private),Upper middle income,Asia,2014,1.5465
+ARM,Armenia,Belgium (private),Upper middle income,Asia,2013,0.72
+ARM,Armenia,Belgium (private),Upper middle income,Asia,2010,0.72
+ARM,Armenia,Bondholders (private),Upper middle income,Asia,2021,3.5999
+ARM,Armenia,Bondholders (private),Upper middle income,Asia,2019,3.95
+ARM,Armenia,Bondholders (private),Upper middle income,Asia,2015,7.15
+ARM,Armenia,Bondholders (private),Upper middle income,Asia,2013,6.0
+ARM,Armenia,China (official),Upper middle income,Asia,2015,2.0
+ARM,Armenia,Eurasian Development Bank (official),Upper middle income,Asia,2015,1.954
+ARM,Armenia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2021,0.2432
+ARM,Armenia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2020,1.0001
+ARM,Armenia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2016,1.0
+ARM,Armenia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2015,1.7151
+ARM,Armenia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2014,1.389
+ARM,Armenia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2013,1.3964
+ARM,Armenia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2012,1.1754
+ARM,Armenia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2011,2.821
+ARM,Armenia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2010,1.6339
+ARM,Armenia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2007,5.135
+ARM,Armenia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,1995,5.815
+ARM,Armenia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,1994,6.565
+ARM,Armenia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,1993,4.315
+ARM,Armenia,European Investment Bank (official),Upper middle income,Asia,2023,7.426
+ARM,Armenia,European Investment Bank (official),Upper middle income,Asia,2018,3.5
+ARM,Armenia,European Investment Bank (official),Upper middle income,Asia,2016,1.6416
+ARM,Armenia,European Investment Bank (official),Upper middle income,Asia,2015,0.7653
+ARM,Armenia,European Investment Bank (official),Upper middle income,Asia,2014,1.1979
+ARM,Armenia,European Investment Bank (official),Upper middle income,Asia,2013,0.9559
+ARM,Armenia,European Investment Bank (official),Upper middle income,Asia,2012,1.8866
+ARM,Armenia,European Investment Bank (official),Upper middle income,Asia,2010,1.636
+ARM,Armenia,European Investment Bank (official),Upper middle income,Asia,1993,3.3469
+ARM,Armenia,France (official),Upper middle income,Asia,2022,3.8699
+ARM,Armenia,France (official),Upper middle income,Asia,2016,1.203
+ARM,Armenia,France (official),Upper middle income,Asia,2001,0.75
+ARM,Armenia,France (official),Upper middle income,Asia,1995,0.75
+ARM,Armenia,France (private),Upper middle income,Asia,2008,1.7499
+ARM,Armenia,Germany (official),Upper middle income,Asia,2021,0.6685
+ARM,Armenia,Germany (official),Upper middle income,Asia,2019,0.8659
+ARM,Armenia,Germany (official),Upper middle income,Asia,2017,1.8135
+ARM,Armenia,Germany (official),Upper middle income,Asia,2016,1.8
+ARM,Armenia,Germany (official),Upper middle income,Asia,2015,1.7999
+ARM,Armenia,Germany (official),Upper middle income,Asia,2014,1.7519
+ARM,Armenia,Germany (official),Upper middle income,Asia,2013,1.8999
+ARM,Armenia,Germany (official),Upper middle income,Asia,2012,2.0999
+ARM,Armenia,Germany (official),Upper middle income,Asia,2010,2.315
+ARM,Armenia,Germany (official),Upper middle income,Asia,2009,0.75
+ARM,Armenia,Germany (official),Upper middle income,Asia,2007,0.7499
+ARM,Armenia,Germany (official),Upper middle income,Asia,2006,0.75
+ARM,Armenia,Germany (official),Upper middle income,Asia,2005,0.75
+ARM,Armenia,Germany (official),Upper middle income,Asia,2004,0.75
+ARM,Armenia,Germany (official),Upper middle income,Asia,2003,0.75
+ARM,Armenia,Germany (official),Upper middle income,Asia,2002,0.75
+ARM,Armenia,Germany (official),Upper middle income,Asia,2001,0.75
+ARM,Armenia,Germany (official),Upper middle income,Asia,2000,0.75
+ARM,Armenia,Germany (official),Upper middle income,Asia,1998,0.75
+ARM,Armenia,Germany (official),Upper middle income,Asia,1997,0.75
+ARM,Armenia,International Fund for Agricultural Dev. (official),Upper middle income,Asia,2014,2.0
+ARM,Armenia,International Fund for Agricultural Dev. (official),Upper middle income,Asia,2010,0.7499
+ARM,Armenia,International Fund for Agricultural Dev. (official),Upper middle income,Asia,2008,0.7499
+ARM,Armenia,International Fund for Agricultural Dev. (official),Upper middle income,Asia,2005,0.7499
+ARM,Armenia,International Fund for Agricultural Dev. (official),Upper middle income,Asia,2001,0.75
+ARM,Armenia,International Fund for Agricultural Dev. (official),Upper middle income,Asia,1995,0.75
+ARM,Armenia,Japan (official),Upper middle income,Asia,2008,0.75
+ARM,Armenia,Japan (official),Upper middle income,Asia,2005,0.7499
+ARM,Armenia,Japan (official),Upper middle income,Asia,1999,0.9628
+ARM,Armenia,OPEC Fund for International Dev. (official),Upper middle income,Asia,2023,5.702
+ARM,Armenia,OPEC Fund for International Dev. (official),Upper middle income,Asia,2015,3.75
+ARM,Armenia,OPEC Fund for International Dev. (official),Upper middle income,Asia,2008,4.1999
+ARM,Armenia,OPEC Fund for International Dev. (official),Upper middle income,Asia,2007,4.0
+ARM,Armenia,OPEC Fund for International Dev. (official),Upper middle income,Asia,2005,2.75
+ARM,Armenia,Russia (official),Upper middle income,Asia,2017,3.0
+ARM,Armenia,Russia (official),Upper middle income,Asia,2015,3.0
+ARM,Armenia,Russia (official),Upper middle income,Asia,2009,4.2399
+ARM,Armenia,Russia (official),Upper middle income,Asia,1998,5.4529
+ARM,Armenia,Russia (official),Upper middle income,Asia,1997,6.8
+ARM,Armenia,Russia (official),Upper middle income,Asia,1996,4.0
+ARM,Armenia,Russia (official),Upper middle income,Asia,1994,6.1849
+ARM,Armenia,Russia (official),Upper middle income,Asia,1993,4.144
+ARM,Armenia,Switzerland (private),Upper middle income,Asia,1997,6.0349
+ARM,Armenia,Turkmenistan (official),Upper middle income,Asia,1997,6.335
+ARM,Armenia,United Arab Emirates (official),Upper middle income,Asia,2007,3.4999
+ARM,Armenia,United States (official),Upper middle income,Asia,1997,1.75
+ARM,Armenia,United States (official),Upper middle income,Asia,1996,6.5
+ARM,Armenia,United States (official),Upper middle income,Asia,1995,0.75
+ARM,Armenia,United States (private),Upper middle income,Asia,2001,10.0
+ARM,Armenia,World (official),Upper middle income,Asia,2023,5.0236
+ARM,Armenia,World (official),Upper middle income,Asia,2022,2.0782
+ARM,Armenia,World (official),Upper middle income,Asia,2021,0.6397
+ARM,Armenia,World (official),Upper middle income,Asia,2020,1.0
+ARM,Armenia,World (official),Upper middle income,Asia,2019,0.8776
+ARM,Armenia,World (official),Upper middle income,Asia,2018,3.4517
+ARM,Armenia,World (official),Upper middle income,Asia,2017,2.2566
+ARM,Armenia,World (official),Upper middle income,Asia,2016,1.6275
+ARM,Armenia,World (official),Upper middle income,Asia,2015,2.165
+ARM,Armenia,World (official),Upper middle income,Asia,2014,1.3031
+ARM,Armenia,World (official),Upper middle income,Asia,2013,1.3959
+ARM,Armenia,World (official),Upper middle income,Asia,2012,1.7646
+ARM,Armenia,World (official),Upper middle income,Asia,2011,0.9465
+ARM,Armenia,World (official),Upper middle income,Asia,2010,1.8625
+ARM,Armenia,World (official),Upper middle income,Asia,2009,2.858
+ARM,Armenia,World (official),Upper middle income,Asia,2008,1.1069
+ARM,Armenia,World (official),Upper middle income,Asia,2007,1.4694
+ARM,Armenia,World (official),Upper middle income,Asia,2006,0.75
+ARM,Armenia,World (official),Upper middle income,Asia,2005,0.7897
+ARM,Armenia,World (official),Upper middle income,Asia,2004,0.75
+ARM,Armenia,World (official),Upper middle income,Asia,2003,0.75
+ARM,Armenia,World (official),Upper middle income,Asia,2002,0.75
+ARM,Armenia,World (official),Upper middle income,Asia,2001,0.6857
+ARM,Armenia,World (official),Upper middle income,Asia,2000,0.75
+ARM,Armenia,World (official),Upper middle income,Asia,1999,0.8561
+ARM,Armenia,World (official),Upper middle income,Asia,1998,1.6726
+ARM,Armenia,World (official),Upper middle income,Asia,1997,1.9997
+ARM,Armenia,World (official),Upper middle income,Asia,1996,1.845
+ARM,Armenia,World (official),Upper middle income,Asia,1995,1.3294
+ARM,Armenia,World (official),Upper middle income,Asia,1994,3.5711
+ARM,Armenia,World (official),Upper middle income,Asia,1993,4.3874
+ARM,Armenia,World (private),Upper middle income,Asia,2021,3.5999
+ARM,Armenia,World (private),Upper middle income,Asia,2019,3.95
+ARM,Armenia,World (private),Upper middle income,Asia,2017,1.0
+ARM,Armenia,World (private),Upper middle income,Asia,2015,7.15
+ARM,Armenia,World (private),Upper middle income,Asia,2014,1.5465
+ARM,Armenia,World (private),Upper middle income,Asia,2013,5.997
+ARM,Armenia,World (private),Upper middle income,Asia,2010,0.72
+ARM,Armenia,World (private),Upper middle income,Asia,2008,1.7499
+ARM,Armenia,World (private),Upper middle income,Asia,2001,10.0
+ARM,Armenia,World (private),Upper middle income,Asia,1997,6.0349
+ARM,Armenia,World Bank-IBRD (official),Upper middle income,Asia,2023,4.275
+ARM,Armenia,World Bank-IBRD (official),Upper middle income,Asia,2022,0.97
+ARM,Armenia,World Bank-IBRD (official),Upper middle income,Asia,2021,1.2876
+ARM,Armenia,World Bank-IBRD (official),Upper middle income,Asia,2020,1.0
+ARM,Armenia,World Bank-IBRD (official),Upper middle income,Asia,2019,1.19
+ARM,Armenia,World Bank-IBRD (official),Upper middle income,Asia,2017,2.2776
+ARM,Armenia,World Bank-IBRD (official),Upper middle income,Asia,2016,2.2537
+ARM,Armenia,World Bank-IBRD (official),Upper middle income,Asia,2015,1.559
+ARM,Armenia,World Bank-IBRD (official),Upper middle income,Asia,2014,0.9365
+ARM,Armenia,World Bank-IBRD (official),Upper middle income,Asia,2013,0.8756
+ARM,Armenia,World Bank-IBRD (official),Upper middle income,Asia,2012,1.2288
+ARM,Armenia,World Bank-IBRD (official),Upper middle income,Asia,2011,0.9655
+ARM,Armenia,World Bank-IBRD (official),Upper middle income,Asia,2010,0.9882
+ARM,Armenia,World Bank-IBRD (official),Upper middle income,Asia,2009,1.2085
+ARM,Armenia,World Bank-IBRD (official),Upper middle income,Asia,1993,7.4
+ARM,Armenia,World Bank-IDA (official),Upper middle income,Asia,2014,2.019
+ARM,Armenia,World Bank-IDA (official),Upper middle income,Asia,2013,2.3776
+ARM,Armenia,World Bank-IDA (official),Upper middle income,Asia,2012,1.9999
+ARM,Armenia,World Bank-IDA (official),Upper middle income,Asia,2011,0.75
+ARM,Armenia,World Bank-IDA (official),Upper middle income,Asia,2009,0.75
+ARM,Armenia,World Bank-IDA (official),Upper middle income,Asia,2008,0.75
+ARM,Armenia,World Bank-IDA (official),Upper middle income,Asia,2007,0.75
+ARM,Armenia,World Bank-IDA (official),Upper middle income,Asia,2006,0.75
+ARM,Armenia,World Bank-IDA (official),Upper middle income,Asia,2005,0.75
+ARM,Armenia,World Bank-IDA (official),Upper middle income,Asia,2004,0.75
+ARM,Armenia,World Bank-IDA (official),Upper middle income,Asia,2003,0.75
+ARM,Armenia,World Bank-IDA (official),Upper middle income,Asia,2002,0.75
+ARM,Armenia,World Bank-IDA (official),Upper middle income,Asia,2001,0.75
+ARM,Armenia,World Bank-IDA (official),Upper middle income,Asia,2000,0.75
+ARM,Armenia,World Bank-IDA (official),Upper middle income,Asia,1999,0.75
+ARM,Armenia,World Bank-IDA (official),Upper middle income,Asia,1998,0.75
+ARM,Armenia,World Bank-IDA (official),Upper middle income,Asia,1997,0.75
+ARM,Armenia,World Bank-IDA (official),Upper middle income,Asia,1996,0.75
+ARM,Armenia,World Bank-IDA (official),Upper middle income,Asia,1995,0.75
+ARM,Armenia,World Bank-IDA (official),Upper middle income,Asia,1994,0.75

@@ -17,7 +17,7 @@ The `scripts` folder contains the different scripts and tools to conduct the ana
 The `raw_data` folder stores raw data files.
 
 The `output` folder stores the clean files. Currently, it contains an
-[interest_rates](./output/interest_rates/) folder with country-level interest rate data for each African country.
+[interest_rates](./output/interest_rates/) folder with country-level interest rate data for each African country, and for each EMEA country.
 
 ---
 
@@ -47,11 +47,44 @@ Interest represents the average interest rate on all new public and publicly gua
 Interest represents the average interest rate on all new public and publicly guaranteed loans contracted during the year. To obtain the average, the interest rates for all public and publicly guaranteed loans have been weighted by the amounts of the loans. Debt from private creditors include bonds that are either publicly issued or privately placed; commercial bank loans from private banks and other private financial institutions; and other private credits from manufacturers, exporters, and other suppliers of goods, and bank credits covered by a guarantee of an export credit agency.
 
 
-### Missing data
+#### Missing data
 Data may not be available for every country for every year. This could mean that the data wasn't reported by the country, or that no new debt was agreed in that given year.
 
 A few countries have no data in the IDS database:
+
+**African countries**
 - Equatorial Guinea
 - Libya
 - South Sudan
 - Seychelles
+
+**Other EMDE**
+- United Arab Emirates
+- Antigua and Barbuda
+- Bulgaria
+- Bahrain
+- Bahamas
+- Barbados
+- Brunei Darussalam
+- Bhutan
+- Chile
+- FS Micronesia
+- Hungary
+- Kiribati
+- Saint Kitts and Nevis
+- Kwait
+- Marshall Islands
+- Malaysia
+- Nauru
+- Oman
+- Panama
+- Palau
+- Poland
+- Palestine
+- Qatar
+- Romania
+- Russian Federation
+- Saudi Arabia
+- Tuvalu
+- Uruguay
+- Venezuela

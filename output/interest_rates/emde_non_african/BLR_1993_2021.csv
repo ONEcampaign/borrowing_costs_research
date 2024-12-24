@@ -1,0 +1,187 @@
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+BLR,Belarus,Austria (private),Upper middle income,Europe,1998,6.4236
+BLR,Belarus,Austria (private),Upper middle income,Europe,1997,5.9999
+BLR,Belarus,Austria (private),Upper middle income,Europe,1996,6.75
+BLR,Belarus,Austria (private),Upper middle income,Europe,1995,5.0
+BLR,Belarus,Austria (private),Upper middle income,Europe,1993,7.0
+BLR,Belarus,Azerbaijan (private),Upper middle income,Europe,2011,3.0027
+BLR,Belarus,Belgium (private),Upper middle income,Europe,1995,5.5999
+BLR,Belarus,Bondholders (private),Upper middle income,Europe,2020,6.1767
+BLR,Belarus,Bondholders (private),Upper middle income,Europe,2019,8.6499
+BLR,Belarus,Bondholders (private),Upper middle income,Europe,2018,6.1999
+BLR,Belarus,Bondholders (private),Upper middle income,Europe,2017,7.1964
+BLR,Belarus,Bondholders (private),Upper middle income,Europe,2011,8.9499
+BLR,Belarus,Bondholders (private),Upper middle income,Europe,2010,8.75
+BLR,Belarus,Bondholders (private),Upper middle income,Europe,2007,12.75
+BLR,Belarus,China (official),Upper middle income,Europe,2021,3.0
+BLR,Belarus,China (official),Upper middle income,Europe,2019,4.8609
+BLR,Belarus,China (official),Upper middle income,Europe,2018,2.0
+BLR,Belarus,China (official),Upper middle income,Europe,2017,2.8686
+BLR,Belarus,China (official),Upper middle income,Europe,2016,4.9439
+BLR,Belarus,China (official),Upper middle income,Europe,2015,3.9499
+BLR,Belarus,China (official),Upper middle income,Europe,2014,4.0603
+BLR,Belarus,China (official),Upper middle income,Europe,2013,3.1216
+BLR,Belarus,China (official),Upper middle income,Europe,2012,3.0937
+BLR,Belarus,China (official),Upper middle income,Europe,2011,3.5702
+BLR,Belarus,China (official),Upper middle income,Europe,2010,3.0566
+BLR,Belarus,China (official),Upper middle income,Europe,2009,6.1693
+BLR,Belarus,China (official),Upper middle income,Europe,2008,6.2944
+BLR,Belarus,China (official),Upper middle income,Europe,2007,2.9999
+BLR,Belarus,China (official),Upper middle income,Europe,2005,4.7313
+BLR,Belarus,China (private),Upper middle income,Europe,1996,6.6849
+BLR,Belarus,Czechia (official),Upper middle income,Europe,2001,5.263
+BLR,Belarus,Czechia (official),Upper middle income,Europe,2000,6.6218
+BLR,Belarus,Czechia (official),Upper middle income,Europe,1999,6.7432
+BLR,Belarus,Czechia (private),Upper middle income,Europe,1999,5.0599
+BLR,Belarus,Eurasian Development Bank (official),Upper middle income,Europe,2021,2.4999
+BLR,Belarus,Eurasian Development Bank (official),Upper middle income,Europe,2020,1.95
+BLR,Belarus,Eurasian Development Bank (official),Upper middle income,Europe,2016,4.0599
+BLR,Belarus,Eurasian Development Bank (official),Upper middle income,Europe,2014,8.0
+BLR,Belarus,Eurasian Development Bank (official),Upper middle income,Europe,2013,5.4409
+BLR,Belarus,Eurasian Development Bank (official),Upper middle income,Europe,2011,8.7504
+BLR,Belarus,Eurasian Development Bank (official),Upper middle income,Europe,2010,8.1899
+BLR,Belarus,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Europe,2019,1.0001
+BLR,Belarus,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Europe,2018,1.0001
+BLR,Belarus,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Europe,2017,2.506
+BLR,Belarus,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Europe,2016,1.0001
+BLR,Belarus,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Europe,2012,1.32
+BLR,Belarus,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Europe,1996,4.5
+BLR,Belarus,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Europe,1995,7.565
+BLR,Belarus,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Europe,1994,8.2498
+BLR,Belarus,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Europe,1993,9.6327
+BLR,Belarus,European Investment Bank (official),Upper middle income,Europe,2019,0.5625
+BLR,Belarus,European Investment Bank (official),Upper middle income,Europe,2018,0.596
+BLR,Belarus,European Investment Bank (official),Upper middle income,Europe,1995,5.6249
+BLR,Belarus,Germany (private),Upper middle income,Europe,2014,3.2288
+BLR,Belarus,Germany (private),Upper middle income,Europe,2013,2.878
+BLR,Belarus,Germany (private),Upper middle income,Europe,2009,3.1758
+BLR,Belarus,Germany (private),Upper middle income,Europe,2006,7.248
+BLR,Belarus,Germany (private),Upper middle income,Europe,2004,3.4833
+BLR,Belarus,Germany (private),Upper middle income,Europe,2003,3.894
+BLR,Belarus,Germany (private),Upper middle income,Europe,2002,1.7707
+BLR,Belarus,Germany (private),Upper middle income,Europe,2001,3.9503
+BLR,Belarus,Germany (private),Upper middle income,Europe,2000,7.1239
+BLR,Belarus,Germany (private),Upper middle income,Europe,1999,1.4999
+BLR,Belarus,Germany (private),Upper middle income,Europe,1998,4.5616
+BLR,Belarus,Germany (private),Upper middle income,Europe,1997,5.1318
+BLR,Belarus,Germany (private),Upper middle income,Europe,1996,5.5999
+BLR,Belarus,Germany (private),Upper middle income,Europe,1994,4.7154
+BLR,Belarus,Germany (private),Upper middle income,Europe,1993,7.8936
+BLR,Belarus,India (official),Upper middle income,Europe,2010,1.0305
+BLR,Belarus,Italy (private),Upper middle income,Europe,2006,3.9
+BLR,Belarus,Italy (private),Upper middle income,Europe,2004,4.3699
+BLR,Belarus,Japan (official),Upper middle income,Europe,2009,5.05
+BLR,Belarus,Japan (official),Upper middle income,Europe,1998,5.7
+BLR,Belarus,Japan (official),Upper middle income,Europe,1993,7.2747
+BLR,Belarus,Kuwait (official),Upper middle income,Europe,2021,2.5
+BLR,Belarus,Kuwait (official),Upper middle income,Europe,2006,3.5
+BLR,Belarus,Kuwait (official),Upper middle income,Europe,2002,3.5
+BLR,Belarus,Multiple Lenders (private),Upper middle income,Europe,2012,4.5
+BLR,Belarus,Multiple Lenders (private),Upper middle income,Europe,2007,4.5
+BLR,Belarus,Multiple Lenders (private),Upper middle income,Europe,2006,7.353
+BLR,Belarus,Multiple Lenders (private),Upper middle income,Europe,2005,8.8506
+BLR,Belarus,Nordic Investment Bank (official),Upper middle income,Europe,2012,1.6699
+BLR,Belarus,OPEC Fund for International Dev. (official),Upper middle income,Europe,2020,4.0
+BLR,Belarus,Poland (private),Upper middle income,Europe,2001,5.8273
+BLR,Belarus,Poland (private),Upper middle income,Europe,2000,8.526
+BLR,Belarus,Russia (official),Upper middle income,Europe,2020,1.95
+BLR,Belarus,Russia (official),Upper middle income,Europe,2017,2.9038
+BLR,Belarus,Russia (official),Upper middle income,Europe,2015,3.314
+BLR,Belarus,Russia (official),Upper middle income,Europe,2014,5.384
+BLR,Belarus,Russia (official),Upper middle income,Europe,2011,2.5782
+BLR,Belarus,Russia (official),Upper middle income,Europe,2010,8.6999
+BLR,Belarus,Russia (official),Upper middle income,Europe,2009,4.1918
+BLR,Belarus,Russia (official),Upper middle income,Europe,2008,5.5913
+BLR,Belarus,Russia (official),Upper middle income,Europe,2007,4.5963
+BLR,Belarus,Russia (official),Upper middle income,Europe,2005,5.4499
+BLR,Belarus,Russia (official),Upper middle income,Europe,2004,3.3643
+BLR,Belarus,Russia (official),Upper middle income,Europe,2001,2.7799
+BLR,Belarus,Russia (official),Upper middle income,Europe,2000,6.9539
+BLR,Belarus,Russia (official),Upper middle income,Europe,1997,5.8
+BLR,Belarus,Russia (official),Upper middle income,Europe,1994,6.9349
+BLR,Belarus,Russia (official),Upper middle income,Europe,1993,4.505
+BLR,Belarus,Russia (private),Upper middle income,Europe,2015,7.0899
+BLR,Belarus,Russia (private),Upper middle income,Europe,2013,7.0
+BLR,Belarus,Russia (private),Upper middle income,Europe,2012,8.4399
+BLR,Belarus,Russia (private),Upper middle income,Europe,1995,10.0
+BLR,Belarus,Spain (private),Upper middle income,Europe,1997,7.32
+BLR,Belarus,Switzerland (private),Upper middle income,Europe,1995,8.1249
+BLR,Belarus,Switzerland (private),Upper middle income,Europe,1994,7.0136
+BLR,Belarus,Turkmenistan (official),Upper middle income,Europe,2014,5.0
+BLR,Belarus,Türkiye (official),Upper middle income,Europe,2010,0.8109
+BLR,Belarus,Türkiye (official),Upper middle income,Europe,2000,6.504
+BLR,Belarus,United Arab Emirates (official),Upper middle income,Europe,2017,2.0
+BLR,Belarus,United Kingdom (private),Upper middle income,Europe,2007,4.7509
+BLR,Belarus,United States (official),Upper middle income,Europe,1995,2.5032
+BLR,Belarus,United States (official),Upper middle income,Europe,1994,2.7818
+BLR,Belarus,United States (official),Upper middle income,Europe,1993,2.6785
+BLR,Belarus,Venezuela (official),Upper middle income,Europe,2008,7.5
+BLR,Belarus,World (official),Upper middle income,Europe,2021,2.5234
+BLR,Belarus,World (official),Upper middle income,Europe,2020,1.8332
+BLR,Belarus,World (official),Upper middle income,Europe,2019,2.4101
+BLR,Belarus,World (official),Upper middle income,Europe,2018,1.6555
+BLR,Belarus,World (official),Upper middle income,Europe,2017,2.849
+BLR,Belarus,World (official),Upper middle income,Europe,2016,4.3041
+BLR,Belarus,World (official),Upper middle income,Europe,2015,3.3867
+BLR,Belarus,World (official),Upper middle income,Europe,2014,5.0713
+BLR,Belarus,World (official),Upper middle income,Europe,2013,3.3159
+BLR,Belarus,World (official),Upper middle income,Europe,2012,3.0137
+BLR,Belarus,World (official),Upper middle income,Europe,2011,2.5945
+BLR,Belarus,World (official),Upper middle income,Europe,2010,5.9067
+BLR,Belarus,World (official),Upper middle income,Europe,2009,4.1346
+BLR,Belarus,World (official),Upper middle income,Europe,2008,6.1213
+BLR,Belarus,World (official),Upper middle income,Europe,2007,4.5519
+BLR,Belarus,World (official),Upper middle income,Europe,2006,5.9193
+BLR,Belarus,World (official),Upper middle income,Europe,2005,5.0076
+BLR,Belarus,World (official),Upper middle income,Europe,2004,3.3643
+BLR,Belarus,World (official),Upper middle income,Europe,2002,3.5
+BLR,Belarus,World (official),Upper middle income,Europe,2001,3.628
+BLR,Belarus,World (official),Upper middle income,Europe,2000,6.7015
+BLR,Belarus,World (official),Upper middle income,Europe,1999,6.7432
+BLR,Belarus,World (official),Upper middle income,Europe,1998,5.7
+BLR,Belarus,World (official),Upper middle income,Europe,1997,5.8
+BLR,Belarus,World (official),Upper middle income,Europe,1996,4.5
+BLR,Belarus,World (official),Upper middle income,Europe,1995,5.073
+BLR,Belarus,World (official),Upper middle income,Europe,1994,6.855
+BLR,Belarus,World (official),Upper middle income,Europe,1993,6.9483
+BLR,Belarus,World (private),Upper middle income,Europe,2020,6.1767
+BLR,Belarus,World (private),Upper middle income,Europe,2019,8.6499
+BLR,Belarus,World (private),Upper middle income,Europe,2018,6.1999
+BLR,Belarus,World (private),Upper middle income,Europe,2017,7.1964
+BLR,Belarus,World (private),Upper middle income,Europe,2015,7.0899
+BLR,Belarus,World (private),Upper middle income,Europe,2014,3.2288
+BLR,Belarus,World (private),Upper middle income,Europe,2013,6.5776
+BLR,Belarus,World (private),Upper middle income,Europe,2012,5.8355
+BLR,Belarus,World (private),Upper middle income,Europe,2011,7.328
+BLR,Belarus,World (private),Upper middle income,Europe,2010,8.75
+BLR,Belarus,World (private),Upper middle income,Europe,2009,3.1758
+BLR,Belarus,World (private),Upper middle income,Europe,2007,4.6014
+BLR,Belarus,World (private),Upper middle income,Europe,2006,7.1987
+BLR,Belarus,World (private),Upper middle income,Europe,2005,8.8506
+BLR,Belarus,World (private),Upper middle income,Europe,2004,3.5898
+BLR,Belarus,World (private),Upper middle income,Europe,2003,3.894
+BLR,Belarus,World (private),Upper middle income,Europe,2002,1.7707
+BLR,Belarus,World (private),Upper middle income,Europe,2001,4.3566
+BLR,Belarus,World (private),Upper middle income,Europe,2000,7.8162
+BLR,Belarus,World (private),Upper middle income,Europe,1999,3.6357
+BLR,Belarus,World (private),Upper middle income,Europe,1998,5.0464
+BLR,Belarus,World (private),Upper middle income,Europe,1997,6.5964
+BLR,Belarus,World (private),Upper middle income,Europe,1996,6.4206
+BLR,Belarus,World (private),Upper middle income,Europe,1995,8.0844
+BLR,Belarus,World (private),Upper middle income,Europe,1994,4.908
+BLR,Belarus,World (private),Upper middle income,Europe,1993,7.6763
+BLR,Belarus,World Bank-IBRD (official),Upper middle income,Europe,2020,0.7708
+BLR,Belarus,World Bank-IBRD (official),Upper middle income,Europe,2019,0.7892
+BLR,Belarus,World Bank-IBRD (official),Upper middle income,Europe,2018,0.49
+BLR,Belarus,World Bank-IBRD (official),Upper middle income,Europe,2017,2.7176
+BLR,Belarus,World Bank-IBRD (official),Upper middle income,Europe,2016,1.8554
+BLR,Belarus,World Bank-IBRD (official),Upper middle income,Europe,2015,0.9195
+BLR,Belarus,World Bank-IBRD (official),Upper middle income,Europe,2014,0.4312
+BLR,Belarus,World Bank-IBRD (official),Upper middle income,Europe,2013,0.6733
+BLR,Belarus,World Bank-IBRD (official),Upper middle income,Europe,2010,0.7788
+BLR,Belarus,World Bank-IBRD (official),Upper middle income,Europe,2009,0.7969
+BLR,Belarus,World Bank-IBRD (official),Upper middle income,Europe,2008,3.1052
+BLR,Belarus,World Bank-IBRD (official),Upper middle income,Europe,2006,5.92
+BLR,Belarus,World Bank-IBRD (official),Upper middle income,Europe,2001,3.64
+BLR,Belarus,World Bank-IBRD (official),Upper middle income,Europe,1994,7.11
+BLR,Belarus,World Bank-IBRD (official),Upper middle income,Europe,1993,7.42

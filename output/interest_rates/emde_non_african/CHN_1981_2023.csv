@@ -1,0 +1,610 @@
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+CHN,China,Arab Fund for Economic & Social Development (official),Upper middle income,Asia,1985,4.0
+CHN,China,Argentina (official),Upper middle income,Asia,1986,6.7567
+CHN,China,Argentina (official),Upper middle income,Asia,1985,7.093
+CHN,China,Argentina (private),Upper middle income,Asia,1985,7.5
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2023,4.7147
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2022,0.8774
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2021,0.8288
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2020,0.9018
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2019,2.1321
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2018,2.2378
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2017,1.507
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2016,1.4775
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2015,1.0535
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2014,0.725
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2013,0.8068
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2012,1.0855
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2011,0.7955
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2010,0.7996
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2009,1.484
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2008,3.1198
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2007,5.8849
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2006,5.8633
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2005,4.0859
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2004,2.1755
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2003,1.8451
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2002,6.3735
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2001,6.6999
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,2000,6.5105
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,1999,6.7133
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,1998,6.9299
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,1997,6.7757
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,1996,6.837
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,1995,6.9022
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,1994,6.51
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,1993,6.6323
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,1992,6.5316
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,1991,6.5728
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,1990,6.36
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,1989,6.36
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,1988,6.36
+CHN,China,Asian Dev. Bank (official),Upper middle income,Asia,1987,6.36
+CHN,China,Australia (official),Upper middle income,Asia,1994,0.0003
+CHN,China,Australia (official),Upper middle income,Asia,1993,0.6762
+CHN,China,Australia (official),Upper middle income,Asia,1992,3.0
+CHN,China,Australia (official),Upper middle income,Asia,1991,4.086
+CHN,China,Australia (official),Upper middle income,Asia,1986,7.5
+CHN,China,Australia (official),Upper middle income,Asia,1984,6.8
+CHN,China,Australia (official),Upper middle income,Asia,1983,6.8
+CHN,China,Australia (official),Upper middle income,Asia,1982,6.8
+CHN,China,Australia (official),Upper middle income,Asia,1981,6.8
+CHN,China,Australia (private),Upper middle income,Asia,1995,7.9814
+CHN,China,Australia (private),Upper middle income,Asia,1991,4.7379
+CHN,China,Australia (private),Upper middle income,Asia,1986,8.8
+CHN,China,Australia (private),Upper middle income,Asia,1985,8.7082
+CHN,China,Australia (private),Upper middle income,Asia,1984,7.7499
+CHN,China,Australia (private),Upper middle income,Asia,1983,7.4999
+CHN,China,Australia (private),Upper middle income,Asia,1982,7.5
+CHN,China,Australia (private),Upper middle income,Asia,1981,7.8
+CHN,China,Austria (official),Upper middle income,Asia,1988,4.5
+CHN,China,Austria (private),Upper middle income,Asia,1998,4.5
+CHN,China,Austria (private),Upper middle income,Asia,1995,3.6308
+CHN,China,Austria (private),Upper middle income,Asia,1994,6.5
+CHN,China,Austria (private),Upper middle income,Asia,1993,4.5355
+CHN,China,Austria (private),Upper middle income,Asia,1989,4.5
+CHN,China,Austria (private),Upper middle income,Asia,1987,4.5
+CHN,China,Austria (private),Upper middle income,Asia,1986,7.75
+CHN,China,Austria (private),Upper middle income,Asia,1984,10.0
+CHN,China,Belgium (official),Upper middle income,Asia,2009,4.0014
+CHN,China,Belgium (private),Upper middle income,Asia,1995,5.5011
+CHN,China,Belgium (private),Upper middle income,Asia,1994,5.0194
+CHN,China,Belgium (private),Upper middle income,Asia,1993,5.029
+CHN,China,Belgium (private),Upper middle income,Asia,1992,4.873
+CHN,China,Belgium (private),Upper middle income,Asia,1982,7.5
+CHN,China,Belgium (private),Upper middle income,Asia,1981,7.4999
+CHN,China,Bondholders (private),Upper middle income,Asia,2023,5.8342
+CHN,China,Bondholders (private),Upper middle income,Asia,2022,4.7102
+CHN,China,Bondholders (private),Upper middle income,Asia,2021,3.4698
+CHN,China,Bondholders (private),Upper middle income,Asia,2020,5.1256
+CHN,China,Bondholders (private),Upper middle income,Asia,2019,4.803
+CHN,China,Bondholders (private),Upper middle income,Asia,2018,5.4298
+CHN,China,Bondholders (private),Upper middle income,Asia,2017,3.0369
+CHN,China,Bondholders (private),Upper middle income,Asia,2016,6.048
+CHN,China,Bondholders (private),Upper middle income,Asia,2015,6.5475
+CHN,China,Bondholders (private),Upper middle income,Asia,2014,6.2711
+CHN,China,Bondholders (private),Upper middle income,Asia,2013,5.2493
+CHN,China,Bondholders (private),Upper middle income,Asia,2012,6.8
+CHN,China,Bondholders (private),Upper middle income,Asia,2011,6.4125
+CHN,China,Bondholders (private),Upper middle income,Asia,2007,3.0823
+CHN,China,Bondholders (private),Upper middle income,Asia,2005,4.5941
+CHN,China,Bondholders (private),Upper middle income,Asia,2004,4.4897
+CHN,China,Bondholders (private),Upper middle income,Asia,2003,4.1964
+CHN,China,Bondholders (private),Upper middle income,Asia,2002,1.4687
+CHN,China,Bondholders (private),Upper middle income,Asia,2001,3.98
+CHN,China,Bondholders (private),Upper middle income,Asia,2000,5.0599
+CHN,China,Bondholders (private),Upper middle income,Asia,1999,5.0599
+CHN,China,Bondholders (private),Upper middle income,Asia,1998,5.0599
+CHN,China,Bondholders (private),Upper middle income,Asia,1997,5.6963
+CHN,China,Bondholders (private),Upper middle income,Asia,1996,6.2901
+CHN,China,Bondholders (private),Upper middle income,Asia,1995,3.5193
+CHN,China,Bondholders (private),Upper middle income,Asia,1994,5.4742
+CHN,China,Bondholders (private),Upper middle income,Asia,1993,4.6775
+CHN,China,Bondholders (private),Upper middle income,Asia,1992,4.9054
+CHN,China,Bondholders (private),Upper middle income,Asia,1991,6.8664
+CHN,China,Bondholders (private),Upper middle income,Asia,1989,6.4477
+CHN,China,Bondholders (private),Upper middle income,Asia,1988,5.8017
+CHN,China,Bondholders (private),Upper middle income,Asia,1987,7.1197
+CHN,China,Bondholders (private),Upper middle income,Asia,1986,6.3937
+CHN,China,Bondholders (private),Upper middle income,Asia,1985,7.5823
+CHN,China,Bondholders (private),Upper middle income,Asia,1984,7.0
+CHN,China,Bondholders (private),Upper middle income,Asia,1983,8.5
+CHN,China,Bondholders (private),Upper middle income,Asia,1982,8.6999
+CHN,China,Canada (official),Upper middle income,Asia,1998,4.4999
+CHN,China,Canada (official),Upper middle income,Asia,1995,4.2762
+CHN,China,Canada (official),Upper middle income,Asia,1994,4.9976
+CHN,China,Canada (official),Upper middle income,Asia,1993,5.4335
+CHN,China,Canada (official),Upper middle income,Asia,1992,4.1253
+CHN,China,Canada (official),Upper middle income,Asia,1991,9.1366
+CHN,China,Canada (official),Upper middle income,Asia,1989,6.0
+CHN,China,Canada (official),Upper middle income,Asia,1986,8.0
+CHN,China,Canada (official),Upper middle income,Asia,1984,7.75
+CHN,China,Canada (private),Upper middle income,Asia,1995,6.25
+CHN,China,Canada (private),Upper middle income,Asia,1992,4.7142
+CHN,China,Canada (private),Upper middle income,Asia,1991,10.52
+CHN,China,Canada (private),Upper middle income,Asia,1987,8.1899
+CHN,China,Canada (private),Upper middle income,Asia,1985,8.9557
+CHN,China,Canada (private),Upper middle income,Asia,1984,7.7499
+CHN,China,Canada (private),Upper middle income,Asia,1983,6.2499
+CHN,China,Canada (private),Upper middle income,Asia,1982,8.975
+CHN,China,Denmark (official),Upper middle income,Asia,1993,2.9999
+CHN,China,Denmark (official),Upper middle income,Asia,1992,2.9999
+CHN,China,Denmark (official),Upper middle income,Asia,1985,2.6031
+CHN,China,Denmark (private),Upper middle income,Asia,1987,9.0209
+CHN,China,Denmark (private),Upper middle income,Asia,1985,8.5041
+CHN,China,Denmark (private),Upper middle income,Asia,1981,7.7499
+CHN,China,European Investment Bank (official),Upper middle income,Asia,2020,0.476
+CHN,China,European Investment Bank (official),Upper middle income,Asia,2019,0.835
+CHN,China,European Investment Bank (official),Upper middle income,Asia,2018,2.2709
+CHN,China,European Investment Bank (official),Upper middle income,Asia,2017,2.2709
+CHN,China,European Investment Bank (official),Upper middle income,Asia,2012,2.2709
+CHN,China,European Investment Bank (official),Upper middle income,Asia,2010,2.2709
+CHN,China,European Investment Bank (official),Upper middle income,Asia,2009,2.2709
+CHN,China,European Investment Bank (official),Upper middle income,Asia,2007,2.2709
+CHN,China,European Investment Bank (official),Upper middle income,Asia,2001,10.0
+CHN,China,European Investment Bank (official),Upper middle income,Asia,1999,10.0
+CHN,China,Finland (official),Upper middle income,Asia,1994,3.1078
+CHN,China,Finland (official),Upper middle income,Asia,1992,3.0
+CHN,China,Finland (official),Upper middle income,Asia,1991,9.1999
+CHN,China,Finland (official),Upper middle income,Asia,1985,4.0
+CHN,China,Finland (private),Upper middle income,Asia,1995,6.1784
+CHN,China,France (official),Upper middle income,Asia,2018,0.5001
+CHN,China,France (official),Upper middle income,Asia,2017,0.5
+CHN,China,France (official),Upper middle income,Asia,2016,0.5001
+CHN,China,France (official),Upper middle income,Asia,2015,0.5
+CHN,China,France (official),Upper middle income,Asia,2014,0.7441
+CHN,China,France (official),Upper middle income,Asia,2013,0.8349
+CHN,China,France (official),Upper middle income,Asia,2012,0.82
+CHN,China,France (official),Upper middle income,Asia,2011,2.046
+CHN,China,France (official),Upper middle income,Asia,1995,2.972
+CHN,China,France (official),Upper middle income,Asia,1992,8.3
+CHN,China,France (official),Upper middle income,Asia,1991,2.0
+CHN,China,France (official),Upper middle income,Asia,1990,2.0
+CHN,China,France (official),Upper middle income,Asia,1985,9.3149
+CHN,China,France (private),Upper middle income,Asia,1998,0.4999
+CHN,China,France (private),Upper middle income,Asia,1995,3.0247
+CHN,China,France (private),Upper middle income,Asia,1994,4.5968
+CHN,China,France (private),Upper middle income,Asia,1993,6.2087
+CHN,China,France (private),Upper middle income,Asia,1992,5.8398
+CHN,China,France (private),Upper middle income,Asia,1991,7.6293
+CHN,China,France (private),Upper middle income,Asia,1990,7.7356
+CHN,China,France (private),Upper middle income,Asia,1986,6.7232
+CHN,China,France (private),Upper middle income,Asia,1985,8.9341
+CHN,China,France (private),Upper middle income,Asia,1984,11.7104
+CHN,China,France (private),Upper middle income,Asia,1983,8.237
+CHN,China,France (private),Upper middle income,Asia,1982,15.8511
+CHN,China,France (private),Upper middle income,Asia,1981,7.3653
+CHN,China,Germany (official),Upper middle income,Asia,1995,5.1498
+CHN,China,Germany (official),Upper middle income,Asia,1994,5.6056
+CHN,China,Germany (official),Upper middle income,Asia,1993,3.0481
+CHN,China,Germany (official),Upper middle income,Asia,1989,3.1421
+CHN,China,Germany (official),Upper middle income,Asia,1988,3.176
+CHN,China,Germany (private),Upper middle income,Asia,2012,1.3005
+CHN,China,Germany (private),Upper middle income,Asia,1995,7.0125
+CHN,China,Germany (private),Upper middle income,Asia,1994,5.277
+CHN,China,Germany (private),Upper middle income,Asia,1993,4.5406
+CHN,China,Germany (private),Upper middle income,Asia,1992,7.2619
+CHN,China,Germany (private),Upper middle income,Asia,1991,6.3826
+CHN,China,Germany (private),Upper middle income,Asia,1990,8.125
+CHN,China,Germany (private),Upper middle income,Asia,1987,7.0949
+CHN,China,Germany (private),Upper middle income,Asia,1986,6.0972
+CHN,China,Germany (private),Upper middle income,Asia,1985,7.8238
+CHN,China,Germany (private),Upper middle income,Asia,1984,7.75
+CHN,China,Germany (private),Upper middle income,Asia,1983,9.3326
+CHN,China,Germany (private),Upper middle income,Asia,1982,10.0
+CHN,China,Germany (private),Upper middle income,Asia,1981,3.38
+CHN,China,Hong Kong (official),Upper middle income,Asia,1995,9.3656
+CHN,China,Hong Kong (private),Upper middle income,Asia,2010,5.9864
+CHN,China,Hong Kong (private),Upper middle income,Asia,1996,8.625
+CHN,China,Hong Kong (private),Upper middle income,Asia,1995,7.5079
+CHN,China,Hong Kong (private),Upper middle income,Asia,1994,4.2409
+CHN,China,Hong Kong (private),Upper middle income,Asia,1993,5.3818
+CHN,China,Hong Kong (private),Upper middle income,Asia,1992,5.2209
+CHN,China,Hong Kong (private),Upper middle income,Asia,1991,7.716
+CHN,China,Hong Kong (private),Upper middle income,Asia,1990,8.7991
+CHN,China,Hong Kong (private),Upper middle income,Asia,1988,8.317
+CHN,China,Hong Kong (private),Upper middle income,Asia,1987,8.1426
+CHN,China,Hong Kong (private),Upper middle income,Asia,1986,7.8917
+CHN,China,Hong Kong (private),Upper middle income,Asia,1985,7.6871
+CHN,China,Hong Kong (private),Upper middle income,Asia,1984,10.0431
+CHN,China,Hong Kong (private),Upper middle income,Asia,1983,11.2512
+CHN,China,Hong Kong (private),Upper middle income,Asia,1982,9.5728
+CHN,China,Hong Kong (private),Upper middle income,Asia,1981,12.0346
+CHN,China,International Fund for Agricultural Dev. (official),Upper middle income,Asia,1992,1.0
+CHN,China,International Fund for Agricultural Dev. (official),Upper middle income,Asia,1983,1.0
+CHN,China,International Fund for Agricultural Dev. (official),Upper middle income,Asia,1982,4.0
+CHN,China,International Fund for Agricultural Dev. (official),Upper middle income,Asia,1981,1.0
+CHN,China,Italy (official),Upper middle income,Asia,1998,6.38
+CHN,China,Italy (official),Upper middle income,Asia,1992,1.5
+CHN,China,Italy (official),Upper middle income,Asia,1989,4.5
+CHN,China,Italy (official),Upper middle income,Asia,1986,4.2366
+CHN,China,Italy (official),Upper middle income,Asia,1984,2.5612
+CHN,China,Italy (official),Upper middle income,Asia,1982,2.5
+CHN,China,Italy (official),Upper middle income,Asia,1981,7.5
+CHN,China,Italy (private),Upper middle income,Asia,1998,1.0
+CHN,China,Italy (private),Upper middle income,Asia,1995,1.0
+CHN,China,Italy (private),Upper middle income,Asia,1994,5.5371
+CHN,China,Italy (private),Upper middle income,Asia,1993,5.4737
+CHN,China,Italy (private),Upper middle income,Asia,1992,4.735
+CHN,China,Italy (private),Upper middle income,Asia,1991,3.6838
+CHN,China,Italy (private),Upper middle income,Asia,1986,8.7992
+CHN,China,Italy (private),Upper middle income,Asia,1985,7.6223
+CHN,China,Italy (private),Upper middle income,Asia,1984,9.1442
+CHN,China,Italy (private),Upper middle income,Asia,1983,7.5
+CHN,China,Italy (private),Upper middle income,Asia,1982,7.7484
+CHN,China,Italy (private),Upper middle income,Asia,1981,7.3314
+CHN,China,Japan (official),Upper middle income,Asia,2011,1.1818
+CHN,China,Japan (official),Upper middle income,Asia,2010,0.9499
+CHN,China,Japan (official),Upper middle income,Asia,2007,0.9679
+CHN,China,Japan (official),Upper middle income,Asia,2006,0.9706
+CHN,China,Japan (official),Upper middle income,Asia,2005,1.2632
+CHN,China,Japan (official),Upper middle income,Asia,2004,1.3166
+CHN,China,Japan (official),Upper middle income,Asia,2003,1.2744
+CHN,China,Japan (official),Upper middle income,Asia,2002,1.1365
+CHN,China,Japan (official),Upper middle income,Asia,1998,4.9
+CHN,China,Japan (official),Upper middle income,Asia,1995,4.958
+CHN,China,Japan (official),Upper middle income,Asia,1994,6.1283
+CHN,China,Japan (official),Upper middle income,Asia,1993,4.4664
+CHN,China,Japan (official),Upper middle income,Asia,1992,3.504
+CHN,China,Japan (official),Upper middle income,Asia,1991,2.5
+CHN,China,Japan (official),Upper middle income,Asia,1990,5.3343
+CHN,China,Japan (official),Upper middle income,Asia,1988,6.0
+CHN,China,Japan (official),Upper middle income,Asia,1987,4.9588
+CHN,China,Japan (official),Upper middle income,Asia,1986,5.2088
+CHN,China,Japan (official),Upper middle income,Asia,1985,6.4068
+CHN,China,Japan (official),Upper middle income,Asia,1984,3.4598
+CHN,China,Japan (official),Upper middle income,Asia,1983,4.1179
+CHN,China,Japan (official),Upper middle income,Asia,1982,3.5225
+CHN,China,Japan (official),Upper middle income,Asia,1981,4.4602
+CHN,China,Japan (private),Upper middle income,Asia,2012,1.4867
+CHN,China,Japan (private),Upper middle income,Asia,2010,10.85
+CHN,China,Japan (private),Upper middle income,Asia,1995,4.7231
+CHN,China,Japan (private),Upper middle income,Asia,1994,5.2571
+CHN,China,Japan (private),Upper middle income,Asia,1993,4.1372
+CHN,China,Japan (private),Upper middle income,Asia,1992,5.2953
+CHN,China,Japan (private),Upper middle income,Asia,1991,6.8982
+CHN,China,Japan (private),Upper middle income,Asia,1987,4.835
+CHN,China,Japan (private),Upper middle income,Asia,1986,6.1816
+CHN,China,Japan (private),Upper middle income,Asia,1985,7.0641
+CHN,China,Japan (private),Upper middle income,Asia,1984,7.0423
+CHN,China,Japan (private),Upper middle income,Asia,1983,7.0472
+CHN,China,Japan (private),Upper middle income,Asia,1982,8.5944
+CHN,China,Japan (private),Upper middle income,Asia,1981,8.1543
+CHN,China,Jordan (private),Upper middle income,Asia,1984,8.5
+CHN,China,Kuwait (official),Upper middle income,Asia,2019,2.0
+CHN,China,Kuwait (official),Upper middle income,Asia,2017,2.0
+CHN,China,Kuwait (official),Upper middle income,Asia,2014,2.0
+CHN,China,Kuwait (official),Upper middle income,Asia,2013,2.0
+CHN,China,Kuwait (official),Upper middle income,Asia,2012,1.9999
+CHN,China,Kuwait (official),Upper middle income,Asia,2010,2.0
+CHN,China,Kuwait (official),Upper middle income,Asia,2006,2.0
+CHN,China,Kuwait (official),Upper middle income,Asia,2003,3.7603
+CHN,China,Kuwait (official),Upper middle income,Asia,2002,3.9999
+CHN,China,Kuwait (official),Upper middle income,Asia,2001,3.8064
+CHN,China,Kuwait (official),Upper middle income,Asia,1999,3.0
+CHN,China,Kuwait (official),Upper middle income,Asia,1995,3.5
+CHN,China,Kuwait (official),Upper middle income,Asia,1994,3.4999
+CHN,China,Kuwait (official),Upper middle income,Asia,1993,3.5
+CHN,China,Kuwait (official),Upper middle income,Asia,1991,8.3
+CHN,China,Kuwait (official),Upper middle income,Asia,1985,4.0
+CHN,China,Kuwait (official),Upper middle income,Asia,1983,3.9999
+CHN,China,Kuwait (official),Upper middle income,Asia,1982,4.4999
+CHN,China,Luxembourg (private),Upper middle income,Asia,1993,4.1285
+CHN,China,Luxembourg (private),Upper middle income,Asia,1992,4.0999
+CHN,China,Macau (private),Upper middle income,Asia,1995,9.6478
+CHN,China,Macau (private),Upper middle income,Asia,1994,11.0465
+CHN,China,Macau (private),Upper middle income,Asia,1993,6.5531
+CHN,China,Macau (private),Upper middle income,Asia,1991,8.005
+CHN,China,Macau (private),Upper middle income,Asia,1986,7.043
+CHN,China,Macau (private),Upper middle income,Asia,1985,9.4958
+CHN,China,Macau (private),Upper middle income,Asia,1984,6.0533
+CHN,China,Malaysia (private),Upper middle income,Asia,1994,8.0
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,2022,4.3229
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,2021,4.3229
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,2020,4.3229
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,2019,4.3229
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,2018,4.3229
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,2014,4.3229
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,2012,1.3986
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,2011,4.3229
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,2010,4.3229
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,2009,4.3229
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,2008,4.3229
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,2007,4.3229
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,2006,4.3229
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,2002,4.3229
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,2001,10.0
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,1997,7.5
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,1996,6.4302
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,1995,7.4836
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,1993,6.5178
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,1992,6.25
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,1991,6.7621
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,1990,5.7597
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,1989,5.9974
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,1988,6.0
+CHN,China,Multiple Lenders (official),Upper middle income,Asia,1987,5.5
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2023,2.2052
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2022,2.2563
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2021,3.7779
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2020,1.4045
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2019,4.1996
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2018,3.4678
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2017,4.3455
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2016,1.3298
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2015,2.6565
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2014,1.9075
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2013,1.3282
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2012,0.9832
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2011,0.8463
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2010,1.7936
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2009,5.0
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2008,4.5681
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2007,4.944
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2006,5.0
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2005,4.5485
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2004,5.3541
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2003,5.0
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2002,5.9309
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2001,5.858
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,2000,6.0179
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,1999,5.8958
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,1998,5.842
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,1997,6.5858
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,1996,6.924
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,1995,7.0696
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,1994,5.8844
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,1993,6.6357
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,1992,6.9027
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,1991,7.7351
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,1990,8.8693
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,1989,8.7763
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,1988,8.1437
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,1987,7.7478
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,1986,7.0454
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,1985,8.8547
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,1984,7.8
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,1983,9.629
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,1982,12.325
+CHN,China,Multiple Lenders (private),Upper middle income,Asia,1981,12.3247
+CHN,China,Netherlands (official),Upper middle income,Asia,1994,6.4999
+CHN,China,Netherlands (official),Upper middle income,Asia,1988,2.4999
+CHN,China,Netherlands (private),Upper middle income,Asia,1995,6.1191
+CHN,China,Netherlands (private),Upper middle income,Asia,1994,6.1249
+CHN,China,Netherlands (private),Upper middle income,Asia,1993,6.3499
+CHN,China,Netherlands (private),Upper middle income,Asia,1992,5.4664
+CHN,China,Netherlands (private),Upper middle income,Asia,1991,7.5399
+CHN,China,Netherlands (private),Upper middle income,Asia,1990,7.9149
+CHN,China,New Zealand (private),Upper middle income,Asia,1994,7.38
+CHN,China,Nordic Investment Bank (official),Upper middle income,Asia,1992,4.076
+CHN,China,Nordic Investment Bank (official),Upper middle income,Asia,1985,5.5
+CHN,China,Norway (official),Upper middle income,Asia,1994,1.36
+CHN,China,Norway (official),Upper middle income,Asia,1992,3.0
+CHN,China,Norway (official),Upper middle income,Asia,1991,9.1999
+CHN,China,Philippines (private),Upper middle income,Asia,1984,8.0
+CHN,China,Romania (private),Upper middle income,Asia,1984,5.0
+CHN,China,Singapore (official),Upper middle income,Asia,1993,4.1009
+CHN,China,Singapore (private),Upper middle income,Asia,2011,10.8699
+CHN,China,Singapore (private),Upper middle income,Asia,2010,9.7478
+CHN,China,Singapore (private),Upper middle income,Asia,1995,8.1648
+CHN,China,Singapore (private),Upper middle income,Asia,1994,4.5668
+CHN,China,Singapore (private),Upper middle income,Asia,1993,3.8873
+CHN,China,Singapore (private),Upper middle income,Asia,1992,4.2629
+CHN,China,Singapore (private),Upper middle income,Asia,1991,6.125
+CHN,China,Singapore (private),Upper middle income,Asia,1986,9.0
+CHN,China,Singapore (private),Upper middle income,Asia,1985,8.6364
+CHN,China,Singapore (private),Upper middle income,Asia,1983,8.0
+CHN,China,South Korea (official),Upper middle income,Asia,1994,6.315
+CHN,China,South Korea (private),Upper middle income,Asia,1994,5.5466
+CHN,China,Spain (official),Upper middle income,Asia,2005,1.5
+CHN,China,Spain (official),Upper middle income,Asia,1994,5.8178
+CHN,China,Spain (official),Upper middle income,Asia,1992,1.7858
+CHN,China,Spain (official),Upper middle income,Asia,1991,7.1725
+CHN,China,Spain (official),Upper middle income,Asia,1986,2.0
+CHN,China,Spain (private),Upper middle income,Asia,2010,2.3887
+CHN,China,Spain (private),Upper middle income,Asia,1995,3.5536
+CHN,China,Spain (private),Upper middle income,Asia,1994,4.8592
+CHN,China,Spain (private),Upper middle income,Asia,1993,5.7822
+CHN,China,Spain (private),Upper middle income,Asia,1992,7.1639
+CHN,China,Spain (private),Upper middle income,Asia,1991,3.9928
+CHN,China,Sweden (official),Upper middle income,Asia,1986,0.8715
+CHN,China,Sweden (private),Upper middle income,Asia,1995,2.3923
+CHN,China,Sweden (private),Upper middle income,Asia,1994,6.4999
+CHN,China,Sweden (private),Upper middle income,Asia,1992,2.602
+CHN,China,Sweden (private),Upper middle income,Asia,1991,9.5
+CHN,China,Sweden (private),Upper middle income,Asia,1986,7.5199
+CHN,China,Sweden (private),Upper middle income,Asia,1985,6.1715
+CHN,China,Sweden (private),Upper middle income,Asia,1984,7.3127
+CHN,China,Sweden (private),Upper middle income,Asia,1983,7.4867
+CHN,China,Sweden (private),Upper middle income,Asia,1982,7.4031
+CHN,China,Sweden (private),Upper middle income,Asia,1981,7.1637
+CHN,China,Switzerland (private),Upper middle income,Asia,1995,7.3499
+CHN,China,Switzerland (private),Upper middle income,Asia,1994,2.5511
+CHN,China,Switzerland (private),Upper middle income,Asia,1993,3.8144
+CHN,China,Switzerland (private),Upper middle income,Asia,1992,4.755
+CHN,China,Switzerland (private),Upper middle income,Asia,1991,6.7187
+CHN,China,Switzerland (private),Upper middle income,Asia,1990,9.125
+CHN,China,Switzerland (private),Upper middle income,Asia,1987,8.045
+CHN,China,Switzerland (private),Upper middle income,Asia,1986,5.0
+CHN,China,Switzerland (private),Upper middle income,Asia,1983,6.165
+CHN,China,Thailand (private),Upper middle income,Asia,1985,13.0
+CHN,China,Thailand (private),Upper middle income,Asia,1984,12.0
+CHN,China,United Kingdom (private),Upper middle income,Asia,2010,2.6691
+CHN,China,United Kingdom (private),Upper middle income,Asia,1995,5.5042
+CHN,China,United Kingdom (private),Upper middle income,Asia,1994,6.0079
+CHN,China,United Kingdom (private),Upper middle income,Asia,1993,5.9254
+CHN,China,United Kingdom (private),Upper middle income,Asia,1992,7.5938
+CHN,China,United Kingdom (private),Upper middle income,Asia,1991,8.9903
+CHN,China,United Kingdom (private),Upper middle income,Asia,1986,9.3818
+CHN,China,United Kingdom (private),Upper middle income,Asia,1985,9.1613
+CHN,China,United Kingdom (private),Upper middle income,Asia,1984,11.7414
+CHN,China,United Kingdom (private),Upper middle income,Asia,1983,9.8015
+CHN,China,United Kingdom (private),Upper middle income,Asia,1982,7.8806
+CHN,China,United Kingdom (private),Upper middle income,Asia,1981,7.4989
+CHN,China,United States (official),Upper middle income,Asia,1995,5.9499
+CHN,China,United States (official),Upper middle income,Asia,1994,8.8
+CHN,China,United States (official),Upper middle income,Asia,1992,2.2008
+CHN,China,United States (official),Upper middle income,Asia,1988,7.4
+CHN,China,United States (official),Upper middle income,Asia,1986,8.8
+CHN,China,United States (official),Upper middle income,Asia,1981,9.305
+CHN,China,United States (private),Upper middle income,Asia,1995,6.3281
+CHN,China,United States (private),Upper middle income,Asia,1994,4.598
+CHN,China,United States (private),Upper middle income,Asia,1993,3.5493
+CHN,China,United States (private),Upper middle income,Asia,1992,9.4833
+CHN,China,United States (private),Upper middle income,Asia,1991,7.465
+CHN,China,United States (private),Upper middle income,Asia,1987,7.375
+CHN,China,United States (private),Upper middle income,Asia,1986,7.1298
+CHN,China,United States (private),Upper middle income,Asia,1985,8.934
+CHN,China,United States (private),Upper middle income,Asia,1984,7.25
+CHN,China,United States (private),Upper middle income,Asia,1982,10.625
+CHN,China,United States (private),Upper middle income,Asia,1981,8.75
+CHN,China,World (official),Upper middle income,Asia,2023,5.6334
+CHN,China,World (official),Upper middle income,Asia,2022,1.3705
+CHN,China,World (official),Upper middle income,Asia,2021,1.7176
+CHN,China,World (official),Upper middle income,Asia,2020,1.6345
+CHN,China,World (official),Upper middle income,Asia,2019,1.7722
+CHN,China,World (official),Upper middle income,Asia,2018,2.6746
+CHN,China,World (official),Upper middle income,Asia,2017,1.8479
+CHN,China,World (official),Upper middle income,Asia,2016,1.5029
+CHN,China,World (official),Upper middle income,Asia,2015,1.1161
+CHN,China,World (official),Upper middle income,Asia,2014,1.9503
+CHN,China,World (official),Upper middle income,Asia,2013,0.8387
+CHN,China,World (official),Upper middle income,Asia,2012,1.3377
+CHN,China,World (official),Upper middle income,Asia,2011,2.1316
+CHN,China,World (official),Upper middle income,Asia,2010,1.914
+CHN,China,World (official),Upper middle income,Asia,2009,1.755
+CHN,China,World (official),Upper middle income,Asia,2008,3.4698
+CHN,China,World (official),Upper middle income,Asia,2007,4.4287
+CHN,China,World (official),Upper middle income,Asia,2006,4.6844
+CHN,China,World (official),Upper middle income,Asia,2005,3.6468
+CHN,China,World (official),Upper middle income,Asia,2004,2.2377
+CHN,China,World (official),Upper middle income,Asia,2003,1.7261
+CHN,China,World (official),Upper middle income,Asia,2002,2.9941
+CHN,China,World (official),Upper middle income,Asia,2001,5.7931
+CHN,China,World (official),Upper middle income,Asia,2000,7.2459
+CHN,China,World (official),Upper middle income,Asia,1999,5.5388
+CHN,China,World (official),Upper middle income,Asia,1998,5.9308
+CHN,China,World (official),Upper middle income,Asia,1997,6.6274
+CHN,China,World (official),Upper middle income,Asia,1996,5.8828
+CHN,China,World (official),Upper middle income,Asia,1995,6.8293
+CHN,China,World (official),Upper middle income,Asia,1994,5.5762
+CHN,China,World (official),Upper middle income,Asia,1993,5.141
+CHN,China,World (official),Upper middle income,Asia,1992,5.4921
+CHN,China,World (official),Upper middle income,Asia,1991,5.005
+CHN,China,World (official),Upper middle income,Asia,1990,3.7427
+CHN,China,World (official),Upper middle income,Asia,1989,5.7607
+CHN,China,World (official),Upper middle income,Asia,1988,4.9451
+CHN,China,World (official),Upper middle income,Asia,1987,4.8573
+CHN,China,World (official),Upper middle income,Asia,1986,5.4591
+CHN,China,World (official),Upper middle income,Asia,1985,5.8239
+CHN,China,World (official),Upper middle income,Asia,1984,5.7603
+CHN,China,World (official),Upper middle income,Asia,1983,5.5991
+CHN,China,World (official),Upper middle income,Asia,1982,4.3016
+CHN,China,World (official),Upper middle income,Asia,1981,5.1758
+CHN,China,World (private),Upper middle income,Asia,2023,4.1546
+CHN,China,World (private),Upper middle income,Asia,2022,3.1156
+CHN,China,World (private),Upper middle income,Asia,2021,3.5387
+CHN,China,World (private),Upper middle income,Asia,2020,4.9111
+CHN,China,World (private),Upper middle income,Asia,2019,4.726
+CHN,China,World (private),Upper middle income,Asia,2018,5.1489
+CHN,China,World (private),Upper middle income,Asia,2017,3.3267
+CHN,China,World (private),Upper middle income,Asia,2016,2.7874
+CHN,China,World (private),Upper middle income,Asia,2015,4.7683
+CHN,China,World (private),Upper middle income,Asia,2014,4.8145
+CHN,China,World (private),Upper middle income,Asia,2013,2.3423
+CHN,China,World (private),Upper middle income,Asia,2012,4.2183
+CHN,China,World (private),Upper middle income,Asia,2011,6.1033
+CHN,China,World (private),Upper middle income,Asia,2010,2.0359
+CHN,China,World (private),Upper middle income,Asia,2009,5.0
+CHN,China,World (private),Upper middle income,Asia,2008,4.5681
+CHN,China,World (private),Upper middle income,Asia,2007,4.1457
+CHN,China,World (private),Upper middle income,Asia,2006,5.0
+CHN,China,World (private),Upper middle income,Asia,2005,4.574
+CHN,China,World (private),Upper middle income,Asia,2004,4.5791
+CHN,China,World (private),Upper middle income,Asia,2003,4.3645
+CHN,China,World (private),Upper middle income,Asia,2002,5.7915
+CHN,China,World (private),Upper middle income,Asia,2001,5.3811
+CHN,China,World (private),Upper middle income,Asia,2000,5.9196
+CHN,China,World (private),Upper middle income,Asia,1999,5.7098
+CHN,China,World (private),Upper middle income,Asia,1998,5.615
+CHN,China,World (private),Upper middle income,Asia,1997,6.4108
+CHN,China,World (private),Upper middle income,Asia,1996,6.8237
+CHN,China,World (private),Upper middle income,Asia,1995,6.2854
+CHN,China,World (private),Upper middle income,Asia,1994,5.4379
+CHN,China,World (private),Upper middle income,Asia,1993,5.5874
+CHN,China,World (private),Upper middle income,Asia,1992,6.498
+CHN,China,World (private),Upper middle income,Asia,1991,7.1762
+CHN,China,World (private),Upper middle income,Asia,1990,8.5932
+CHN,China,World (private),Upper middle income,Asia,1989,8.3895
+CHN,China,World (private),Upper middle income,Asia,1988,7.9085
+CHN,China,World (private),Upper middle income,Asia,1987,7.003
+CHN,China,World (private),Upper middle income,Asia,1986,6.7523
+CHN,China,World (private),Upper middle income,Asia,1985,7.9708
+CHN,China,World (private),Upper middle income,Asia,1984,8.5698
+CHN,China,World (private),Upper middle income,Asia,1983,9.5009
+CHN,China,World (private),Upper middle income,Asia,1982,9.9638
+CHN,China,World (private),Upper middle income,Asia,1981,9.6376
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2023,6.4953
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2022,2.2852
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2021,1.2194
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2020,1.9696
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2019,1.2863
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2018,2.879
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2017,2.2591
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2016,1.591
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2015,1.2077
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2014,0.5696
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2013,0.8609
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2012,1.1906
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2011,0.8984
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2010,0.84
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2009,1.1885
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2008,3.2352
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2007,5.8538
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2006,6.1649
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2005,4.8873
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2004,2.7872
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2003,1.9491
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2002,2.4443
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2001,4.8667
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,2000,7.7005
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,1999,6.1546
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,1998,6.3069
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,1997,6.2116
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,1996,6.2735
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,1995,6.7392
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,1994,7.1752
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,1993,7.4107
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,1992,7.6247
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,1991,7.7059
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,1990,7.6994
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,1989,7.6995
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,1988,7.6278
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,1987,7.8535
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,1986,8.2779
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,1985,8.9931
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,1984,10.066
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,1983,10.9108
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,1982,11.558
+CHN,China,World Bank-IBRD (official),Upper middle income,Asia,1981,9.6
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,2001,0.75
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,2000,0.75
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,1999,0.75
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,1998,0.75
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,1997,0.5
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,1996,0.75
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,1995,0.75
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,1994,0.75
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,1993,0.75
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,1992,0.75
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,1991,0.7499
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,1990,0.75
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,1989,0.75
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,1988,0.7499
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,1987,0.75
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,1986,0.75
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,1985,0.75
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,1984,0.7499
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,1983,0.75
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,1982,0.75
+CHN,China,World Bank-IDA (official),Upper middle income,Asia,1981,0.75

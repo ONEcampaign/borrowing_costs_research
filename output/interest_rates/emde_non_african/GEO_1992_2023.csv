@@ -1,0 +1,215 @@
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+GEO,Georgia,Armenia (official),Upper middle income,Asia,1994,6.1849
+GEO,Georgia,Asian Dev. Bank (official),Upper middle income,Asia,2023,4.6977
+GEO,Georgia,Asian Dev. Bank (official),Upper middle income,Asia,2022,0.62
+GEO,Georgia,Asian Dev. Bank (official),Upper middle income,Asia,2021,0.5996
+GEO,Georgia,Asian Dev. Bank (official),Upper middle income,Asia,2020,0.5155
+GEO,Georgia,Asian Dev. Bank (official),Upper middle income,Asia,2019,0.6957
+GEO,Georgia,Asian Dev. Bank (official),Upper middle income,Asia,2018,0.5
+GEO,Georgia,Asian Dev. Bank (official),Upper middle income,Asia,2017,1.0061
+GEO,Georgia,Asian Dev. Bank (official),Upper middle income,Asia,2016,1.5808
+GEO,Georgia,Asian Dev. Bank (official),Upper middle income,Asia,2015,1.2738
+GEO,Georgia,Asian Dev. Bank (official),Upper middle income,Asia,2014,1.6734
+GEO,Georgia,Asian Dev. Bank (official),Upper middle income,Asia,2013,1.4475
+GEO,Georgia,Asian Dev. Bank (official),Upper middle income,Asia,2012,1.1493
+GEO,Georgia,Asian Dev. Bank (official),Upper middle income,Asia,2011,1.0313
+GEO,Georgia,Asian Dev. Bank (official),Upper middle income,Asia,2010,0.9995
+GEO,Georgia,Asian Dev. Bank (official),Upper middle income,Asia,2009,1.4338
+GEO,Georgia,Asian Dev. Bank (official),Upper middle income,Asia,2008,1.1331
+GEO,Georgia,Asian Infrastructure Investment Bank (official),Upper middle income,Asia,2020,0.1651
+GEO,Georgia,Asian Infrastructure Investment Bank (official),Upper middle income,Asia,2017,2.8476
+GEO,Georgia,Austria (official),Upper middle income,Asia,2006,4.0
+GEO,Georgia,Austria (official),Upper middle income,Asia,2005,4.0
+GEO,Georgia,Austria (official),Upper middle income,Asia,2004,4.0
+GEO,Georgia,Austria (private),Upper middle income,Asia,2017,1.0
+GEO,Georgia,Austria (private),Upper middle income,Asia,2012,1.0
+GEO,Georgia,Azerbaijan (official),Upper middle income,Asia,1993,4.505
+GEO,Georgia,Bondholders (private),Upper middle income,Asia,2021,3.375
+GEO,Georgia,Bondholders (private),Upper middle income,Asia,2016,6.75
+GEO,Georgia,Bondholders (private),Upper middle income,Asia,2012,7.4583
+GEO,Georgia,Bondholders (private),Upper middle income,Asia,2011,6.9
+GEO,Georgia,Bondholders (private),Upper middle income,Asia,2010,9.875
+GEO,Georgia,Bondholders (private),Upper middle income,Asia,2008,7.5
+GEO,Georgia,China (official),Upper middle income,Asia,1994,4.0
+GEO,Georgia,Council of Europe (official),Upper middle income,Asia,2016,0.47
+GEO,Georgia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2023,2.7929
+GEO,Georgia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2022,1.0
+GEO,Georgia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2021,1.0
+GEO,Georgia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2020,0.9884
+GEO,Georgia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2019,0.01
+GEO,Georgia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2018,0.3554
+GEO,Georgia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2017,0.9999
+GEO,Georgia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2016,1.2509
+GEO,Georgia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2015,3.68
+GEO,Georgia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2013,0.361
+GEO,Georgia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2010,1.9645
+GEO,Georgia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2009,2.4649
+GEO,Georgia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2008,5.6605
+GEO,Georgia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2006,4.5669
+GEO,Georgia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,1998,6.67
+GEO,Georgia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,1996,6.5949
+GEO,Georgia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,1995,6.815
+GEO,Georgia,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,1994,0.75
+GEO,Georgia,European Economic Community (EEC) (official),Upper middle income,Asia,1998,5.7249
+GEO,Georgia,European Investment Bank (official),Upper middle income,Asia,2022,1.0
+GEO,Georgia,European Investment Bank (official),Upper middle income,Asia,2021,1.0001
+GEO,Georgia,European Investment Bank (official),Upper middle income,Asia,2019,0.4079
+GEO,Georgia,European Investment Bank (official),Upper middle income,Asia,2017,0.2843
+GEO,Georgia,European Investment Bank (official),Upper middle income,Asia,2016,0.199
+GEO,Georgia,European Investment Bank (official),Upper middle income,Asia,2015,3.68
+GEO,Georgia,European Investment Bank (official),Upper middle income,Asia,2014,0.5199
+GEO,Georgia,European Investment Bank (official),Upper middle income,Asia,2013,0.3473
+GEO,Georgia,European Investment Bank (official),Upper middle income,Asia,2012,1.8763
+GEO,Georgia,European Investment Bank (official),Upper middle income,Asia,2010,1.3027
+GEO,Georgia,European Investment Bank (official),Upper middle income,Asia,1993,3.8299
+GEO,Georgia,European Investment Bank (official),Upper middle income,Asia,1992,4.0949
+GEO,Georgia,European Union (official),Upper middle income,Asia,2020,0.1249
+GEO,Georgia,European Union (official),Upper middle income,Asia,2018,1.2499
+GEO,Georgia,France (official),Upper middle income,Asia,2023,3.2929
+GEO,Georgia,France (official),Upper middle income,Asia,2022,0.6757
+GEO,Georgia,France (official),Upper middle income,Asia,2021,0.73
+GEO,Georgia,France (official),Upper middle income,Asia,2020,0.462
+GEO,Georgia,France (official),Upper middle income,Asia,2019,0.0066
+GEO,Georgia,France (official),Upper middle income,Asia,2018,0.6
+GEO,Georgia,France (official),Upper middle income,Asia,2011,2.6669
+GEO,Georgia,France (official),Upper middle income,Asia,2008,1.1
+GEO,Georgia,France (private),Upper middle income,Asia,2017,0.6
+GEO,Georgia,France (private),Upper middle income,Asia,2015,1.8663
+GEO,Georgia,France (private),Upper middle income,Asia,2014,0.17
+GEO,Georgia,Germany (official),Upper middle income,Asia,2022,2.0076
+GEO,Georgia,Germany (official),Upper middle income,Asia,2020,0.7386
+GEO,Georgia,Germany (official),Upper middle income,Asia,2019,0.1704
+GEO,Georgia,Germany (official),Upper middle income,Asia,2018,0.5477
+GEO,Georgia,Germany (official),Upper middle income,Asia,2017,0.2806
+GEO,Georgia,Germany (official),Upper middle income,Asia,2015,1.6499
+GEO,Georgia,Germany (official),Upper middle income,Asia,2013,0.0209
+GEO,Georgia,Germany (official),Upper middle income,Asia,2012,1.9895
+GEO,Georgia,Germany (official),Upper middle income,Asia,2011,4.1999
+GEO,Georgia,Germany (official),Upper middle income,Asia,2010,7.3
+GEO,Georgia,Germany (official),Upper middle income,Asia,2008,1.9997
+GEO,Georgia,Germany (official),Upper middle income,Asia,2006,0.8403
+GEO,Georgia,Germany (official),Upper middle income,Asia,2005,0.7943
+GEO,Georgia,Germany (official),Upper middle income,Asia,2004,4.0
+GEO,Georgia,Germany (official),Upper middle income,Asia,2003,0.7499
+GEO,Georgia,Germany (official),Upper middle income,Asia,2001,0.75
+GEO,Georgia,Germany (official),Upper middle income,Asia,1999,0.75
+GEO,Georgia,Germany (official),Upper middle income,Asia,1998,0.75
+GEO,Georgia,Germany (official),Upper middle income,Asia,1996,0.75
+GEO,Georgia,Germany (official),Upper middle income,Asia,1995,0.75
+GEO,Georgia,International Fund for Agricultural Dev. (official),Upper middle income,Asia,2015,1.9999
+GEO,Georgia,International Fund for Agricultural Dev. (official),Upper middle income,Asia,2013,0.6678
+GEO,Georgia,International Fund for Agricultural Dev. (official),Upper middle income,Asia,2010,0.6678
+GEO,Georgia,International Fund for Agricultural Dev. (official),Upper middle income,Asia,2005,0.7499
+GEO,Georgia,International Fund for Agricultural Dev. (official),Upper middle income,Asia,2000,0.75
+GEO,Georgia,International Fund for Agricultural Dev. (official),Upper middle income,Asia,1997,0.7499
+GEO,Georgia,Iran (official),Upper middle income,Asia,1994,9.005
+GEO,Georgia,Japan (official),Upper middle income,Asia,2018,0.0992
+GEO,Georgia,Japan (official),Upper middle income,Asia,2016,1.3999
+GEO,Georgia,Japan (official),Upper middle income,Asia,2009,0.6999
+GEO,Georgia,Japan (official),Upper middle income,Asia,1998,2.2999
+GEO,Georgia,Japan (private),Upper middle income,Asia,2006,4.0
+GEO,Georgia,Japan (private),Upper middle income,Asia,2005,4.0
+GEO,Georgia,Japan (private),Upper middle income,Asia,2004,4.0
+GEO,Georgia,Kazakhstan (official),Upper middle income,Asia,2017,4.0
+GEO,Georgia,Kazakhstan (official),Upper middle income,Asia,1993,4.505
+GEO,Georgia,Kuwait (official),Upper middle income,Asia,2017,2.5
+GEO,Georgia,Kuwait (official),Upper middle income,Asia,2006,2.9999
+GEO,Georgia,Kuwait (official),Upper middle income,Asia,2000,2.5
+GEO,Georgia,Netherlands (official),Upper middle income,Asia,2004,3.296
+GEO,Georgia,Netherlands (private),Upper middle income,Asia,1992,4.625
+GEO,Georgia,Nordic Environment Finance Corporation (NEFCO) (official),Upper middle income,Asia,2022,2.0
+GEO,Georgia,Nordic Environment Finance Corporation (NEFCO) (official),Upper middle income,Asia,2018,0.02
+GEO,Georgia,Russia (official),Upper middle income,Asia,2006,4.0
+GEO,Georgia,Russia (official),Upper middle income,Asia,2005,4.0
+GEO,Georgia,Russia (official),Upper middle income,Asia,2004,4.0
+GEO,Georgia,Russia (official),Upper middle income,Asia,1994,6.315
+GEO,Georgia,Russia (official),Upper middle income,Asia,1993,4.375
+GEO,Georgia,Turkmenistan (official),Upper middle income,Asia,1996,4.0
+GEO,Georgia,Türkiye (official),Upper middle income,Asia,2006,4.0
+GEO,Georgia,Türkiye (official),Upper middle income,Asia,2004,4.0
+GEO,Georgia,Türkiye (official),Upper middle income,Asia,1994,6.0609
+GEO,Georgia,Türkiye (official),Upper middle income,Asia,1993,4.505
+GEO,Georgia,United States (official),Upper middle income,Asia,2006,4.0
+GEO,Georgia,United States (official),Upper middle income,Asia,2004,4.0
+GEO,Georgia,United States (official),Upper middle income,Asia,1999,1.5
+GEO,Georgia,United States (official),Upper middle income,Asia,1998,1.5
+GEO,Georgia,United States (official),Upper middle income,Asia,1997,2.3214
+GEO,Georgia,World (official),Upper middle income,Asia,2023,3.7142
+GEO,Georgia,World (official),Upper middle income,Asia,2022,1.0631
+GEO,Georgia,World (official),Upper middle income,Asia,2021,0.7908
+GEO,Georgia,World (official),Upper middle income,Asia,2020,0.6427
+GEO,Georgia,World (official),Upper middle income,Asia,2019,0.4969
+GEO,Georgia,World (official),Upper middle income,Asia,2018,0.3839
+GEO,Georgia,World (official),Upper middle income,Asia,2017,0.9922
+GEO,Georgia,World (official),Upper middle income,Asia,2016,0.8113
+GEO,Georgia,World (official),Upper middle income,Asia,2015,1.7753
+GEO,Georgia,World (official),Upper middle income,Asia,2014,0.934
+GEO,Georgia,World (official),Upper middle income,Asia,2013,0.9981
+GEO,Georgia,World (official),Upper middle income,Asia,2012,1.5985
+GEO,Georgia,World (official),Upper middle income,Asia,2011,1.536
+GEO,Georgia,World (official),Upper middle income,Asia,2010,2.1157
+GEO,Georgia,World (official),Upper middle income,Asia,2009,0.9953
+GEO,Georgia,World (official),Upper middle income,Asia,2008,1.2832
+GEO,Georgia,World (official),Upper middle income,Asia,2007,0.75
+GEO,Georgia,World (official),Upper middle income,Asia,2006,2.1658
+GEO,Georgia,World (official),Upper middle income,Asia,2005,1.7442
+GEO,Georgia,World (official),Upper middle income,Asia,2004,2.6111
+GEO,Georgia,World (official),Upper middle income,Asia,2003,0.7499
+GEO,Georgia,World (official),Upper middle income,Asia,2002,0.75
+GEO,Georgia,World (official),Upper middle income,Asia,2001,0.7254
+GEO,Georgia,World (official),Upper middle income,Asia,2000,1.1464
+GEO,Georgia,World (official),Upper middle income,Asia,1999,0.5584
+GEO,Georgia,World (official),Upper middle income,Asia,1998,4.0482
+GEO,Georgia,World (official),Upper middle income,Asia,1997,0.7092
+GEO,Georgia,World (official),Upper middle income,Asia,1996,3.1962
+GEO,Georgia,World (official),Upper middle income,Asia,1995,1.484
+GEO,Georgia,World (official),Upper middle income,Asia,1994,4.019
+GEO,Georgia,World (official),Upper middle income,Asia,1993,3.9797
+GEO,Georgia,World (official),Upper middle income,Asia,1992,4.0949
+GEO,Georgia,World (private),Upper middle income,Asia,2021,3.375
+GEO,Georgia,World (private),Upper middle income,Asia,2017,0.6417
+GEO,Georgia,World (private),Upper middle income,Asia,2016,6.75
+GEO,Georgia,World (private),Upper middle income,Asia,2015,1.8663
+GEO,Georgia,World (private),Upper middle income,Asia,2014,0.17
+GEO,Georgia,World (private),Upper middle income,Asia,2012,7.3396
+GEO,Georgia,World (private),Upper middle income,Asia,2011,6.9
+GEO,Georgia,World (private),Upper middle income,Asia,2010,9.875
+GEO,Georgia,World (private),Upper middle income,Asia,2008,7.5
+GEO,Georgia,World (private),Upper middle income,Asia,2006,4.0
+GEO,Georgia,World (private),Upper middle income,Asia,2005,4.0
+GEO,Georgia,World (private),Upper middle income,Asia,2004,4.0
+GEO,Georgia,World (private),Upper middle income,Asia,1992,4.625
+GEO,Georgia,World Bank-IBRD (official),Upper middle income,Asia,2023,4.141
+GEO,Georgia,World Bank-IBRD (official),Upper middle income,Asia,2022,0.98
+GEO,Georgia,World Bank-IBRD (official),Upper middle income,Asia,2021,0.9547
+GEO,Georgia,World Bank-IBRD (official),Upper middle income,Asia,2020,1.246
+GEO,Georgia,World Bank-IBRD (official),Upper middle income,Asia,2019,1.25
+GEO,Georgia,World Bank-IBRD (official),Upper middle income,Asia,2017,0.9558
+GEO,Georgia,World Bank-IBRD (official),Upper middle income,Asia,2016,1.7437
+GEO,Georgia,World Bank-IBRD (official),Upper middle income,Asia,2015,1.2978
+GEO,Georgia,World Bank-IBRD (official),Upper middle income,Asia,2014,0.5
+GEO,Georgia,World Bank-IBRD (official),Upper middle income,Asia,2013,0.8702
+GEO,Georgia,World Bank-IBRD (official),Upper middle income,Asia,2012,1.2134
+GEO,Georgia,World Bank-IBRD (official),Upper middle income,Asia,2010,0.9492
+GEO,Georgia,World Bank-IBRD (official),Upper middle income,Asia,2009,0.8981
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,2014,2.0288
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,2013,2.0
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,2012,2.0
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,2011,0.75
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,2010,0.75
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,2009,0.75
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,2008,0.75
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,2007,0.75
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,2006,0.75
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,2005,0.75
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,2004,0.75
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,2003,0.75
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,2002,0.75
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,2001,0.75
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,2000,0.75
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,1999,0.5
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,1998,0.5
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,1997,0.5
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,1996,0.75
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,1995,0.75
+GEO,Georgia,World Bank-IDA (official),Upper middle income,Asia,1994,0.75

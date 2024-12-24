@@ -1,0 +1,285 @@
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+IRN,"Iran, Islamic Rep.",Austria (private),Lower middle income,Asia,2008,1.66
+IRN,"Iran, Islamic Rep.",Austria (private),Lower middle income,Asia,2006,5.9313
+IRN,"Iran, Islamic Rep.",Austria (private),Lower middle income,Asia,2004,2.5828
+IRN,"Iran, Islamic Rep.",Austria (private),Lower middle income,Asia,2003,1.7129
+IRN,"Iran, Islamic Rep.",Austria (private),Lower middle income,Asia,2002,1.7313
+IRN,"Iran, Islamic Rep.",Austria (private),Lower middle income,Asia,2001,3.8661
+IRN,"Iran, Islamic Rep.",Austria (private),Lower middle income,Asia,2000,5.6956
+IRN,"Iran, Islamic Rep.",Austria (private),Lower middle income,Asia,1999,4.0643
+IRN,"Iran, Islamic Rep.",Austria (private),Lower middle income,Asia,1998,4.2347
+IRN,"Iran, Islamic Rep.",Austria (private),Lower middle income,Asia,1996,3.8296
+IRN,"Iran, Islamic Rep.",Austria (private),Lower middle income,Asia,1994,6.9349
+IRN,"Iran, Islamic Rep.",Austria (private),Lower middle income,Asia,1993,4.1937
+IRN,"Iran, Islamic Rep.",Austria (private),Lower middle income,Asia,1992,4.88
+IRN,"Iran, Islamic Rep.",Austria (private),Lower middle income,Asia,1991,6.3489
+IRN,"Iran, Islamic Rep.",Austria (private),Lower middle income,Asia,1990,10.125
+IRN,"Iran, Islamic Rep.",Bahrain (private),Lower middle income,Asia,2004,5.5283
+IRN,"Iran, Islamic Rep.",Bahrain (private),Lower middle income,Asia,2002,4.7778
+IRN,"Iran, Islamic Rep.",Bahrain (private),Lower middle income,Asia,2001,5.452
+IRN,"Iran, Islamic Rep.",Belgium (private),Lower middle income,Asia,2002,2.9579
+IRN,"Iran, Islamic Rep.",Belgium (private),Lower middle income,Asia,1999,7.1063
+IRN,"Iran, Islamic Rep.",Belgium (private),Lower middle income,Asia,1997,10.062
+IRN,"Iran, Islamic Rep.",Belgium (private),Lower middle income,Asia,1992,4.5408
+IRN,"Iran, Islamic Rep.",Belgium (private),Lower middle income,Asia,1991,11.936
+IRN,"Iran, Islamic Rep.",Canada (official),Lower middle income,Asia,2000,8.1249
+IRN,"Iran, Islamic Rep.",Canada (official),Lower middle income,Asia,1992,4.255
+IRN,"Iran, Islamic Rep.",China (official),Lower middle income,Asia,2005,5.01
+IRN,"Iran, Islamic Rep.",China (official),Lower middle income,Asia,2004,3.5799
+IRN,"Iran, Islamic Rep.",China (official),Lower middle income,Asia,2002,3.0555
+IRN,"Iran, Islamic Rep.",China (official),Lower middle income,Asia,2001,4.0949
+IRN,"Iran, Islamic Rep.",China (official),Lower middle income,Asia,2000,7.3739
+IRN,"Iran, Islamic Rep.",China (official),Lower middle income,Asia,1999,7.1399
+IRN,"Iran, Islamic Rep.",China (official),Lower middle income,Asia,1996,6.6026
+IRN,"Iran, Islamic Rep.",China (official),Lower middle income,Asia,1995,6.9604
+IRN,"Iran, Islamic Rep.",China (private),Lower middle income,Asia,2015,0.6023
+IRN,"Iran, Islamic Rep.",China (private),Lower middle income,Asia,2005,4.5487
+IRN,"Iran, Islamic Rep.",China (private),Lower middle income,Asia,2003,1.6982
+IRN,"Iran, Islamic Rep.",China (private),Lower middle income,Asia,2001,5.46
+IRN,"Iran, Islamic Rep.",China (private),Lower middle income,Asia,2000,5.4678
+IRN,"Iran, Islamic Rep.",China (private),Lower middle income,Asia,1997,6.6315
+IRN,"Iran, Islamic Rep.",China (private),Lower middle income,Asia,1996,6.7912
+IRN,"Iran, Islamic Rep.",China (private),Lower middle income,Asia,1995,7.1212
+IRN,"Iran, Islamic Rep.",China (private),Lower middle income,Asia,1994,6.5
+IRN,"Iran, Islamic Rep.",Czechia (official),Lower middle income,Asia,2002,4.15
+IRN,"Iran, Islamic Rep.",Czechia (official),Lower middle income,Asia,1999,7.19
+IRN,"Iran, Islamic Rep.",Czechia (official),Lower middle income,Asia,1998,7.19
+IRN,"Iran, Islamic Rep.",Czechia (official),Lower middle income,Asia,1996,6.0999
+IRN,"Iran, Islamic Rep.",Czechia (private),Lower middle income,Asia,2010,3.4177
+IRN,"Iran, Islamic Rep.",Czechia (private),Lower middle income,Asia,1990,7.1149
+IRN,"Iran, Islamic Rep.",Denmark (private),Lower middle income,Asia,2005,5.5809
+IRN,"Iran, Islamic Rep.",Denmark (private),Lower middle income,Asia,1994,7.605
+IRN,"Iran, Islamic Rep.",Denmark (private),Lower middle income,Asia,1992,4.755
+IRN,"Iran, Islamic Rep.",Denmark (private),Lower middle income,Asia,1991,5.065
+IRN,"Iran, Islamic Rep.",ECO Trade and Dev. Bank (official),Lower middle income,Asia,2015,3.048
+IRN,"Iran, Islamic Rep.",ECO Trade and Dev. Bank (official),Lower middle income,Asia,2013,2.9252
+IRN,"Iran, Islamic Rep.",ECO Trade and Dev. Bank (official),Lower middle income,Asia,2011,3.403
+IRN,"Iran, Islamic Rep.",ECO Trade and Dev. Bank (official),Lower middle income,Asia,2010,2.5843
+IRN,"Iran, Islamic Rep.",ECO Trade and Dev. Bank (official),Lower middle income,Asia,2009,2.765
+IRN,"Iran, Islamic Rep.",Finland (private),Lower middle income,Asia,1999,6.881
+IRN,"Iran, Islamic Rep.",Finland (private),Lower middle income,Asia,1996,4.7549
+IRN,"Iran, Islamic Rep.",Finland (private),Lower middle income,Asia,1992,4.755
+IRN,"Iran, Islamic Rep.",Finland (private),Lower middle income,Asia,1991,4.755
+IRN,"Iran, Islamic Rep.",France (official),Lower middle income,Asia,1999,9.0259
+IRN,"Iran, Islamic Rep.",France (private),Lower middle income,Asia,2011,7.8469
+IRN,"Iran, Islamic Rep.",France (private),Lower middle income,Asia,2006,5.9608
+IRN,"Iran, Islamic Rep.",France (private),Lower middle income,Asia,2005,4.6208
+IRN,"Iran, Islamic Rep.",France (private),Lower middle income,Asia,2004,3.6064
+IRN,"Iran, Islamic Rep.",France (private),Lower middle income,Asia,2003,1.8512
+IRN,"Iran, Islamic Rep.",France (private),Lower middle income,Asia,2002,3.2433
+IRN,"Iran, Islamic Rep.",France (private),Lower middle income,Asia,2001,4.851
+IRN,"Iran, Islamic Rep.",France (private),Lower middle income,Asia,2000,6.1705
+IRN,"Iran, Islamic Rep.",France (private),Lower middle income,Asia,1999,5.8592
+IRN,"Iran, Islamic Rep.",France (private),Lower middle income,Asia,1998,7.4676
+IRN,"Iran, Islamic Rep.",France (private),Lower middle income,Asia,1996,6.54
+IRN,"Iran, Islamic Rep.",France (private),Lower middle income,Asia,1995,8.369
+IRN,"Iran, Islamic Rep.",France (private),Lower middle income,Asia,1994,6.5399
+IRN,"Iran, Islamic Rep.",France (private),Lower middle income,Asia,1992,5.5898
+IRN,"Iran, Islamic Rep.",France (private),Lower middle income,Asia,1991,5.8087
+IRN,"Iran, Islamic Rep.",France (private),Lower middle income,Asia,1990,8.6599
+IRN,"Iran, Islamic Rep.",Germany (official),Lower middle income,Asia,1992,4.755
+IRN,"Iran, Islamic Rep.",Germany (private),Lower middle income,Asia,2019,0.0401
+IRN,"Iran, Islamic Rep.",Germany (private),Lower middle income,Asia,2018,0.0401
+IRN,"Iran, Islamic Rep.",Germany (private),Lower middle income,Asia,2012,5.5259
+IRN,"Iran, Islamic Rep.",Germany (private),Lower middle income,Asia,2006,6.1604
+IRN,"Iran, Islamic Rep.",Germany (private),Lower middle income,Asia,2005,4.5278
+IRN,"Iran, Islamic Rep.",Germany (private),Lower middle income,Asia,2004,3.0237
+IRN,"Iran, Islamic Rep.",Germany (private),Lower middle income,Asia,2003,2.2449
+IRN,"Iran, Islamic Rep.",Germany (private),Lower middle income,Asia,2002,3.8659
+IRN,"Iran, Islamic Rep.",Germany (private),Lower middle income,Asia,2001,3.9199
+IRN,"Iran, Islamic Rep.",Germany (private),Lower middle income,Asia,2000,6.69
+IRN,"Iran, Islamic Rep.",Germany (private),Lower middle income,Asia,1999,4.6407
+IRN,"Iran, Islamic Rep.",Germany (private),Lower middle income,Asia,1998,4.7195
+IRN,"Iran, Islamic Rep.",Germany (private),Lower middle income,Asia,1997,5.401
+IRN,"Iran, Islamic Rep.",Germany (private),Lower middle income,Asia,1996,5.7426
+IRN,"Iran, Islamic Rep.",Germany (private),Lower middle income,Asia,1995,5.8415
+IRN,"Iran, Islamic Rep.",Germany (private),Lower middle income,Asia,1994,6.5373
+IRN,"Iran, Islamic Rep.",Germany (private),Lower middle income,Asia,1993,4.2513
+IRN,"Iran, Islamic Rep.",Germany (private),Lower middle income,Asia,1992,6.6347
+IRN,"Iran, Islamic Rep.",Germany (private),Lower middle income,Asia,1991,7.769
+IRN,"Iran, Islamic Rep.",Germany (private),Lower middle income,Asia,1990,7.988
+IRN,"Iran, Islamic Rep.",Greece (private),Lower middle income,Asia,2004,4.5799
+IRN,"Iran, Islamic Rep.",Greece (private),Lower middle income,Asia,2003,3.7137
+IRN,"Iran, Islamic Rep.",Greece (private),Lower middle income,Asia,2002,4.4032
+IRN,"Iran, Islamic Rep.",India (official),Lower middle income,Asia,2015,9.9999
+IRN,"Iran, Islamic Rep.",India (official),Lower middle income,Asia,2005,5.1005
+IRN,"Iran, Islamic Rep.",Islamic Dev. Bank (official),Lower middle income,Asia,1996,8.2619
+IRN,"Iran, Islamic Rep.",Islamic Dev. Bank (official),Lower middle income,Asia,1995,7.2321
+IRN,"Iran, Islamic Rep.",Islamic Dev. Bank (official),Lower middle income,Asia,1994,6.3846
+IRN,"Iran, Islamic Rep.",Islamic Dev. Bank (official),Lower middle income,Asia,1993,6.9827
+IRN,"Iran, Islamic Rep.",Islamic Dev. Bank (official),Lower middle income,Asia,1992,9.4988
+IRN,"Iran, Islamic Rep.",Islamic Dev. Bank (official),Lower middle income,Asia,1991,11.5833
+IRN,"Iran, Islamic Rep.",Islamic Dev. Bank (official),Lower middle income,Asia,1990,8.5
+IRN,"Iran, Islamic Rep.",Italy (official),Lower middle income,Asia,1999,9.064
+IRN,"Iran, Islamic Rep.",Italy (official),Lower middle income,Asia,1998,5.5599
+IRN,"Iran, Islamic Rep.",Italy (official),Lower middle income,Asia,1992,4.065
+IRN,"Iran, Islamic Rep.",Italy (private),Lower middle income,Asia,2015,4.65
+IRN,"Iran, Islamic Rep.",Italy (private),Lower middle income,Asia,2006,4.635
+IRN,"Iran, Islamic Rep.",Italy (private),Lower middle income,Asia,2005,5.128
+IRN,"Iran, Islamic Rep.",Italy (private),Lower middle income,Asia,2004,4.2756
+IRN,"Iran, Islamic Rep.",Italy (private),Lower middle income,Asia,2003,4.5954
+IRN,"Iran, Islamic Rep.",Italy (private),Lower middle income,Asia,2002,5.0234
+IRN,"Iran, Islamic Rep.",Italy (private),Lower middle income,Asia,2001,4.8654
+IRN,"Iran, Islamic Rep.",Italy (private),Lower middle income,Asia,2000,7.1754
+IRN,"Iran, Islamic Rep.",Italy (private),Lower middle income,Asia,1999,6.5997
+IRN,"Iran, Islamic Rep.",Italy (private),Lower middle income,Asia,1995,6.1849
+IRN,"Iran, Islamic Rep.",Italy (private),Lower middle income,Asia,1992,4.4289
+IRN,"Iran, Islamic Rep.",Italy (private),Lower middle income,Asia,1991,7.3718
+IRN,"Iran, Islamic Rep.",Italy (private),Lower middle income,Asia,1990,9.858
+IRN,"Iran, Islamic Rep.",Italy (private),Lower middle income,Asia,1989,8.6112
+IRN,"Iran, Islamic Rep.",Italy (private),Lower middle income,Asia,1988,11.765
+IRN,"Iran, Islamic Rep.",Japan (official),Lower middle income,Asia,2001,1.7149
+IRN,"Iran, Islamic Rep.",Japan (official),Lower middle income,Asia,2000,2.0017
+IRN,"Iran, Islamic Rep.",Japan (official),Lower middle income,Asia,1993,2.9999
+IRN,"Iran, Islamic Rep.",Japan (private),Lower middle income,Asia,1999,7.276
+IRN,"Iran, Islamic Rep.",Japan (private),Lower middle income,Asia,1997,6.4
+IRN,"Iran, Islamic Rep.",Japan (private),Lower middle income,Asia,1996,6.4278
+IRN,"Iran, Islamic Rep.",Japan (private),Lower middle income,Asia,1995,6.005
+IRN,"Iran, Islamic Rep.",Japan (private),Lower middle income,Asia,1994,5.7245
+IRN,"Iran, Islamic Rep.",Japan (private),Lower middle income,Asia,1992,5.4709
+IRN,"Iran, Islamic Rep.",Japan (private),Lower middle income,Asia,1991,6.3524
+IRN,"Iran, Islamic Rep.",Japan (private),Lower middle income,Asia,1990,7.505
+IRN,"Iran, Islamic Rep.",Netherlands (private),Lower middle income,Asia,2004,2.2696
+IRN,"Iran, Islamic Rep.",Netherlands (private),Lower middle income,Asia,2003,1.7137
+IRN,"Iran, Islamic Rep.",Netherlands (private),Lower middle income,Asia,2001,4.5779
+IRN,"Iran, Islamic Rep.",Netherlands (private),Lower middle income,Asia,2000,5.1799
+IRN,"Iran, Islamic Rep.",Netherlands (private),Lower middle income,Asia,1999,4.6395
+IRN,"Iran, Islamic Rep.",Netherlands (private),Lower middle income,Asia,1992,4.4764
+IRN,"Iran, Islamic Rep.",Russia (official),Lower middle income,Asia,2021,0.0276
+IRN,"Iran, Islamic Rep.",South Korea (official),Lower middle income,Asia,2006,5.86
+IRN,"Iran, Islamic Rep.",South Korea (official),Lower middle income,Asia,2005,3.74
+IRN,"Iran, Islamic Rep.",South Korea (official),Lower middle income,Asia,2002,4.8774
+IRN,"Iran, Islamic Rep.",South Korea (official),Lower middle income,Asia,2001,5.86
+IRN,"Iran, Islamic Rep.",South Korea (official),Lower middle income,Asia,2000,7.988
+IRN,"Iran, Islamic Rep.",South Korea (official),Lower middle income,Asia,1999,8.5169
+IRN,"Iran, Islamic Rep.",South Korea (official),Lower middle income,Asia,1992,4.7849
+IRN,"Iran, Islamic Rep.",Spain (private),Lower middle income,Asia,2008,6.6249
+IRN,"Iran, Islamic Rep.",Spain (private),Lower middle income,Asia,2003,1.7062
+IRN,"Iran, Islamic Rep.",Spain (private),Lower middle income,Asia,2001,4.7365
+IRN,"Iran, Islamic Rep.",Spain (private),Lower middle income,Asia,2000,6.5293
+IRN,"Iran, Islamic Rep.",Spain (private),Lower middle income,Asia,1999,5.3667
+IRN,"Iran, Islamic Rep.",Spain (private),Lower middle income,Asia,1998,4.5286
+IRN,"Iran, Islamic Rep.",Spain (private),Lower middle income,Asia,1997,6.1399
+IRN,"Iran, Islamic Rep.",Spain (private),Lower middle income,Asia,1996,6.2528
+IRN,"Iran, Islamic Rep.",Spain (private),Lower middle income,Asia,1995,6.0599
+IRN,"Iran, Islamic Rep.",Spain (private),Lower middle income,Asia,1993,8.4999
+IRN,"Iran, Islamic Rep.",Sweden (private),Lower middle income,Asia,2004,3.9
+IRN,"Iran, Islamic Rep.",Sweden (private),Lower middle income,Asia,2002,2.5799
+IRN,"Iran, Islamic Rep.",Sweden (private),Lower middle income,Asia,2001,2.9049
+IRN,"Iran, Islamic Rep.",Sweden (private),Lower middle income,Asia,2000,7.1399
+IRN,"Iran, Islamic Rep.",Sweden (private),Lower middle income,Asia,1999,6.7524
+IRN,"Iran, Islamic Rep.",Sweden (private),Lower middle income,Asia,1998,5.8213
+IRN,"Iran, Islamic Rep.",Sweden (private),Lower middle income,Asia,1992,4.6952
+IRN,"Iran, Islamic Rep.",Sweden (private),Lower middle income,Asia,1991,7.0692
+IRN,"Iran, Islamic Rep.",Switzerland (private),Lower middle income,Asia,2006,5.8469
+IRN,"Iran, Islamic Rep.",Switzerland (private),Lower middle income,Asia,2005,5.1295
+IRN,"Iran, Islamic Rep.",Switzerland (private),Lower middle income,Asia,2004,3.66
+IRN,"Iran, Islamic Rep.",Switzerland (private),Lower middle income,Asia,2003,1.0399
+IRN,"Iran, Islamic Rep.",Switzerland (private),Lower middle income,Asia,2002,1.9225
+IRN,"Iran, Islamic Rep.",Switzerland (private),Lower middle income,Asia,2001,4.6483
+IRN,"Iran, Islamic Rep.",Switzerland (private),Lower middle income,Asia,2000,6.272
+IRN,"Iran, Islamic Rep.",Switzerland (private),Lower middle income,Asia,1999,7.6225
+IRN,"Iran, Islamic Rep.",Switzerland (private),Lower middle income,Asia,1998,5.7565
+IRN,"Iran, Islamic Rep.",Switzerland (private),Lower middle income,Asia,1997,6.368
+IRN,"Iran, Islamic Rep.",Switzerland (private),Lower middle income,Asia,1996,5.2163
+IRN,"Iran, Islamic Rep.",Switzerland (private),Lower middle income,Asia,1995,5.7415
+IRN,"Iran, Islamic Rep.",Switzerland (private),Lower middle income,Asia,1993,4.3649
+IRN,"Iran, Islamic Rep.",Switzerland (private),Lower middle income,Asia,1992,9.0936
+IRN,"Iran, Islamic Rep.",Switzerland (private),Lower middle income,Asia,1991,8.237
+IRN,"Iran, Islamic Rep.",USSR (private),Lower middle income,Asia,1986,7.0
+IRN,"Iran, Islamic Rep.",USSR (private),Lower middle income,Asia,1985,7.0
+IRN,"Iran, Islamic Rep.",USSR (private),Lower middle income,Asia,1984,7.0
+IRN,"Iran, Islamic Rep.",USSR (private),Lower middle income,Asia,1983,2.1063
+IRN,"Iran, Islamic Rep.",USSR (private),Lower middle income,Asia,1982,2.0205
+IRN,"Iran, Islamic Rep.",USSR (private),Lower middle income,Asia,1981,2.0
+IRN,"Iran, Islamic Rep.",United Arab Emirates (official),Lower middle income,Asia,1999,9.064
+IRN,"Iran, Islamic Rep.",United Arab Emirates (private),Lower middle income,Asia,2009,8.6064
+IRN,"Iran, Islamic Rep.",United Arab Emirates (private),Lower middle income,Asia,2006,7.921
+IRN,"Iran, Islamic Rep.",United Arab Emirates (private),Lower middle income,Asia,2005,3.7588
+IRN,"Iran, Islamic Rep.",United Arab Emirates (private),Lower middle income,Asia,2004,4.699
+IRN,"Iran, Islamic Rep.",United Arab Emirates (private),Lower middle income,Asia,2003,3.7192
+IRN,"Iran, Islamic Rep.",United Arab Emirates (private),Lower middle income,Asia,2002,4.4166
+IRN,"Iran, Islamic Rep.",United Arab Emirates (private),Lower middle income,Asia,2001,5.8883
+IRN,"Iran, Islamic Rep.",United Arab Emirates (private),Lower middle income,Asia,2000,8.219
+IRN,"Iran, Islamic Rep.",United Arab Emirates (private),Lower middle income,Asia,1999,8.6261
+IRN,"Iran, Islamic Rep.",United Arab Emirates (private),Lower middle income,Asia,1997,9.5
+IRN,"Iran, Islamic Rep.",United Kingdom (private),Lower middle income,Asia,2008,5.6213
+IRN,"Iran, Islamic Rep.",United Kingdom (private),Lower middle income,Asia,2006,8.0592
+IRN,"Iran, Islamic Rep.",United Kingdom (private),Lower middle income,Asia,2004,5.0626
+IRN,"Iran, Islamic Rep.",United Kingdom (private),Lower middle income,Asia,2003,3.6886
+IRN,"Iran, Islamic Rep.",United Kingdom (private),Lower middle income,Asia,2002,3.993
+IRN,"Iran, Islamic Rep.",United Kingdom (private),Lower middle income,Asia,2001,5.257
+IRN,"Iran, Islamic Rep.",United Kingdom (private),Lower middle income,Asia,2000,3.4605
+IRN,"Iran, Islamic Rep.",United Kingdom (private),Lower middle income,Asia,1999,6.914
+IRN,"Iran, Islamic Rep.",United Kingdom (private),Lower middle income,Asia,1997,6.4205
+IRN,"Iran, Islamic Rep.",United Kingdom (private),Lower middle income,Asia,1993,6.2499
+IRN,"Iran, Islamic Rep.",United Kingdom (private),Lower middle income,Asia,1992,4.1305
+IRN,"Iran, Islamic Rep.",United Kingdom (private),Lower middle income,Asia,1991,5.3602
+IRN,"Iran, Islamic Rep.",United Kingdom (private),Lower middle income,Asia,1990,7.5399
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,2022,0.4799
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,2021,0.0276
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,2020,0.5199
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,2015,8.9621
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,2013,2.9252
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,2011,3.403
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,2010,2.5843
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,2009,2.765
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,2006,5.86
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,2005,4.4023
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,2004,3.2007
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,2003,2.0479
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,2002,5.2735
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,2001,3.5045
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,2000,4.8611
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,1999,8.2267
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,1998,7.11
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,1996,7.0171
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,1995,7.0437
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,1994,6.3846
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,1993,4.6148
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,1992,4.9326
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,1991,11.5833
+IRN,"Iran, Islamic Rep.",World (official),Lower middle income,Asia,1990,7.3392
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,2019,0.0401
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,2018,0.0401
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,2015,0.7107
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,2012,5.5259
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,2011,7.8469
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,2010,3.4177
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,2009,8.6064
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,2008,5.5949
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,2006,6.014
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,2005,4.9145
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,2004,4.09
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,2003,2.3061
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,2002,3.4712
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,2001,4.8486
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,2000,6.6687
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,1999,6.1482
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,1998,5.6616
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,1997,6.6176
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,1996,5.6315
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,1995,6.4733
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,1994,6.3449
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,1993,4.3153
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,1992,5.9788
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,1991,7.2741
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,1990,8.5922
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,1989,8.6112
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,1988,11.765
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,1986,7.0
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,1985,7.0
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,1984,7.0
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,1983,2.1063
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,1982,2.0205
+IRN,"Iran, Islamic Rep.",World (private),Lower middle income,Asia,1981,2.0
+IRN,"Iran, Islamic Rep.",World Bank-IBRD (official),Lower middle income,Asia,2022,0.4799
+IRN,"Iran, Islamic Rep.",World Bank-IBRD (official),Lower middle income,Asia,2020,0.5199
+IRN,"Iran, Islamic Rep.",World Bank-IBRD (official),Lower middle income,Asia,2005,4.44
+IRN,"Iran, Islamic Rep.",World Bank-IBRD (official),Lower middle income,Asia,2004,2.9317
+IRN,"Iran, Islamic Rep.",World Bank-IBRD (official),Lower middle income,Asia,2003,2.0479
+IRN,"Iran, Islamic Rep.",World Bank-IBRD (official),Lower middle income,Asia,2002,7.9099
+IRN,"Iran, Islamic Rep.",World Bank-IBRD (official),Lower middle income,Asia,2000,7.9099
+IRN,"Iran, Islamic Rep.",World Bank-IBRD (official),Lower middle income,Asia,1993,7.4
+IRN,"Iran, Islamic Rep.",World Bank-IBRD (official),Lower middle income,Asia,1992,7.1541
+IRN,"Iran, Islamic Rep.",World Bank-IBRD (official),Lower middle income,Asia,1990,7.1999

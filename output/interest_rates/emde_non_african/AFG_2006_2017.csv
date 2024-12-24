@@ -1,0 +1,11 @@
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+AFG,Afghanistan,Asian Dev. Bank (official),Low income,Asia,2007,1.3852
+AFG,Afghanistan,Asian Dev. Bank (official),Low income,Asia,2006,1.2496
+AFG,Afghanistan,Islamic Dev. Bank (official),Low income,Asia,2017,1.5
+AFG,Afghanistan,Islamic Dev. Bank (official),Low income,Asia,2010,2.9999
+AFG,Afghanistan,Islamic Dev. Bank (official),Low income,Asia,2008,1.0
+AFG,Afghanistan,World (official),Low income,Asia,2017,0.5705
+AFG,Afghanistan,World (official),Low income,Asia,2010,2.9999
+AFG,Afghanistan,World (official),Low income,Asia,2008,0.4823
+AFG,Afghanistan,World (official),Low income,Asia,2007,1.3852
+AFG,Afghanistan,World (official),Low income,Asia,2006,1.2496

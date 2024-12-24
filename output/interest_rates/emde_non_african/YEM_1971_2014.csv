@@ -1,0 +1,363 @@
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+YEM,"Yemen, Rep.",Algeria (official),Low income,Asia,1978,2.0
+YEM,"Yemen, Rep.",Algeria (official),Low income,Asia,1975,2.0
+YEM,"Yemen, Rep.",Algeria (private),Low income,Asia,1982,1.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,2014,2.3391
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,2013,2.5
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,2012,3.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,2011,2.4999
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,2010,2.4999
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,2009,2.5
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,2008,3.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,2007,3.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,2006,3.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,2005,3.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,2004,3.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,2003,3.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,2002,3.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,2001,2.9999
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1999,3.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1998,3.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1996,3.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1993,3.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1992,3.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1990,3.1492
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1989,3.0682
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1988,3.5596
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1987,4.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1986,4.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1985,4.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1984,4.3243
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1983,3.9999
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1982,3.9999
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1981,4.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1980,4.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1979,4.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1977,4.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1976,1.7912
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1975,4.0
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1974,1.9849
+YEM,"Yemen, Rep.",Arab Fund for Economic & Social Development (official),Low income,Asia,1972,0.5
+YEM,"Yemen, Rep.",Arab Monetary Fund (official),Low income,Asia,2014,1.9999
+YEM,"Yemen, Rep.",Arab Monetary Fund (official),Low income,Asia,2013,1.3899
+YEM,"Yemen, Rep.",Arab Monetary Fund (official),Low income,Asia,2012,1.2339
+YEM,"Yemen, Rep.",Arab Monetary Fund (official),Low income,Asia,2011,2.4999
+YEM,"Yemen, Rep.",Arab Monetary Fund (official),Low income,Asia,2010,1.11
+YEM,"Yemen, Rep.",Arab Monetary Fund (official),Low income,Asia,1998,5.0
+YEM,"Yemen, Rep.",Arab Monetary Fund (official),Low income,Asia,1995,5.7499
+YEM,"Yemen, Rep.",Arab Monetary Fund (official),Low income,Asia,1994,4.0999
+YEM,"Yemen, Rep.",Arab Monetary Fund (official),Low income,Asia,1988,4.8119
+YEM,"Yemen, Rep.",Arab Monetary Fund (official),Low income,Asia,1987,3.9999
+YEM,"Yemen, Rep.",Arab Monetary Fund (official),Low income,Asia,1986,4.2499
+YEM,"Yemen, Rep.",Arab Monetary Fund (official),Low income,Asia,1985,4.8962
+YEM,"Yemen, Rep.",Arab Monetary Fund (official),Low income,Asia,1984,5.3909
+YEM,"Yemen, Rep.",Arab Monetary Fund (official),Low income,Asia,1983,6.0
+YEM,"Yemen, Rep.",Arab Monetary Fund (official),Low income,Asia,1982,4.4809
+YEM,"Yemen, Rep.",Arab Monetary Fund (official),Low income,Asia,1981,4.25
+YEM,"Yemen, Rep.",Australia (private),Low income,Asia,1991,5.9999
+YEM,"Yemen, Rep.",Australia (private),Low income,Asia,1989,6.0
+YEM,"Yemen, Rep.",Australia (private),Low income,Asia,1988,6.0
+YEM,"Yemen, Rep.",Australia (private),Low income,Asia,1987,6.0
+YEM,"Yemen, Rep.",Australia (private),Low income,Asia,1986,6.0
+YEM,"Yemen, Rep.",Bahrain (private),Low income,Asia,1988,9.435
+YEM,"Yemen, Rep.",Bahrain (private),Low income,Asia,1986,8.375
+YEM,"Yemen, Rep.",Bulgaria (official),Low income,Asia,1981,2.5
+YEM,"Yemen, Rep.",Bulgaria (official),Low income,Asia,1980,1.9877
+YEM,"Yemen, Rep.",Bulgaria (official),Low income,Asia,1979,2.1732
+YEM,"Yemen, Rep.",Bulgaria (official),Low income,Asia,1978,2.5
+YEM,"Yemen, Rep.",Bulgaria (official),Low income,Asia,1977,2.4999
+YEM,"Yemen, Rep.",Bulgaria (official),Low income,Asia,1976,2.5
+YEM,"Yemen, Rep.",Bulgaria (official),Low income,Asia,1974,2.5
+YEM,"Yemen, Rep.",Canada (official),Low income,Asia,1980,10.0
+YEM,"Yemen, Rep.",China (official),Low income,Asia,2007,3.3048
+YEM,"Yemen, Rep.",China (official),Low income,Asia,2006,1.6666
+YEM,"Yemen, Rep.",China (official),Low income,Asia,2004,2.8061
+YEM,"Yemen, Rep.",China (official),Low income,Asia,2003,3.0014
+YEM,"Yemen, Rep.",China (official),Low income,Asia,1998,1.4999
+YEM,"Yemen, Rep.",Czechia (official),Low income,Asia,1981,1.0
+YEM,"Yemen, Rep.",Czechia (official),Low income,Asia,1980,2.5
+YEM,"Yemen, Rep.",Czechia (official),Low income,Asia,1979,2.5
+YEM,"Yemen, Rep.",Czechia (official),Low income,Asia,1978,2.5
+YEM,"Yemen, Rep.",Czechia (official),Low income,Asia,1977,2.5
+YEM,"Yemen, Rep.",Czechia (official),Low income,Asia,1976,2.5
+YEM,"Yemen, Rep.",Czechia (official),Low income,Asia,1973,2.5
+YEM,"Yemen, Rep.",European Development Fund (EDF) (official),Low income,Asia,1987,0.5
+YEM,"Yemen, Rep.",European Development Fund (EDF) (official),Low income,Asia,1986,0.5
+YEM,"Yemen, Rep.",European Development Fund (EDF) (official),Low income,Asia,1982,0.5
+YEM,"Yemen, Rep.",European Development Fund (EDF) (official),Low income,Asia,1979,0.625
+YEM,"Yemen, Rep.",France (official),Low income,Asia,2010,1.0
+YEM,"Yemen, Rep.",France (official),Low income,Asia,2008,4.1012
+YEM,"Yemen, Rep.",France (official),Low income,Asia,1996,1.0
+YEM,"Yemen, Rep.",France (official),Low income,Asia,1990,1.4608
+YEM,"Yemen, Rep.",France (official),Low income,Asia,1988,3.75
+YEM,"Yemen, Rep.",France (official),Low income,Asia,1987,3.0
+YEM,"Yemen, Rep.",France (official),Low income,Asia,1984,7.1677
+YEM,"Yemen, Rep.",France (official),Low income,Asia,1982,3.0
+YEM,"Yemen, Rep.",France (official),Low income,Asia,1977,2.9999
+YEM,"Yemen, Rep.",France (private),Low income,Asia,1992,6.0
+YEM,"Yemen, Rep.",France (private),Low income,Asia,1986,8.375
+YEM,"Yemen, Rep.",France (private),Low income,Asia,1983,6.0
+YEM,"Yemen, Rep.",France (private),Low income,Asia,1980,8.0
+YEM,"Yemen, Rep.",France (private),Low income,Asia,1977,7.5
+YEM,"Yemen, Rep.",German Dem. Rep. (official),Low income,Asia,1984,6.0
+YEM,"Yemen, Rep.",German Dem. Rep. (official),Low income,Asia,1980,2.5
+YEM,"Yemen, Rep.",German Dem. Rep. (official),Low income,Asia,1979,2.5
+YEM,"Yemen, Rep.",German Dem. Rep. (official),Low income,Asia,1978,2.5
+YEM,"Yemen, Rep.",German Dem. Rep. (official),Low income,Asia,1977,2.5
+YEM,"Yemen, Rep.",German Dem. Rep. (official),Low income,Asia,1974,2.5
+YEM,"Yemen, Rep.",German Dem. Rep. (official),Low income,Asia,1973,4.0889
+YEM,"Yemen, Rep.",Germany (official),Low income,Asia,1977,0.75
+YEM,"Yemen, Rep.",Germany (official),Low income,Asia,1975,0.75
+YEM,"Yemen, Rep.",Germany (official),Low income,Asia,1974,1.0
+YEM,"Yemen, Rep.",Germany (official),Low income,Asia,1972,1.5
+YEM,"Yemen, Rep.",Germany (official),Low income,Asia,1971,1.1017
+YEM,"Yemen, Rep.",Hungary (private),Low income,Asia,1982,6.0
+YEM,"Yemen, Rep.",Hungary (private),Low income,Asia,1979,2.0
+YEM,"Yemen, Rep.",Hungary (private),Low income,Asia,1978,2.4066
+YEM,"Yemen, Rep.",Hungary (private),Low income,Asia,1973,2.0
+YEM,"Yemen, Rep.",India (private),Low income,Asia,1981,5.0
+YEM,"Yemen, Rep.",International Fund for Agricultural Dev. (official),Low income,Asia,2009,0.7499
+YEM,"Yemen, Rep.",International Fund for Agricultural Dev. (official),Low income,Asia,2008,0.7499
+YEM,"Yemen, Rep.",International Fund for Agricultural Dev. (official),Low income,Asia,2006,0.75
+YEM,"Yemen, Rep.",International Fund for Agricultural Dev. (official),Low income,Asia,2005,0.75
+YEM,"Yemen, Rep.",International Fund for Agricultural Dev. (official),Low income,Asia,2003,0.75
+YEM,"Yemen, Rep.",International Fund for Agricultural Dev. (official),Low income,Asia,1999,0.75
+YEM,"Yemen, Rep.",International Fund for Agricultural Dev. (official),Low income,Asia,1995,1.0
+YEM,"Yemen, Rep.",International Fund for Agricultural Dev. (official),Low income,Asia,1991,1.0
+YEM,"Yemen, Rep.",International Fund for Agricultural Dev. (official),Low income,Asia,1990,1.0
+YEM,"Yemen, Rep.",International Fund for Agricultural Dev. (official),Low income,Asia,1989,1.0
+YEM,"Yemen, Rep.",International Fund for Agricultural Dev. (official),Low income,Asia,1988,8.0
+YEM,"Yemen, Rep.",International Fund for Agricultural Dev. (official),Low income,Asia,1984,1.0
+YEM,"Yemen, Rep.",International Fund for Agricultural Dev. (official),Low income,Asia,1982,1.0
+YEM,"Yemen, Rep.",International Fund for Agricultural Dev. (official),Low income,Asia,1981,1.0
+YEM,"Yemen, Rep.",International Fund for Agricultural Dev. (official),Low income,Asia,1980,1.0
+YEM,"Yemen, Rep.",International Fund for Agricultural Dev. (official),Low income,Asia,1979,1.0
+YEM,"Yemen, Rep.",Iraq (official),Low income,Asia,1983,2.9999
+YEM,"Yemen, Rep.",Iraq (official),Low income,Asia,1982,3.0
+YEM,"Yemen, Rep.",Iraq (official),Low income,Asia,1981,1.3891
+YEM,"Yemen, Rep.",Iraq (official),Low income,Asia,1980,0.1389
+YEM,"Yemen, Rep.",Iraq (official),Low income,Asia,1979,2.978
+YEM,"Yemen, Rep.",Iraq (official),Low income,Asia,1976,2.65
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,2013,3.0
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,2012,2.5
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,2011,2.2831
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,2010,1.9573
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,2009,2.2026
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,2008,2.5
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,2007,2.5
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,2006,2.4999
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,2005,2.4396
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,2004,2.1707
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,2003,2.5
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,2001,2.4999
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,2000,1.1107
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,1990,1.0
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,1989,4.0
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,1988,3.3247
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,1985,4.4267
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,1984,4.0
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,1982,4.0
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,1981,3.2888
+YEM,"Yemen, Rep.",Islamic Dev. Bank (official),Low income,Asia,1978,0.4138
+YEM,"Yemen, Rep.",Italy (official),Low income,Asia,2004,0.2
+YEM,"Yemen, Rep.",Italy (official),Low income,Asia,1989,1.5
+YEM,"Yemen, Rep.",Italy (official),Low income,Asia,1983,2.25
+YEM,"Yemen, Rep.",Italy (official),Low income,Asia,1982,2.25
+YEM,"Yemen, Rep.",Japan (official),Low income,Asia,1998,1.7899
+YEM,"Yemen, Rep.",Japan (official),Low income,Asia,1989,1.0
+YEM,"Yemen, Rep.",Japan (official),Low income,Asia,1988,1.5
+YEM,"Yemen, Rep.",Japan (official),Low income,Asia,1982,1.5
+YEM,"Yemen, Rep.",Japan (official),Low income,Asia,1979,2.75
+YEM,"Yemen, Rep.",Japan (official),Low income,Asia,1977,2.75
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,2014,1.5
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,2013,2.0
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,2010,1.5
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,2009,2.0
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,1990,2.0
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,1989,1.5
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,1988,1.4999
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,1987,1.4737
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,1986,2.0
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,1985,2.0
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,1983,1.5
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,1982,3.2857
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,1981,1.5
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,1980,1.5256
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,1979,2.2039
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,1978,1.4999
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,1977,2.4067
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,1976,0.8712
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,1975,1.5
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,1974,1.1855
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,1973,0.5
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,1972,1.8702
+YEM,"Yemen, Rep.",Kuwait (official),Low income,Asia,1971,0.5
+YEM,"Yemen, Rep.",Libya (official),Low income,Asia,1981,3.0
+YEM,"Yemen, Rep.",Netherlands (official),Low income,Asia,1979,2.2508
+YEM,"Yemen, Rep.",Netherlands (official),Low income,Asia,1976,0.7499
+YEM,"Yemen, Rep.",Netherlands (official),Low income,Asia,1975,2.4999
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,2012,2.75
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,2010,1.75
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,2007,1.25
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,2004,2.25
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,2002,2.0
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,2000,2.0
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,1998,3.5
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,1996,2.5
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,1991,2.75
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,1990,1.7777
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,1988,6.5826
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,1987,3.375
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,1986,1.0
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,1985,1.0
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,1984,1.0
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,1983,0.75
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,1982,0.75
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,1981,0.75
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,1980,0.75
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,1979,0.6858
+YEM,"Yemen, Rep.",OPEC Fund for International Dev. (official),Low income,Asia,1977,0.5
+YEM,"Yemen, Rep.",Saudi Arabia (official),Low income,Asia,2012,0.4
+YEM,"Yemen, Rep.",Saudi Arabia (official),Low income,Asia,2007,2.0
+YEM,"Yemen, Rep.",Saudi Arabia (official),Low income,Asia,2006,1.9999
+YEM,"Yemen, Rep.",Saudi Arabia (official),Low income,Asia,2003,2.0
+YEM,"Yemen, Rep.",Saudi Arabia (official),Low income,Asia,2002,2.0
+YEM,"Yemen, Rep.",Saudi Arabia (official),Low income,Asia,2001,2.5171
+YEM,"Yemen, Rep.",Saudi Arabia (official),Low income,Asia,1988,2.0
+YEM,"Yemen, Rep.",Saudi Arabia (official),Low income,Asia,1985,2.0
+YEM,"Yemen, Rep.",Saudi Arabia (official),Low income,Asia,1983,2.0
+YEM,"Yemen, Rep.",Saudi Arabia (official),Low income,Asia,1982,2.5
+YEM,"Yemen, Rep.",Saudi Arabia (official),Low income,Asia,1980,2.0
+YEM,"Yemen, Rep.",Saudi Arabia (official),Low income,Asia,1978,0.3053
+YEM,"Yemen, Rep.",Saudi Arabia (official),Low income,Asia,1977,2.0
+YEM,"Yemen, Rep.",Saudi Arabia (official),Low income,Asia,1976,0.4164
+YEM,"Yemen, Rep.",Saudi Arabia (official),Low income,Asia,1975,2.0
+YEM,"Yemen, Rep.",Saudi Arabia (official),Low income,Asia,1971,6.0
+YEM,"Yemen, Rep.",South Korea (official),Low income,Asia,2009,0.5
+YEM,"Yemen, Rep.",South Korea (official),Low income,Asia,2003,1.0
+YEM,"Yemen, Rep.",Spain (official),Low income,Asia,2003,7.03
+YEM,"Yemen, Rep.",Spain (official),Low income,Asia,2000,2.5348
+YEM,"Yemen, Rep.",Spain (official),Low income,Asia,1999,2.6338
+YEM,"Yemen, Rep.",USSR (official),Low income,Asia,1985,3.0
+YEM,"Yemen, Rep.",USSR (official),Low income,Asia,1984,4.9184
+YEM,"Yemen, Rep.",USSR (official),Low income,Asia,1982,4.2098
+YEM,"Yemen, Rep.",USSR (official),Low income,Asia,1981,3.9679
+YEM,"Yemen, Rep.",USSR (official),Low income,Asia,1980,3.0
+YEM,"Yemen, Rep.",USSR (official),Low income,Asia,1979,2.0923
+YEM,"Yemen, Rep.",USSR (official),Low income,Asia,1975,2.0
+YEM,"Yemen, Rep.",USSR (official),Low income,Asia,1973,1.0
+YEM,"Yemen, Rep.",USSR (official),Low income,Asia,1972,2.5
+YEM,"Yemen, Rep.",USSR (official),Low income,Asia,1971,2.4867
+YEM,"Yemen, Rep.",USSR (private),Low income,Asia,1988,3.0
+YEM,"Yemen, Rep.",USSR (private),Low income,Asia,1986,3.0
+YEM,"Yemen, Rep.",USSR (private),Low income,Asia,1985,3.0
+YEM,"Yemen, Rep.",USSR (private),Low income,Asia,1984,3.0
+YEM,"Yemen, Rep.",USSR (private),Low income,Asia,1980,3.0
+YEM,"Yemen, Rep.",United Arab Emirates (official),Low income,Asia,1985,3.0
+YEM,"Yemen, Rep.",United Arab Emirates (official),Low income,Asia,1983,4.0
+YEM,"Yemen, Rep.",United Arab Emirates (official),Low income,Asia,1981,3.5
+YEM,"Yemen, Rep.",United Arab Emirates (official),Low income,Asia,1980,3.5
+YEM,"Yemen, Rep.",United Arab Emirates (official),Low income,Asia,1978,3.7777
+YEM,"Yemen, Rep.",United Arab Emirates (official),Low income,Asia,1976,4.0
+YEM,"Yemen, Rep.",United Arab Emirates (official),Low income,Asia,1975,3.5
+YEM,"Yemen, Rep.",United Arab Emirates (official),Low income,Asia,1974,4.0
+YEM,"Yemen, Rep.",United Kingdom (private),Low income,Asia,1981,7.4999
+YEM,"Yemen, Rep.",United States (official),Low income,Asia,1981,2.7594
+YEM,"Yemen, Rep.",United States (official),Low income,Asia,1975,2.8051
+YEM,"Yemen, Rep.",World (official),Low income,Asia,2014,2.0567
+YEM,"Yemen, Rep.",World (official),Low income,Asia,2013,2.0428
+YEM,"Yemen, Rep.",World (official),Low income,Asia,2012,0.7217
+YEM,"Yemen, Rep.",World (official),Low income,Asia,2011,2.4341
+YEM,"Yemen, Rep.",World (official),Low income,Asia,2010,1.482
+YEM,"Yemen, Rep.",World (official),Low income,Asia,2009,2.0797
+YEM,"Yemen, Rep.",World (official),Low income,Asia,2008,2.5223
+YEM,"Yemen, Rep.",World (official),Low income,Asia,2007,2.6796
+YEM,"Yemen, Rep.",World (official),Low income,Asia,2006,1.9189
+YEM,"Yemen, Rep.",World (official),Low income,Asia,2005,2.3751
+YEM,"Yemen, Rep.",World (official),Low income,Asia,2004,1.8376
+YEM,"Yemen, Rep.",World (official),Low income,Asia,2003,2.2288
+YEM,"Yemen, Rep.",World (official),Low income,Asia,2002,1.4506
+YEM,"Yemen, Rep.",World (official),Low income,Asia,2001,2.3203
+YEM,"Yemen, Rep.",World (official),Low income,Asia,2000,0.8628
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1999,1.4907
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1998,2.0889
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1997,0.5
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1996,1.1514
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1995,5.111
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1994,1.8548
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1993,0.9187
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1992,0.8855
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1991,0.7824
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1990,1.7606
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1989,1.6859
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1988,2.3412
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1987,1.8637
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1986,2.2417
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1985,2.9505
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1984,3.8539
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1983,2.662
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1982,2.7361
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1981,2.8551
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1980,2.3966
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1979,2.0081
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1978,0.6124
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1977,2.3761
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1976,1.0965
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1975,1.8345
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1974,1.557
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1973,1.2904
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1972,0.8794
+YEM,"Yemen, Rep.",World (official),Low income,Asia,1971,2.3537
+YEM,"Yemen, Rep.",World (private),Low income,Asia,1992,6.0
+YEM,"Yemen, Rep.",World (private),Low income,Asia,1991,5.9999
+YEM,"Yemen, Rep.",World (private),Low income,Asia,1989,6.0
+YEM,"Yemen, Rep.",World (private),Low income,Asia,1988,4.4918
+YEM,"Yemen, Rep.",World (private),Low income,Asia,1987,6.0
+YEM,"Yemen, Rep.",World (private),Low income,Asia,1986,4.3583
+YEM,"Yemen, Rep.",World (private),Low income,Asia,1985,3.0
+YEM,"Yemen, Rep.",World (private),Low income,Asia,1984,3.0
+YEM,"Yemen, Rep.",World (private),Low income,Asia,1983,6.0
+YEM,"Yemen, Rep.",World (private),Low income,Asia,1982,1.5357
+YEM,"Yemen, Rep.",World (private),Low income,Asia,1981,7.2716
+YEM,"Yemen, Rep.",World (private),Low income,Asia,1980,4.4456
+YEM,"Yemen, Rep.",World (private),Low income,Asia,1979,0.0202
+YEM,"Yemen, Rep.",World (private),Low income,Asia,1978,2.2256
+YEM,"Yemen, Rep.",World (private),Low income,Asia,1977,7.5
+YEM,"Yemen, Rep.",World (private),Low income,Asia,1973,0.5316
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,2008,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,2007,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,2006,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,2005,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,2004,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,2003,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,2002,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,2001,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,2000,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1999,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1998,0.5
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1997,0.5
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1996,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1994,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1993,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1992,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1991,0.7499
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1990,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1989,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1988,0.7499
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1987,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1986,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1985,0.7499
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1984,0.7499
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1983,0.7499
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1982,0.7499
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1981,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1980,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1979,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1978,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1977,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1976,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1975,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1974,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1973,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1972,0.75
+YEM,"Yemen, Rep.",World Bank-IDA (official),Low income,Asia,1971,0.75

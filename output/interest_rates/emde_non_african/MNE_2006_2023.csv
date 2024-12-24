@@ -1,0 +1,130 @@
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+MNE,Montenegro,Austria (official),Upper middle income,Europe,2008,1.0
+MNE,Montenegro,Austria (official),Upper middle income,Europe,2006,1.164
+MNE,Montenegro,Austria (private),Upper middle income,Europe,2010,7.1449
+MNE,Montenegro,Austria (private),Upper middle income,Europe,2009,8.38
+MNE,Montenegro,Austria (private),Upper middle income,Europe,2007,1.9999
+MNE,Montenegro,Bondholders (private),Upper middle income,Europe,2019,2.5499
+MNE,Montenegro,Bondholders (private),Upper middle income,Europe,2018,3.375
+MNE,Montenegro,Bondholders (private),Upper middle income,Europe,2016,5.75
+MNE,Montenegro,Bondholders (private),Upper middle income,Europe,2015,3.8749
+MNE,Montenegro,Bondholders (private),Upper middle income,Europe,2013,6.1589
+MNE,Montenegro,Bondholders (private),Upper middle income,Europe,2011,7.3749
+MNE,Montenegro,Bondholders (private),Upper middle income,Europe,2010,7.875
+MNE,Montenegro,Canada (official),Upper middle income,Europe,2020,1.0001
+MNE,Montenegro,Canada (official),Upper middle income,Europe,2018,3.8501
+MNE,Montenegro,China (official),Upper middle income,Europe,2014,2.0
+MNE,Montenegro,China (official),Upper middle income,Europe,2012,2.0
+MNE,Montenegro,China (official),Upper middle income,Europe,2010,3.0
+MNE,Montenegro,Council of Europe (official),Upper middle income,Europe,2020,0.0999
+MNE,Montenegro,Council of Europe (official),Upper middle income,Europe,2017,3.0
+MNE,Montenegro,Council of Europe (official),Upper middle income,Europe,2015,2.0
+MNE,Montenegro,Council of Europe (official),Upper middle income,Europe,2014,0.3959
+MNE,Montenegro,Council of Europe (official),Upper middle income,Europe,2010,2.1059
+MNE,Montenegro,Czechia (official),Upper middle income,Europe,2011,3.5669
+MNE,Montenegro,Czechia (official),Upper middle income,Europe,2008,3.0325
+MNE,Montenegro,EUROFIMA (official),Upper middle income,Europe,2023,6.29
+MNE,Montenegro,EUROFIMA (official),Upper middle income,Europe,2007,2.5862
+MNE,Montenegro,EUROFIMA (official),Upper middle income,Europe,2006,1.9875
+MNE,Montenegro,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Europe,2023,4.9869
+MNE,Montenegro,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Europe,2022,0.9999
+MNE,Montenegro,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Europe,2021,0.2979
+MNE,Montenegro,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Europe,2020,1.0001
+MNE,Montenegro,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Europe,2017,1.0001
+MNE,Montenegro,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Europe,2016,1.0001
+MNE,Montenegro,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Europe,2013,0.3777
+MNE,Montenegro,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Europe,2011,2.3139
+MNE,Montenegro,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Europe,2010,2.2376
+MNE,Montenegro,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Europe,2009,1.9939
+MNE,Montenegro,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Europe,2007,3.2274
+MNE,Montenegro,European Investment Bank (official),Upper middle income,Europe,2020,1.0001
+MNE,Montenegro,European Investment Bank (official),Upper middle income,Europe,2019,0.0062
+MNE,Montenegro,European Investment Bank (official),Upper middle income,Europe,2018,2.5
+MNE,Montenegro,European Investment Bank (official),Upper middle income,Europe,2017,0.0144
+MNE,Montenegro,European Investment Bank (official),Upper middle income,Europe,2016,5.0
+MNE,Montenegro,European Investment Bank (official),Upper middle income,Europe,2015,2.0
+MNE,Montenegro,European Investment Bank (official),Upper middle income,Europe,2014,0.303
+MNE,Montenegro,European Investment Bank (official),Upper middle income,Europe,2012,1.1959
+MNE,Montenegro,European Investment Bank (official),Upper middle income,Europe,2011,3.0073
+MNE,Montenegro,European Investment Bank (official),Upper middle income,Europe,2010,2.269
+MNE,Montenegro,European Investment Bank (official),Upper middle income,Europe,2009,1.5571
+MNE,Montenegro,European Investment Bank (official),Upper middle income,Europe,2008,2.0
+MNE,Montenegro,European Union (official),Upper middle income,Europe,2020,0.1299
+MNE,Montenegro,France (private),Upper middle income,Europe,2007,1.0
+MNE,Montenegro,France (private),Upper middle income,Europe,2006,2.0
+MNE,Montenegro,Germany (official),Upper middle income,Europe,2019,0.5853
+MNE,Montenegro,Germany (official),Upper middle income,Europe,2018,0.9349
+MNE,Montenegro,Germany (official),Upper middle income,Europe,2017,0.0268
+MNE,Montenegro,Germany (official),Upper middle income,Europe,2015,2.0
+MNE,Montenegro,Germany (official),Upper middle income,Europe,2014,2.0
+MNE,Montenegro,Germany (official),Upper middle income,Europe,2013,2.0459
+MNE,Montenegro,Germany (official),Upper middle income,Europe,2011,4.9999
+MNE,Montenegro,Germany (official),Upper middle income,Europe,2009,3.6756
+MNE,Montenegro,Germany (official),Upper middle income,Europe,2008,3.9709
+MNE,Montenegro,Germany (official),Upper middle income,Europe,2007,2.6024
+MNE,Montenegro,Germany (official),Upper middle income,Europe,2006,1.0
+MNE,Montenegro,Germany (private),Upper middle income,Europe,2023,9.1899
+MNE,Montenegro,Germany (private),Upper middle income,Europe,2013,6.42
+MNE,Montenegro,Germany (private),Upper middle income,Europe,2010,4.1319
+MNE,Montenegro,Hungary (official),Upper middle income,Europe,2006,1.597
+MNE,Montenegro,Hungary (private),Upper middle income,Europe,2009,5.9949
+MNE,Montenegro,International Fund for Agricultural Dev. (official),Upper middle income,Europe,2017,2.3687
+MNE,Montenegro,Israel (private),Upper middle income,Europe,2023,5.7049
+MNE,Montenegro,Israel (private),Upper middle income,Europe,2020,1.4057
+MNE,Montenegro,Multiple Lenders (private),Upper middle income,Europe,2018,2.95
+MNE,Montenegro,Multiple Lenders (private),Upper middle income,Europe,2017,3.95
+MNE,Montenegro,Poland (private),Upper middle income,Europe,2006,0.75
+MNE,Montenegro,Serbia (private),Upper middle income,Europe,2017,3.8001
+MNE,Montenegro,Spain (official),Upper middle income,Europe,2007,1.0
+MNE,Montenegro,Spain (private),Upper middle income,Europe,2006,4.5999
+MNE,Montenegro,Switzerland (private),Upper middle income,Europe,2012,6.2274
+MNE,Montenegro,Switzerland (private),Upper middle income,Europe,2010,6.986
+MNE,Montenegro,Switzerland (private),Upper middle income,Europe,2009,8.5426
+MNE,Montenegro,United Arab Emirates (official),Upper middle income,Europe,2010,4.4999
+MNE,Montenegro,United Kingdom (private),Upper middle income,Europe,2020,3.63
+MNE,Montenegro,United States (private),Upper middle income,Europe,2017,3.9
+MNE,Montenegro,World (official),Upper middle income,Europe,2023,4.491
+MNE,Montenegro,World (official),Upper middle income,Europe,2022,0.9999
+MNE,Montenegro,World (official),Upper middle income,Europe,2021,0.2979
+MNE,Montenegro,World (official),Upper middle income,Europe,2020,0.625
+MNE,Montenegro,World (official),Upper middle income,Europe,2019,0.3486
+MNE,Montenegro,World (official),Upper middle income,Europe,2018,1.9452
+MNE,Montenegro,World (official),Upper middle income,Europe,2017,0.8455
+MNE,Montenegro,World (official),Upper middle income,Europe,2016,3.1053
+MNE,Montenegro,World (official),Upper middle income,Europe,2015,2.0
+MNE,Montenegro,World (official),Upper middle income,Europe,2014,1.8674
+MNE,Montenegro,World (official),Upper middle income,Europe,2013,1.1756
+MNE,Montenegro,World (official),Upper middle income,Europe,2012,1.7434
+MNE,Montenegro,World (official),Upper middle income,Europe,2011,2.959
+MNE,Montenegro,World (official),Upper middle income,Europe,2010,2.5114
+MNE,Montenegro,World (official),Upper middle income,Europe,2009,2.2714
+MNE,Montenegro,World (official),Upper middle income,Europe,2008,2.6277
+MNE,Montenegro,World (official),Upper middle income,Europe,2007,2.4618
+MNE,Montenegro,World (official),Upper middle income,Europe,2006,1.4088
+MNE,Montenegro,World (private),Upper middle income,Europe,2023,8.6129
+MNE,Montenegro,World (private),Upper middle income,Europe,2020,0.922
+MNE,Montenegro,World (private),Upper middle income,Europe,2019,2.5499
+MNE,Montenegro,World (private),Upper middle income,Europe,2018,3.2333
+MNE,Montenegro,World (private),Upper middle income,Europe,2017,3.9056
+MNE,Montenegro,World (private),Upper middle income,Europe,2016,5.75
+MNE,Montenegro,World (private),Upper middle income,Europe,2015,3.8749
+MNE,Montenegro,World (private),Upper middle income,Europe,2013,6.2708
+MNE,Montenegro,World (private),Upper middle income,Europe,2012,6.2274
+MNE,Montenegro,World (private),Upper middle income,Europe,2011,7.3749
+MNE,Montenegro,World (private),Upper middle income,Europe,2010,7.1076
+MNE,Montenegro,World (private),Upper middle income,Europe,2009,7.7713
+MNE,Montenegro,World (private),Upper middle income,Europe,2007,1.7218
+MNE,Montenegro,World (private),Upper middle income,Europe,2006,1.3023
+MNE,Montenegro,World Bank-IBRD (official),Upper middle income,Europe,2023,3.91
+MNE,Montenegro,World Bank-IBRD (official),Upper middle income,Europe,2020,1.0499
+MNE,Montenegro,World Bank-IBRD (official),Upper middle income,Europe,2019,0.9499
+MNE,Montenegro,World Bank-IBRD (official),Upper middle income,Europe,2018,1.1448
+MNE,Montenegro,World Bank-IBRD (official),Upper middle income,Europe,2016,1.0499
+MNE,Montenegro,World Bank-IBRD (official),Upper middle income,Europe,2014,1.189
+MNE,Montenegro,World Bank-IBRD (official),Upper middle income,Europe,2013,0.939
+MNE,Montenegro,World Bank-IBRD (official),Upper middle income,Europe,2012,1.8789
+MNE,Montenegro,World Bank-IBRD (official),Upper middle income,Europe,2011,2.5529
+MNE,Montenegro,World Bank-IBRD (official),Upper middle income,Europe,2010,1.0558
+MNE,Montenegro,World Bank-IBRD (official),Upper middle income,Europe,2009,1.057
+MNE,Montenegro,World Bank-IBRD (official),Upper middle income,Europe,2008,1.75
+MNE,Montenegro,World Bank-IDA (official),Upper middle income,Europe,2007,0.75
