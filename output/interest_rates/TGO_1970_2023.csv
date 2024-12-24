@@ -1,0 +1,356 @@
+entity_code,entity_name,counterpart_name,income_level,continent,indicator_code,year,value
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2023,0.7499
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2022,0.75
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2020,0.7499
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2019,1.438
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2018,0.75
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2017,0.75
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2015,0.75
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2014,0.75
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2012,0.75
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1999,0.7499
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1997,0.75
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1992,0.75
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1990,0.7499
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1989,0.7499
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1988,0.75
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1984,4.7398
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1981,0.7499
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1980,8.5
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1979,0.75
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1978,2.5307
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1977,7.9999
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1976,0.75
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1975,0.7499
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1974,7.0
+TGO,Togo,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1972,6.9999
+TGO,Togo,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2023,1.5
+TGO,Togo,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2016,1.0
+TGO,Togo,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2014,1.0
+TGO,Togo,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2012,1.0
+TGO,Togo,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2009,1.0
+TGO,Togo,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2005,1.0
+TGO,Togo,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1998,3.0
+TGO,Togo,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1987,6.5
+TGO,Togo,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1984,6.5
+TGO,Togo,Austria,Low income,Africa,DT.INR.PRVT,2023,4.355
+TGO,Togo,Austria,Low income,Africa,DT.INR.PRVT,1979,8.25
+TGO,Togo,Austria,Low income,Africa,DT.INR.PRVT,1978,8.4999
+TGO,Togo,Austria,Low income,Africa,DT.INR.PRVT,1977,7.8413
+TGO,Togo,Austria,Low income,Africa,DT.INR.PRVT,1976,9.2499
+TGO,Togo,Belgium,Low income,Africa,DT.INR.OFFT,2014,0.6394
+TGO,Togo,Belgium,Low income,Africa,DT.INR.PRVT,1978,8.5992
+TGO,Togo,Belgium,Low income,Africa,DT.INR.PRVT,1977,7.9055
+TGO,Togo,Brazil,Low income,Africa,DT.INR.PRVT,1980,10.7072
+TGO,Togo,Brazil,Low income,Africa,DT.INR.PRVT,1978,7.0
+TGO,Togo,Central Bank of West African States (BCEAO),Low income,Africa,DT.INR.OFFT,2006,1.0
+TGO,Togo,China,Low income,Africa,DT.INR.OFFT,2015,1.7806
+TGO,Togo,China,Low income,Africa,DT.INR.OFFT,2014,1.2733
+TGO,Togo,China,Low income,Africa,DT.INR.OFFT,2012,1.8727
+TGO,Togo,China,Low income,Africa,DT.INR.OFFT,2009,1.9816
+TGO,Togo,China,Low income,Africa,DT.INR.OFFT,2006,1.0
+TGO,Togo,Denmark,Low income,Africa,DT.INR.PRVT,1980,9.0
+TGO,Togo,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,2016,3.0
+TGO,Togo,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,2014,2.9243
+TGO,Togo,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,2010,2.7999
+TGO,Togo,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,2008,3.0
+TGO,Togo,Economic Community of West African States (ECOWAS),Low income,Africa,DT.INR.OFFT,2007,3.0
+TGO,Togo,Entente Council,Low income,Africa,DT.INR.OFFT,1982,3.0699
+TGO,Togo,Entente Council,Low income,Africa,DT.INR.OFFT,1980,3.5
+TGO,Togo,Entente Council,Low income,Africa,DT.INR.OFFT,1979,3.0
+TGO,Togo,Entente Council,Low income,Africa,DT.INR.OFFT,1978,3.5
+TGO,Togo,Entente Council,Low income,Africa,DT.INR.OFFT,1976,3.0699
+TGO,Togo,Entente Council,Low income,Africa,DT.INR.OFFT,1975,3.5
+TGO,Togo,Entente Council,Low income,Africa,DT.INR.OFFT,1973,3.5
+TGO,Togo,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1990,0.5
+TGO,Togo,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1984,0.9025
+TGO,Togo,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1983,1.0
+TGO,Togo,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1981,1.0
+TGO,Togo,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1977,1.0
+TGO,Togo,European Economic Community (EEC),Low income,Africa,DT.INR.OFFT,1979,0.75
+TGO,Togo,European Investment Bank,Low income,Africa,DT.INR.OFFT,2019,1.1979
+TGO,Togo,European Investment Bank,Low income,Africa,DT.INR.OFFT,2011,5.4
+TGO,Togo,European Investment Bank,Low income,Africa,DT.INR.OFFT,2009,2.0
+TGO,Togo,European Investment Bank,Low income,Africa,DT.INR.OFFT,1989,2.0
+TGO,Togo,European Investment Bank,Low income,Africa,DT.INR.OFFT,1984,4.9229
+TGO,Togo,European Investment Bank,Low income,Africa,DT.INR.OFFT,1981,7.9999
+TGO,Togo,European Investment Bank,Low income,Africa,DT.INR.OFFT,1977,3.8194
+TGO,Togo,European Investment Bank,Low income,Africa,DT.INR.OFFT,1976,2.0
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,2023,2.5738
+TGO,Togo,France,Low income,Africa,DT.INR.PRVT,2023,3.7455
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,2022,0.1
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,2021,0.15
+TGO,Togo,France,Low income,Africa,DT.INR.PRVT,2021,0.3799
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,2020,0.1401
+TGO,Togo,France,Low income,Africa,DT.INR.PRVT,2020,4.4999
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,2018,1.09
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,2011,6.6
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,1990,1.5
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,1989,2.9633
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,1988,5.8499
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,1987,2.0656
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,1986,4.9582
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,1985,1.8373
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,1984,9.4899
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,1983,7.0465
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,1982,5.4999
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,1981,9.4528
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,1980,5.7777
+TGO,Togo,France,Low income,Africa,DT.INR.PRVT,1980,7.75
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,1979,4.4999
+TGO,Togo,France,Low income,Africa,DT.INR.PRVT,1979,9.4999
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,1978,9.7543
+TGO,Togo,France,Low income,Africa,DT.INR.PRVT,1978,8.8829
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,1977,8.1481
+TGO,Togo,France,Low income,Africa,DT.INR.PRVT,1977,7.009
+TGO,Togo,France,Low income,Africa,DT.INR.PRVT,1976,5.298
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,1975,4.5902
+TGO,Togo,France,Low income,Africa,DT.INR.PRVT,1975,9.2499
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,1974,4.4239
+TGO,Togo,France,Low income,Africa,DT.INR.PRVT,1974,8.25
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,1973,3.7307
+TGO,Togo,France,Low income,Africa,DT.INR.PRVT,1973,7.9999
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,1972,2.3885
+TGO,Togo,France,Low income,Africa,DT.INR.PRVT,1972,5.0
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,1971,3.455
+TGO,Togo,France,Low income,Africa,DT.INR.PRVT,1971,7.3738
+TGO,Togo,France,Low income,Africa,DT.INR.OFFT,1970,3.6818
+TGO,Togo,Germany,Low income,Africa,DT.INR.OFFT,1982,1.9999
+TGO,Togo,Germany,Low income,Africa,DT.INR.OFFT,1980,2.0
+TGO,Togo,Germany,Low income,Africa,DT.INR.OFFT,1979,2.0
+TGO,Togo,Germany,Low income,Africa,DT.INR.PRVT,1978,10.8897
+TGO,Togo,Germany,Low income,Africa,DT.INR.OFFT,1977,3.2701
+TGO,Togo,Germany,Low income,Africa,DT.INR.PRVT,1977,7.4228
+TGO,Togo,Germany,Low income,Africa,DT.INR.PRVT,1976,9.5
+TGO,Togo,Germany,Low income,Africa,DT.INR.OFFT,1975,2.0
+TGO,Togo,Germany,Low income,Africa,DT.INR.OFFT,1973,2.0
+TGO,Togo,Germany,Low income,Africa,DT.INR.PRVT,1973,9.0605
+TGO,Togo,Germany,Low income,Africa,DT.INR.OFFT,1972,3.5
+TGO,Togo,Germany,Low income,Africa,DT.INR.PRVT,1972,3.75
+TGO,Togo,Germany,Low income,Africa,DT.INR.OFFT,1971,2.0
+TGO,Togo,Germany,Low income,Africa,DT.INR.PRVT,1971,6.1535
+TGO,Togo,Germany,Low income,Africa,DT.INR.OFFT,1970,2.0
+TGO,Togo,India,Low income,Africa,DT.INR.OFFT,2021,1.5
+TGO,Togo,India,Low income,Africa,DT.INR.OFFT,2014,1.7999
+TGO,Togo,India,Low income,Africa,DT.INR.OFFT,2012,1.7999
+TGO,Togo,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2022,0.7499
+TGO,Togo,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2019,7.4999
+TGO,Togo,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1996,0.8678
+TGO,Togo,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1989,1.0
+TGO,Togo,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1983,1.0
+TGO,Togo,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2023,5.879
+TGO,Togo,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2022,1.344
+TGO,Togo,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2017,1.4999
+TGO,Togo,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2016,1.7237
+TGO,Togo,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2015,3.0953
+TGO,Togo,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2014,0.8405
+TGO,Togo,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2009,1.0
+TGO,Togo,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2008,2.0
+TGO,Togo,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2007,1.3484
+TGO,Togo,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2006,3.2433
+TGO,Togo,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2004,2.5
+TGO,Togo,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2002,2.5
+TGO,Togo,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2001,2.4999
+TGO,Togo,Israel,Low income,Africa,DT.INR.PRVT,2021,1.6147
+TGO,Togo,Italy,Low income,Africa,DT.INR.PRVT,1979,8.5
+TGO,Togo,Italy,Low income,Africa,DT.INR.PRVT,1978,8.0
+TGO,Togo,Italy,Low income,Africa,DT.INR.PRVT,1977,9.0
+TGO,Togo,Italy,Low income,Africa,DT.INR.PRVT,1976,9.5
+TGO,Togo,Japan,Low income,Africa,DT.INR.PRVT,2022,1.2163
+TGO,Togo,Japan,Low income,Africa,DT.INR.PRVT,2019,4.6799
+TGO,Togo,Japan,Low income,Africa,DT.INR.OFFT,1996,1.0
+TGO,Togo,Japan,Low income,Africa,DT.INR.OFFT,1988,1.2499
+TGO,Togo,Japan,Low income,Africa,DT.INR.OFFT,1986,1.25
+TGO,Togo,Kuwait,Low income,Africa,DT.INR.OFFT,2019,1.4999
+TGO,Togo,Kuwait,Low income,Africa,DT.INR.OFFT,2016,1.5
+TGO,Togo,Kuwait,Low income,Africa,DT.INR.OFFT,2013,2.0
+TGO,Togo,Kuwait,Low income,Africa,DT.INR.OFFT,2010,1.9999
+TGO,Togo,Kuwait,Low income,Africa,DT.INR.OFFT,1998,3.5
+TGO,Togo,Kuwait,Low income,Africa,DT.INR.OFFT,1996,2.5
+TGO,Togo,Kuwait,Low income,Africa,DT.INR.OFFT,1984,3.4999
+TGO,Togo,Kuwait,Low income,Africa,DT.INR.OFFT,1983,2.5
+TGO,Togo,Multiple Lenders,Low income,Africa,DT.INR.PRVT,1978,12.3149
+TGO,Togo,Multiple Lenders,Low income,Africa,DT.INR.PRVT,1976,8.875
+TGO,Togo,Netherlands,Low income,Africa,DT.INR.PRVT,1977,8.5
+TGO,Togo,Netherlands,Low income,Africa,DT.INR.PRVT,1976,8.6249
+TGO,Togo,Netherlands,Low income,Africa,DT.INR.PRVT,1975,9.3271
+TGO,Togo,Netherlands,Low income,Africa,DT.INR.PRVT,1972,6.4999
+TGO,Togo,Netherlands,Low income,Africa,DT.INR.PRVT,1970,8.9999
+TGO,Togo,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2021,1.25
+TGO,Togo,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2015,2.2999
+TGO,Togo,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2014,2.2999
+TGO,Togo,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2012,1.2999
+TGO,Togo,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2011,2.0
+TGO,Togo,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2009,2.0
+TGO,Togo,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1999,2.0
+TGO,Togo,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1998,1.0
+TGO,Togo,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1997,3.0
+TGO,Togo,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1996,2.0
+TGO,Togo,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1986,2.0
+TGO,Togo,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1983,1.0
+TGO,Togo,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1981,0.75
+TGO,Togo,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1979,0.5
+TGO,Togo,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2016,1.0
+TGO,Togo,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2013,1.0
+TGO,Togo,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2006,2.0
+TGO,Togo,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2005,2.0
+TGO,Togo,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1980,1.9523
+TGO,Togo,Serbia,Low income,Africa,DT.INR.OFFT,1971,3.0
+TGO,Togo,Spain,Low income,Africa,DT.INR.OFFT,1980,8.0
+TGO,Togo,Spain,Low income,Africa,DT.INR.OFFT,1978,8.3
+TGO,Togo,Spain,Low income,Africa,DT.INR.PRVT,1977,8.0
+TGO,Togo,Spain,Low income,Africa,DT.INR.PRVT,1976,7.9
+TGO,Togo,Spain,Low income,Africa,DT.INR.PRVT,1975,7.9
+TGO,Togo,Sweden,Low income,Africa,DT.INR.OFFT,1976,10.4999
+TGO,Togo,Switzerland,Low income,Africa,DT.INR.PRVT,1979,5.3367
+TGO,Togo,Switzerland,Low income,Africa,DT.INR.PRVT,1978,6.1596
+TGO,Togo,Switzerland,Low income,Africa,DT.INR.PRVT,1977,5.25
+TGO,Togo,Switzerland,Low income,Africa,DT.INR.PRVT,1976,6.4073
+TGO,Togo,United Arab Emirates,Low income,Africa,DT.INR.OFFT,2022,5.0
+TGO,Togo,United Arab Emirates,Low income,Africa,DT.INR.OFFT,2020,1.4999
+TGO,Togo,United Arab Emirates,Low income,Africa,DT.INR.OFFT,2015,1.9999
+TGO,Togo,United Kingdom,Low income,Africa,DT.INR.PRVT,2015,7.019
+TGO,Togo,United Kingdom,Low income,Africa,DT.INR.PRVT,1980,8.25
+TGO,Togo,United Kingdom,Low income,Africa,DT.INR.PRVT,1978,12.005
+TGO,Togo,United Kingdom,Low income,Africa,DT.INR.PRVT,1977,8.25
+TGO,Togo,United Kingdom,Low income,Africa,DT.INR.PRVT,1976,10.7543
+TGO,Togo,United Kingdom,Low income,Africa,DT.INR.PRVT,1975,12.005
+TGO,Togo,United Kingdom,Low income,Africa,DT.INR.OFFT,1974,8.5
+TGO,Togo,United Kingdom,Low income,Africa,DT.INR.PRVT,1974,8.5
+TGO,Togo,United Kingdom,Low income,Africa,DT.INR.PRVT,1973,12.0022
+TGO,Togo,United Kingdom,Low income,Africa,DT.INR.PRVT,1972,8.0
+TGO,Togo,United States,Low income,Africa,DT.INR.PRVT,1980,15.565
+TGO,Togo,United States,Low income,Africa,DT.INR.PRVT,1979,16.065
+TGO,Togo,United States,Low income,Africa,DT.INR.PRVT,1977,9.2543
+TGO,Togo,United States,Low income,Africa,DT.INR.OFFT,1974,8.0
+TGO,Togo,United States,Low income,Africa,DT.INR.PRVT,1974,8.75
+TGO,Togo,United States,Low income,Africa,DT.INR.OFFT,1973,6.0
+TGO,Togo,United States,Low income,Africa,DT.INR.PRVT,1973,6.0
+TGO,Togo,United States,Low income,Africa,DT.INR.OFFT,1970,6.0
+TGO,Togo,United States,Low income,Africa,DT.INR.PRVT,1970,7.25
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2023,4.6158
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2022,4.1828
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2021,4.2325
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2020,3.6037
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2019,4.0
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2018,2.0
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2017,2.0
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2016,3.6499
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2015,7.5999
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2014,5.5883
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2012,5.6999
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2011,1.801
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2010,1.9999
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2009,2.0
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2005,2.0
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,2004,2.0
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,1998,6.8
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,1997,3.8499
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,1986,6.25
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,1983,11.0
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,1980,9.0202
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,1979,8.0
+TGO,Togo,West African Development Bank - BOAD,Low income,Africa,DT.INR.OFFT,1978,8.0
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2023,2.0413
+TGO,Togo,World,Low income,Africa,DT.INR.PRVT,2023,3.8373
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2022,2.0542
+TGO,Togo,World,Low income,Africa,DT.INR.PRVT,2022,1.2163
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2021,1.0594
+TGO,Togo,World,Low income,Africa,DT.INR.PRVT,2021,0.8457
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2020,1.6149
+TGO,Togo,World,Low income,Africa,DT.INR.PRVT,2020,4.4999
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2019,1.8969
+TGO,Togo,World,Low income,Africa,DT.INR.PRVT,2019,4.6799
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2018,1.1449
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2017,1.27
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2016,1.7419
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2015,2.2094
+TGO,Togo,World,Low income,Africa,DT.INR.PRVT,2015,7.019
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2014,2.0229
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2013,0.9538
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2012,2.9792
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2011,1.6804
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2010,1.7915
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2009,1.8656
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2008,2.5391
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2007,1.6308
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2006,1.9584
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2005,1.7066
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2004,2.1218
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2002,2.5
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,2001,2.4999
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1999,0.7683
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1998,2.4673
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1997,0.9563
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1996,0.969
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1995,0.6847
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1992,0.75
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1991,0.75
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1990,0.7314
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1989,1.3514
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1988,1.9444
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1987,1.4975
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1986,2.7569
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1985,0.7942
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1984,4.2568
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1983,2.7706
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1982,2.7562
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1981,3.6052
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1980,3.2483
+TGO,Togo,World,Low income,Africa,DT.INR.PRVT,1980,10.1149
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1979,1.4063
+TGO,Togo,World,Low income,Africa,DT.INR.PRVT,1979,6.8348
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1978,6.1701
+TGO,Togo,World,Low income,Africa,DT.INR.PRVT,1978,8.2782
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1977,2.7823
+TGO,Togo,World,Low income,Africa,DT.INR.PRVT,1977,7.3629
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1976,5.3074
+TGO,Togo,World,Low income,Africa,DT.INR.PRVT,1976,6.0886
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1975,1.8806
+TGO,Togo,World,Low income,Africa,DT.INR.PRVT,1975,9.7634
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1974,3.9869
+TGO,Togo,World,Low income,Africa,DT.INR.PRVT,1974,8.4739
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1973,1.8425
+TGO,Togo,World,Low income,Africa,DT.INR.PRVT,1973,11.5473
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1972,0.1357
+TGO,Togo,World,Low income,Africa,DT.INR.PRVT,1972,5.7661
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1971,3.1347
+TGO,Togo,World,Low income,Africa,DT.INR.PRVT,1971,7.1342
+TGO,Togo,World,Low income,Africa,DT.INR.OFFT,1970,3.5352
+TGO,Togo,World,Low income,Africa,DT.INR.PRVT,1970,7.5634
+TGO,Togo,World Bank-IBRD,Low income,Africa,DT.INR.OFFT,1976,8.85
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2023,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2022,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2021,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2020,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2019,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2018,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2017,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2016,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2014,0.7499
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2013,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2012,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1999,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1998,0.5
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1997,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1996,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1995,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1992,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1991,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1990,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1989,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1988,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1987,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1986,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1985,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1984,0.7499
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1983,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1982,0.7499
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1981,0.6367
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1980,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1979,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1978,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1977,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1976,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1974,0.75
+TGO,Togo,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1973,0.75

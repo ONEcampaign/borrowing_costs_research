@@ -27,4 +27,4 @@ def setup_logger(name) -> logging.Logger:
     return logger_
 
 
-logger = setup_logger("research_project")
+logger = setup_logger("debt_research")
