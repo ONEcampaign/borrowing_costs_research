@@ -1,607 +1,607 @@
-entity_code,entity_name,counterpart_name,income_level,continent,indicator_code,year,value
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2017,0.9716
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2016,0.7743
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2015,0.75
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2014,0.7499
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2013,0.75
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2012,0.6601
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2011,0.75
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2010,0.75
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2008,0.75
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2007,0.75
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2005,0.75
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2004,0.7499
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2003,0.75
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2002,0.7499
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2001,0.7499
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1998,0.7499
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1997,0.75
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1994,0.7499
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1993,2.7813
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1992,0.75
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1991,8.05
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1990,0.75
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1989,4.2533
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1987,3.4973
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1986,0.729
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1985,0.75
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1984,4.6049
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1983,0.75
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1982,4.0034
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1981,0.75
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1980,0.75
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1979,4.2452
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1977,0.7499
-ETH,Ethiopia,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1976,0.75
-ETH,Ethiopia,Algeria,Low income,Africa,DT.INR.OFFT,1985,2.5
-ETH,Ethiopia,Arab African International Bank,Low income,Africa,DT.INR.OFFT,1983,5.5
-ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2019,1.25
-ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2017,1.0
-ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2016,1.0
-ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2015,0.1023
-ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2014,0.01
-ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2013,1.0
-ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2012,1.0
-ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2011,0.01
-ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2010,1.0
-ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2009,1.0
-ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2008,1.0
-ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2006,1.0
-ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2005,1.0
-ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2004,1.1348
-ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2002,3.0
-ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2001,3.0
-ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1997,3.0
-ETH,Ethiopia,Australia,Low income,Africa,DT.INR.OFFT,1992,3.9999
-ETH,Ethiopia,Australia,Low income,Africa,DT.INR.OFFT,1986,5.5
-ETH,Ethiopia,Australia,Low income,Africa,DT.INR.OFFT,1985,5.0
-ETH,Ethiopia,Australia,Low income,Africa,DT.INR.PRVT,1985,10.7
-ETH,Ethiopia,Austria,Low income,Africa,DT.INR.PRVT,1989,7.0
-ETH,Ethiopia,Austria,Low income,Africa,DT.INR.PRVT,1988,8.0
-ETH,Ethiopia,Belgium,Low income,Africa,DT.INR.OFFT,1990,6.4999
-ETH,Ethiopia,Belgium,Low income,Africa,DT.INR.OFFT,1988,3.1514
-ETH,Ethiopia,Belgium,Low income,Africa,DT.INR.PRVT,1987,7.4
-ETH,Ethiopia,Belgium,Low income,Africa,DT.INR.OFFT,1986,7.0
-ETH,Ethiopia,Belgium,Low income,Africa,DT.INR.PRVT,1985,9.5
-ETH,Ethiopia,Belgium,Low income,Africa,DT.INR.PRVT,1981,7.75
-ETH,Ethiopia,Bondholders,Low income,Africa,DT.INR.PRVT,2014,6.5999
-ETH,Ethiopia,Bulgaria,Low income,Africa,DT.INR.OFFT,1990,5.0
-ETH,Ethiopia,Bulgaria,Low income,Africa,DT.INR.OFFT,1989,2.5
-ETH,Ethiopia,Bulgaria,Low income,Africa,DT.INR.OFFT,1988,2.5
-ETH,Ethiopia,Bulgaria,Low income,Africa,DT.INR.OFFT,1986,2.5
-ETH,Ethiopia,Bulgaria,Low income,Africa,DT.INR.OFFT,1985,2.5
-ETH,Ethiopia,Bulgaria,Low income,Africa,DT.INR.OFFT,1984,2.5
-ETH,Ethiopia,Bulgaria,Low income,Africa,DT.INR.OFFT,1982,2.5
-ETH,Ethiopia,Bulgaria,Low income,Africa,DT.INR.OFFT,1979,2.5
-ETH,Ethiopia,Canada,Low income,Africa,DT.INR.OFFT,2020,2.4178
-ETH,Ethiopia,Canada,Low income,Africa,DT.INR.OFFT,2012,1.2584
-ETH,Ethiopia,Canada,Low income,Africa,DT.INR.OFFT,2008,2.2169
-ETH,Ethiopia,Canada,Low income,Africa,DT.INR.OFFT,1988,8.5
-ETH,Ethiopia,Canada,Low income,Africa,DT.INR.PRVT,1987,12.0
-ETH,Ethiopia,Canada,Low income,Africa,DT.INR.OFFT,1986,3.0
-ETH,Ethiopia,Canada,Low income,Africa,DT.INR.OFFT,1984,10.0
-ETH,Ethiopia,Canada,Low income,Africa,DT.INR.OFFT,1981,11.406
-ETH,Ethiopia,China,Low income,Africa,DT.INR.OFFT,2018,1.3291
-ETH,Ethiopia,China,Low income,Africa,DT.INR.OFFT,2017,2.6919
-ETH,Ethiopia,China,Low income,Africa,DT.INR.OFFT,2016,2.2308
-ETH,Ethiopia,China,Low income,Africa,DT.INR.OFFT,2015,0.5215
-ETH,Ethiopia,China,Low income,Africa,DT.INR.PRVT,2015,0.0939
-ETH,Ethiopia,China,Low income,Africa,DT.INR.OFFT,2014,2.8627
-ETH,Ethiopia,China,Low income,Africa,DT.INR.PRVT,2014,1.1836
-ETH,Ethiopia,China,Low income,Africa,DT.INR.OFFT,2013,3.0347
-ETH,Ethiopia,China,Low income,Africa,DT.INR.PRVT,2013,2.9872
-ETH,Ethiopia,China,Low income,Africa,DT.INR.OFFT,2012,1.9026
-ETH,Ethiopia,China,Low income,Africa,DT.INR.OFFT,2011,2.6022
-ETH,Ethiopia,China,Low income,Africa,DT.INR.PRVT,2011,6.3699
-ETH,Ethiopia,China,Low income,Africa,DT.INR.OFFT,2010,2.4634
-ETH,Ethiopia,China,Low income,Africa,DT.INR.PRVT,2010,3.9561
-ETH,Ethiopia,China,Low income,Africa,DT.INR.OFFT,2009,2.0
-ETH,Ethiopia,China,Low income,Africa,DT.INR.OFFT,2008,4.8372
-ETH,Ethiopia,China,Low income,Africa,DT.INR.PRVT,2008,7.5
-ETH,Ethiopia,China,Low income,Africa,DT.INR.PRVT,2006,6.3699
-ETH,Ethiopia,China,Low income,Africa,DT.INR.OFFT,2004,0.499
-ETH,Ethiopia,China,Low income,Africa,DT.INR.OFFT,1990,2.3013
-ETH,Ethiopia,China,Low income,Africa,DT.INR.OFFT,1989,1.6578
-ETH,Ethiopia,China,Low income,Africa,DT.INR.OFFT,1987,1.1406
-ETH,Ethiopia,Czechia,Low income,Africa,DT.INR.OFFT,1996,2.5
-ETH,Ethiopia,Czechia,Low income,Africa,DT.INR.OFFT,1987,2.5
-ETH,Ethiopia,Czechia,Low income,Africa,DT.INR.OFFT,1985,2.5
-ETH,Ethiopia,Czechia,Low income,Africa,DT.INR.OFFT,1984,4.84
-ETH,Ethiopia,Czechia,Low income,Africa,DT.INR.OFFT,1983,2.5
-ETH,Ethiopia,Czechia,Low income,Africa,DT.INR.OFFT,1982,2.5
-ETH,Ethiopia,Czechia,Low income,Africa,DT.INR.OFFT,1980,4.0407
-ETH,Ethiopia,Czechia,Low income,Africa,DT.INR.OFFT,1979,2.5
-ETH,Ethiopia,Czechia,Low income,Africa,DT.INR.OFFT,1978,2.5
-ETH,Ethiopia,Czechia,Low income,Africa,DT.INR.OFFT,1976,5.0
-ETH,Ethiopia,Czechia,Low income,Africa,DT.INR.OFFT,1973,5.0
-ETH,Ethiopia,Czechia,Low income,Africa,DT.INR.PRVT,1973,6.0
-ETH,Ethiopia,Czechia,Low income,Africa,DT.INR.PRVT,1970,6.0
-ETH,Ethiopia,Denmark,Low income,Africa,DT.INR.PRVT,2020,1.335
-ETH,Ethiopia,Denmark,Low income,Africa,DT.INR.OFFT,1982,7.53
-ETH,Ethiopia,Egypt,Low income,Africa,DT.INR.PRVT,2009,5.8
-ETH,Ethiopia,Egypt,Low income,Africa,DT.INR.PRVT,2008,4.7063
-ETH,Ethiopia,Egypt,Low income,Africa,DT.INR.PRVT,2007,4.5
-ETH,Ethiopia,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1994,2.0
-ETH,Ethiopia,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1992,2.9999
-ETH,Ethiopia,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1991,0.5
-ETH,Ethiopia,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1987,0.75
-ETH,Ethiopia,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1985,0.7499
-ETH,Ethiopia,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1984,0.75
-ETH,Ethiopia,European Economic Community (EEC),Low income,Africa,DT.INR.OFFT,1979,0.75
-ETH,Ethiopia,European Investment Bank,Low income,Africa,DT.INR.OFFT,2018,0.75
-ETH,Ethiopia,European Investment Bank,Low income,Africa,DT.INR.OFFT,2017,0.7499
-ETH,Ethiopia,European Investment Bank,Low income,Africa,DT.INR.OFFT,2015,0.0176
-ETH,Ethiopia,European Investment Bank,Low income,Africa,DT.INR.OFFT,2006,2.7509
-ETH,Ethiopia,European Investment Bank,Low income,Africa,DT.INR.OFFT,2005,1.8999
-ETH,Ethiopia,European Investment Bank,Low income,Africa,DT.INR.OFFT,2003,1.0
-ETH,Ethiopia,European Investment Bank,Low income,Africa,DT.INR.OFFT,2002,2.9999
-ETH,Ethiopia,European Investment Bank,Low income,Africa,DT.INR.OFFT,1998,1.0
-ETH,Ethiopia,European Investment Bank,Low income,Africa,DT.INR.OFFT,1996,1.0
-ETH,Ethiopia,European Investment Bank,Low income,Africa,DT.INR.OFFT,1995,2.0
-ETH,Ethiopia,European Investment Bank,Low income,Africa,DT.INR.OFFT,1993,3.0
-ETH,Ethiopia,European Investment Bank,Low income,Africa,DT.INR.OFFT,1992,2.0
-ETH,Ethiopia,European Investment Bank,Low income,Africa,DT.INR.OFFT,1988,3.0
-ETH,Ethiopia,European Investment Bank,Low income,Africa,DT.INR.OFFT,1987,3.8571
-ETH,Ethiopia,European Investment Bank,Low income,Africa,DT.INR.OFFT,1986,1.9999
-ETH,Ethiopia,European Investment Bank,Low income,Africa,DT.INR.OFFT,1984,4.0
-ETH,Ethiopia,European Investment Bank,Low income,Africa,DT.INR.OFFT,1982,2.0
-ETH,Ethiopia,Finland,Low income,Africa,DT.INR.OFFT,1975,0.75
-ETH,Ethiopia,France,Low income,Africa,DT.INR.OFFT,2019,2.5
-ETH,Ethiopia,France,Low income,Africa,DT.INR.PRVT,2019,3.04
-ETH,Ethiopia,France,Low income,Africa,DT.INR.OFFT,2017,1.2237
-ETH,Ethiopia,France,Low income,Africa,DT.INR.OFFT,2016,1.1806
-ETH,Ethiopia,France,Low income,Africa,DT.INR.OFFT,2015,1.6789
-ETH,Ethiopia,France,Low income,Africa,DT.INR.OFFT,2014,3.3199
-ETH,Ethiopia,France,Low income,Africa,DT.INR.OFFT,2013,1.0
-ETH,Ethiopia,France,Low income,Africa,DT.INR.OFFT,2010,3.305
-ETH,Ethiopia,France,Low income,Africa,DT.INR.OFFT,2009,3.4649
-ETH,Ethiopia,France,Low income,Africa,DT.INR.PRVT,2009,3.9784
-ETH,Ethiopia,France,Low income,Africa,DT.INR.OFFT,1990,9.1999
-ETH,Ethiopia,France,Low income,Africa,DT.INR.PRVT,1990,4.4999
-ETH,Ethiopia,France,Low income,Africa,DT.INR.PRVT,1987,8.5
-ETH,Ethiopia,France,Low income,Africa,DT.INR.PRVT,1986,9.85
-ETH,Ethiopia,France,Low income,Africa,DT.INR.OFFT,1985,2.5
-ETH,Ethiopia,France,Low income,Africa,DT.INR.PRVT,1985,9.85
-ETH,Ethiopia,France,Low income,Africa,DT.INR.PRVT,1984,10.0
-ETH,Ethiopia,France,Low income,Africa,DT.INR.PRVT,1981,7.5
-ETH,Ethiopia,France,Low income,Africa,DT.INR.PRVT,1980,7.7499
-ETH,Ethiopia,German Dem. Rep.,Low income,Africa,DT.INR.OFFT,1989,4.2799
-ETH,Ethiopia,German Dem. Rep.,Low income,Africa,DT.INR.OFFT,1988,2.4461
-ETH,Ethiopia,German Dem. Rep.,Low income,Africa,DT.INR.PRVT,1988,2.5
-ETH,Ethiopia,German Dem. Rep.,Low income,Africa,DT.INR.OFFT,1987,4.8046
-ETH,Ethiopia,German Dem. Rep.,Low income,Africa,DT.INR.PRVT,1987,6.0
-ETH,Ethiopia,German Dem. Rep.,Low income,Africa,DT.INR.OFFT,1986,2.5
-ETH,Ethiopia,German Dem. Rep.,Low income,Africa,DT.INR.PRVT,1986,4.5747
-ETH,Ethiopia,German Dem. Rep.,Low income,Africa,DT.INR.OFFT,1985,2.5
-ETH,Ethiopia,German Dem. Rep.,Low income,Africa,DT.INR.PRVT,1985,6.0
-ETH,Ethiopia,German Dem. Rep.,Low income,Africa,DT.INR.PRVT,1984,6.0
-ETH,Ethiopia,German Dem. Rep.,Low income,Africa,DT.INR.OFFT,1982,2.5
-ETH,Ethiopia,German Dem. Rep.,Low income,Africa,DT.INR.OFFT,1981,6.0
-ETH,Ethiopia,German Dem. Rep.,Low income,Africa,DT.INR.PRVT,1981,6.0
-ETH,Ethiopia,German Dem. Rep.,Low income,Africa,DT.INR.OFFT,1980,2.5
-ETH,Ethiopia,German Dem. Rep.,Low income,Africa,DT.INR.PRVT,1980,6.0
-ETH,Ethiopia,German Dem. Rep.,Low income,Africa,DT.INR.PRVT,1979,5.0
-ETH,Ethiopia,German Dem. Rep.,Low income,Africa,DT.INR.OFFT,1978,2.5
-ETH,Ethiopia,German Dem. Rep.,Low income,Africa,DT.INR.PRVT,1976,5.0
-ETH,Ethiopia,Germany,Low income,Africa,DT.INR.OFFT,2015,2.38
-ETH,Ethiopia,Germany,Low income,Africa,DT.INR.PRVT,1989,7.0882
-ETH,Ethiopia,Germany,Low income,Africa,DT.INR.OFFT,1988,3.75
-ETH,Ethiopia,Germany,Low income,Africa,DT.INR.PRVT,1988,6.5
-ETH,Ethiopia,Germany,Low income,Africa,DT.INR.OFFT,1987,7.5
-ETH,Ethiopia,Germany,Low income,Africa,DT.INR.PRVT,1986,6.5156
-ETH,Ethiopia,Germany,Low income,Africa,DT.INR.OFFT,1985,0.7499
-ETH,Ethiopia,Germany,Low income,Africa,DT.INR.PRVT,1985,7.0
-ETH,Ethiopia,Germany,Low income,Africa,DT.INR.PRVT,1980,6.4999
-ETH,Ethiopia,Germany,Low income,Africa,DT.INR.OFFT,1978,0.7499
-ETH,Ethiopia,Germany,Low income,Africa,DT.INR.OFFT,1975,0.75
-ETH,Ethiopia,Germany,Low income,Africa,DT.INR.PRVT,1975,7.0891
-ETH,Ethiopia,Germany,Low income,Africa,DT.INR.OFFT,1974,0.75
-ETH,Ethiopia,Germany,Low income,Africa,DT.INR.PRVT,1973,6.5
-ETH,Ethiopia,Germany,Low income,Africa,DT.INR.PRVT,1972,6.5
-ETH,Ethiopia,Germany,Low income,Africa,DT.INR.OFFT,1971,1.4083
-ETH,Ethiopia,Greece,Low income,Africa,DT.INR.PRVT,1983,8.5
-ETH,Ethiopia,Hungary,Low income,Africa,DT.INR.OFFT,1986,3.0
-ETH,Ethiopia,Hungary,Low income,Africa,DT.INR.PRVT,1983,8.0
-ETH,Ethiopia,India,Low income,Africa,DT.INR.OFFT,2013,1.7999
-ETH,Ethiopia,India,Low income,Africa,DT.INR.OFFT,2012,1.7999
-ETH,Ethiopia,India,Low income,Africa,DT.INR.OFFT,2011,1.7999
-ETH,Ethiopia,India,Low income,Africa,DT.INR.OFFT,2010,1.7999
-ETH,Ethiopia,India,Low income,Africa,DT.INR.OFFT,2009,1.7999
-ETH,Ethiopia,India,Low income,Africa,DT.INR.PRVT,2008,4.7444
-ETH,Ethiopia,India,Low income,Africa,DT.INR.OFFT,2007,1.7999
-ETH,Ethiopia,India,Low income,Africa,DT.INR.PRVT,2007,6.6262
-ETH,Ethiopia,India,Low income,Africa,DT.INR.OFFT,2006,1.75
-ETH,Ethiopia,India,Low income,Africa,DT.INR.PRVT,1990,7.0
-ETH,Ethiopia,India,Low income,Africa,DT.INR.OFFT,1989,7.0
-ETH,Ethiopia,India,Low income,Africa,DT.INR.PRVT,1987,7.8693
-ETH,Ethiopia,India,Low income,Africa,DT.INR.PRVT,1985,7.0
-ETH,Ethiopia,India,Low income,Africa,DT.INR.PRVT,1984,7.0
-ETH,Ethiopia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2019,0.75
-ETH,Ethiopia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2016,0.75
-ETH,Ethiopia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2015,0.4957
-ETH,Ethiopia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2013,0.8
-ETH,Ethiopia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2011,0.8
-ETH,Ethiopia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2009,0.8
-ETH,Ethiopia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2007,0.8
-ETH,Ethiopia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2005,0.75
-ETH,Ethiopia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2003,0.75
-ETH,Ethiopia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2002,2.0
-ETH,Ethiopia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2001,0.8189
-ETH,Ethiopia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1998,0.75
-ETH,Ethiopia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1997,0.75
-ETH,Ethiopia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1996,0.75
-ETH,Ethiopia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1994,1.0
-ETH,Ethiopia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1987,1.0
-ETH,Ethiopia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1985,1.0
-ETH,Ethiopia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1983,1.0
-ETH,Ethiopia,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1981,1.0
-ETH,Ethiopia,Ireland,Low income,Africa,DT.INR.PRVT,2020,8.84
-ETH,Ethiopia,Israel,Low income,Africa,DT.INR.PRVT,2015,0.5149
-ETH,Ethiopia,Israel,Low income,Africa,DT.INR.PRVT,1986,9.0
-ETH,Ethiopia,Israel,Low income,Africa,DT.INR.PRVT,1985,9.0
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.OFFT,2021,0.5
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.OFFT,2020,0.5
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.PRVT,2017,1.6499
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.OFFT,2005,1.0
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.OFFT,2001,1.4999
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.PRVT,1991,8.3
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.OFFT,1990,3.9827
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.PRVT,1990,8.1773
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.OFFT,1989,1.5
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.OFFT,1988,1.5815
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.PRVT,1988,8.2172
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.OFFT,1987,1.5
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.PRVT,1987,7.0481
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.PRVT,1986,7.8014
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.OFFT,1985,2.6582
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.PRVT,1985,7.5585
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.OFFT,1984,2.25
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.PRVT,1984,8.9653
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.OFFT,1983,8.9317
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.PRVT,1983,7.8964
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.OFFT,1982,4.0
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.PRVT,1982,8.204
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.OFFT,1981,4.0
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.PRVT,1981,7.5
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.PRVT,1980,7.2847
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.PRVT,1978,7.25
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.PRVT,1975,6.3014
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.OFFT,1973,6.0
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.PRVT,1971,5.5
-ETH,Ethiopia,Italy,Low income,Africa,DT.INR.PRVT,1970,5.0215
-ETH,Ethiopia,Japan,Low income,Africa,DT.INR.OFFT,2021,0.01
-ETH,Ethiopia,Japan,Low income,Africa,DT.INR.OFFT,2020,0.01
-ETH,Ethiopia,Japan,Low income,Africa,DT.INR.PRVT,2019,4.1131
-ETH,Ethiopia,Japan,Low income,Africa,DT.INR.PRVT,2018,4.92
-ETH,Ethiopia,Japan,Low income,Africa,DT.INR.OFFT,2017,0.0099
-ETH,Ethiopia,Japan,Low income,Africa,DT.INR.PRVT,1991,7.5
-ETH,Ethiopia,Japan,Low income,Africa,DT.INR.PRVT,1990,8.0
-ETH,Ethiopia,Japan,Low income,Africa,DT.INR.PRVT,1989,6.9999
-ETH,Ethiopia,Japan,Low income,Africa,DT.INR.PRVT,1988,6.5
-ETH,Ethiopia,Japan,Low income,Africa,DT.INR.PRVT,1987,6.5057
-ETH,Ethiopia,Japan,Low income,Africa,DT.INR.PRVT,1986,7.3485
-ETH,Ethiopia,Japan,Low income,Africa,DT.INR.PRVT,1985,7.1652
-ETH,Ethiopia,Japan,Low income,Africa,DT.INR.PRVT,1981,7.75
-ETH,Ethiopia,Japan,Low income,Africa,DT.INR.PRVT,1975,6.7509
-ETH,Ethiopia,Japan,Low income,Africa,DT.INR.OFFT,1974,3.9999
-ETH,Ethiopia,Japan,Low income,Africa,DT.INR.PRVT,1974,7.0
-ETH,Ethiopia,Japan,Low income,Africa,DT.INR.OFFT,1973,4.0
-ETH,Ethiopia,Kuwait,Low income,Africa,DT.INR.OFFT,2015,0.02
-ETH,Ethiopia,Kuwait,Low income,Africa,DT.INR.OFFT,2012,2.0
-ETH,Ethiopia,Kuwait,Low income,Africa,DT.INR.OFFT,2010,1.9999
-ETH,Ethiopia,Kuwait,Low income,Africa,DT.INR.OFFT,2008,1.9999
-ETH,Ethiopia,Kuwait,Low income,Africa,DT.INR.OFFT,2007,2.5
-ETH,Ethiopia,Kuwait,Low income,Africa,DT.INR.OFFT,2006,1.9999
-ETH,Ethiopia,Kuwait,Low income,Africa,DT.INR.OFFT,2001,2.5
-ETH,Ethiopia,Kuwait,Low income,Africa,DT.INR.OFFT,2000,2.4999
-ETH,Ethiopia,Kuwait,Low income,Africa,DT.INR.OFFT,1994,2.4999
-ETH,Ethiopia,Libya,Low income,Africa,DT.INR.OFFT,1984,3.0
-ETH,Ethiopia,Libya,Low income,Africa,DT.INR.OFFT,1981,0.157
-ETH,Ethiopia,Libya,Low income,Africa,DT.INR.OFFT,1977,3.0
-ETH,Ethiopia,Multiple Lenders,Low income,Africa,DT.INR.OFFT,2023,0.8585
-ETH,Ethiopia,Multiple Lenders,Low income,Africa,DT.INR.OFFT,2018,0.8585
-ETH,Ethiopia,Multiple Lenders,Low income,Africa,DT.INR.OFFT,1991,3.5
-ETH,Ethiopia,Multiple Lenders,Low income,Africa,DT.INR.PRVT,1984,13.25
-ETH,Ethiopia,Multiple Lenders,Low income,Africa,DT.INR.PRVT,1981,7.25
-ETH,Ethiopia,Netherlands,Low income,Africa,DT.INR.PRVT,1996,7.4899
-ETH,Ethiopia,Netherlands,Low income,Africa,DT.INR.PRVT,1990,7.9999
-ETH,Ethiopia,Netherlands,Low income,Africa,DT.INR.OFFT,1987,6.5
-ETH,Ethiopia,Netherlands,Low income,Africa,DT.INR.PRVT,1975,7.9999
-ETH,Ethiopia,Nordic Development Fund,Low income,Africa,DT.INR.OFFT,2003,0.75
-ETH,Ethiopia,Nordic Investment Bank,Low income,Africa,DT.INR.OFFT,1998,0.75
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2019,1.0
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2017,2.0
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2016,2.0
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2015,0.02
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2014,0.02
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2013,2.0
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2012,2.0
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2011,0.01
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2010,2.0
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2009,2.0
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2007,2.0
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2005,1.5
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2004,2.0
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2002,3.0
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2000,2.0
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1996,3.0
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1988,3.0
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1987,3.0
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1986,1.0
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1984,1.0
-ETH,Ethiopia,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1977,0.5
-ETH,Ethiopia,Panama,Low income,Africa,DT.INR.PRVT,1990,8.0
-ETH,Ethiopia,Poland,Low income,Africa,DT.INR.OFFT,2015,0.15
-ETH,Ethiopia,Poland,Low income,Africa,DT.INR.OFFT,2013,0.2
-ETH,Ethiopia,Poland,Low income,Africa,DT.INR.OFFT,1993,5.0
-ETH,Ethiopia,Poland,Low income,Africa,DT.INR.OFFT,1988,5.0
-ETH,Ethiopia,Poland,Low income,Africa,DT.INR.OFFT,1980,5.0
-ETH,Ethiopia,Poland,Low income,Africa,DT.INR.PRVT,1975,6.0679
-ETH,Ethiopia,Romania,Low income,Africa,DT.INR.OFFT,1980,5.5
-ETH,Ethiopia,Russia,Low income,Africa,DT.INR.OFFT,1998,2.4999
-ETH,Ethiopia,Russia,Low income,Africa,DT.INR.OFFT,1988,2.5
-ETH,Ethiopia,Russia,Low income,Africa,DT.INR.OFFT,1977,2.5
-ETH,Ethiopia,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2019,1.0
-ETH,Ethiopia,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2013,1.0
-ETH,Ethiopia,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2012,1.0
-ETH,Ethiopia,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2011,1.0
-ETH,Ethiopia,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2010,1.0
-ETH,Ethiopia,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2006,1.0
-ETH,Ethiopia,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2004,2.0
-ETH,Ethiopia,Serbia,Low income,Africa,DT.INR.OFFT,1990,5.0
-ETH,Ethiopia,Serbia,Low income,Africa,DT.INR.PRVT,1990,10.0
-ETH,Ethiopia,Serbia,Low income,Africa,DT.INR.OFFT,1989,5.0
-ETH,Ethiopia,Serbia,Low income,Africa,DT.INR.OFFT,1988,5.0
-ETH,Ethiopia,Serbia,Low income,Africa,DT.INR.PRVT,1987,3.167
-ETH,Ethiopia,Serbia,Low income,Africa,DT.INR.PRVT,1986,3.0
-ETH,Ethiopia,Serbia,Low income,Africa,DT.INR.OFFT,1985,5.0
-ETH,Ethiopia,Serbia,Low income,Africa,DT.INR.PRVT,1985,3.276
-ETH,Ethiopia,Serbia,Low income,Africa,DT.INR.OFFT,1984,5.0
-ETH,Ethiopia,Serbia,Low income,Africa,DT.INR.PRVT,1984,5.3368
-ETH,Ethiopia,Serbia,Low income,Africa,DT.INR.PRVT,1983,3.1397
-ETH,Ethiopia,Serbia,Low income,Africa,DT.INR.PRVT,1982,10.0
-ETH,Ethiopia,Serbia,Low income,Africa,DT.INR.PRVT,1981,3.0
-ETH,Ethiopia,Serbia,Low income,Africa,DT.INR.PRVT,1980,3.0
-ETH,Ethiopia,Serbia,Low income,Africa,DT.INR.PRVT,1979,3.0
-ETH,Ethiopia,Serbia,Low income,Africa,DT.INR.PRVT,1977,8.5
-ETH,Ethiopia,Serbia,Low income,Africa,DT.INR.OFFT,1971,2.0
-ETH,Ethiopia,South Africa,Low income,Africa,DT.INR.OFFT,2019,5.4553
-ETH,Ethiopia,South Africa,Low income,Africa,DT.INR.PRVT,2018,6.9999
-ETH,Ethiopia,South Africa,Low income,Africa,DT.INR.PRVT,2017,6.7399
-ETH,Ethiopia,South Africa,Low income,Africa,DT.INR.PRVT,2016,2.756
-ETH,Ethiopia,South Korea,Low income,Africa,DT.INR.OFFT,2020,0.01
-ETH,Ethiopia,South Korea,Low income,Africa,DT.INR.OFFT,2019,0.01
-ETH,Ethiopia,South Korea,Low income,Africa,DT.INR.OFFT,2016,0.01
-ETH,Ethiopia,South Korea,Low income,Africa,DT.INR.OFFT,2014,0.01
-ETH,Ethiopia,South Korea,Low income,Africa,DT.INR.OFFT,2012,0.01
-ETH,Ethiopia,Spain,Low income,Africa,DT.INR.OFFT,1990,3.0
-ETH,Ethiopia,Sweden,Low income,Africa,DT.INR.PRVT,2014,3.3627
-ETH,Ethiopia,Sweden,Low income,Africa,DT.INR.PRVT,1997,6.815
-ETH,Ethiopia,Sweden,Low income,Africa,DT.INR.PRVT,1987,6.3094
-ETH,Ethiopia,Sweden,Low income,Africa,DT.INR.PRVT,1986,3.5235
-ETH,Ethiopia,Sweden,Low income,Africa,DT.INR.PRVT,1985,3.2465
-ETH,Ethiopia,Sweden,Low income,Africa,DT.INR.PRVT,1984,7.5
-ETH,Ethiopia,Sweden,Low income,Africa,DT.INR.PRVT,1982,0.2499
-ETH,Ethiopia,Sweden,Low income,Africa,DT.INR.PRVT,1981,7.4218
-ETH,Ethiopia,Sweden,Low income,Africa,DT.INR.PRVT,1975,6.4999
-ETH,Ethiopia,Switzerland,Low income,Africa,DT.INR.PRVT,2017,4.8299
-ETH,Ethiopia,Switzerland,Low income,Africa,DT.INR.PRVT,2014,4.5183
-ETH,Ethiopia,Switzerland,Low income,Africa,DT.INR.PRVT,1988,7.2899
-ETH,Ethiopia,Switzerland,Low income,Africa,DT.INR.PRVT,1983,8.0
-ETH,Ethiopia,Switzerland,Low income,Africa,DT.INR.PRVT,1979,5.0
-ETH,Ethiopia,Switzerland,Low income,Africa,DT.INR.PRVT,1971,7.5
-ETH,Ethiopia,Türkiye,Low income,Africa,DT.INR.OFFT,2014,4.1345
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1990,2.8711
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1989,2.6626
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.PRVT,1989,3.0
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1988,2.8999
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1987,2.7574
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1986,2.8646
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.PRVT,1986,3.0
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1985,2.8969
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.PRVT,1985,3.0
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1984,2.9794
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1983,2.8093
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1982,2.713
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1981,2.3511
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.PRVT,1981,2.0
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1980,2.7511
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1979,2.5
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1978,2.5
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1977,2.5
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1976,2.5
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1975,2.4999
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1974,2.5
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1973,2.4999
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1972,2.4999
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1971,2.7857
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.PRVT,1971,3.5
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.OFFT,1970,2.5
-ETH,Ethiopia,USSR,Low income,Africa,DT.INR.PRVT,1970,3.5
-ETH,Ethiopia,United Arab Emirates,Low income,Africa,DT.INR.OFFT,2020,1.0
-ETH,Ethiopia,United Arab Emirates,Low income,Africa,DT.INR.PRVT,2018,7.2017
-ETH,Ethiopia,United Arab Emirates,Low income,Africa,DT.INR.OFFT,2012,1.4999
-ETH,Ethiopia,United Kingdom,Low income,Africa,DT.INR.PRVT,2018,6.6287
-ETH,Ethiopia,United Kingdom,Low income,Africa,DT.INR.PRVT,2017,4.4299
-ETH,Ethiopia,United Kingdom,Low income,Africa,DT.INR.PRVT,1989,6.8004
-ETH,Ethiopia,United Kingdom,Low income,Africa,DT.INR.PRVT,1988,7.7499
-ETH,Ethiopia,United Kingdom,Low income,Africa,DT.INR.PRVT,1987,7.7016
-ETH,Ethiopia,United Kingdom,Low income,Africa,DT.INR.OFFT,1985,7.7499
-ETH,Ethiopia,United Kingdom,Low income,Africa,DT.INR.PRVT,1985,9.85
-ETH,Ethiopia,United Kingdom,Low income,Africa,DT.INR.PRVT,1983,8.0828
-ETH,Ethiopia,United Kingdom,Low income,Africa,DT.INR.OFFT,1982,7.75
-ETH,Ethiopia,United Kingdom,Low income,Africa,DT.INR.PRVT,1976,7.5
-ETH,Ethiopia,United Kingdom,Low income,Africa,DT.INR.PRVT,1975,6.4773
-ETH,Ethiopia,United Kingdom,Low income,Africa,DT.INR.PRVT,1970,6.5
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.PRVT,2023,4.8218
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.PRVT,2022,2.2829
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.PRVT,2021,0.36
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.PRVT,2020,1.5
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.PRVT,2018,3.9871
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.PRVT,2014,3.1892
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.PRVT,2013,1.228
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.PRVT,2012,3.878
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.PRVT,2011,1.0034
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.PRVT,2010,0.5899
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.PRVT,2003,1.5144
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.PRVT,1990,10.0
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.PRVT,1988,10.2449
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.PRVT,1987,8.975
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.PRVT,1985,5.0
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.OFFT,1984,9.85
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.PRVT,1981,15.8315
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.OFFT,1979,8.375
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.PRVT,1979,13.1199
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.OFFT,1976,2.94
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.OFFT,1975,2.7584
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.OFFT,1973,2.7564
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.PRVT,1973,7.5
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.OFFT,1972,2.7692
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.OFFT,1971,2.7682
-ETH,Ethiopia,United States,Low income,Africa,DT.INR.OFFT,1970,5.0306
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2023,0.8185
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,2023,4.8218
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2022,0.75
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,2022,2.2829
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2021,0.7474
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,2021,0.36
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2020,0.765
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,2020,1.6691
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2019,0.852
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,2019,3.4239
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2018,1.0953
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,2018,5.0006
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2017,1.4636
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,2017,3.5869
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2016,1.1347
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,2016,2.756
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2015,0.6826
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,2015,0.4104
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2014,1.5191
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,2014,4.8177
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2013,2.666
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,2013,2.859
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2012,0.7824
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,2012,3.878
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2011,1.8145
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,2011,1.0186
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2010,1.5891
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,2010,2.317
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2009,1.3395
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,2009,4.64
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2008,2.789
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,2008,4.7393
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2007,0.9187
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,2007,5.1957
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2006,1.1266
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,2006,6.3699
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2005,0.9412
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2004,0.9388
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2003,0.7652
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,2003,1.5144
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2002,1.0471
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2001,0.9291
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,2000,0.8264
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1998,0.6394
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1997,1.245
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1997,6.815
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1996,0.8994
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1996,7.4899
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1995,0.9523
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1994,1.1029
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1993,1.6798
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1992,0.9835
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1991,4.4554
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1991,7.7779
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1990,1.8531
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1990,9.7862
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1989,3.045
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1989,6.9208
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1988,1.7224
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1988,7.7809
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1987,2.5784
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1987,7.743
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1986,1.6082
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1986,6.3369
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1985,2.2525
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1985,6.4343
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1984,2.5784
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1984,12.1549
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1983,1.7714
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1983,5.9055
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1982,2.6992
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1982,8.0707
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1981,2.2634
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1981,4.0046
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1980,2.3704
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1980,6.3001
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1979,3.4505
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1979,7.807
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1978,1.5141
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1978,7.25
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1977,1.129
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1977,8.5
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1976,0.8523
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1976,5.0626
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1975,1.0722
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1975,7.0124
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1974,0.6764
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1974,7.0
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1973,1.7014
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1973,7.411
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1972,2.3941
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1972,6.5
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1971,1.6827
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1971,5.803
-ETH,Ethiopia,World,Low income,Africa,DT.INR.OFFT,1970,4.2296
-ETH,Ethiopia,World,Low income,Africa,DT.INR.PRVT,1970,5.0228
-ETH,Ethiopia,World Bank-IBRD,Low income,Africa,DT.INR.OFFT,1972,7.25
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2023,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2022,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2021,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2020,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2019,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2018,1.3774
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2017,1.0104
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2016,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2015,0.7499
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2014,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2013,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2012,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2011,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2010,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2009,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2008,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2007,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2006,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2005,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2004,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2003,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2002,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2001,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2000,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1998,0.5845
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1996,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1995,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1994,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1993,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1992,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1990,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1989,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1988,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1987,0.7499
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1986,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1985,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1984,0.7499
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1983,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1982,0.7499
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1981,0.7499
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1978,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1977,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1976,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1975,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1974,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1973,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1972,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1971,0.75
-ETH,Ethiopia,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1970,0.75
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,2017,0.9716
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,2016,0.7743
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,2015,0.75
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,2014,0.7499
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,2013,0.75
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,2012,0.6601
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,2011,0.75
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,2010,0.75
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,2008,0.75
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,2007,0.75
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,2005,0.75
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,2004,0.7499
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,2003,0.75
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,2002,0.7499
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,2001,0.7499
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,1998,0.7499
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,1997,0.75
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,1994,0.7499
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,1993,2.7813
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,1992,0.75
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,1991,8.05
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,1990,0.75
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,1989,4.2533
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,1987,3.4973
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,1986,0.729
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,1985,0.75
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,1984,4.6049
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,1983,0.75
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,1982,4.0034
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,1981,0.75
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,1980,0.75
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,1979,4.2452
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,1977,0.7499
+ETH,Ethiopia,African Dev. Bank (official),Low income,Africa,1976,0.75
+ETH,Ethiopia,Algeria (official),Low income,Africa,1985,2.5
+ETH,Ethiopia,Arab African International Bank (official),Low income,Africa,1983,5.5
+ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2019,1.25
+ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2017,1.0
+ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2016,1.0
+ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2015,0.1023
+ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2014,0.01
+ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2013,1.0
+ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2012,1.0
+ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2011,0.01
+ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2010,1.0
+ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2009,1.0
+ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2008,1.0
+ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2006,1.0
+ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2005,1.0
+ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2004,1.1348
+ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2002,3.0
+ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2001,3.0
+ETH,Ethiopia,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1997,3.0
+ETH,Ethiopia,Australia (official),Low income,Africa,1992,3.9999
+ETH,Ethiopia,Australia (official),Low income,Africa,1986,5.5
+ETH,Ethiopia,Australia (official),Low income,Africa,1985,5.0
+ETH,Ethiopia,Australia (private),Low income,Africa,1985,10.7
+ETH,Ethiopia,Austria (private),Low income,Africa,1989,7.0
+ETH,Ethiopia,Austria (private),Low income,Africa,1988,8.0
+ETH,Ethiopia,Belgium (official),Low income,Africa,1990,6.4999
+ETH,Ethiopia,Belgium (official),Low income,Africa,1988,3.1514
+ETH,Ethiopia,Belgium (official),Low income,Africa,1986,7.0
+ETH,Ethiopia,Belgium (private),Low income,Africa,1987,7.4
+ETH,Ethiopia,Belgium (private),Low income,Africa,1985,9.5
+ETH,Ethiopia,Belgium (private),Low income,Africa,1981,7.75
+ETH,Ethiopia,Bondholders (private),Low income,Africa,2014,6.5999
+ETH,Ethiopia,Bulgaria (official),Low income,Africa,1990,5.0
+ETH,Ethiopia,Bulgaria (official),Low income,Africa,1989,2.5
+ETH,Ethiopia,Bulgaria (official),Low income,Africa,1988,2.5
+ETH,Ethiopia,Bulgaria (official),Low income,Africa,1986,2.5
+ETH,Ethiopia,Bulgaria (official),Low income,Africa,1985,2.5
+ETH,Ethiopia,Bulgaria (official),Low income,Africa,1984,2.5
+ETH,Ethiopia,Bulgaria (official),Low income,Africa,1982,2.5
+ETH,Ethiopia,Bulgaria (official),Low income,Africa,1979,2.5
+ETH,Ethiopia,Canada (official),Low income,Africa,2020,2.4178
+ETH,Ethiopia,Canada (official),Low income,Africa,2012,1.2584
+ETH,Ethiopia,Canada (official),Low income,Africa,2008,2.2169
+ETH,Ethiopia,Canada (official),Low income,Africa,1988,8.5
+ETH,Ethiopia,Canada (official),Low income,Africa,1986,3.0
+ETH,Ethiopia,Canada (official),Low income,Africa,1984,10.0
+ETH,Ethiopia,Canada (official),Low income,Africa,1981,11.406
+ETH,Ethiopia,Canada (private),Low income,Africa,1987,12.0
+ETH,Ethiopia,China (official),Low income,Africa,2018,1.3291
+ETH,Ethiopia,China (official),Low income,Africa,2017,2.6919
+ETH,Ethiopia,China (official),Low income,Africa,2016,2.2308
+ETH,Ethiopia,China (official),Low income,Africa,2015,0.5215
+ETH,Ethiopia,China (official),Low income,Africa,2014,2.8627
+ETH,Ethiopia,China (official),Low income,Africa,2013,3.0347
+ETH,Ethiopia,China (official),Low income,Africa,2012,1.9026
+ETH,Ethiopia,China (official),Low income,Africa,2011,2.6022
+ETH,Ethiopia,China (official),Low income,Africa,2010,2.4634
+ETH,Ethiopia,China (official),Low income,Africa,2009,2.0
+ETH,Ethiopia,China (official),Low income,Africa,2008,4.8372
+ETH,Ethiopia,China (official),Low income,Africa,2004,0.499
+ETH,Ethiopia,China (official),Low income,Africa,1990,2.3013
+ETH,Ethiopia,China (official),Low income,Africa,1989,1.6578
+ETH,Ethiopia,China (official),Low income,Africa,1987,1.1406
+ETH,Ethiopia,China (private),Low income,Africa,2015,0.0939
+ETH,Ethiopia,China (private),Low income,Africa,2014,1.1836
+ETH,Ethiopia,China (private),Low income,Africa,2013,2.9872
+ETH,Ethiopia,China (private),Low income,Africa,2011,6.3699
+ETH,Ethiopia,China (private),Low income,Africa,2010,3.9561
+ETH,Ethiopia,China (private),Low income,Africa,2008,7.5
+ETH,Ethiopia,China (private),Low income,Africa,2006,6.3699
+ETH,Ethiopia,Czechia (official),Low income,Africa,1996,2.5
+ETH,Ethiopia,Czechia (official),Low income,Africa,1987,2.5
+ETH,Ethiopia,Czechia (official),Low income,Africa,1985,2.5
+ETH,Ethiopia,Czechia (official),Low income,Africa,1984,4.84
+ETH,Ethiopia,Czechia (official),Low income,Africa,1983,2.5
+ETH,Ethiopia,Czechia (official),Low income,Africa,1982,2.5
+ETH,Ethiopia,Czechia (official),Low income,Africa,1980,4.0407
+ETH,Ethiopia,Czechia (official),Low income,Africa,1979,2.5
+ETH,Ethiopia,Czechia (official),Low income,Africa,1978,2.5
+ETH,Ethiopia,Czechia (official),Low income,Africa,1976,5.0
+ETH,Ethiopia,Czechia (official),Low income,Africa,1973,5.0
+ETH,Ethiopia,Czechia (private),Low income,Africa,1973,6.0
+ETH,Ethiopia,Czechia (private),Low income,Africa,1970,6.0
+ETH,Ethiopia,Denmark (official),Low income,Africa,1982,7.53
+ETH,Ethiopia,Denmark (private),Low income,Africa,2020,1.335
+ETH,Ethiopia,Egypt (private),Low income,Africa,2009,5.8
+ETH,Ethiopia,Egypt (private),Low income,Africa,2008,4.7063
+ETH,Ethiopia,Egypt (private),Low income,Africa,2007,4.5
+ETH,Ethiopia,European Development Fund (EDF) (official),Low income,Africa,1994,2.0
+ETH,Ethiopia,European Development Fund (EDF) (official),Low income,Africa,1992,2.9999
+ETH,Ethiopia,European Development Fund (EDF) (official),Low income,Africa,1991,0.5
+ETH,Ethiopia,European Development Fund (EDF) (official),Low income,Africa,1987,0.75
+ETH,Ethiopia,European Development Fund (EDF) (official),Low income,Africa,1985,0.7499
+ETH,Ethiopia,European Development Fund (EDF) (official),Low income,Africa,1984,0.75
+ETH,Ethiopia,European Economic Community (EEC) (official),Low income,Africa,1979,0.75
+ETH,Ethiopia,European Investment Bank (official),Low income,Africa,2018,0.75
+ETH,Ethiopia,European Investment Bank (official),Low income,Africa,2017,0.7499
+ETH,Ethiopia,European Investment Bank (official),Low income,Africa,2015,0.0176
+ETH,Ethiopia,European Investment Bank (official),Low income,Africa,2006,2.7509
+ETH,Ethiopia,European Investment Bank (official),Low income,Africa,2005,1.8999
+ETH,Ethiopia,European Investment Bank (official),Low income,Africa,2003,1.0
+ETH,Ethiopia,European Investment Bank (official),Low income,Africa,2002,2.9999
+ETH,Ethiopia,European Investment Bank (official),Low income,Africa,1998,1.0
+ETH,Ethiopia,European Investment Bank (official),Low income,Africa,1996,1.0
+ETH,Ethiopia,European Investment Bank (official),Low income,Africa,1995,2.0
+ETH,Ethiopia,European Investment Bank (official),Low income,Africa,1993,3.0
+ETH,Ethiopia,European Investment Bank (official),Low income,Africa,1992,2.0
+ETH,Ethiopia,European Investment Bank (official),Low income,Africa,1988,3.0
+ETH,Ethiopia,European Investment Bank (official),Low income,Africa,1987,3.8571
+ETH,Ethiopia,European Investment Bank (official),Low income,Africa,1986,1.9999
+ETH,Ethiopia,European Investment Bank (official),Low income,Africa,1984,4.0
+ETH,Ethiopia,European Investment Bank (official),Low income,Africa,1982,2.0
+ETH,Ethiopia,Finland (official),Low income,Africa,1975,0.75
+ETH,Ethiopia,France (official),Low income,Africa,2019,2.5
+ETH,Ethiopia,France (official),Low income,Africa,2017,1.2237
+ETH,Ethiopia,France (official),Low income,Africa,2016,1.1806
+ETH,Ethiopia,France (official),Low income,Africa,2015,1.6789
+ETH,Ethiopia,France (official),Low income,Africa,2014,3.3199
+ETH,Ethiopia,France (official),Low income,Africa,2013,1.0
+ETH,Ethiopia,France (official),Low income,Africa,2010,3.305
+ETH,Ethiopia,France (official),Low income,Africa,2009,3.4649
+ETH,Ethiopia,France (official),Low income,Africa,1990,9.1999
+ETH,Ethiopia,France (official),Low income,Africa,1985,2.5
+ETH,Ethiopia,France (private),Low income,Africa,2019,3.04
+ETH,Ethiopia,France (private),Low income,Africa,2009,3.9784
+ETH,Ethiopia,France (private),Low income,Africa,1990,4.4999
+ETH,Ethiopia,France (private),Low income,Africa,1987,8.5
+ETH,Ethiopia,France (private),Low income,Africa,1986,9.85
+ETH,Ethiopia,France (private),Low income,Africa,1985,9.85
+ETH,Ethiopia,France (private),Low income,Africa,1984,10.0
+ETH,Ethiopia,France (private),Low income,Africa,1981,7.5
+ETH,Ethiopia,France (private),Low income,Africa,1980,7.7499
+ETH,Ethiopia,German Dem. Rep. (official),Low income,Africa,1989,4.2799
+ETH,Ethiopia,German Dem. Rep. (official),Low income,Africa,1988,2.4461
+ETH,Ethiopia,German Dem. Rep. (official),Low income,Africa,1987,4.8046
+ETH,Ethiopia,German Dem. Rep. (official),Low income,Africa,1986,2.5
+ETH,Ethiopia,German Dem. Rep. (official),Low income,Africa,1985,2.5
+ETH,Ethiopia,German Dem. Rep. (official),Low income,Africa,1982,2.5
+ETH,Ethiopia,German Dem. Rep. (official),Low income,Africa,1981,6.0
+ETH,Ethiopia,German Dem. Rep. (official),Low income,Africa,1980,2.5
+ETH,Ethiopia,German Dem. Rep. (official),Low income,Africa,1978,2.5
+ETH,Ethiopia,German Dem. Rep. (private),Low income,Africa,1988,2.5
+ETH,Ethiopia,German Dem. Rep. (private),Low income,Africa,1987,6.0
+ETH,Ethiopia,German Dem. Rep. (private),Low income,Africa,1986,4.5747
+ETH,Ethiopia,German Dem. Rep. (private),Low income,Africa,1985,6.0
+ETH,Ethiopia,German Dem. Rep. (private),Low income,Africa,1984,6.0
+ETH,Ethiopia,German Dem. Rep. (private),Low income,Africa,1981,6.0
+ETH,Ethiopia,German Dem. Rep. (private),Low income,Africa,1980,6.0
+ETH,Ethiopia,German Dem. Rep. (private),Low income,Africa,1979,5.0
+ETH,Ethiopia,German Dem. Rep. (private),Low income,Africa,1976,5.0
+ETH,Ethiopia,Germany (official),Low income,Africa,2015,2.38
+ETH,Ethiopia,Germany (official),Low income,Africa,1988,3.75
+ETH,Ethiopia,Germany (official),Low income,Africa,1987,7.5
+ETH,Ethiopia,Germany (official),Low income,Africa,1985,0.7499
+ETH,Ethiopia,Germany (official),Low income,Africa,1978,0.7499
+ETH,Ethiopia,Germany (official),Low income,Africa,1975,0.75
+ETH,Ethiopia,Germany (official),Low income,Africa,1974,0.75
+ETH,Ethiopia,Germany (official),Low income,Africa,1971,1.4083
+ETH,Ethiopia,Germany (private),Low income,Africa,1989,7.0882
+ETH,Ethiopia,Germany (private),Low income,Africa,1988,6.5
+ETH,Ethiopia,Germany (private),Low income,Africa,1986,6.5156
+ETH,Ethiopia,Germany (private),Low income,Africa,1985,7.0
+ETH,Ethiopia,Germany (private),Low income,Africa,1980,6.4999
+ETH,Ethiopia,Germany (private),Low income,Africa,1975,7.0891
+ETH,Ethiopia,Germany (private),Low income,Africa,1973,6.5
+ETH,Ethiopia,Germany (private),Low income,Africa,1972,6.5
+ETH,Ethiopia,Greece (private),Low income,Africa,1983,8.5
+ETH,Ethiopia,Hungary (official),Low income,Africa,1986,3.0
+ETH,Ethiopia,Hungary (private),Low income,Africa,1983,8.0
+ETH,Ethiopia,India (official),Low income,Africa,2013,1.7999
+ETH,Ethiopia,India (official),Low income,Africa,2012,1.7999
+ETH,Ethiopia,India (official),Low income,Africa,2011,1.7999
+ETH,Ethiopia,India (official),Low income,Africa,2010,1.7999
+ETH,Ethiopia,India (official),Low income,Africa,2009,1.7999
+ETH,Ethiopia,India (official),Low income,Africa,2007,1.7999
+ETH,Ethiopia,India (official),Low income,Africa,2006,1.75
+ETH,Ethiopia,India (official),Low income,Africa,1989,7.0
+ETH,Ethiopia,India (private),Low income,Africa,2008,4.7444
+ETH,Ethiopia,India (private),Low income,Africa,2007,6.6262
+ETH,Ethiopia,India (private),Low income,Africa,1990,7.0
+ETH,Ethiopia,India (private),Low income,Africa,1987,7.8693
+ETH,Ethiopia,India (private),Low income,Africa,1985,7.0
+ETH,Ethiopia,India (private),Low income,Africa,1984,7.0
+ETH,Ethiopia,International Fund for Agricultural Dev. (official),Low income,Africa,2019,0.75
+ETH,Ethiopia,International Fund for Agricultural Dev. (official),Low income,Africa,2016,0.75
+ETH,Ethiopia,International Fund for Agricultural Dev. (official),Low income,Africa,2015,0.4957
+ETH,Ethiopia,International Fund for Agricultural Dev. (official),Low income,Africa,2013,0.8
+ETH,Ethiopia,International Fund for Agricultural Dev. (official),Low income,Africa,2011,0.8
+ETH,Ethiopia,International Fund for Agricultural Dev. (official),Low income,Africa,2009,0.8
+ETH,Ethiopia,International Fund for Agricultural Dev. (official),Low income,Africa,2007,0.8
+ETH,Ethiopia,International Fund for Agricultural Dev. (official),Low income,Africa,2005,0.75
+ETH,Ethiopia,International Fund for Agricultural Dev. (official),Low income,Africa,2003,0.75
+ETH,Ethiopia,International Fund for Agricultural Dev. (official),Low income,Africa,2002,2.0
+ETH,Ethiopia,International Fund for Agricultural Dev. (official),Low income,Africa,2001,0.8189
+ETH,Ethiopia,International Fund for Agricultural Dev. (official),Low income,Africa,1998,0.75
+ETH,Ethiopia,International Fund for Agricultural Dev. (official),Low income,Africa,1997,0.75
+ETH,Ethiopia,International Fund for Agricultural Dev. (official),Low income,Africa,1996,0.75
+ETH,Ethiopia,International Fund for Agricultural Dev. (official),Low income,Africa,1994,1.0
+ETH,Ethiopia,International Fund for Agricultural Dev. (official),Low income,Africa,1987,1.0
+ETH,Ethiopia,International Fund for Agricultural Dev. (official),Low income,Africa,1985,1.0
+ETH,Ethiopia,International Fund for Agricultural Dev. (official),Low income,Africa,1983,1.0
+ETH,Ethiopia,International Fund for Agricultural Dev. (official),Low income,Africa,1981,1.0
+ETH,Ethiopia,Ireland (private),Low income,Africa,2020,8.84
+ETH,Ethiopia,Israel (private),Low income,Africa,2015,0.5149
+ETH,Ethiopia,Israel (private),Low income,Africa,1986,9.0
+ETH,Ethiopia,Israel (private),Low income,Africa,1985,9.0
+ETH,Ethiopia,Italy (official),Low income,Africa,2021,0.5
+ETH,Ethiopia,Italy (official),Low income,Africa,2020,0.5
+ETH,Ethiopia,Italy (official),Low income,Africa,2005,1.0
+ETH,Ethiopia,Italy (official),Low income,Africa,2001,1.4999
+ETH,Ethiopia,Italy (official),Low income,Africa,1990,3.9827
+ETH,Ethiopia,Italy (official),Low income,Africa,1989,1.5
+ETH,Ethiopia,Italy (official),Low income,Africa,1988,1.5815
+ETH,Ethiopia,Italy (official),Low income,Africa,1987,1.5
+ETH,Ethiopia,Italy (official),Low income,Africa,1985,2.6582
+ETH,Ethiopia,Italy (official),Low income,Africa,1984,2.25
+ETH,Ethiopia,Italy (official),Low income,Africa,1983,8.9317
+ETH,Ethiopia,Italy (official),Low income,Africa,1982,4.0
+ETH,Ethiopia,Italy (official),Low income,Africa,1981,4.0
+ETH,Ethiopia,Italy (official),Low income,Africa,1973,6.0
+ETH,Ethiopia,Italy (private),Low income,Africa,2017,1.6499
+ETH,Ethiopia,Italy (private),Low income,Africa,1991,8.3
+ETH,Ethiopia,Italy (private),Low income,Africa,1990,8.1773
+ETH,Ethiopia,Italy (private),Low income,Africa,1988,8.2172
+ETH,Ethiopia,Italy (private),Low income,Africa,1987,7.0481
+ETH,Ethiopia,Italy (private),Low income,Africa,1986,7.8014
+ETH,Ethiopia,Italy (private),Low income,Africa,1985,7.5585
+ETH,Ethiopia,Italy (private),Low income,Africa,1984,8.9653
+ETH,Ethiopia,Italy (private),Low income,Africa,1983,7.8964
+ETH,Ethiopia,Italy (private),Low income,Africa,1982,8.204
+ETH,Ethiopia,Italy (private),Low income,Africa,1981,7.5
+ETH,Ethiopia,Italy (private),Low income,Africa,1980,7.2847
+ETH,Ethiopia,Italy (private),Low income,Africa,1978,7.25
+ETH,Ethiopia,Italy (private),Low income,Africa,1975,6.3014
+ETH,Ethiopia,Italy (private),Low income,Africa,1971,5.5
+ETH,Ethiopia,Italy (private),Low income,Africa,1970,5.0215
+ETH,Ethiopia,Japan (official),Low income,Africa,2021,0.01
+ETH,Ethiopia,Japan (official),Low income,Africa,2020,0.01
+ETH,Ethiopia,Japan (official),Low income,Africa,2017,0.0099
+ETH,Ethiopia,Japan (official),Low income,Africa,1974,3.9999
+ETH,Ethiopia,Japan (official),Low income,Africa,1973,4.0
+ETH,Ethiopia,Japan (private),Low income,Africa,2019,4.1131
+ETH,Ethiopia,Japan (private),Low income,Africa,2018,4.92
+ETH,Ethiopia,Japan (private),Low income,Africa,1991,7.5
+ETH,Ethiopia,Japan (private),Low income,Africa,1990,8.0
+ETH,Ethiopia,Japan (private),Low income,Africa,1989,6.9999
+ETH,Ethiopia,Japan (private),Low income,Africa,1988,6.5
+ETH,Ethiopia,Japan (private),Low income,Africa,1987,6.5057
+ETH,Ethiopia,Japan (private),Low income,Africa,1986,7.3485
+ETH,Ethiopia,Japan (private),Low income,Africa,1985,7.1652
+ETH,Ethiopia,Japan (private),Low income,Africa,1981,7.75
+ETH,Ethiopia,Japan (private),Low income,Africa,1975,6.7509
+ETH,Ethiopia,Japan (private),Low income,Africa,1974,7.0
+ETH,Ethiopia,Kuwait (official),Low income,Africa,2015,0.02
+ETH,Ethiopia,Kuwait (official),Low income,Africa,2012,2.0
+ETH,Ethiopia,Kuwait (official),Low income,Africa,2010,1.9999
+ETH,Ethiopia,Kuwait (official),Low income,Africa,2008,1.9999
+ETH,Ethiopia,Kuwait (official),Low income,Africa,2007,2.5
+ETH,Ethiopia,Kuwait (official),Low income,Africa,2006,1.9999
+ETH,Ethiopia,Kuwait (official),Low income,Africa,2001,2.5
+ETH,Ethiopia,Kuwait (official),Low income,Africa,2000,2.4999
+ETH,Ethiopia,Kuwait (official),Low income,Africa,1994,2.4999
+ETH,Ethiopia,Libya (official),Low income,Africa,1984,3.0
+ETH,Ethiopia,Libya (official),Low income,Africa,1981,0.157
+ETH,Ethiopia,Libya (official),Low income,Africa,1977,3.0
+ETH,Ethiopia,Multiple Lenders (official),Low income,Africa,2023,0.8585
+ETH,Ethiopia,Multiple Lenders (official),Low income,Africa,2018,0.8585
+ETH,Ethiopia,Multiple Lenders (official),Low income,Africa,1991,3.5
+ETH,Ethiopia,Multiple Lenders (private),Low income,Africa,1984,13.25
+ETH,Ethiopia,Multiple Lenders (private),Low income,Africa,1981,7.25
+ETH,Ethiopia,Netherlands (official),Low income,Africa,1987,6.5
+ETH,Ethiopia,Netherlands (private),Low income,Africa,1996,7.4899
+ETH,Ethiopia,Netherlands (private),Low income,Africa,1990,7.9999
+ETH,Ethiopia,Netherlands (private),Low income,Africa,1975,7.9999
+ETH,Ethiopia,Nordic Development Fund (official),Low income,Africa,2003,0.75
+ETH,Ethiopia,Nordic Investment Bank (official),Low income,Africa,1998,0.75
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,2019,1.0
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,2017,2.0
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,2016,2.0
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,2015,0.02
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,2014,0.02
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,2013,2.0
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,2012,2.0
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,2011,0.01
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,2010,2.0
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,2009,2.0
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,2007,2.0
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,2005,1.5
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,2004,2.0
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,2002,3.0
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,2000,2.0
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,1996,3.0
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,1988,3.0
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,1987,3.0
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,1986,1.0
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,1984,1.0
+ETH,Ethiopia,OPEC Fund for International Dev. (official),Low income,Africa,1977,0.5
+ETH,Ethiopia,Panama (private),Low income,Africa,1990,8.0
+ETH,Ethiopia,Poland (official),Low income,Africa,2015,0.15
+ETH,Ethiopia,Poland (official),Low income,Africa,2013,0.2
+ETH,Ethiopia,Poland (official),Low income,Africa,1993,5.0
+ETH,Ethiopia,Poland (official),Low income,Africa,1988,5.0
+ETH,Ethiopia,Poland (official),Low income,Africa,1980,5.0
+ETH,Ethiopia,Poland (private),Low income,Africa,1975,6.0679
+ETH,Ethiopia,Romania (official),Low income,Africa,1980,5.5
+ETH,Ethiopia,Russia (official),Low income,Africa,1998,2.4999
+ETH,Ethiopia,Russia (official),Low income,Africa,1988,2.5
+ETH,Ethiopia,Russia (official),Low income,Africa,1977,2.5
+ETH,Ethiopia,Saudi Arabia (official),Low income,Africa,2019,1.0
+ETH,Ethiopia,Saudi Arabia (official),Low income,Africa,2013,1.0
+ETH,Ethiopia,Saudi Arabia (official),Low income,Africa,2012,1.0
+ETH,Ethiopia,Saudi Arabia (official),Low income,Africa,2011,1.0
+ETH,Ethiopia,Saudi Arabia (official),Low income,Africa,2010,1.0
+ETH,Ethiopia,Saudi Arabia (official),Low income,Africa,2006,1.0
+ETH,Ethiopia,Saudi Arabia (official),Low income,Africa,2004,2.0
+ETH,Ethiopia,Serbia (official),Low income,Africa,1990,5.0
+ETH,Ethiopia,Serbia (official),Low income,Africa,1989,5.0
+ETH,Ethiopia,Serbia (official),Low income,Africa,1988,5.0
+ETH,Ethiopia,Serbia (official),Low income,Africa,1985,5.0
+ETH,Ethiopia,Serbia (official),Low income,Africa,1984,5.0
+ETH,Ethiopia,Serbia (official),Low income,Africa,1971,2.0
+ETH,Ethiopia,Serbia (private),Low income,Africa,1990,10.0
+ETH,Ethiopia,Serbia (private),Low income,Africa,1987,3.167
+ETH,Ethiopia,Serbia (private),Low income,Africa,1986,3.0
+ETH,Ethiopia,Serbia (private),Low income,Africa,1985,3.276
+ETH,Ethiopia,Serbia (private),Low income,Africa,1984,5.3368
+ETH,Ethiopia,Serbia (private),Low income,Africa,1983,3.1397
+ETH,Ethiopia,Serbia (private),Low income,Africa,1982,10.0
+ETH,Ethiopia,Serbia (private),Low income,Africa,1981,3.0
+ETH,Ethiopia,Serbia (private),Low income,Africa,1980,3.0
+ETH,Ethiopia,Serbia (private),Low income,Africa,1979,3.0
+ETH,Ethiopia,Serbia (private),Low income,Africa,1977,8.5
+ETH,Ethiopia,South Africa (official),Low income,Africa,2019,5.4553
+ETH,Ethiopia,South Africa (private),Low income,Africa,2018,6.9999
+ETH,Ethiopia,South Africa (private),Low income,Africa,2017,6.7399
+ETH,Ethiopia,South Africa (private),Low income,Africa,2016,2.756
+ETH,Ethiopia,South Korea (official),Low income,Africa,2020,0.01
+ETH,Ethiopia,South Korea (official),Low income,Africa,2019,0.01
+ETH,Ethiopia,South Korea (official),Low income,Africa,2016,0.01
+ETH,Ethiopia,South Korea (official),Low income,Africa,2014,0.01
+ETH,Ethiopia,South Korea (official),Low income,Africa,2012,0.01
+ETH,Ethiopia,Spain (official),Low income,Africa,1990,3.0
+ETH,Ethiopia,Sweden (private),Low income,Africa,2014,3.3627
+ETH,Ethiopia,Sweden (private),Low income,Africa,1997,6.815
+ETH,Ethiopia,Sweden (private),Low income,Africa,1987,6.3094
+ETH,Ethiopia,Sweden (private),Low income,Africa,1986,3.5235
+ETH,Ethiopia,Sweden (private),Low income,Africa,1985,3.2465
+ETH,Ethiopia,Sweden (private),Low income,Africa,1984,7.5
+ETH,Ethiopia,Sweden (private),Low income,Africa,1982,0.2499
+ETH,Ethiopia,Sweden (private),Low income,Africa,1981,7.4218
+ETH,Ethiopia,Sweden (private),Low income,Africa,1975,6.4999
+ETH,Ethiopia,Switzerland (private),Low income,Africa,2017,4.8299
+ETH,Ethiopia,Switzerland (private),Low income,Africa,2014,4.5183
+ETH,Ethiopia,Switzerland (private),Low income,Africa,1988,7.2899
+ETH,Ethiopia,Switzerland (private),Low income,Africa,1983,8.0
+ETH,Ethiopia,Switzerland (private),Low income,Africa,1979,5.0
+ETH,Ethiopia,Switzerland (private),Low income,Africa,1971,7.5
+ETH,Ethiopia,Türkiye (official),Low income,Africa,2014,4.1345
+ETH,Ethiopia,USSR (official),Low income,Africa,1990,2.8711
+ETH,Ethiopia,USSR (official),Low income,Africa,1989,2.6626
+ETH,Ethiopia,USSR (official),Low income,Africa,1988,2.8999
+ETH,Ethiopia,USSR (official),Low income,Africa,1987,2.7574
+ETH,Ethiopia,USSR (official),Low income,Africa,1986,2.8646
+ETH,Ethiopia,USSR (official),Low income,Africa,1985,2.8969
+ETH,Ethiopia,USSR (official),Low income,Africa,1984,2.9794
+ETH,Ethiopia,USSR (official),Low income,Africa,1983,2.8093
+ETH,Ethiopia,USSR (official),Low income,Africa,1982,2.713
+ETH,Ethiopia,USSR (official),Low income,Africa,1981,2.3511
+ETH,Ethiopia,USSR (official),Low income,Africa,1980,2.7511
+ETH,Ethiopia,USSR (official),Low income,Africa,1979,2.5
+ETH,Ethiopia,USSR (official),Low income,Africa,1978,2.5
+ETH,Ethiopia,USSR (official),Low income,Africa,1977,2.5
+ETH,Ethiopia,USSR (official),Low income,Africa,1976,2.5
+ETH,Ethiopia,USSR (official),Low income,Africa,1975,2.4999
+ETH,Ethiopia,USSR (official),Low income,Africa,1974,2.5
+ETH,Ethiopia,USSR (official),Low income,Africa,1973,2.4999
+ETH,Ethiopia,USSR (official),Low income,Africa,1972,2.4999
+ETH,Ethiopia,USSR (official),Low income,Africa,1971,2.7857
+ETH,Ethiopia,USSR (official),Low income,Africa,1970,2.5
+ETH,Ethiopia,USSR (private),Low income,Africa,1989,3.0
+ETH,Ethiopia,USSR (private),Low income,Africa,1986,3.0
+ETH,Ethiopia,USSR (private),Low income,Africa,1985,3.0
+ETH,Ethiopia,USSR (private),Low income,Africa,1981,2.0
+ETH,Ethiopia,USSR (private),Low income,Africa,1971,3.5
+ETH,Ethiopia,USSR (private),Low income,Africa,1970,3.5
+ETH,Ethiopia,United Arab Emirates (official),Low income,Africa,2020,1.0
+ETH,Ethiopia,United Arab Emirates (official),Low income,Africa,2012,1.4999
+ETH,Ethiopia,United Arab Emirates (private),Low income,Africa,2018,7.2017
+ETH,Ethiopia,United Kingdom (official),Low income,Africa,1985,7.7499
+ETH,Ethiopia,United Kingdom (official),Low income,Africa,1982,7.75
+ETH,Ethiopia,United Kingdom (private),Low income,Africa,2018,6.6287
+ETH,Ethiopia,United Kingdom (private),Low income,Africa,2017,4.4299
+ETH,Ethiopia,United Kingdom (private),Low income,Africa,1989,6.8004
+ETH,Ethiopia,United Kingdom (private),Low income,Africa,1988,7.7499
+ETH,Ethiopia,United Kingdom (private),Low income,Africa,1987,7.7016
+ETH,Ethiopia,United Kingdom (private),Low income,Africa,1985,9.85
+ETH,Ethiopia,United Kingdom (private),Low income,Africa,1983,8.0828
+ETH,Ethiopia,United Kingdom (private),Low income,Africa,1976,7.5
+ETH,Ethiopia,United Kingdom (private),Low income,Africa,1975,6.4773
+ETH,Ethiopia,United Kingdom (private),Low income,Africa,1970,6.5
+ETH,Ethiopia,United States (official),Low income,Africa,1984,9.85
+ETH,Ethiopia,United States (official),Low income,Africa,1979,8.375
+ETH,Ethiopia,United States (official),Low income,Africa,1976,2.94
+ETH,Ethiopia,United States (official),Low income,Africa,1975,2.7584
+ETH,Ethiopia,United States (official),Low income,Africa,1973,2.7564
+ETH,Ethiopia,United States (official),Low income,Africa,1972,2.7692
+ETH,Ethiopia,United States (official),Low income,Africa,1971,2.7682
+ETH,Ethiopia,United States (official),Low income,Africa,1970,5.0306
+ETH,Ethiopia,United States (private),Low income,Africa,2023,4.8218
+ETH,Ethiopia,United States (private),Low income,Africa,2022,2.2829
+ETH,Ethiopia,United States (private),Low income,Africa,2021,0.36
+ETH,Ethiopia,United States (private),Low income,Africa,2020,1.5
+ETH,Ethiopia,United States (private),Low income,Africa,2018,3.9871
+ETH,Ethiopia,United States (private),Low income,Africa,2014,3.1892
+ETH,Ethiopia,United States (private),Low income,Africa,2013,1.228
+ETH,Ethiopia,United States (private),Low income,Africa,2012,3.878
+ETH,Ethiopia,United States (private),Low income,Africa,2011,1.0034
+ETH,Ethiopia,United States (private),Low income,Africa,2010,0.5899
+ETH,Ethiopia,United States (private),Low income,Africa,2003,1.5144
+ETH,Ethiopia,United States (private),Low income,Africa,1990,10.0
+ETH,Ethiopia,United States (private),Low income,Africa,1988,10.2449
+ETH,Ethiopia,United States (private),Low income,Africa,1987,8.975
+ETH,Ethiopia,United States (private),Low income,Africa,1985,5.0
+ETH,Ethiopia,United States (private),Low income,Africa,1981,15.8315
+ETH,Ethiopia,United States (private),Low income,Africa,1979,13.1199
+ETH,Ethiopia,United States (private),Low income,Africa,1973,7.5
+ETH,Ethiopia,World (official),Low income,Africa,2023,0.8185
+ETH,Ethiopia,World (official),Low income,Africa,2022,0.75
+ETH,Ethiopia,World (official),Low income,Africa,2021,0.7474
+ETH,Ethiopia,World (official),Low income,Africa,2020,0.765
+ETH,Ethiopia,World (official),Low income,Africa,2019,0.852
+ETH,Ethiopia,World (official),Low income,Africa,2018,1.0953
+ETH,Ethiopia,World (official),Low income,Africa,2017,1.4636
+ETH,Ethiopia,World (official),Low income,Africa,2016,1.1347
+ETH,Ethiopia,World (official),Low income,Africa,2015,0.6826
+ETH,Ethiopia,World (official),Low income,Africa,2014,1.5191
+ETH,Ethiopia,World (official),Low income,Africa,2013,2.666
+ETH,Ethiopia,World (official),Low income,Africa,2012,0.7824
+ETH,Ethiopia,World (official),Low income,Africa,2011,1.8145
+ETH,Ethiopia,World (official),Low income,Africa,2010,1.5891
+ETH,Ethiopia,World (official),Low income,Africa,2009,1.3395
+ETH,Ethiopia,World (official),Low income,Africa,2008,2.789
+ETH,Ethiopia,World (official),Low income,Africa,2007,0.9187
+ETH,Ethiopia,World (official),Low income,Africa,2006,1.1266
+ETH,Ethiopia,World (official),Low income,Africa,2005,0.9412
+ETH,Ethiopia,World (official),Low income,Africa,2004,0.9388
+ETH,Ethiopia,World (official),Low income,Africa,2003,0.7652
+ETH,Ethiopia,World (official),Low income,Africa,2002,1.0471
+ETH,Ethiopia,World (official),Low income,Africa,2001,0.9291
+ETH,Ethiopia,World (official),Low income,Africa,2000,0.8264
+ETH,Ethiopia,World (official),Low income,Africa,1998,0.6394
+ETH,Ethiopia,World (official),Low income,Africa,1997,1.245
+ETH,Ethiopia,World (official),Low income,Africa,1996,0.8994
+ETH,Ethiopia,World (official),Low income,Africa,1995,0.9523
+ETH,Ethiopia,World (official),Low income,Africa,1994,1.1029
+ETH,Ethiopia,World (official),Low income,Africa,1993,1.6798
+ETH,Ethiopia,World (official),Low income,Africa,1992,0.9835
+ETH,Ethiopia,World (official),Low income,Africa,1991,4.4554
+ETH,Ethiopia,World (official),Low income,Africa,1990,1.8531
+ETH,Ethiopia,World (official),Low income,Africa,1989,3.045
+ETH,Ethiopia,World (official),Low income,Africa,1988,1.7224
+ETH,Ethiopia,World (official),Low income,Africa,1987,2.5784
+ETH,Ethiopia,World (official),Low income,Africa,1986,1.6082
+ETH,Ethiopia,World (official),Low income,Africa,1985,2.2525
+ETH,Ethiopia,World (official),Low income,Africa,1984,2.5784
+ETH,Ethiopia,World (official),Low income,Africa,1983,1.7714
+ETH,Ethiopia,World (official),Low income,Africa,1982,2.6992
+ETH,Ethiopia,World (official),Low income,Africa,1981,2.2634
+ETH,Ethiopia,World (official),Low income,Africa,1980,2.3704
+ETH,Ethiopia,World (official),Low income,Africa,1979,3.4505
+ETH,Ethiopia,World (official),Low income,Africa,1978,1.5141
+ETH,Ethiopia,World (official),Low income,Africa,1977,1.129
+ETH,Ethiopia,World (official),Low income,Africa,1976,0.8523
+ETH,Ethiopia,World (official),Low income,Africa,1975,1.0722
+ETH,Ethiopia,World (official),Low income,Africa,1974,0.6764
+ETH,Ethiopia,World (official),Low income,Africa,1973,1.7014
+ETH,Ethiopia,World (official),Low income,Africa,1972,2.3941
+ETH,Ethiopia,World (official),Low income,Africa,1971,1.6827
+ETH,Ethiopia,World (official),Low income,Africa,1970,4.2296
+ETH,Ethiopia,World (private),Low income,Africa,2023,4.8218
+ETH,Ethiopia,World (private),Low income,Africa,2022,2.2829
+ETH,Ethiopia,World (private),Low income,Africa,2021,0.36
+ETH,Ethiopia,World (private),Low income,Africa,2020,1.6691
+ETH,Ethiopia,World (private),Low income,Africa,2019,3.4239
+ETH,Ethiopia,World (private),Low income,Africa,2018,5.0006
+ETH,Ethiopia,World (private),Low income,Africa,2017,3.5869
+ETH,Ethiopia,World (private),Low income,Africa,2016,2.756
+ETH,Ethiopia,World (private),Low income,Africa,2015,0.4104
+ETH,Ethiopia,World (private),Low income,Africa,2014,4.8177
+ETH,Ethiopia,World (private),Low income,Africa,2013,2.859
+ETH,Ethiopia,World (private),Low income,Africa,2012,3.878
+ETH,Ethiopia,World (private),Low income,Africa,2011,1.0186
+ETH,Ethiopia,World (private),Low income,Africa,2010,2.317
+ETH,Ethiopia,World (private),Low income,Africa,2009,4.64
+ETH,Ethiopia,World (private),Low income,Africa,2008,4.7393
+ETH,Ethiopia,World (private),Low income,Africa,2007,5.1957
+ETH,Ethiopia,World (private),Low income,Africa,2006,6.3699
+ETH,Ethiopia,World (private),Low income,Africa,2003,1.5144
+ETH,Ethiopia,World (private),Low income,Africa,1997,6.815
+ETH,Ethiopia,World (private),Low income,Africa,1996,7.4899
+ETH,Ethiopia,World (private),Low income,Africa,1991,7.7779
+ETH,Ethiopia,World (private),Low income,Africa,1990,9.7862
+ETH,Ethiopia,World (private),Low income,Africa,1989,6.9208
+ETH,Ethiopia,World (private),Low income,Africa,1988,7.7809
+ETH,Ethiopia,World (private),Low income,Africa,1987,7.743
+ETH,Ethiopia,World (private),Low income,Africa,1986,6.3369
+ETH,Ethiopia,World (private),Low income,Africa,1985,6.4343
+ETH,Ethiopia,World (private),Low income,Africa,1984,12.1549
+ETH,Ethiopia,World (private),Low income,Africa,1983,5.9055
+ETH,Ethiopia,World (private),Low income,Africa,1982,8.0707
+ETH,Ethiopia,World (private),Low income,Africa,1981,4.0046
+ETH,Ethiopia,World (private),Low income,Africa,1980,6.3001
+ETH,Ethiopia,World (private),Low income,Africa,1979,7.807
+ETH,Ethiopia,World (private),Low income,Africa,1978,7.25
+ETH,Ethiopia,World (private),Low income,Africa,1977,8.5
+ETH,Ethiopia,World (private),Low income,Africa,1976,5.0626
+ETH,Ethiopia,World (private),Low income,Africa,1975,7.0124
+ETH,Ethiopia,World (private),Low income,Africa,1974,7.0
+ETH,Ethiopia,World (private),Low income,Africa,1973,7.411
+ETH,Ethiopia,World (private),Low income,Africa,1972,6.5
+ETH,Ethiopia,World (private),Low income,Africa,1971,5.803
+ETH,Ethiopia,World (private),Low income,Africa,1970,5.0228
+ETH,Ethiopia,World Bank-IBRD (official),Low income,Africa,1972,7.25
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2023,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2022,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2021,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2020,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2019,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2018,1.3774
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2017,1.0104
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2016,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2015,0.7499
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2014,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2013,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2012,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2011,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2010,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2009,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2008,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2007,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2006,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2005,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2004,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2003,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2002,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2001,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,2000,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1998,0.5845
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1996,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1995,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1994,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1993,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1992,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1990,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1989,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1988,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1987,0.7499
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1986,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1985,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1984,0.7499
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1983,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1982,0.7499
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1981,0.7499
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1978,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1977,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1976,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1975,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1974,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1973,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1972,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1971,0.75
+ETH,Ethiopia,World Bank-IDA (official),Low income,Africa,1970,0.75

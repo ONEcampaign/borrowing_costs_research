@@ -1,442 +1,442 @@
-entity_code,entity_name,counterpart_name,income_level,continent,indicator_code,year,value
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2023,1.2499
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2021,1.2503
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2019,1.5665
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2018,0.6522
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2017,1.0731
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2016,0.9773
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2015,0.651
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2014,0.75
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2013,0.75
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2012,0.7499
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2011,0.7499
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2010,0.75
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2009,0.7499
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2008,0.7499
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2007,0.75
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2005,0.75
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2003,0.7499
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2002,0.8974
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2001,0.75
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,2000,0.7499
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1999,0.75
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1997,0.75
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1993,0.7499
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1992,1.7353
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1991,4.3128
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1989,0.75
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1988,1.4215
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1987,0.6151
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1986,0.75
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1985,0.6213
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1984,6.8644
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1982,7.2882
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1981,7.4382
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1980,8.256
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1978,8.0
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1977,8.0
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1974,7.0
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1973,7.0
-UGA,Uganda,African Dev. Bank,Low income,Africa,DT.INR.OFFT,1970,7.0
-UGA,Uganda,African Export-Import Bank,Low income,Africa,DT.INR.OFFT,2021,2.3328
-UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2012,1.0
-UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2011,1.0
-UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2010,1.0
-UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2009,1.4655
-UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2005,1.0
-UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2002,1.0
-UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,2001,1.0
-UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1997,4.0
-UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1993,3.0
-UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1992,2.6036
-UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1988,5.0
-UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1985,7.0
-UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1983,8.0
-UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1979,4.0
-UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1975,1.0
-UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA),Low income,Africa,DT.INR.OFFT,1974,1.0
-UGA,Uganda,Arab Fund for Tech. Assist. to African Countries,Low income,Africa,DT.INR.OFFT,1987,6.75
-UGA,Uganda,Austria,Low income,Africa,DT.INR.OFFT,1994,2.0
-UGA,Uganda,Austria,Low income,Africa,DT.INR.OFFT,1992,0.75
-UGA,Uganda,Austria,Low income,Africa,DT.INR.OFFT,1991,2.0
-UGA,Uganda,Austria,Low income,Africa,DT.INR.OFFT,1988,0.75
-UGA,Uganda,Bahamas,Low income,Africa,DT.INR.PRVT,1990,9.255
-UGA,Uganda,Belgium,Low income,Africa,DT.INR.PRVT,2016,1.7999
-UGA,Uganda,Bondholders,Low income,Africa,DT.INR.PRVT,1985,10.0
-UGA,Uganda,China,Low income,Africa,DT.INR.OFFT,2020,4.1752
-UGA,Uganda,China,Low income,Africa,DT.INR.OFFT,2019,3.0424
-UGA,Uganda,China,Low income,Africa,DT.INR.OFFT,2016,0.9158
-UGA,Uganda,China,Low income,Africa,DT.INR.OFFT,2015,4.0248
-UGA,Uganda,China,Low income,Africa,DT.INR.OFFT,2014,2.0
-UGA,Uganda,China,Low income,Africa,DT.INR.OFFT,2011,2.0
-UGA,Uganda,China,Low income,Africa,DT.INR.OFFT,2009,2.0
-UGA,Uganda,China,Low income,Africa,DT.INR.OFFT,2007,2.0
-UGA,Uganda,China,Low income,Africa,DT.INR.OFFT,1993,4.7731
-UGA,Uganda,China,Low income,Africa,DT.INR.OFFT,1987,4.0879
-UGA,Uganda,China,Low income,Africa,DT.INR.PRVT,1987,8.0
-UGA,Uganda,China,Low income,Africa,DT.INR.PRVT,1986,7.0
-UGA,Uganda,East African Community,Low income,Africa,DT.INR.OFFT,1993,7.9999
-UGA,Uganda,East African Community,Low income,Africa,DT.INR.OFFT,1992,14.0
-UGA,Uganda,East African Community,Low income,Africa,DT.INR.OFFT,1989,14.0
-UGA,Uganda,East African Community,Low income,Africa,DT.INR.OFFT,1988,13.4096
-UGA,Uganda,East African Community,Low income,Africa,DT.INR.OFFT,1987,12.5452
-UGA,Uganda,East African Community,Low income,Africa,DT.INR.OFFT,1986,14.3761
-UGA,Uganda,East African Community,Low income,Africa,DT.INR.OFFT,1984,14.0
-UGA,Uganda,East African Community,Low income,Africa,DT.INR.OFFT,1983,14.0
-UGA,Uganda,East African Community,Low income,Africa,DT.INR.OFFT,1982,13.9999
-UGA,Uganda,East African Community,Low income,Africa,DT.INR.OFFT,1981,13.0
-UGA,Uganda,East African Community,Low income,Africa,DT.INR.OFFT,1980,13.7481
-UGA,Uganda,East African Community,Low income,Africa,DT.INR.OFFT,1978,13.3957
-UGA,Uganda,East African Community,Low income,Africa,DT.INR.OFFT,1977,11.0
-UGA,Uganda,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1984,0.876
-UGA,Uganda,European Development Fund (EDF),Low income,Africa,DT.INR.OFFT,1981,1.0
-UGA,Uganda,European Economic Community (EEC),Low income,Africa,DT.INR.OFFT,1980,0.75
-UGA,Uganda,European Investment Bank,Low income,Africa,DT.INR.OFFT,2012,1.7
-UGA,Uganda,European Investment Bank,Low income,Africa,DT.INR.OFFT,2004,1.0
-UGA,Uganda,European Investment Bank,Low income,Africa,DT.INR.OFFT,2002,1.0
-UGA,Uganda,European Investment Bank,Low income,Africa,DT.INR.OFFT,2001,1.0
-UGA,Uganda,European Investment Bank,Low income,Africa,DT.INR.OFFT,1998,1.0
-UGA,Uganda,European Investment Bank,Low income,Africa,DT.INR.OFFT,1997,1.0
-UGA,Uganda,European Investment Bank,Low income,Africa,DT.INR.OFFT,1990,2.0
-UGA,Uganda,European Investment Bank,Low income,Africa,DT.INR.OFFT,1987,2.0
-UGA,Uganda,European Investment Bank,Low income,Africa,DT.INR.OFFT,1982,6.5
-UGA,Uganda,Finland,Low income,Africa,DT.INR.OFFT,1988,0.7499
-UGA,Uganda,France,Low income,Africa,DT.INR.OFFT,2019,1.2588
-UGA,Uganda,France,Low income,Africa,DT.INR.OFFT,2018,1.6699
-UGA,Uganda,France,Low income,Africa,DT.INR.OFFT,2016,0.25
-UGA,Uganda,France,Low income,Africa,DT.INR.OFFT,2015,0.37
-UGA,Uganda,France,Low income,Africa,DT.INR.OFFT,2013,1.8748
-UGA,Uganda,France,Low income,Africa,DT.INR.OFFT,2011,1.99
-UGA,Uganda,France,Low income,Africa,DT.INR.PRVT,1999,6.9999
-UGA,Uganda,France,Low income,Africa,DT.INR.OFFT,1992,9.06
-UGA,Uganda,France,Low income,Africa,DT.INR.OFFT,1990,1.0
-UGA,Uganda,France,Low income,Africa,DT.INR.OFFT,1989,1.5
-UGA,Uganda,France,Low income,Africa,DT.INR.PRVT,1989,0.2616
-UGA,Uganda,France,Low income,Africa,DT.INR.OFFT,1983,2.9999
-UGA,Uganda,France,Low income,Africa,DT.INR.PRVT,1983,10.6
-UGA,Uganda,France,Low income,Africa,DT.INR.PRVT,1982,8.4094
-UGA,Uganda,France,Low income,Africa,DT.INR.OFFT,1981,3.0
-UGA,Uganda,France,Low income,Africa,DT.INR.OFFT,1980,3.0
-UGA,Uganda,France,Low income,Africa,DT.INR.PRVT,1980,8.0093
-UGA,Uganda,France,Low income,Africa,DT.INR.PRVT,1978,8.6239
-UGA,Uganda,France,Low income,Africa,DT.INR.PRVT,1974,7.5
-UGA,Uganda,France,Low income,Africa,DT.INR.OFFT,1970,6.1248
-UGA,Uganda,France,Low income,Africa,DT.INR.PRVT,1970,6.9999
-UGA,Uganda,German Dem. Rep.,Low income,Africa,DT.INR.OFFT,1987,10.4399
-UGA,Uganda,German Dem. Rep.,Low income,Africa,DT.INR.PRVT,1987,6.5652
-UGA,Uganda,German Dem. Rep.,Low income,Africa,DT.INR.PRVT,1982,6.0
-UGA,Uganda,German Dem. Rep.,Low income,Africa,DT.INR.PRVT,1979,7.0
-UGA,Uganda,Germany,Low income,Africa,DT.INR.OFFT,2019,2.0
-UGA,Uganda,Germany,Low income,Africa,DT.INR.OFFT,2018,1.2499
-UGA,Uganda,Germany,Low income,Africa,DT.INR.OFFT,2016,2.5
-UGA,Uganda,Germany,Low income,Africa,DT.INR.PRVT,2016,1.7999
-UGA,Uganda,Germany,Low income,Africa,DT.INR.OFFT,2013,4.5
-UGA,Uganda,Germany,Low income,Africa,DT.INR.OFFT,1993,7.9999
-UGA,Uganda,Germany,Low income,Africa,DT.INR.PRVT,1983,9.0
-UGA,Uganda,Germany,Low income,Africa,DT.INR.OFFT,1974,0.75
-UGA,Uganda,Germany,Low income,Africa,DT.INR.OFFT,1972,0.7499
-UGA,Uganda,India,Low income,Africa,DT.INR.OFFT,2020,1.7576
-UGA,Uganda,India,Low income,Africa,DT.INR.OFFT,1992,4.375
-UGA,Uganda,India,Low income,Africa,DT.INR.PRVT,1986,9.6575
-UGA,Uganda,India,Low income,Africa,DT.INR.PRVT,1985,8.8148
-UGA,Uganda,India,Low income,Africa,DT.INR.PRVT,1984,9.3185
-UGA,Uganda,India,Low income,Africa,DT.INR.OFFT,1983,10.0
-UGA,Uganda,India,Low income,Africa,DT.INR.PRVT,1983,9.8547
-UGA,Uganda,India,Low income,Africa,DT.INR.PRVT,1982,8.5775
-UGA,Uganda,India,Low income,Africa,DT.INR.PRVT,1981,5.0999
-UGA,Uganda,India,Low income,Africa,DT.INR.PRVT,1980,10.0
-UGA,Uganda,India,Low income,Africa,DT.INR.PRVT,1979,8.2499
-UGA,Uganda,India,Low income,Africa,DT.INR.PRVT,1974,5.5
-UGA,Uganda,India,Low income,Africa,DT.INR.PRVT,1972,7.0
-UGA,Uganda,International Finance Corporation,Low income,Africa,DT.INR.OFFT,1985,14.25
-UGA,Uganda,International Finance Corporation,Low income,Africa,DT.INR.OFFT,1983,13.5512
-UGA,Uganda,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2021,0.75
-UGA,Uganda,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2018,0.75
-UGA,Uganda,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2015,0.7499
-UGA,Uganda,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2014,0.75
-UGA,Uganda,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2011,0.75
-UGA,Uganda,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2010,0.75
-UGA,Uganda,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2007,0.75
-UGA,Uganda,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2003,0.75
-UGA,Uganda,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2002,0.75
-UGA,Uganda,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2001,0.7627
-UGA,Uganda,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,2000,0.7499
-UGA,Uganda,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1998,0.7499
-UGA,Uganda,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1993,1.0
-UGA,Uganda,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1988,1.0
-UGA,Uganda,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1985,1.0
-UGA,Uganda,International Fund for Agricultural Dev.,Low income,Africa,DT.INR.OFFT,1982,1.0
-UGA,Uganda,Iraq,Low income,Africa,DT.INR.OFFT,1975,2.5
-UGA,Uganda,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2015,2.1046
-UGA,Uganda,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2012,0.685
-UGA,Uganda,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,2004,2.4703
-UGA,Uganda,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1989,2.0695
-UGA,Uganda,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1988,0.0716
-UGA,Uganda,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1987,2.5
-UGA,Uganda,Islamic Dev. Bank,Low income,Africa,DT.INR.OFFT,1978,2.265
-UGA,Uganda,Israel,Low income,Africa,DT.INR.OFFT,1993,4.5
-UGA,Uganda,Italy,Low income,Africa,DT.INR.OFFT,1991,1.3688
-UGA,Uganda,Italy,Low income,Africa,DT.INR.PRVT,1991,8.0
-UGA,Uganda,Italy,Low income,Africa,DT.INR.OFFT,1989,8.3
-UGA,Uganda,Italy,Low income,Africa,DT.INR.OFFT,1987,7.5
-UGA,Uganda,Italy,Low income,Africa,DT.INR.PRVT,1984,3.3212
-UGA,Uganda,Italy,Low income,Africa,DT.INR.PRVT,1980,7.3016
-UGA,Uganda,Italy,Low income,Africa,DT.INR.PRVT,1977,9.0
-UGA,Uganda,Italy,Low income,Africa,DT.INR.PRVT,1976,8.272
-UGA,Uganda,Italy,Low income,Africa,DT.INR.PRVT,1975,6.5
-UGA,Uganda,Italy,Low income,Africa,DT.INR.PRVT,1974,6.5
-UGA,Uganda,Italy,Low income,Africa,DT.INR.PRVT,1973,6.5
-UGA,Uganda,Italy,Low income,Africa,DT.INR.PRVT,1970,7.0
-UGA,Uganda,Japan,Low income,Africa,DT.INR.OFFT,2018,0.01
-UGA,Uganda,Japan,Low income,Africa,DT.INR.OFFT,2015,1.2507
-UGA,Uganda,Japan,Low income,Africa,DT.INR.OFFT,2010,0.0099
-UGA,Uganda,Japan,Low income,Africa,DT.INR.OFFT,2007,0.4579
-UGA,Uganda,Japan,Low income,Africa,DT.INR.OFFT,1993,1.0
-UGA,Uganda,Japan,Low income,Africa,DT.INR.PRVT,1987,8.0
-UGA,Uganda,Japan,Low income,Africa,DT.INR.PRVT,1986,5.5
-UGA,Uganda,Japan,Low income,Africa,DT.INR.OFFT,1976,5.75
-UGA,Uganda,Japan,Low income,Africa,DT.INR.OFFT,1971,5.75
-UGA,Uganda,Kenya,Low income,Africa,DT.INR.OFFT,1982,8.0
-UGA,Uganda,Kenya,Low income,Africa,DT.INR.OFFT,1981,8.0
-UGA,Uganda,Kuwait,Low income,Africa,DT.INR.OFFT,2021,2.0
-UGA,Uganda,Kuwait,Low income,Africa,DT.INR.OFFT,2016,1.5
-UGA,Uganda,Kuwait,Low income,Africa,DT.INR.OFFT,2012,1.5
-UGA,Uganda,Kuwait,Low income,Africa,DT.INR.OFFT,2010,1.5
-UGA,Uganda,Kuwait,Low income,Africa,DT.INR.OFFT,1993,4.0
-UGA,Uganda,Kuwait,Low income,Africa,DT.INR.OFFT,1991,2.5
-UGA,Uganda,Kuwait,Low income,Africa,DT.INR.OFFT,1985,2.5
-UGA,Uganda,Kuwait,Low income,Africa,DT.INR.OFFT,1984,2.5
-UGA,Uganda,Libya,Low income,Africa,DT.INR.OFFT,1989,3.8118
-UGA,Uganda,Netherlands,Low income,Africa,DT.INR.PRVT,1979,9.4999
-UGA,Uganda,Netherlands,Low income,Africa,DT.INR.OFFT,1971,2.5
-UGA,Uganda,Netherlands,Low income,Africa,DT.INR.OFFT,1970,2.5
-UGA,Uganda,Nigeria,Low income,Africa,DT.INR.OFFT,1991,4.0
-UGA,Uganda,Nordic Development Fund,Low income,Africa,DT.INR.OFFT,2006,0.7499
-UGA,Uganda,Nordic Development Fund,Low income,Africa,DT.INR.OFFT,2005,0.75
-UGA,Uganda,Nordic Development Fund,Low income,Africa,DT.INR.OFFT,2002,0.75
-UGA,Uganda,Nordic Development Fund,Low income,Africa,DT.INR.OFFT,2001,0.7499
-UGA,Uganda,Nordic Development Fund,Low income,Africa,DT.INR.OFFT,2000,0.75
-UGA,Uganda,Nordic Development Fund,Low income,Africa,DT.INR.OFFT,1994,0.75
-UGA,Uganda,Nordic Development Fund,Low income,Africa,DT.INR.OFFT,1991,0.75
-UGA,Uganda,Nordic Investment Bank,Low income,Africa,DT.INR.OFFT,1998,0.75
-UGA,Uganda,Norway,Low income,Africa,DT.INR.PRVT,2000,6.71
-UGA,Uganda,Norway,Low income,Africa,DT.INR.OFFT,1998,6.7099
-UGA,Uganda,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2023,5.614
-UGA,Uganda,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2021,2.25
-UGA,Uganda,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2018,1.25
-UGA,Uganda,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2017,1.25
-UGA,Uganda,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2015,2.25
-UGA,Uganda,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2013,1.65
-UGA,Uganda,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2010,2.0
-UGA,Uganda,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,2003,1.0
-UGA,Uganda,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1994,3.0
-UGA,Uganda,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1991,2.4166
-UGA,Uganda,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1988,3.0
-UGA,Uganda,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1982,0.75
-UGA,Uganda,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1980,0.75
-UGA,Uganda,OPEC Fund for International Dev.,Low income,Africa,DT.INR.OFFT,1977,0.5
-UGA,Uganda,Qatar,Low income,Africa,DT.INR.OFFT,1978,4.0
-UGA,Uganda,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2023,2.0
-UGA,Uganda,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2014,1.0
-UGA,Uganda,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2011,1.0
-UGA,Uganda,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2010,1.0
-UGA,Uganda,Saudi Arabia,Low income,Africa,DT.INR.OFFT,2001,2.0
-UGA,Uganda,Saudi Arabia,Low income,Africa,DT.INR.OFFT,1988,1.0
-UGA,Uganda,Serbia,Low income,Africa,DT.INR.PRVT,2002,8.0
-UGA,Uganda,Serbia,Low income,Africa,DT.INR.PRVT,1988,8.0
-UGA,Uganda,Serbia,Low income,Africa,DT.INR.PRVT,1987,9.9233
-UGA,Uganda,Serbia,Low income,Africa,DT.INR.OFFT,1986,7.0
-UGA,Uganda,Serbia,Low income,Africa,DT.INR.PRVT,1986,8.0
-UGA,Uganda,Serbia,Low income,Africa,DT.INR.OFFT,1983,6.0
-UGA,Uganda,Serbia,Low income,Africa,DT.INR.PRVT,1982,8.0
-UGA,Uganda,South Africa,Low income,Africa,DT.INR.PRVT,2023,8.3
-UGA,Uganda,South Africa,Low income,Africa,DT.INR.OFFT,2021,4.9095
-UGA,Uganda,South Africa,Low income,Africa,DT.INR.OFFT,2020,4.445
-UGA,Uganda,South Africa,Low income,Africa,DT.INR.PRVT,2020,3.8692
-UGA,Uganda,South Africa,Low income,Africa,DT.INR.OFFT,1991,13.9999
-UGA,Uganda,South Korea,Low income,Africa,DT.INR.OFFT,2012,0.01
-UGA,Uganda,South Korea,Low income,Africa,DT.INR.OFFT,1992,2.5
-UGA,Uganda,Spain,Low income,Africa,DT.INR.OFFT,2021,2.479
-UGA,Uganda,Spain,Low income,Africa,DT.INR.OFFT,2020,1.8046
-UGA,Uganda,Spain,Low income,Africa,DT.INR.OFFT,1998,0.2
-UGA,Uganda,Spain,Low income,Africa,DT.INR.OFFT,1994,2.5
-UGA,Uganda,Spain,Low income,Africa,DT.INR.OFFT,1991,2.5595
-UGA,Uganda,Spain,Low income,Africa,DT.INR.OFFT,1990,2.5
-UGA,Uganda,Spain,Low income,Africa,DT.INR.PRVT,1989,10.375
-UGA,Uganda,Spain,Low income,Africa,DT.INR.PRVT,1988,9.3149
-UGA,Uganda,Spain,Low income,Africa,DT.INR.OFFT,1987,1.4302
-UGA,Uganda,Spain,Low income,Africa,DT.INR.PRVT,1987,9.8149
-UGA,Uganda,Sweden,Low income,Africa,DT.INR.OFFT,2000,6.0799
-UGA,Uganda,Sweden,Low income,Africa,DT.INR.PRVT,2000,7.69
-UGA,Uganda,Sweden,Low income,Africa,DT.INR.OFFT,1995,6.59
-UGA,Uganda,Switzerland,Low income,Africa,DT.INR.PRVT,1989,1.4098
-UGA,Uganda,Switzerland,Low income,Africa,DT.INR.PRVT,1988,6.7137
-UGA,Uganda,USSR,Low income,Africa,DT.INR.OFFT,1987,5.0
-UGA,Uganda,USSR,Low income,Africa,DT.INR.PRVT,1987,5.0
-UGA,Uganda,USSR,Low income,Africa,DT.INR.OFFT,1986,5.0
-UGA,Uganda,USSR,Low income,Africa,DT.INR.PRVT,1986,5.0
-UGA,Uganda,USSR,Low income,Africa,DT.INR.PRVT,1985,6.0
-UGA,Uganda,USSR,Low income,Africa,DT.INR.OFFT,1984,8.0
-UGA,Uganda,USSR,Low income,Africa,DT.INR.PRVT,1983,4.0
-UGA,Uganda,USSR,Low income,Africa,DT.INR.OFFT,1976,2.4999
-UGA,Uganda,United Arab Emirates,Low income,Africa,DT.INR.OFFT,2018,1.5
-UGA,Uganda,United Arab Emirates,Low income,Africa,DT.INR.OFFT,1978,5.0
-UGA,Uganda,United Arab Emirates,Low income,Africa,DT.INR.OFFT,1977,4.0
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.PRVT,2022,6.8399
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.OFFT,2021,0.3199
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.OFFT,2019,1.2
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.PRVT,2019,4.3702
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.OFFT,2017,1.0599
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.PRVT,2017,4.0001
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.PRVT,1991,9.0649
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.OFFT,1990,9.4999
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.PRVT,1987,7.7298
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.OFFT,1985,8.9999
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.PRVT,1985,2.6489
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.OFFT,1984,11.4999
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.PRVT,1984,11.0121
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.OFFT,1983,9.0
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.PRVT,1982,11.4928
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.PRVT,1980,9.0312
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.OFFT,1973,8.0
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.PRVT,1972,5.4195
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.OFFT,1971,8.0
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.PRVT,1971,6.0429
-UGA,Uganda,United Kingdom,Low income,Africa,DT.INR.PRVT,1970,6.8811
-UGA,Uganda,United States,Low income,Africa,DT.INR.OFFT,1990,6.2496
-UGA,Uganda,United States,Low income,Africa,DT.INR.PRVT,1990,9.255
-UGA,Uganda,United States,Low income,Africa,DT.INR.OFFT,1989,4.5244
-UGA,Uganda,United States,Low income,Africa,DT.INR.PRVT,1989,9.0
-UGA,Uganda,United States,Low income,Africa,DT.INR.OFFT,1988,2.762
-UGA,Uganda,United States,Low income,Africa,DT.INR.PRVT,1988,9.88
-UGA,Uganda,United States,Low income,Africa,DT.INR.PRVT,1984,8.0
-UGA,Uganda,United States,Low income,Africa,DT.INR.OFFT,1970,2.768
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2023,0.891
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,2023,8.3
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2022,0.3824
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,2022,6.8399
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2021,1.7204
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2020,2.38
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,2020,3.8692
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2019,1.33
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,2019,4.3702
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2018,0.6257
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2017,0.9328
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,2017,4.0001
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2016,0.7572
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,2016,1.7999
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2015,1.9748
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2014,1.6684
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2013,0.771
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2012,0.8701
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2011,1.3093
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2010,0.6133
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2009,0.8759
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2008,0.7365
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2007,0.7936
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2006,0.7499
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2005,0.7545
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2004,1.0235
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2003,0.7507
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2002,0.7584
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,2002,8.0
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2001,0.7733
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,2000,0.8188
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,2000,7.4523
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1999,0.75
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1999,6.9999
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1998,0.7253
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1997,0.7797
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1996,0.75
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1995,0.8503
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1994,0.8901
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1993,1.6776
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1992,1.5452
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1991,2.2513
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1991,8.969
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1990,1.0928
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1990,0.4749
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1989,2.3271
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1989,1.8473
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1988,1.2741
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1988,7.9837
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1987,1.5318
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1987,8.4337
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1986,4.8413
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1986,6.7273
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1985,3.1039
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1985,4.718
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1984,2.48
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1984,6.565
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1983,2.9047
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1983,8.3885
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1982,2.2958
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1982,8.9176
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1981,5.8893
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1981,4.7705
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1980,2.7041
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1980,8.1591
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1979,0.2229
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1979,4.5651
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1978,5.0958
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1978,0.9343
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1977,5.1049
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1977,1.7514
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1976,2.8148
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1976,7.4169
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1975,1.619
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1975,6.5
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1974,2.5952
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1974,3.4432
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1973,7.6912
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1973,6.5
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1972,0.5692
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1972,6.0299
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1971,1.2946
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1971,6.0429
-UGA,Uganda,World,Low income,Africa,DT.INR.OFFT,1970,3.2196
-UGA,Uganda,World,Low income,Africa,DT.INR.PRVT,1970,6.9282
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2023,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2022,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2021,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2020,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2019,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2017,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2016,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2015,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2014,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2013,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2012,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2011,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2010,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2009,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2008,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2007,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2006,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2005,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2004,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2003,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2002,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2001,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,2000,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1999,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1998,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1997,0.5
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1996,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1995,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1994,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1993,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1992,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1991,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1990,0.7499
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1989,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1988,0.7499
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1987,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1985,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1984,0.7499
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1983,0.7499
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1982,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1981,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1980,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1971,0.75
-UGA,Uganda,World Bank-IDA,Low income,Africa,DT.INR.OFFT,1970,0.75
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,2023,1.2499
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,2021,1.2503
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,2019,1.5665
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,2018,0.6522
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,2017,1.0731
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,2016,0.9773
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,2015,0.651
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,2014,0.75
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,2013,0.75
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,2012,0.7499
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,2011,0.7499
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,2010,0.75
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,2009,0.7499
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,2008,0.7499
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,2007,0.75
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,2005,0.75
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,2003,0.7499
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,2002,0.8974
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,2001,0.75
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,2000,0.7499
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,1999,0.75
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,1997,0.75
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,1993,0.7499
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,1992,1.7353
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,1991,4.3128
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,1989,0.75
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,1988,1.4215
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,1987,0.6151
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,1986,0.75
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,1985,0.6213
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,1984,6.8644
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,1982,7.2882
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,1981,7.4382
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,1980,8.256
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,1978,8.0
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,1977,8.0
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,1974,7.0
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,1973,7.0
+UGA,Uganda,African Dev. Bank (official),Low income,Africa,1970,7.0
+UGA,Uganda,African Export-Import Bank (official),Low income,Africa,2021,2.3328
+UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2012,1.0
+UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2011,1.0
+UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2010,1.0
+UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2009,1.4655
+UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2005,1.0
+UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2002,1.0
+UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,2001,1.0
+UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1997,4.0
+UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1993,3.0
+UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1992,2.6036
+UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1988,5.0
+UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1985,7.0
+UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1983,8.0
+UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1979,4.0
+UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1975,1.0
+UGA,Uganda,Arab Bank for Economic Dev. in Africa (BADEA) (official),Low income,Africa,1974,1.0
+UGA,Uganda,Arab Fund for Tech. Assist. to African Countries (official),Low income,Africa,1987,6.75
+UGA,Uganda,Austria (official),Low income,Africa,1994,2.0
+UGA,Uganda,Austria (official),Low income,Africa,1992,0.75
+UGA,Uganda,Austria (official),Low income,Africa,1991,2.0
+UGA,Uganda,Austria (official),Low income,Africa,1988,0.75
+UGA,Uganda,Bahamas (private),Low income,Africa,1990,9.255
+UGA,Uganda,Belgium (private),Low income,Africa,2016,1.7999
+UGA,Uganda,Bondholders (private),Low income,Africa,1985,10.0
+UGA,Uganda,China (official),Low income,Africa,2020,4.1752
+UGA,Uganda,China (official),Low income,Africa,2019,3.0424
+UGA,Uganda,China (official),Low income,Africa,2016,0.9158
+UGA,Uganda,China (official),Low income,Africa,2015,4.0248
+UGA,Uganda,China (official),Low income,Africa,2014,2.0
+UGA,Uganda,China (official),Low income,Africa,2011,2.0
+UGA,Uganda,China (official),Low income,Africa,2009,2.0
+UGA,Uganda,China (official),Low income,Africa,2007,2.0
+UGA,Uganda,China (official),Low income,Africa,1993,4.7731
+UGA,Uganda,China (official),Low income,Africa,1987,4.0879
+UGA,Uganda,China (private),Low income,Africa,1987,8.0
+UGA,Uganda,China (private),Low income,Africa,1986,7.0
+UGA,Uganda,East African Community (official),Low income,Africa,1993,7.9999
+UGA,Uganda,East African Community (official),Low income,Africa,1992,14.0
+UGA,Uganda,East African Community (official),Low income,Africa,1989,14.0
+UGA,Uganda,East African Community (official),Low income,Africa,1988,13.4096
+UGA,Uganda,East African Community (official),Low income,Africa,1987,12.5452
+UGA,Uganda,East African Community (official),Low income,Africa,1986,14.3761
+UGA,Uganda,East African Community (official),Low income,Africa,1984,14.0
+UGA,Uganda,East African Community (official),Low income,Africa,1983,14.0
+UGA,Uganda,East African Community (official),Low income,Africa,1982,13.9999
+UGA,Uganda,East African Community (official),Low income,Africa,1981,13.0
+UGA,Uganda,East African Community (official),Low income,Africa,1980,13.7481
+UGA,Uganda,East African Community (official),Low income,Africa,1978,13.3957
+UGA,Uganda,East African Community (official),Low income,Africa,1977,11.0
+UGA,Uganda,European Development Fund (EDF) (official),Low income,Africa,1984,0.876
+UGA,Uganda,European Development Fund (EDF) (official),Low income,Africa,1981,1.0
+UGA,Uganda,European Economic Community (EEC) (official),Low income,Africa,1980,0.75
+UGA,Uganda,European Investment Bank (official),Low income,Africa,2012,1.7
+UGA,Uganda,European Investment Bank (official),Low income,Africa,2004,1.0
+UGA,Uganda,European Investment Bank (official),Low income,Africa,2002,1.0
+UGA,Uganda,European Investment Bank (official),Low income,Africa,2001,1.0
+UGA,Uganda,European Investment Bank (official),Low income,Africa,1998,1.0
+UGA,Uganda,European Investment Bank (official),Low income,Africa,1997,1.0
+UGA,Uganda,European Investment Bank (official),Low income,Africa,1990,2.0
+UGA,Uganda,European Investment Bank (official),Low income,Africa,1987,2.0
+UGA,Uganda,European Investment Bank (official),Low income,Africa,1982,6.5
+UGA,Uganda,Finland (official),Low income,Africa,1988,0.7499
+UGA,Uganda,France (official),Low income,Africa,2019,1.2588
+UGA,Uganda,France (official),Low income,Africa,2018,1.6699
+UGA,Uganda,France (official),Low income,Africa,2016,0.25
+UGA,Uganda,France (official),Low income,Africa,2015,0.37
+UGA,Uganda,France (official),Low income,Africa,2013,1.8748
+UGA,Uganda,France (official),Low income,Africa,2011,1.99
+UGA,Uganda,France (official),Low income,Africa,1992,9.06
+UGA,Uganda,France (official),Low income,Africa,1990,1.0
+UGA,Uganda,France (official),Low income,Africa,1989,1.5
+UGA,Uganda,France (official),Low income,Africa,1983,2.9999
+UGA,Uganda,France (official),Low income,Africa,1981,3.0
+UGA,Uganda,France (official),Low income,Africa,1980,3.0
+UGA,Uganda,France (official),Low income,Africa,1970,6.1248
+UGA,Uganda,France (private),Low income,Africa,1999,6.9999
+UGA,Uganda,France (private),Low income,Africa,1989,0.2616
+UGA,Uganda,France (private),Low income,Africa,1983,10.6
+UGA,Uganda,France (private),Low income,Africa,1982,8.4094
+UGA,Uganda,France (private),Low income,Africa,1980,8.0093
+UGA,Uganda,France (private),Low income,Africa,1978,8.6239
+UGA,Uganda,France (private),Low income,Africa,1974,7.5
+UGA,Uganda,France (private),Low income,Africa,1970,6.9999
+UGA,Uganda,German Dem. Rep. (official),Low income,Africa,1987,10.4399
+UGA,Uganda,German Dem. Rep. (private),Low income,Africa,1987,6.5652
+UGA,Uganda,German Dem. Rep. (private),Low income,Africa,1982,6.0
+UGA,Uganda,German Dem. Rep. (private),Low income,Africa,1979,7.0
+UGA,Uganda,Germany (official),Low income,Africa,2019,2.0
+UGA,Uganda,Germany (official),Low income,Africa,2018,1.2499
+UGA,Uganda,Germany (official),Low income,Africa,2016,2.5
+UGA,Uganda,Germany (official),Low income,Africa,2013,4.5
+UGA,Uganda,Germany (official),Low income,Africa,1993,7.9999
+UGA,Uganda,Germany (official),Low income,Africa,1974,0.75
+UGA,Uganda,Germany (official),Low income,Africa,1972,0.7499
+UGA,Uganda,Germany (private),Low income,Africa,2016,1.7999
+UGA,Uganda,Germany (private),Low income,Africa,1983,9.0
+UGA,Uganda,India (official),Low income,Africa,2020,1.7576
+UGA,Uganda,India (official),Low income,Africa,1992,4.375
+UGA,Uganda,India (official),Low income,Africa,1983,10.0
+UGA,Uganda,India (private),Low income,Africa,1986,9.6575
+UGA,Uganda,India (private),Low income,Africa,1985,8.8148
+UGA,Uganda,India (private),Low income,Africa,1984,9.3185
+UGA,Uganda,India (private),Low income,Africa,1983,9.8547
+UGA,Uganda,India (private),Low income,Africa,1982,8.5775
+UGA,Uganda,India (private),Low income,Africa,1981,5.0999
+UGA,Uganda,India (private),Low income,Africa,1980,10.0
+UGA,Uganda,India (private),Low income,Africa,1979,8.2499
+UGA,Uganda,India (private),Low income,Africa,1974,5.5
+UGA,Uganda,India (private),Low income,Africa,1972,7.0
+UGA,Uganda,International Finance Corporation (official),Low income,Africa,1985,14.25
+UGA,Uganda,International Finance Corporation (official),Low income,Africa,1983,13.5512
+UGA,Uganda,International Fund for Agricultural Dev. (official),Low income,Africa,2021,0.75
+UGA,Uganda,International Fund for Agricultural Dev. (official),Low income,Africa,2018,0.75
+UGA,Uganda,International Fund for Agricultural Dev. (official),Low income,Africa,2015,0.7499
+UGA,Uganda,International Fund for Agricultural Dev. (official),Low income,Africa,2014,0.75
+UGA,Uganda,International Fund for Agricultural Dev. (official),Low income,Africa,2011,0.75
+UGA,Uganda,International Fund for Agricultural Dev. (official),Low income,Africa,2010,0.75
+UGA,Uganda,International Fund for Agricultural Dev. (official),Low income,Africa,2007,0.75
+UGA,Uganda,International Fund for Agricultural Dev. (official),Low income,Africa,2003,0.75
+UGA,Uganda,International Fund for Agricultural Dev. (official),Low income,Africa,2002,0.75
+UGA,Uganda,International Fund for Agricultural Dev. (official),Low income,Africa,2001,0.7627
+UGA,Uganda,International Fund for Agricultural Dev. (official),Low income,Africa,2000,0.7499
+UGA,Uganda,International Fund for Agricultural Dev. (official),Low income,Africa,1998,0.7499
+UGA,Uganda,International Fund for Agricultural Dev. (official),Low income,Africa,1993,1.0
+UGA,Uganda,International Fund for Agricultural Dev. (official),Low income,Africa,1988,1.0
+UGA,Uganda,International Fund for Agricultural Dev. (official),Low income,Africa,1985,1.0
+UGA,Uganda,International Fund for Agricultural Dev. (official),Low income,Africa,1982,1.0
+UGA,Uganda,Iraq (official),Low income,Africa,1975,2.5
+UGA,Uganda,Islamic Dev. Bank (official),Low income,Africa,2015,2.1046
+UGA,Uganda,Islamic Dev. Bank (official),Low income,Africa,2012,0.685
+UGA,Uganda,Islamic Dev. Bank (official),Low income,Africa,2004,2.4703
+UGA,Uganda,Islamic Dev. Bank (official),Low income,Africa,1989,2.0695
+UGA,Uganda,Islamic Dev. Bank (official),Low income,Africa,1988,0.0716
+UGA,Uganda,Islamic Dev. Bank (official),Low income,Africa,1987,2.5
+UGA,Uganda,Islamic Dev. Bank (official),Low income,Africa,1978,2.265
+UGA,Uganda,Israel (official),Low income,Africa,1993,4.5
+UGA,Uganda,Italy (official),Low income,Africa,1991,1.3688
+UGA,Uganda,Italy (official),Low income,Africa,1989,8.3
+UGA,Uganda,Italy (official),Low income,Africa,1987,7.5
+UGA,Uganda,Italy (private),Low income,Africa,1991,8.0
+UGA,Uganda,Italy (private),Low income,Africa,1984,3.3212
+UGA,Uganda,Italy (private),Low income,Africa,1980,7.3016
+UGA,Uganda,Italy (private),Low income,Africa,1977,9.0
+UGA,Uganda,Italy (private),Low income,Africa,1976,8.272
+UGA,Uganda,Italy (private),Low income,Africa,1975,6.5
+UGA,Uganda,Italy (private),Low income,Africa,1974,6.5
+UGA,Uganda,Italy (private),Low income,Africa,1973,6.5
+UGA,Uganda,Italy (private),Low income,Africa,1970,7.0
+UGA,Uganda,Japan (official),Low income,Africa,2018,0.01
+UGA,Uganda,Japan (official),Low income,Africa,2015,1.2507
+UGA,Uganda,Japan (official),Low income,Africa,2010,0.0099
+UGA,Uganda,Japan (official),Low income,Africa,2007,0.4579
+UGA,Uganda,Japan (official),Low income,Africa,1993,1.0
+UGA,Uganda,Japan (official),Low income,Africa,1976,5.75
+UGA,Uganda,Japan (official),Low income,Africa,1971,5.75
+UGA,Uganda,Japan (private),Low income,Africa,1987,8.0
+UGA,Uganda,Japan (private),Low income,Africa,1986,5.5
+UGA,Uganda,Kenya (official),Low income,Africa,1982,8.0
+UGA,Uganda,Kenya (official),Low income,Africa,1981,8.0
+UGA,Uganda,Kuwait (official),Low income,Africa,2021,2.0
+UGA,Uganda,Kuwait (official),Low income,Africa,2016,1.5
+UGA,Uganda,Kuwait (official),Low income,Africa,2012,1.5
+UGA,Uganda,Kuwait (official),Low income,Africa,2010,1.5
+UGA,Uganda,Kuwait (official),Low income,Africa,1993,4.0
+UGA,Uganda,Kuwait (official),Low income,Africa,1991,2.5
+UGA,Uganda,Kuwait (official),Low income,Africa,1985,2.5
+UGA,Uganda,Kuwait (official),Low income,Africa,1984,2.5
+UGA,Uganda,Libya (official),Low income,Africa,1989,3.8118
+UGA,Uganda,Netherlands (official),Low income,Africa,1971,2.5
+UGA,Uganda,Netherlands (official),Low income,Africa,1970,2.5
+UGA,Uganda,Netherlands (private),Low income,Africa,1979,9.4999
+UGA,Uganda,Nigeria (official),Low income,Africa,1991,4.0
+UGA,Uganda,Nordic Development Fund (official),Low income,Africa,2006,0.7499
+UGA,Uganda,Nordic Development Fund (official),Low income,Africa,2005,0.75
+UGA,Uganda,Nordic Development Fund (official),Low income,Africa,2002,0.75
+UGA,Uganda,Nordic Development Fund (official),Low income,Africa,2001,0.7499
+UGA,Uganda,Nordic Development Fund (official),Low income,Africa,2000,0.75
+UGA,Uganda,Nordic Development Fund (official),Low income,Africa,1994,0.75
+UGA,Uganda,Nordic Development Fund (official),Low income,Africa,1991,0.75
+UGA,Uganda,Nordic Investment Bank (official),Low income,Africa,1998,0.75
+UGA,Uganda,Norway (official),Low income,Africa,1998,6.7099
+UGA,Uganda,Norway (private),Low income,Africa,2000,6.71
+UGA,Uganda,OPEC Fund for International Dev. (official),Low income,Africa,2023,5.614
+UGA,Uganda,OPEC Fund for International Dev. (official),Low income,Africa,2021,2.25
+UGA,Uganda,OPEC Fund for International Dev. (official),Low income,Africa,2018,1.25
+UGA,Uganda,OPEC Fund for International Dev. (official),Low income,Africa,2017,1.25
+UGA,Uganda,OPEC Fund for International Dev. (official),Low income,Africa,2015,2.25
+UGA,Uganda,OPEC Fund for International Dev. (official),Low income,Africa,2013,1.65
+UGA,Uganda,OPEC Fund for International Dev. (official),Low income,Africa,2010,2.0
+UGA,Uganda,OPEC Fund for International Dev. (official),Low income,Africa,2003,1.0
+UGA,Uganda,OPEC Fund for International Dev. (official),Low income,Africa,1994,3.0
+UGA,Uganda,OPEC Fund for International Dev. (official),Low income,Africa,1991,2.4166
+UGA,Uganda,OPEC Fund for International Dev. (official),Low income,Africa,1988,3.0
+UGA,Uganda,OPEC Fund for International Dev. (official),Low income,Africa,1982,0.75
+UGA,Uganda,OPEC Fund for International Dev. (official),Low income,Africa,1980,0.75
+UGA,Uganda,OPEC Fund for International Dev. (official),Low income,Africa,1977,0.5
+UGA,Uganda,Qatar (official),Low income,Africa,1978,4.0
+UGA,Uganda,Saudi Arabia (official),Low income,Africa,2023,2.0
+UGA,Uganda,Saudi Arabia (official),Low income,Africa,2014,1.0
+UGA,Uganda,Saudi Arabia (official),Low income,Africa,2011,1.0
+UGA,Uganda,Saudi Arabia (official),Low income,Africa,2010,1.0
+UGA,Uganda,Saudi Arabia (official),Low income,Africa,2001,2.0
+UGA,Uganda,Saudi Arabia (official),Low income,Africa,1988,1.0
+UGA,Uganda,Serbia (official),Low income,Africa,1986,7.0
+UGA,Uganda,Serbia (official),Low income,Africa,1983,6.0
+UGA,Uganda,Serbia (private),Low income,Africa,2002,8.0
+UGA,Uganda,Serbia (private),Low income,Africa,1988,8.0
+UGA,Uganda,Serbia (private),Low income,Africa,1987,9.9233
+UGA,Uganda,Serbia (private),Low income,Africa,1986,8.0
+UGA,Uganda,Serbia (private),Low income,Africa,1982,8.0
+UGA,Uganda,South Africa (official),Low income,Africa,2021,4.9095
+UGA,Uganda,South Africa (official),Low income,Africa,2020,4.445
+UGA,Uganda,South Africa (official),Low income,Africa,1991,13.9999
+UGA,Uganda,South Africa (private),Low income,Africa,2023,8.3
+UGA,Uganda,South Africa (private),Low income,Africa,2020,3.8692
+UGA,Uganda,South Korea (official),Low income,Africa,2012,0.01
+UGA,Uganda,South Korea (official),Low income,Africa,1992,2.5
+UGA,Uganda,Spain (official),Low income,Africa,2021,2.479
+UGA,Uganda,Spain (official),Low income,Africa,2020,1.8046
+UGA,Uganda,Spain (official),Low income,Africa,1998,0.2
+UGA,Uganda,Spain (official),Low income,Africa,1994,2.5
+UGA,Uganda,Spain (official),Low income,Africa,1991,2.5595
+UGA,Uganda,Spain (official),Low income,Africa,1990,2.5
+UGA,Uganda,Spain (official),Low income,Africa,1987,1.4302
+UGA,Uganda,Spain (private),Low income,Africa,1989,10.375
+UGA,Uganda,Spain (private),Low income,Africa,1988,9.3149
+UGA,Uganda,Spain (private),Low income,Africa,1987,9.8149
+UGA,Uganda,Sweden (official),Low income,Africa,2000,6.0799
+UGA,Uganda,Sweden (official),Low income,Africa,1995,6.59
+UGA,Uganda,Sweden (private),Low income,Africa,2000,7.69
+UGA,Uganda,Switzerland (private),Low income,Africa,1989,1.4098
+UGA,Uganda,Switzerland (private),Low income,Africa,1988,6.7137
+UGA,Uganda,USSR (official),Low income,Africa,1987,5.0
+UGA,Uganda,USSR (official),Low income,Africa,1986,5.0
+UGA,Uganda,USSR (official),Low income,Africa,1984,8.0
+UGA,Uganda,USSR (official),Low income,Africa,1976,2.4999
+UGA,Uganda,USSR (private),Low income,Africa,1987,5.0
+UGA,Uganda,USSR (private),Low income,Africa,1986,5.0
+UGA,Uganda,USSR (private),Low income,Africa,1985,6.0
+UGA,Uganda,USSR (private),Low income,Africa,1983,4.0
+UGA,Uganda,United Arab Emirates (official),Low income,Africa,2018,1.5
+UGA,Uganda,United Arab Emirates (official),Low income,Africa,1978,5.0
+UGA,Uganda,United Arab Emirates (official),Low income,Africa,1977,4.0
+UGA,Uganda,United Kingdom (official),Low income,Africa,2021,0.3199
+UGA,Uganda,United Kingdom (official),Low income,Africa,2019,1.2
+UGA,Uganda,United Kingdom (official),Low income,Africa,2017,1.0599
+UGA,Uganda,United Kingdom (official),Low income,Africa,1990,9.4999
+UGA,Uganda,United Kingdom (official),Low income,Africa,1985,8.9999
+UGA,Uganda,United Kingdom (official),Low income,Africa,1984,11.4999
+UGA,Uganda,United Kingdom (official),Low income,Africa,1983,9.0
+UGA,Uganda,United Kingdom (official),Low income,Africa,1973,8.0
+UGA,Uganda,United Kingdom (official),Low income,Africa,1971,8.0
+UGA,Uganda,United Kingdom (private),Low income,Africa,2022,6.8399
+UGA,Uganda,United Kingdom (private),Low income,Africa,2019,4.3702
+UGA,Uganda,United Kingdom (private),Low income,Africa,2017,4.0001
+UGA,Uganda,United Kingdom (private),Low income,Africa,1991,9.0649
+UGA,Uganda,United Kingdom (private),Low income,Africa,1987,7.7298
+UGA,Uganda,United Kingdom (private),Low income,Africa,1985,2.6489
+UGA,Uganda,United Kingdom (private),Low income,Africa,1984,11.0121
+UGA,Uganda,United Kingdom (private),Low income,Africa,1982,11.4928
+UGA,Uganda,United Kingdom (private),Low income,Africa,1980,9.0312
+UGA,Uganda,United Kingdom (private),Low income,Africa,1972,5.4195
+UGA,Uganda,United Kingdom (private),Low income,Africa,1971,6.0429
+UGA,Uganda,United Kingdom (private),Low income,Africa,1970,6.8811
+UGA,Uganda,United States (official),Low income,Africa,1990,6.2496
+UGA,Uganda,United States (official),Low income,Africa,1989,4.5244
+UGA,Uganda,United States (official),Low income,Africa,1988,2.762
+UGA,Uganda,United States (official),Low income,Africa,1970,2.768
+UGA,Uganda,United States (private),Low income,Africa,1990,9.255
+UGA,Uganda,United States (private),Low income,Africa,1989,9.0
+UGA,Uganda,United States (private),Low income,Africa,1988,9.88
+UGA,Uganda,United States (private),Low income,Africa,1984,8.0
+UGA,Uganda,World (official),Low income,Africa,2023,0.891
+UGA,Uganda,World (official),Low income,Africa,2022,0.3824
+UGA,Uganda,World (official),Low income,Africa,2021,1.7204
+UGA,Uganda,World (official),Low income,Africa,2020,2.38
+UGA,Uganda,World (official),Low income,Africa,2019,1.33
+UGA,Uganda,World (official),Low income,Africa,2018,0.6257
+UGA,Uganda,World (official),Low income,Africa,2017,0.9328
+UGA,Uganda,World (official),Low income,Africa,2016,0.7572
+UGA,Uganda,World (official),Low income,Africa,2015,1.9748
+UGA,Uganda,World (official),Low income,Africa,2014,1.6684
+UGA,Uganda,World (official),Low income,Africa,2013,0.771
+UGA,Uganda,World (official),Low income,Africa,2012,0.8701
+UGA,Uganda,World (official),Low income,Africa,2011,1.3093
+UGA,Uganda,World (official),Low income,Africa,2010,0.6133
+UGA,Uganda,World (official),Low income,Africa,2009,0.8759
+UGA,Uganda,World (official),Low income,Africa,2008,0.7365
+UGA,Uganda,World (official),Low income,Africa,2007,0.7936
+UGA,Uganda,World (official),Low income,Africa,2006,0.7499
+UGA,Uganda,World (official),Low income,Africa,2005,0.7545
+UGA,Uganda,World (official),Low income,Africa,2004,1.0235
+UGA,Uganda,World (official),Low income,Africa,2003,0.7507
+UGA,Uganda,World (official),Low income,Africa,2002,0.7584
+UGA,Uganda,World (official),Low income,Africa,2001,0.7733
+UGA,Uganda,World (official),Low income,Africa,2000,0.8188
+UGA,Uganda,World (official),Low income,Africa,1999,0.75
+UGA,Uganda,World (official),Low income,Africa,1998,0.7253
+UGA,Uganda,World (official),Low income,Africa,1997,0.7797
+UGA,Uganda,World (official),Low income,Africa,1996,0.75
+UGA,Uganda,World (official),Low income,Africa,1995,0.8503
+UGA,Uganda,World (official),Low income,Africa,1994,0.8901
+UGA,Uganda,World (official),Low income,Africa,1993,1.6776
+UGA,Uganda,World (official),Low income,Africa,1992,1.5452
+UGA,Uganda,World (official),Low income,Africa,1991,2.2513
+UGA,Uganda,World (official),Low income,Africa,1990,1.0928
+UGA,Uganda,World (official),Low income,Africa,1989,2.3271
+UGA,Uganda,World (official),Low income,Africa,1988,1.2741
+UGA,Uganda,World (official),Low income,Africa,1987,1.5318
+UGA,Uganda,World (official),Low income,Africa,1986,4.8413
+UGA,Uganda,World (official),Low income,Africa,1985,3.1039
+UGA,Uganda,World (official),Low income,Africa,1984,2.48
+UGA,Uganda,World (official),Low income,Africa,1983,2.9047
+UGA,Uganda,World (official),Low income,Africa,1982,2.2958
+UGA,Uganda,World (official),Low income,Africa,1981,5.8893
+UGA,Uganda,World (official),Low income,Africa,1980,2.7041
+UGA,Uganda,World (official),Low income,Africa,1979,0.2229
+UGA,Uganda,World (official),Low income,Africa,1978,5.0958
+UGA,Uganda,World (official),Low income,Africa,1977,5.1049
+UGA,Uganda,World (official),Low income,Africa,1976,2.8148
+UGA,Uganda,World (official),Low income,Africa,1975,1.619
+UGA,Uganda,World (official),Low income,Africa,1974,2.5952
+UGA,Uganda,World (official),Low income,Africa,1973,7.6912
+UGA,Uganda,World (official),Low income,Africa,1972,0.5692
+UGA,Uganda,World (official),Low income,Africa,1971,1.2946
+UGA,Uganda,World (official),Low income,Africa,1970,3.2196
+UGA,Uganda,World (private),Low income,Africa,2023,8.3
+UGA,Uganda,World (private),Low income,Africa,2022,6.8399
+UGA,Uganda,World (private),Low income,Africa,2020,3.8692
+UGA,Uganda,World (private),Low income,Africa,2019,4.3702
+UGA,Uganda,World (private),Low income,Africa,2017,4.0001
+UGA,Uganda,World (private),Low income,Africa,2016,1.7999
+UGA,Uganda,World (private),Low income,Africa,2002,8.0
+UGA,Uganda,World (private),Low income,Africa,2000,7.4523
+UGA,Uganda,World (private),Low income,Africa,1999,6.9999
+UGA,Uganda,World (private),Low income,Africa,1991,8.969
+UGA,Uganda,World (private),Low income,Africa,1990,0.4749
+UGA,Uganda,World (private),Low income,Africa,1989,1.8473
+UGA,Uganda,World (private),Low income,Africa,1988,7.9837
+UGA,Uganda,World (private),Low income,Africa,1987,8.4337
+UGA,Uganda,World (private),Low income,Africa,1986,6.7273
+UGA,Uganda,World (private),Low income,Africa,1985,4.718
+UGA,Uganda,World (private),Low income,Africa,1984,6.565
+UGA,Uganda,World (private),Low income,Africa,1983,8.3885
+UGA,Uganda,World (private),Low income,Africa,1982,8.9176
+UGA,Uganda,World (private),Low income,Africa,1981,4.7705
+UGA,Uganda,World (private),Low income,Africa,1980,8.1591
+UGA,Uganda,World (private),Low income,Africa,1979,4.5651
+UGA,Uganda,World (private),Low income,Africa,1978,0.9343
+UGA,Uganda,World (private),Low income,Africa,1977,1.7514
+UGA,Uganda,World (private),Low income,Africa,1976,7.4169
+UGA,Uganda,World (private),Low income,Africa,1975,6.5
+UGA,Uganda,World (private),Low income,Africa,1974,3.4432
+UGA,Uganda,World (private),Low income,Africa,1973,6.5
+UGA,Uganda,World (private),Low income,Africa,1972,6.0299
+UGA,Uganda,World (private),Low income,Africa,1971,6.0429
+UGA,Uganda,World (private),Low income,Africa,1970,6.9282
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2023,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2022,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2021,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2020,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2019,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2017,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2016,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2015,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2014,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2013,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2012,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2011,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2010,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2009,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2008,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2007,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2006,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2005,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2004,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2003,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2002,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2001,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,2000,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1999,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1998,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1997,0.5
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1996,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1995,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1994,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1993,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1992,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1991,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1990,0.7499
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1989,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1988,0.7499
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1987,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1985,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1984,0.7499
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1983,0.7499
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1982,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1981,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1980,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1971,0.75
+UGA,Uganda,World Bank-IDA (official),Low income,Africa,1970,0.75

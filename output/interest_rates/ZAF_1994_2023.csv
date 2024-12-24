@@ -1,165 +1,165 @@
-entity_code,entity_name,counterpart_name,income_level,continent,indicator_code,year,value
-ZAF,South Africa,African Dev. Bank,Upper middle income,Africa,DT.INR.OFFT,2023,7.0199
-ZAF,South Africa,African Dev. Bank,Upper middle income,Africa,DT.INR.OFFT,2022,1.4509
-ZAF,South Africa,African Dev. Bank,Upper middle income,Africa,DT.INR.OFFT,2020,1.3097
-ZAF,South Africa,African Dev. Bank,Upper middle income,Africa,DT.INR.OFFT,2018,0.592
-ZAF,South Africa,African Dev. Bank,Upper middle income,Africa,DT.INR.OFFT,2016,0.7679
-ZAF,South Africa,African Dev. Bank,Upper middle income,Africa,DT.INR.OFFT,2014,0.437
-ZAF,South Africa,African Dev. Bank,Upper middle income,Africa,DT.INR.OFFT,2012,0.437
-ZAF,South Africa,African Dev. Bank,Upper middle income,Africa,DT.INR.OFFT,2011,0.5577
-ZAF,South Africa,African Dev. Bank,Upper middle income,Africa,DT.INR.OFFT,2009,1.15
-ZAF,South Africa,African Dev. Bank,Upper middle income,Africa,DT.INR.OFFT,2004,1.99
-ZAF,South Africa,African Dev. Bank,Upper middle income,Africa,DT.INR.OFFT,2002,1.6
-ZAF,South Africa,African Dev. Bank,Upper middle income,Africa,DT.INR.OFFT,2001,3.9089
-ZAF,South Africa,African Dev. Bank,Upper middle income,Africa,DT.INR.OFFT,2000,5.9002
-ZAF,South Africa,African Dev. Bank,Upper middle income,Africa,DT.INR.OFFT,1998,4.98
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2023,8.4803
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2022,6.635
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2021,5.5488
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2020,12.5919
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2019,5.1993
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2018,5.6573
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2017,5.0635
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2016,4.8603
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2015,4.9486
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2014,4.8155
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2013,5.6975
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2012,4.9707
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2011,5.0785
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2010,5.0
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2009,5.0
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2008,5.0
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2007,5.3935
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2006,6.5
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2004,6.5
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2003,5.25
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2002,6.8717
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2001,5.6299
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,2000,5.4131
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,1999,6.0
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,1998,12.3866
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,1997,2.5373
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,1996,7.6522
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,1995,5.179
-ZAF,South Africa,Bondholders,Upper middle income,Africa,DT.INR.PRVT,1994,7.8094
-ZAF,South Africa,China,Upper middle income,Africa,DT.INR.OFFT,2019,3.7219
-ZAF,South Africa,China,Upper middle income,Africa,DT.INR.OFFT,2017,3.7149
-ZAF,South Africa,European Investment Bank,Upper middle income,Africa,DT.INR.OFFT,2022,0.5
-ZAF,South Africa,European Investment Bank,Upper middle income,Africa,DT.INR.OFFT,2010,8.7709
-ZAF,South Africa,France,Upper middle income,Africa,DT.INR.OFFT,2022,1.2899
-ZAF,South Africa,France,Upper middle income,Africa,DT.INR.OFFT,2018,1.05
-ZAF,South Africa,France,Upper middle income,Africa,DT.INR.OFFT,2015,11.02
-ZAF,South Africa,France,Upper middle income,Africa,DT.INR.OFFT,2011,6.499
-ZAF,South Africa,Germany,Upper middle income,Africa,DT.INR.PRVT,2023,3.6779
-ZAF,South Africa,Germany,Upper middle income,Africa,DT.INR.OFFT,2018,5.9713
-ZAF,South Africa,Germany,Upper middle income,Africa,DT.INR.OFFT,2015,10.1
-ZAF,South Africa,Germany,Upper middle income,Africa,DT.INR.OFFT,2007,2.0
-ZAF,South Africa,Germany,Upper middle income,Africa,DT.INR.OFFT,2004,2.0
-ZAF,South Africa,Germany,Upper middle income,Africa,DT.INR.OFFT,2001,1.9999
-ZAF,South Africa,Germany,Upper middle income,Africa,DT.INR.OFFT,2000,1.9999
-ZAF,South Africa,Germany,Upper middle income,Africa,DT.INR.OFFT,1998,2.0
-ZAF,South Africa,Japan,Upper middle income,Africa,DT.INR.PRVT,1998,2.5
-ZAF,South Africa,Luxembourg,Upper middle income,Africa,DT.INR.PRVT,1994,7.3099
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,2022,2.5298
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,2021,0.171
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,2018,2.698
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,2017,1.5862
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,2016,0.9042
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,2015,2.7986
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,2014,0.75
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,2013,0.9146
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,2010,0.9427
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,2008,3.3587
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,2007,5.8018
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,2005,3.8913
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,2004,2.4168
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,2001,6.0
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,2000,6.1152
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,1999,6.109
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,1998,6.0
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,1997,5.9609
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,1996,5.2567
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,1995,5.3762
-ZAF,South Africa,Multiple Lenders,Upper middle income,Africa,DT.INR.PRVT,1994,4.7193
-ZAF,South Africa,Sweden,Upper middle income,Africa,DT.INR.PRVT,2012,4.2022
-ZAF,South Africa,Sweden,Upper middle income,Africa,DT.INR.PRVT,2011,5.5692
-ZAF,South Africa,Sweden,Upper middle income,Africa,DT.INR.PRVT,2010,5.4616
-ZAF,South Africa,Sweden,Upper middle income,Africa,DT.INR.PRVT,2009,5.1122
-ZAF,South Africa,Sweden,Upper middle income,Africa,DT.INR.PRVT,2008,5.864
-ZAF,South Africa,Sweden,Upper middle income,Africa,DT.INR.PRVT,2007,5.4387
-ZAF,South Africa,Sweden,Upper middle income,Africa,DT.INR.PRVT,2006,4.5702
-ZAF,South Africa,Sweden,Upper middle income,Africa,DT.INR.PRVT,2005,4.1413
-ZAF,South Africa,Switzerland,Upper middle income,Africa,DT.INR.PRVT,1994,7.3099
-ZAF,South Africa,United Kingdom,Upper middle income,Africa,DT.INR.PRVT,2023,10.6199
-ZAF,South Africa,United Kingdom,Upper middle income,Africa,DT.INR.PRVT,2012,3.7678
-ZAF,South Africa,United Kingdom,Upper middle income,Africa,DT.INR.PRVT,2011,5.373
-ZAF,South Africa,United Kingdom,Upper middle income,Africa,DT.INR.PRVT,2010,5.0455
-ZAF,South Africa,United Kingdom,Upper middle income,Africa,DT.INR.PRVT,2009,5.0999
-ZAF,South Africa,United Kingdom,Upper middle income,Africa,DT.INR.PRVT,2007,5.1774
-ZAF,South Africa,United Kingdom,Upper middle income,Africa,DT.INR.PRVT,2006,4.7361
-ZAF,South Africa,United Kingdom,Upper middle income,Africa,DT.INR.PRVT,2005,4.57
-ZAF,South Africa,United States,Upper middle income,Africa,DT.INR.PRVT,2018,6.3499
-ZAF,South Africa,United States,Upper middle income,Africa,DT.INR.PRVT,2012,4.0072
-ZAF,South Africa,United States,Upper middle income,Africa,DT.INR.PRVT,2011,5.6631
-ZAF,South Africa,United States,Upper middle income,Africa,DT.INR.PRVT,2010,5.539
-ZAF,South Africa,United States,Upper middle income,Africa,DT.INR.PRVT,2009,3.3054
-ZAF,South Africa,United States,Upper middle income,Africa,DT.INR.PRVT,2008,6.6102
-ZAF,South Africa,United States,Upper middle income,Africa,DT.INR.PRVT,2007,6.6526
-ZAF,South Africa,United States,Upper middle income,Africa,DT.INR.PRVT,2006,5.98
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.OFFT,2023,6.4464
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2023,8.5023
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.OFFT,2022,0.7823
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2022,4.9572
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.OFFT,2021,3.6638
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2021,4.4141
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.OFFT,2020,1.8873
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2020,12.5919
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.OFFT,2019,1.9509
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2019,5.1993
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.OFFT,2018,2.0136
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2018,3.984
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.OFFT,2017,3.6848
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2017,4.6376
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.OFFT,2016,0.3386
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2016,4.6493
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.OFFT,2015,10.4368
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2015,3.613
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.OFFT,2014,0.437
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2014,4.701
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2013,5.6369
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.OFFT,2012,0.437
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2012,4.9697
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.OFFT,2011,1.6989
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2011,5.2442
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.OFFT,2010,1.0918
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2010,4.5077
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.OFFT,2009,1.15
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2009,4.1847
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2008,4.691
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.OFFT,2007,2.0
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2007,5.4584
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2006,6.306
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2005,3.9048
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.OFFT,2004,1.9911
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2004,4.104
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2003,5.25
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.OFFT,2002,1.943
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2002,6.8717
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.OFFT,2001,3.5733
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2001,5.7055
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.OFFT,2000,5.3188
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,2000,5.8135
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,1999,6.02
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.OFFT,1998,4.7292
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,1998,10.119
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,1997,3.6286
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,1996,5.9008
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,1995,5.3523
-ZAF,South Africa,World,Upper middle income,Africa,DT.INR.PRVT,1994,6.1751
-ZAF,South Africa,World Bank-IBRD,Upper middle income,Africa,DT.INR.OFFT,2023,6.3276
-ZAF,South Africa,World Bank-IBRD,Upper middle income,Africa,DT.INR.OFFT,2022,0.6588
-ZAF,South Africa,World Bank-IBRD,Upper middle income,Africa,DT.INR.OFFT,2017,2.3863
-ZAF,South Africa,World Bank-IBRD,Upper middle income,Africa,DT.INR.OFFT,2010,0.7706
-ZAF,South Africa,World Bank-IBRD,Upper middle income,Africa,DT.INR.OFFT,2002,2.3787
-ZAF,South Africa,World Bank-IBRD,Upper middle income,Africa,DT.INR.OFFT,1998,6.26
-ZAF,South Africa,World Bank-IDA,Upper middle income,Africa,DT.INR.OFFT,2001,0.75
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+ZAF,South Africa,African Dev. Bank (official),Upper middle income,Africa,2023,7.0199
+ZAF,South Africa,African Dev. Bank (official),Upper middle income,Africa,2022,1.4509
+ZAF,South Africa,African Dev. Bank (official),Upper middle income,Africa,2020,1.3097
+ZAF,South Africa,African Dev. Bank (official),Upper middle income,Africa,2018,0.592
+ZAF,South Africa,African Dev. Bank (official),Upper middle income,Africa,2016,0.7679
+ZAF,South Africa,African Dev. Bank (official),Upper middle income,Africa,2014,0.437
+ZAF,South Africa,African Dev. Bank (official),Upper middle income,Africa,2012,0.437
+ZAF,South Africa,African Dev. Bank (official),Upper middle income,Africa,2011,0.5577
+ZAF,South Africa,African Dev. Bank (official),Upper middle income,Africa,2009,1.15
+ZAF,South Africa,African Dev. Bank (official),Upper middle income,Africa,2004,1.99
+ZAF,South Africa,African Dev. Bank (official),Upper middle income,Africa,2002,1.6
+ZAF,South Africa,African Dev. Bank (official),Upper middle income,Africa,2001,3.9089
+ZAF,South Africa,African Dev. Bank (official),Upper middle income,Africa,2000,5.9002
+ZAF,South Africa,African Dev. Bank (official),Upper middle income,Africa,1998,4.98
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2023,8.4803
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2022,6.635
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2021,5.5488
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2020,12.5919
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2019,5.1993
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2018,5.6573
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2017,5.0635
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2016,4.8603
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2015,4.9486
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2014,4.8155
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2013,5.6975
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2012,4.9707
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2011,5.0785
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2010,5.0
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2009,5.0
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2008,5.0
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2007,5.3935
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2006,6.5
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2004,6.5
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2003,5.25
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2002,6.8717
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2001,5.6299
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,2000,5.4131
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,1999,6.0
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,1998,12.3866
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,1997,2.5373
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,1996,7.6522
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,1995,5.179
+ZAF,South Africa,Bondholders (private),Upper middle income,Africa,1994,7.8094
+ZAF,South Africa,China (official),Upper middle income,Africa,2019,3.7219
+ZAF,South Africa,China (official),Upper middle income,Africa,2017,3.7149
+ZAF,South Africa,European Investment Bank (official),Upper middle income,Africa,2022,0.5
+ZAF,South Africa,European Investment Bank (official),Upper middle income,Africa,2010,8.7709
+ZAF,South Africa,France (official),Upper middle income,Africa,2022,1.2899
+ZAF,South Africa,France (official),Upper middle income,Africa,2018,1.05
+ZAF,South Africa,France (official),Upper middle income,Africa,2015,11.02
+ZAF,South Africa,France (official),Upper middle income,Africa,2011,6.499
+ZAF,South Africa,Germany (official),Upper middle income,Africa,2018,5.9713
+ZAF,South Africa,Germany (official),Upper middle income,Africa,2015,10.1
+ZAF,South Africa,Germany (official),Upper middle income,Africa,2007,2.0
+ZAF,South Africa,Germany (official),Upper middle income,Africa,2004,2.0
+ZAF,South Africa,Germany (official),Upper middle income,Africa,2001,1.9999
+ZAF,South Africa,Germany (official),Upper middle income,Africa,2000,1.9999
+ZAF,South Africa,Germany (official),Upper middle income,Africa,1998,2.0
+ZAF,South Africa,Germany (private),Upper middle income,Africa,2023,3.6779
+ZAF,South Africa,Japan (private),Upper middle income,Africa,1998,2.5
+ZAF,South Africa,Luxembourg (private),Upper middle income,Africa,1994,7.3099
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,2022,2.5298
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,2021,0.171
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,2018,2.698
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,2017,1.5862
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,2016,0.9042
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,2015,2.7986
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,2014,0.75
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,2013,0.9146
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,2010,0.9427
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,2008,3.3587
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,2007,5.8018
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,2005,3.8913
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,2004,2.4168
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,2001,6.0
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,2000,6.1152
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,1999,6.109
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,1998,6.0
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,1997,5.9609
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,1996,5.2567
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,1995,5.3762
+ZAF,South Africa,Multiple Lenders (private),Upper middle income,Africa,1994,4.7193
+ZAF,South Africa,Sweden (private),Upper middle income,Africa,2012,4.2022
+ZAF,South Africa,Sweden (private),Upper middle income,Africa,2011,5.5692
+ZAF,South Africa,Sweden (private),Upper middle income,Africa,2010,5.4616
+ZAF,South Africa,Sweden (private),Upper middle income,Africa,2009,5.1122
+ZAF,South Africa,Sweden (private),Upper middle income,Africa,2008,5.864
+ZAF,South Africa,Sweden (private),Upper middle income,Africa,2007,5.4387
+ZAF,South Africa,Sweden (private),Upper middle income,Africa,2006,4.5702
+ZAF,South Africa,Sweden (private),Upper middle income,Africa,2005,4.1413
+ZAF,South Africa,Switzerland (private),Upper middle income,Africa,1994,7.3099
+ZAF,South Africa,United Kingdom (private),Upper middle income,Africa,2023,10.6199
+ZAF,South Africa,United Kingdom (private),Upper middle income,Africa,2012,3.7678
+ZAF,South Africa,United Kingdom (private),Upper middle income,Africa,2011,5.373
+ZAF,South Africa,United Kingdom (private),Upper middle income,Africa,2010,5.0455
+ZAF,South Africa,United Kingdom (private),Upper middle income,Africa,2009,5.0999
+ZAF,South Africa,United Kingdom (private),Upper middle income,Africa,2007,5.1774
+ZAF,South Africa,United Kingdom (private),Upper middle income,Africa,2006,4.7361
+ZAF,South Africa,United Kingdom (private),Upper middle income,Africa,2005,4.57
+ZAF,South Africa,United States (private),Upper middle income,Africa,2018,6.3499
+ZAF,South Africa,United States (private),Upper middle income,Africa,2012,4.0072
+ZAF,South Africa,United States (private),Upper middle income,Africa,2011,5.6631
+ZAF,South Africa,United States (private),Upper middle income,Africa,2010,5.539
+ZAF,South Africa,United States (private),Upper middle income,Africa,2009,3.3054
+ZAF,South Africa,United States (private),Upper middle income,Africa,2008,6.6102
+ZAF,South Africa,United States (private),Upper middle income,Africa,2007,6.6526
+ZAF,South Africa,United States (private),Upper middle income,Africa,2006,5.98
+ZAF,South Africa,World (official),Upper middle income,Africa,2023,6.4464
+ZAF,South Africa,World (official),Upper middle income,Africa,2022,0.7823
+ZAF,South Africa,World (official),Upper middle income,Africa,2021,3.6638
+ZAF,South Africa,World (official),Upper middle income,Africa,2020,1.8873
+ZAF,South Africa,World (official),Upper middle income,Africa,2019,1.9509
+ZAF,South Africa,World (official),Upper middle income,Africa,2018,2.0136
+ZAF,South Africa,World (official),Upper middle income,Africa,2017,3.6848
+ZAF,South Africa,World (official),Upper middle income,Africa,2016,0.3386
+ZAF,South Africa,World (official),Upper middle income,Africa,2015,10.4368
+ZAF,South Africa,World (official),Upper middle income,Africa,2014,0.437
+ZAF,South Africa,World (official),Upper middle income,Africa,2012,0.437
+ZAF,South Africa,World (official),Upper middle income,Africa,2011,1.6989
+ZAF,South Africa,World (official),Upper middle income,Africa,2010,1.0918
+ZAF,South Africa,World (official),Upper middle income,Africa,2009,1.15
+ZAF,South Africa,World (official),Upper middle income,Africa,2007,2.0
+ZAF,South Africa,World (official),Upper middle income,Africa,2004,1.9911
+ZAF,South Africa,World (official),Upper middle income,Africa,2002,1.943
+ZAF,South Africa,World (official),Upper middle income,Africa,2001,3.5733
+ZAF,South Africa,World (official),Upper middle income,Africa,2000,5.3188
+ZAF,South Africa,World (official),Upper middle income,Africa,1998,4.7292
+ZAF,South Africa,World (private),Upper middle income,Africa,2023,8.5023
+ZAF,South Africa,World (private),Upper middle income,Africa,2022,4.9572
+ZAF,South Africa,World (private),Upper middle income,Africa,2021,4.4141
+ZAF,South Africa,World (private),Upper middle income,Africa,2020,12.5919
+ZAF,South Africa,World (private),Upper middle income,Africa,2019,5.1993
+ZAF,South Africa,World (private),Upper middle income,Africa,2018,3.984
+ZAF,South Africa,World (private),Upper middle income,Africa,2017,4.6376
+ZAF,South Africa,World (private),Upper middle income,Africa,2016,4.6493
+ZAF,South Africa,World (private),Upper middle income,Africa,2015,3.613
+ZAF,South Africa,World (private),Upper middle income,Africa,2014,4.701
+ZAF,South Africa,World (private),Upper middle income,Africa,2013,5.6369
+ZAF,South Africa,World (private),Upper middle income,Africa,2012,4.9697
+ZAF,South Africa,World (private),Upper middle income,Africa,2011,5.2442
+ZAF,South Africa,World (private),Upper middle income,Africa,2010,4.5077
+ZAF,South Africa,World (private),Upper middle income,Africa,2009,4.1847
+ZAF,South Africa,World (private),Upper middle income,Africa,2008,4.691
+ZAF,South Africa,World (private),Upper middle income,Africa,2007,5.4584
+ZAF,South Africa,World (private),Upper middle income,Africa,2006,6.306
+ZAF,South Africa,World (private),Upper middle income,Africa,2005,3.9048
+ZAF,South Africa,World (private),Upper middle income,Africa,2004,4.104
+ZAF,South Africa,World (private),Upper middle income,Africa,2003,5.25
+ZAF,South Africa,World (private),Upper middle income,Africa,2002,6.8717
+ZAF,South Africa,World (private),Upper middle income,Africa,2001,5.7055
+ZAF,South Africa,World (private),Upper middle income,Africa,2000,5.8135
+ZAF,South Africa,World (private),Upper middle income,Africa,1999,6.02
+ZAF,South Africa,World (private),Upper middle income,Africa,1998,10.119
+ZAF,South Africa,World (private),Upper middle income,Africa,1997,3.6286
+ZAF,South Africa,World (private),Upper middle income,Africa,1996,5.9008
+ZAF,South Africa,World (private),Upper middle income,Africa,1995,5.3523
+ZAF,South Africa,World (private),Upper middle income,Africa,1994,6.1751
+ZAF,South Africa,World Bank-IBRD (official),Upper middle income,Africa,2023,6.3276
+ZAF,South Africa,World Bank-IBRD (official),Upper middle income,Africa,2022,0.6588
+ZAF,South Africa,World Bank-IBRD (official),Upper middle income,Africa,2017,2.3863
+ZAF,South Africa,World Bank-IBRD (official),Upper middle income,Africa,2010,0.7706
+ZAF,South Africa,World Bank-IBRD (official),Upper middle income,Africa,2002,2.3787
+ZAF,South Africa,World Bank-IBRD (official),Upper middle income,Africa,1998,6.26
+ZAF,South Africa,World Bank-IDA (official),Upper middle income,Africa,2001,0.75
