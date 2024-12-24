@@ -5,6 +5,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.10, <4.0"
+pandas = "^2.2.3"
+bblocks = "^1.4.0"
+bblocks-data-importers = "^0.2.1"
 
 [tool.black]
 line-length = 88
