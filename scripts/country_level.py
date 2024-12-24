@@ -93,5 +93,5 @@ def download_interest_data_per_emde_country():
 
 
 if __name__ == "__main__":
-    # download_interest_data_per_african_country()
+    download_interest_data_per_african_country()
     download_interest_data_per_emde_country()
