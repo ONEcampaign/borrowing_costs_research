@@ -22,7 +22,7 @@ def order_income(
         "High income": 4,
     }
     if idx is None:
-        idx = ["order", "counterpart_area", "continent", "country", "year"]
+        idx = ["order", "counterpart_name", "continent", "entity_name", "year"]
 
     if order is None:
         order = [True, False, True, True, False]
@@ -56,7 +56,7 @@ def add_weights(
 
     # If no index is specified, use the following columns
     if idx is None:
-        idx = ["year", "counterpart_area"]
+        idx = ["year", "counterpart_name"]
 
     # Calculate the weights
     df = df.assign(
@@ -155,7 +155,7 @@ def compute_weighted_averages(
 
     # Set default value for idx
     if idx is None:
-        idx = ["year", "country", "counterpart_area"]
+        idx = ["year", "entity_name", "counterpart_name"]
 
     # Set default value for value_columns
     if value_columns is None:
@@ -195,11 +195,11 @@ def compute_grouping_stats(
     The value_columns parameter is the list of columns to compute the weighted averages on.
     """
 
-    if filter_type not in ["continent", "income_level", "country"]:
+    if filter_type not in ["continent", "income_level", "entity_name"]:
         raise ValueError("groupby_type must be either 'continent' or 'income_level'")
 
     if idx is None:
-        idx = ["year", "counterpart_area"]
+        idx = ["year", "counterpart_name"]
 
     # Create a copy of the data
     group_data = df.copy(deep=True)
@@ -225,9 +225,9 @@ def keep_market_access_only(df: pd.DataFrame) -> pd.DataFrame:
     """Filter out countries without market access"""
     # Keep only countries with market access
     market_countries = df.query(
-        "counterpart_area == 'Bondholders' and value_commitments.notna()"
-    ).country.unique()
+        "counterpart_name == 'Bondholders' and value_commitments.notna()"
+    ).entity_name.unique()
 
-    df = df.loc[lambda d: d.country.isin(market_countries)]
+    df = df.loc[lambda d: d.entity_name.isin(market_countries)]
 
     return df.reset_index(drop=True)
