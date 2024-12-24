@@ -1,0 +1,483 @@
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,2020,1.6752
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,2018,3.0304
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,2011,0.6559
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,2010,0.9524
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,2000,6.46
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1999,6.6399
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1998,6.9299
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1997,6.8076
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1996,6.855
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1995,6.9082
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1994,6.25
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1993,6.6399
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1992,6.4699
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1991,6.61
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1990,5.96
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1989,7.5
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1988,8.3
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1987,10.25
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1986,7.65
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1985,10.25
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1984,10.6739
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1983,11.0
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1982,8.8738
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1981,8.8647
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1980,6.9983
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1979,6.0055
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1978,7.699
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1977,8.2989
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1976,8.75
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1975,8.1319
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1974,7.5
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1973,4.3515
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1972,7.5
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1971,7.5
+THA,Thailand,Asian Dev. Bank (official),Upper middle income,Asia,1970,7.2844
+THA,Thailand,Australia (official),Upper middle income,Asia,1997,6.5
+THA,Thailand,Australia (official),Upper middle income,Asia,1990,9.1
+THA,Thailand,Australia (official),Upper middle income,Asia,1983,11.7499
+THA,Thailand,Australia (official),Upper middle income,Asia,1982,11.75
+THA,Thailand,Austria (private),Upper middle income,Asia,1994,4.5
+THA,Thailand,Austria (private),Upper middle income,Asia,1978,6.0
+THA,Thailand,Austria (private),Upper middle income,Asia,1970,5.9999
+THA,Thailand,Belgium (official),Upper middle income,Asia,1987,6.5
+THA,Thailand,Belgium (private),Upper middle income,Asia,1981,7.4999
+THA,Thailand,Bondholders (private),Upper middle income,Asia,2023,6.4561
+THA,Thailand,Bondholders (private),Upper middle income,Asia,2022,3.9019
+THA,Thailand,Bondholders (private),Upper middle income,Asia,2021,4.0414
+THA,Thailand,Bondholders (private),Upper middle income,Asia,2020,1.46
+THA,Thailand,Bondholders (private),Upper middle income,Asia,2019,2.5295
+THA,Thailand,Bondholders (private),Upper middle income,Asia,2018,2.2031
+THA,Thailand,Bondholders (private),Upper middle income,Asia,2017,2.7493
+THA,Thailand,Bondholders (private),Upper middle income,Asia,2016,2.6717
+THA,Thailand,Bondholders (private),Upper middle income,Asia,2012,2.4597
+THA,Thailand,Bondholders (private),Upper middle income,Asia,2011,3.17
+THA,Thailand,Bondholders (private),Upper middle income,Asia,2010,2.5703
+THA,Thailand,Bondholders (private),Upper middle income,Asia,2009,2.0924
+THA,Thailand,Bondholders (private),Upper middle income,Asia,2008,1.8351
+THA,Thailand,Bondholders (private),Upper middle income,Asia,2007,7.15
+THA,Thailand,Bondholders (private),Upper middle income,Asia,2006,6.0047
+THA,Thailand,Bondholders (private),Upper middle income,Asia,2005,4.7559
+THA,Thailand,Bondholders (private),Upper middle income,Asia,2004,1.6924
+THA,Thailand,Bondholders (private),Upper middle income,Asia,2003,1.5112
+THA,Thailand,Bondholders (private),Upper middle income,Asia,2001,1.2568
+THA,Thailand,Bondholders (private),Upper middle income,Asia,1998,7.0
+THA,Thailand,Bondholders (private),Upper middle income,Asia,1997,6.6901
+THA,Thailand,Bondholders (private),Upper middle income,Asia,1996,6.2904
+THA,Thailand,Bondholders (private),Upper middle income,Asia,1995,6.4173
+THA,Thailand,Bondholders (private),Upper middle income,Asia,1994,5.1012
+THA,Thailand,Bondholders (private),Upper middle income,Asia,1992,5.61
+THA,Thailand,Bondholders (private),Upper middle income,Asia,1989,9.005
+THA,Thailand,Bondholders (private),Upper middle income,Asia,1988,5.136
+THA,Thailand,Bondholders (private),Upper middle income,Asia,1985,9.6899
+THA,Thailand,Bondholders (private),Upper middle income,Asia,1984,9.8307
+THA,Thailand,Bondholders (private),Upper middle income,Asia,1983,9.7094
+THA,Thailand,Bondholders (private),Upper middle income,Asia,1982,8.899
+THA,Thailand,Bondholders (private),Upper middle income,Asia,1981,9.199
+THA,Thailand,Bondholders (private),Upper middle income,Asia,1980,9.199
+THA,Thailand,Bondholders (private),Upper middle income,Asia,1979,8.7989
+THA,Thailand,Bondholders (private),Upper middle income,Asia,1978,7.399
+THA,Thailand,Canada (official),Upper middle income,Asia,1992,7.9
+THA,Thailand,Canada (official),Upper middle income,Asia,1988,8.8339
+THA,Thailand,Canada (official),Upper middle income,Asia,1987,7.4
+THA,Thailand,Canada (official),Upper middle income,Asia,1985,9.85
+THA,Thailand,Canada (official),Upper middle income,Asia,1982,8.056
+THA,Thailand,Canada (official),Upper middle income,Asia,1981,7.8616
+THA,Thailand,Canada (official),Upper middle income,Asia,1978,6.8944
+THA,Thailand,Canada (official),Upper middle income,Asia,1977,8.9999
+THA,Thailand,Canada (private),Upper middle income,Asia,1977,8.4379
+THA,Thailand,China (official),Upper middle income,Asia,1997,6.5
+THA,Thailand,Denmark (official),Upper middle income,Asia,1982,7.7499
+THA,Thailand,Denmark (private),Upper middle income,Asia,1996,2.5
+THA,Thailand,European Investment Bank (official),Upper middle income,Asia,1995,2.5
+THA,Thailand,European Investment Bank (official),Upper middle income,Asia,1994,2.5
+THA,Thailand,France (official),Upper middle income,Asia,1990,2.1304
+THA,Thailand,France (official),Upper middle income,Asia,1988,2.4999
+THA,Thailand,France (official),Upper middle income,Asia,1984,10.1
+THA,Thailand,France (official),Upper middle income,Asia,1982,3.5
+THA,Thailand,France (official),Upper middle income,Asia,1980,3.0
+THA,Thailand,France (official),Upper middle income,Asia,1979,3.5
+THA,Thailand,France (official),Upper middle income,Asia,1973,3.5
+THA,Thailand,France (private),Upper middle income,Asia,1995,6.5999
+THA,Thailand,France (private),Upper middle income,Asia,1992,4.9999
+THA,Thailand,France (private),Upper middle income,Asia,1990,2.2267
+THA,Thailand,France (private),Upper middle income,Asia,1988,9.6888
+THA,Thailand,France (private),Upper middle income,Asia,1987,8.1599
+THA,Thailand,France (private),Upper middle income,Asia,1986,2.0153
+THA,Thailand,France (private),Upper middle income,Asia,1984,8.75
+THA,Thailand,France (private),Upper middle income,Asia,1982,7.75
+THA,Thailand,France (private),Upper middle income,Asia,1981,16.6624
+THA,Thailand,France (private),Upper middle income,Asia,1980,7.4999
+THA,Thailand,France (private),Upper middle income,Asia,1979,7.8033
+THA,Thailand,France (private),Upper middle income,Asia,1977,8.3746
+THA,Thailand,France (private),Upper middle income,Asia,1973,7.23
+THA,Thailand,Germany (official),Upper middle income,Asia,2005,1.8919
+THA,Thailand,Germany (official),Upper middle income,Asia,2003,1.0544
+THA,Thailand,Germany (official),Upper middle income,Asia,1999,6.926
+THA,Thailand,Germany (official),Upper middle income,Asia,1998,6.7545
+THA,Thailand,Germany (official),Upper middle income,Asia,1997,6.3828
+THA,Thailand,Germany (official),Upper middle income,Asia,1995,1.2385
+THA,Thailand,Germany (official),Upper middle income,Asia,1993,2.5856
+THA,Thailand,Germany (official),Upper middle income,Asia,1992,4.9393
+THA,Thailand,Germany (official),Upper middle income,Asia,1991,0.75
+THA,Thailand,Germany (official),Upper middle income,Asia,1990,3.8483
+THA,Thailand,Germany (official),Upper middle income,Asia,1989,6.5038
+THA,Thailand,Germany (official),Upper middle income,Asia,1988,1.9999
+THA,Thailand,Germany (official),Upper middle income,Asia,1987,5.5412
+THA,Thailand,Germany (official),Upper middle income,Asia,1986,8.4999
+THA,Thailand,Germany (official),Upper middle income,Asia,1985,5.3898
+THA,Thailand,Germany (official),Upper middle income,Asia,1984,3.5239
+THA,Thailand,Germany (official),Upper middle income,Asia,1983,5.5702
+THA,Thailand,Germany (official),Upper middle income,Asia,1982,9.3907
+THA,Thailand,Germany (official),Upper middle income,Asia,1981,6.7762
+THA,Thailand,Germany (official),Upper middle income,Asia,1980,2.0
+THA,Thailand,Germany (official),Upper middle income,Asia,1979,4.7503
+THA,Thailand,Germany (official),Upper middle income,Asia,1977,1.9999
+THA,Thailand,Germany (official),Upper middle income,Asia,1976,2.0
+THA,Thailand,Germany (official),Upper middle income,Asia,1975,0.7499
+THA,Thailand,Germany (official),Upper middle income,Asia,1974,6.0
+THA,Thailand,Germany (official),Upper middle income,Asia,1973,6.5
+THA,Thailand,Germany (official),Upper middle income,Asia,1972,2.0
+THA,Thailand,Germany (official),Upper middle income,Asia,1970,5.9999
+THA,Thailand,Germany (private),Upper middle income,Asia,1991,7.4145
+THA,Thailand,Germany (private),Upper middle income,Asia,1986,2.0
+THA,Thailand,Germany (private),Upper middle income,Asia,1980,6.75
+THA,Thailand,Germany (private),Upper middle income,Asia,1979,9.1097
+THA,Thailand,Germany (private),Upper middle income,Asia,1978,6.2499
+THA,Thailand,Germany (private),Upper middle income,Asia,1977,8.5
+THA,Thailand,Hong Kong (official),Upper middle income,Asia,1997,6.5
+THA,Thailand,Hong Kong (private),Upper middle income,Asia,1996,5.2179
+THA,Thailand,Hong Kong (private),Upper middle income,Asia,1995,6.4512
+THA,Thailand,Hong Kong (private),Upper middle income,Asia,1989,7.25
+THA,Thailand,Hong Kong (private),Upper middle income,Asia,1988,7.25
+THA,Thailand,Hong Kong (private),Upper middle income,Asia,1987,8.5059
+THA,Thailand,Hong Kong (private),Upper middle income,Asia,1986,6.307
+THA,Thailand,Hong Kong (private),Upper middle income,Asia,1985,9.7749
+THA,Thailand,Hong Kong (private),Upper middle income,Asia,1984,11.5589
+THA,Thailand,Hong Kong (private),Upper middle income,Asia,1982,10.0
+THA,Thailand,India (private),Upper middle income,Asia,1971,6.0
+THA,Thailand,International Fund for Agricultural Dev. (official),Upper middle income,Asia,1987,4.0
+THA,Thailand,International Fund for Agricultural Dev. (official),Upper middle income,Asia,1983,3.9999
+THA,Thailand,International Fund for Agricultural Dev. (official),Upper middle income,Asia,1980,4.0
+THA,Thailand,International Fund for Agricultural Dev. (official),Upper middle income,Asia,1978,4.0
+THA,Thailand,Japan (official),Upper middle income,Asia,2022,0.0099
+THA,Thailand,Japan (official),Upper middle income,Asia,2020,0.331
+THA,Thailand,Japan (official),Upper middle income,Asia,2016,0.3
+THA,Thailand,Japan (official),Upper middle income,Asia,2015,3.9999
+THA,Thailand,Japan (official),Upper middle income,Asia,2010,1.3446
+THA,Thailand,Japan (official),Upper middle income,Asia,2009,1.0
+THA,Thailand,Japan (official),Upper middle income,Asia,2008,1.0
+THA,Thailand,Japan (official),Upper middle income,Asia,2007,1.9999
+THA,Thailand,Japan (official),Upper middle income,Asia,2005,1.6159
+THA,Thailand,Japan (official),Upper middle income,Asia,2002,2.2
+THA,Thailand,Japan (official),Upper middle income,Asia,2001,1.0
+THA,Thailand,Japan (official),Upper middle income,Asia,2000,1.4648
+THA,Thailand,Japan (official),Upper middle income,Asia,1999,2.5083
+THA,Thailand,Japan (official),Upper middle income,Asia,1998,1.8453
+THA,Thailand,Japan (official),Upper middle income,Asia,1997,4.7767
+THA,Thailand,Japan (official),Upper middle income,Asia,1996,2.4089
+THA,Thailand,Japan (official),Upper middle income,Asia,1995,2.7
+THA,Thailand,Japan (official),Upper middle income,Asia,1994,3.2727
+THA,Thailand,Japan (official),Upper middle income,Asia,1993,3.2276
+THA,Thailand,Japan (official),Upper middle income,Asia,1992,4.2474
+THA,Thailand,Japan (official),Upper middle income,Asia,1991,2.9999
+THA,Thailand,Japan (official),Upper middle income,Asia,1990,3.2529
+THA,Thailand,Japan (official),Upper middle income,Asia,1989,3.9949
+THA,Thailand,Japan (official),Upper middle income,Asia,1988,3.4582
+THA,Thailand,Japan (official),Upper middle income,Asia,1987,3.3535
+THA,Thailand,Japan (official),Upper middle income,Asia,1986,3.7973
+THA,Thailand,Japan (official),Upper middle income,Asia,1985,3.5
+THA,Thailand,Japan (official),Upper middle income,Asia,1984,3.5
+THA,Thailand,Japan (official),Upper middle income,Asia,1983,3.0
+THA,Thailand,Japan (official),Upper middle income,Asia,1982,4.2491
+THA,Thailand,Japan (official),Upper middle income,Asia,1981,3.2338
+THA,Thailand,Japan (official),Upper middle income,Asia,1980,2.9999
+THA,Thailand,Japan (official),Upper middle income,Asia,1979,5.2375
+THA,Thailand,Japan (official),Upper middle income,Asia,1978,3.25
+THA,Thailand,Japan (official),Upper middle income,Asia,1977,3.7234
+THA,Thailand,Japan (official),Upper middle income,Asia,1975,3.9567
+THA,Thailand,Japan (official),Upper middle income,Asia,1974,3.6803
+THA,Thailand,Japan (official),Upper middle income,Asia,1973,5.0
+THA,Thailand,Japan (official),Upper middle income,Asia,1972,4.5
+THA,Thailand,Japan (official),Upper middle income,Asia,1971,4.7285
+THA,Thailand,Japan (official),Upper middle income,Asia,1970,4.5
+THA,Thailand,Japan (private),Upper middle income,Asia,2008,1.2118
+THA,Thailand,Japan (private),Upper middle income,Asia,2001,2.2999
+THA,Thailand,Japan (private),Upper middle income,Asia,2000,1.8099
+THA,Thailand,Japan (private),Upper middle income,Asia,1999,0.6137
+THA,Thailand,Japan (private),Upper middle income,Asia,1995,5.875
+THA,Thailand,Japan (private),Upper middle income,Asia,1994,7.514
+THA,Thailand,Japan (private),Upper middle income,Asia,1993,4.9132
+THA,Thailand,Japan (private),Upper middle income,Asia,1992,7.0817
+THA,Thailand,Japan (private),Upper middle income,Asia,1991,7.964
+THA,Thailand,Japan (private),Upper middle income,Asia,1990,3.472
+THA,Thailand,Japan (private),Upper middle income,Asia,1989,7.9792
+THA,Thailand,Japan (private),Upper middle income,Asia,1988,5.7282
+THA,Thailand,Japan (private),Upper middle income,Asia,1987,4.7827
+THA,Thailand,Japan (private),Upper middle income,Asia,1986,5.4197
+THA,Thailand,Japan (private),Upper middle income,Asia,1985,6.3726
+THA,Thailand,Japan (private),Upper middle income,Asia,1984,7.7958
+THA,Thailand,Japan (private),Upper middle income,Asia,1983,7.5167
+THA,Thailand,Japan (private),Upper middle income,Asia,1982,7.8742
+THA,Thailand,Japan (private),Upper middle income,Asia,1981,7.5778
+THA,Thailand,Japan (private),Upper middle income,Asia,1980,7.4999
+THA,Thailand,Japan (private),Upper middle income,Asia,1979,9.0043
+THA,Thailand,Japan (private),Upper middle income,Asia,1978,7.6556
+THA,Thailand,Japan (private),Upper middle income,Asia,1977,7.7529
+THA,Thailand,Kuwait (official),Upper middle income,Asia,1982,3.4999
+THA,Thailand,Kuwait (official),Upper middle income,Asia,1981,3.5
+THA,Thailand,Kuwait (official),Upper middle income,Asia,1979,3.5
+THA,Thailand,Kuwait (official),Upper middle income,Asia,1977,3.5
+THA,Thailand,Kuwait (official),Upper middle income,Asia,1976,3.5
+THA,Thailand,Malaysia (official),Upper middle income,Asia,1997,6.5
+THA,Thailand,Multiple Lenders (official),Upper middle income,Asia,2001,2.4809
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,2009,0.8744
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,2006,5.6568
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,2005,3.47
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,2003,2.295
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,2002,2.295
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,2001,2.4809
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,2000,1.5
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,1999,6.3628
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,1998,6.2226
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,1997,6.5788
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,1996,6.44
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,1995,7.235
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,1994,6.0
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,1993,7.25
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,1990,9.375
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,1989,8.625
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,1987,8.3149
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,1984,6.3749
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,1982,14.968
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,1981,15.4404
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,1980,14.6426
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,1979,11.3366
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,1978,9.8827
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,1977,8.1888
+THA,Thailand,Multiple Lenders (private),Upper middle income,Asia,1976,7.315
+THA,Thailand,Netherlands (official),Upper middle income,Asia,1990,3.9999
+THA,Thailand,Netherlands (private),Upper middle income,Asia,1983,7.125
+THA,Thailand,Netherlands (private),Upper middle income,Asia,1978,8.2499
+THA,Thailand,New Zealand (official),Upper middle income,Asia,1979,8.0
+THA,Thailand,Nordic Development Fund (official),Upper middle income,Asia,1999,5.71
+THA,Thailand,Nordic Development Fund (official),Upper middle income,Asia,1992,4.355
+THA,Thailand,Nordic Investment Bank (official),Upper middle income,Asia,1997,6.4
+THA,Thailand,Nordic Investment Bank (official),Upper middle income,Asia,1995,6.225
+THA,Thailand,Nordic Investment Bank (official),Upper middle income,Asia,1993,5.5
+THA,Thailand,Norway (official),Upper middle income,Asia,1991,2.0999
+THA,Thailand,Norway (private),Upper middle income,Asia,1982,7.75
+THA,Thailand,OPEC Fund for International Dev. (official),Upper middle income,Asia,1987,3.5
+THA,Thailand,OPEC Fund for International Dev. (official),Upper middle income,Asia,1986,5.0
+THA,Thailand,OPEC Fund for International Dev. (official),Upper middle income,Asia,1983,6.0
+THA,Thailand,OPEC Fund for International Dev. (official),Upper middle income,Asia,1981,1.0
+THA,Thailand,OPEC Fund for International Dev. (official),Upper middle income,Asia,1980,4.0
+THA,Thailand,Saudi Arabia (official),Upper middle income,Asia,1981,2.9999
+THA,Thailand,Singapore (official),Upper middle income,Asia,1997,6.5
+THA,Thailand,Singapore (official),Upper middle income,Asia,1980,9.5
+THA,Thailand,Singapore (private),Upper middle income,Asia,1996,4.8769
+THA,Thailand,Singapore (private),Upper middle income,Asia,1995,6.543
+THA,Thailand,Singapore (private),Upper middle income,Asia,1993,6.9099
+THA,Thailand,Singapore (private),Upper middle income,Asia,1990,8.6599
+THA,Thailand,Singapore (private),Upper middle income,Asia,1987,8.0649
+THA,Thailand,Singapore (private),Upper middle income,Asia,1983,9.8319
+THA,Thailand,Singapore (private),Upper middle income,Asia,1982,15.625
+THA,Thailand,South Korea (official),Upper middle income,Asia,1997,6.5
+THA,Thailand,Sweden (official),Upper middle income,Asia,1979,7.75
+THA,Thailand,Sweden (private),Upper middle income,Asia,1996,6.6849
+THA,Thailand,Switzerland (official),Upper middle income,Asia,1994,5.4519
+THA,Thailand,Switzerland (official),Upper middle income,Asia,1993,4.94
+THA,Thailand,Switzerland (official),Upper middle income,Asia,1986,7.3749
+THA,Thailand,Switzerland (official),Upper middle income,Asia,1979,0.75
+THA,Thailand,Switzerland (private),Upper middle income,Asia,1992,7.8
+THA,Thailand,Switzerland (private),Upper middle income,Asia,1988,6.625
+THA,Thailand,Switzerland (private),Upper middle income,Asia,1987,6.6249
+THA,Thailand,Switzerland (private),Upper middle income,Asia,1985,6.625
+THA,Thailand,Switzerland (private),Upper middle income,Asia,1982,7.9999
+THA,Thailand,Switzerland (private),Upper middle income,Asia,1979,12.81
+THA,Thailand,United Kingdom (official),Upper middle income,Asia,1986,8.5
+THA,Thailand,United Kingdom (official),Upper middle income,Asia,1984,11.5989
+THA,Thailand,United Kingdom (official),Upper middle income,Asia,1982,11.6364
+THA,Thailand,United Kingdom (official),Upper middle income,Asia,1980,9.2499
+THA,Thailand,United Kingdom (official),Upper middle income,Asia,1978,7.25
+THA,Thailand,United Kingdom (official),Upper middle income,Asia,1976,5.7457
+THA,Thailand,United Kingdom (private),Upper middle income,Asia,1996,5.625
+THA,Thailand,United Kingdom (private),Upper middle income,Asia,1995,6.262
+THA,Thailand,United Kingdom (private),Upper middle income,Asia,1994,1.6629
+THA,Thailand,United Kingdom (private),Upper middle income,Asia,1990,9.128
+THA,Thailand,United Kingdom (private),Upper middle income,Asia,1989,9.1324
+THA,Thailand,United Kingdom (private),Upper middle income,Asia,1985,9.5649
+THA,Thailand,United Kingdom (private),Upper middle income,Asia,1981,17.913
+THA,Thailand,United Kingdom (private),Upper middle income,Asia,1979,7.25
+THA,Thailand,United Kingdom (private),Upper middle income,Asia,1978,10.8559
+THA,Thailand,United Kingdom (private),Upper middle income,Asia,1977,8.5
+THA,Thailand,United States (official),Upper middle income,Asia,2003,2.775
+THA,Thailand,United States (official),Upper middle income,Asia,2001,3.0
+THA,Thailand,United States (official),Upper middle income,Asia,1993,5.3579
+THA,Thailand,United States (official),Upper middle income,Asia,1992,8.0149
+THA,Thailand,United States (official),Upper middle income,Asia,1990,7.4
+THA,Thailand,United States (official),Upper middle income,Asia,1989,8.0
+THA,Thailand,United States (official),Upper middle income,Asia,1988,4.9339
+THA,Thailand,United States (official),Upper middle income,Asia,1987,7.4
+THA,Thailand,United States (official),Upper middle income,Asia,1986,7.1417
+THA,Thailand,United States (official),Upper middle income,Asia,1985,8.6274
+THA,Thailand,United States (official),Upper middle income,Asia,1984,10.6645
+THA,Thailand,United States (official),Upper middle income,Asia,1983,10.6407
+THA,Thailand,United States (official),Upper middle income,Asia,1982,11.481
+THA,Thailand,United States (official),Upper middle income,Asia,1981,16.0622
+THA,Thailand,United States (official),Upper middle income,Asia,1980,9.2476
+THA,Thailand,United States (official),Upper middle income,Asia,1979,9.2168
+THA,Thailand,United States (official),Upper middle income,Asia,1978,6.5975
+THA,Thailand,United States (official),Upper middle income,Asia,1977,7.9385
+THA,Thailand,United States (official),Upper middle income,Asia,1976,7.653
+THA,Thailand,United States (official),Upper middle income,Asia,1975,6.7926
+THA,Thailand,United States (official),Upper middle income,Asia,1974,2.711
+THA,Thailand,United States (official),Upper middle income,Asia,1972,2.7894
+THA,Thailand,United States (private),Upper middle income,Asia,1996,5.1187
+THA,Thailand,United States (private),Upper middle income,Asia,1995,5.9429
+THA,Thailand,United States (private),Upper middle income,Asia,1993,6.0199
+THA,Thailand,United States (private),Upper middle income,Asia,1991,4.8907
+THA,Thailand,United States (private),Upper middle income,Asia,1989,6.5909
+THA,Thailand,United States (private),Upper middle income,Asia,1983,12.449
+THA,Thailand,United States (private),Upper middle income,Asia,1982,15.0649
+THA,Thailand,United States (private),Upper middle income,Asia,1981,17.625
+THA,Thailand,United States (private),Upper middle income,Asia,1980,15.7449
+THA,Thailand,United States (private),Upper middle income,Asia,1979,11.266
+THA,Thailand,United States (private),Upper middle income,Asia,1978,9.079
+THA,Thailand,United States (private),Upper middle income,Asia,1977,8.6337
+THA,Thailand,United States (private),Upper middle income,Asia,1975,8.875
+THA,Thailand,United States (private),Upper middle income,Asia,1974,10.656
+THA,Thailand,World (official),Upper middle income,Asia,2022,0.0099
+THA,Thailand,World (official),Upper middle income,Asia,2020,1.6004
+THA,Thailand,World (official),Upper middle income,Asia,2018,3.0304
+THA,Thailand,World (official),Upper middle income,Asia,2016,0.3
+THA,Thailand,World (official),Upper middle income,Asia,2015,3.9999
+THA,Thailand,World (official),Upper middle income,Asia,2012,1.1164
+THA,Thailand,World (official),Upper middle income,Asia,2011,0.6559
+THA,Thailand,World (official),Upper middle income,Asia,2010,1.2692
+THA,Thailand,World (official),Upper middle income,Asia,2009,1.0
+THA,Thailand,World (official),Upper middle income,Asia,2008,1.0
+THA,Thailand,World (official),Upper middle income,Asia,2007,1.9999
+THA,Thailand,World (official),Upper middle income,Asia,2005,1.6276
+THA,Thailand,World (official),Upper middle income,Asia,2003,2.0878
+THA,Thailand,World (official),Upper middle income,Asia,2002,2.2
+THA,Thailand,World (official),Upper middle income,Asia,2001,2.4127
+THA,Thailand,World (official),Upper middle income,Asia,2000,1.4888
+THA,Thailand,World (official),Upper middle income,Asia,1999,3.8679
+THA,Thailand,World (official),Upper middle income,Asia,1998,3.7129
+THA,Thailand,World (official),Upper middle income,Asia,1997,5.9201
+THA,Thailand,World (official),Upper middle income,Asia,1996,3.9605
+THA,Thailand,World (official),Upper middle income,Asia,1995,4.3594
+THA,Thailand,World (official),Upper middle income,Asia,1994,4.2351
+THA,Thailand,World (official),Upper middle income,Asia,1993,4.0821
+THA,Thailand,World (official),Upper middle income,Asia,1992,6.0019
+THA,Thailand,World (official),Upper middle income,Asia,1991,3.5094
+THA,Thailand,World (official),Upper middle income,Asia,1990,4.3703
+THA,Thailand,World (official),Upper middle income,Asia,1989,6.0406
+THA,Thailand,World (official),Upper middle income,Asia,1988,4.6024
+THA,Thailand,World (official),Upper middle income,Asia,1987,4.7856
+THA,Thailand,World (official),Upper middle income,Asia,1986,5.6374
+THA,Thailand,World (official),Upper middle income,Asia,1985,7.8087
+THA,Thailand,World (official),Upper middle income,Asia,1984,7.8873
+THA,Thailand,World (official),Upper middle income,Asia,1983,8.0425
+THA,Thailand,World (official),Upper middle income,Asia,1982,8.5984
+THA,Thailand,World (official),Upper middle income,Asia,1981,7.5097
+THA,Thailand,World (official),Upper middle income,Asia,1980,7.0966
+THA,Thailand,World (official),Upper middle income,Asia,1979,5.7359
+THA,Thailand,World (official),Upper middle income,Asia,1978,5.9651
+THA,Thailand,World (official),Upper middle income,Asia,1977,6.2777
+THA,Thailand,World (official),Upper middle income,Asia,1976,7.9257
+THA,Thailand,World (official),Upper middle income,Asia,1975,7.2564
+THA,Thailand,World (official),Upper middle income,Asia,1974,5.5378
+THA,Thailand,World (official),Upper middle income,Asia,1973,3.7035
+THA,Thailand,World (official),Upper middle income,Asia,1972,6.1445
+THA,Thailand,World (official),Upper middle income,Asia,1971,6.3998
+THA,Thailand,World (official),Upper middle income,Asia,1970,6.7949
+THA,Thailand,World (private),Upper middle income,Asia,2023,6.4561
+THA,Thailand,World (private),Upper middle income,Asia,2022,3.9019
+THA,Thailand,World (private),Upper middle income,Asia,2021,4.0414
+THA,Thailand,World (private),Upper middle income,Asia,2020,1.46
+THA,Thailand,World (private),Upper middle income,Asia,2019,2.5295
+THA,Thailand,World (private),Upper middle income,Asia,2018,2.2031
+THA,Thailand,World (private),Upper middle income,Asia,2017,2.7493
+THA,Thailand,World (private),Upper middle income,Asia,2016,2.6717
+THA,Thailand,World (private),Upper middle income,Asia,2012,2.4597
+THA,Thailand,World (private),Upper middle income,Asia,2011,3.17
+THA,Thailand,World (private),Upper middle income,Asia,2010,2.5703
+THA,Thailand,World (private),Upper middle income,Asia,2009,1.9996
+THA,Thailand,World (private),Upper middle income,Asia,2008,1.6765
+THA,Thailand,World (private),Upper middle income,Asia,2007,7.15
+THA,Thailand,World (private),Upper middle income,Asia,2006,5.8478
+THA,Thailand,World (private),Upper middle income,Asia,2005,4.4578
+THA,Thailand,World (private),Upper middle income,Asia,2004,1.6924
+THA,Thailand,World (private),Upper middle income,Asia,2003,1.8151
+THA,Thailand,World (private),Upper middle income,Asia,2002,2.295
+THA,Thailand,World (private),Upper middle income,Asia,2001,1.8371
+THA,Thailand,World (private),Upper middle income,Asia,2000,1.5112
+THA,Thailand,World (private),Upper middle income,Asia,1999,1.9201
+THA,Thailand,World (private),Upper middle income,Asia,1998,6.2888
+THA,Thailand,World (private),Upper middle income,Asia,1997,6.6376
+THA,Thailand,World (private),Upper middle income,Asia,1996,5.8514
+THA,Thailand,World (private),Upper middle income,Asia,1995,6.5717
+THA,Thailand,World (private),Upper middle income,Asia,1994,5.6925
+THA,Thailand,World (private),Upper middle income,Asia,1993,6.5338
+THA,Thailand,World (private),Upper middle income,Asia,1992,5.9384
+THA,Thailand,World (private),Upper middle income,Asia,1991,7.1185
+THA,Thailand,World (private),Upper middle income,Asia,1990,5.8113
+THA,Thailand,World (private),Upper middle income,Asia,1989,8.0575
+THA,Thailand,World (private),Upper middle income,Asia,1988,6.537
+THA,Thailand,World (private),Upper middle income,Asia,1987,5.9502
+THA,Thailand,World (private),Upper middle income,Asia,1986,5.6323
+THA,Thailand,World (private),Upper middle income,Asia,1985,8.6446
+THA,Thailand,World (private),Upper middle income,Asia,1984,9.5302
+THA,Thailand,World (private),Upper middle income,Asia,1983,8.9331
+THA,Thailand,World (private),Upper middle income,Asia,1982,11.131
+THA,Thailand,World (private),Upper middle income,Asia,1981,13.6829
+THA,Thailand,World (private),Upper middle income,Asia,1980,13.8303
+THA,Thailand,World (private),Upper middle income,Asia,1979,10.3397
+THA,Thailand,World (private),Upper middle income,Asia,1978,8.9358
+THA,Thailand,World (private),Upper middle income,Asia,1977,8.3055
+THA,Thailand,World (private),Upper middle income,Asia,1976,7.315
+THA,Thailand,World (private),Upper middle income,Asia,1975,8.875
+THA,Thailand,World (private),Upper middle income,Asia,1974,10.656
+THA,Thailand,World (private),Upper middle income,Asia,1973,7.23
+THA,Thailand,World (private),Upper middle income,Asia,1971,6.0
+THA,Thailand,World (private),Upper middle income,Asia,1970,5.9999
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,2012,1.1164
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,2010,0.9924
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,2003,2.0899
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1999,6.6159
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1998,6.397
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1997,6.6229
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1996,7.2459
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1995,7.09
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1994,7.11
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1993,7.42
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1992,7.6801
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1991,7.71
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1990,7.9568
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1989,7.65
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1988,7.7199
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1987,7.76
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1986,8.5
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1985,8.9348
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1984,9.89
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1983,10.6102
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1982,11.6
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1981,9.5865
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1980,8.245
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1979,7.8423
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1978,7.606
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1977,8.178
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1976,7.905
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1975,8.5
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1974,7.25
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1973,7.25
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1972,7.25
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1971,7.25
+THA,Thailand,World Bank-IBRD (official),Upper middle income,Asia,1970,7.0
+THA,Thailand,World Bank-IDA (official),Upper middle income,Asia,1979,0.75
+THA,Thailand,World Bank-IDA (official),Upper middle income,Asia,1978,0.75
+THA,Thailand,World Bank-IDA (official),Upper middle income,Asia,1974,0.75
+THA,Thailand,World Bank-IDA (official),Upper middle income,Asia,1973,0.75

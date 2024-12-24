@@ -1,0 +1,365 @@
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+GUY,Guyana,Argentina (official),Upper middle income,America,1984,6.5
+GUY,Guyana,Austria (private),Upper middle income,America,1979,7.5
+GUY,Guyana,Bahamas (private),Upper middle income,America,1980,18.745
+GUY,Guyana,Bahamas (private),Upper middle income,America,1978,11.375
+GUY,Guyana,Bahamas (private),Upper middle income,America,1977,8.435
+GUY,Guyana,Bahamas (private),Upper middle income,America,1976,7.4734
+GUY,Guyana,Barbados (official),Upper middle income,America,1987,5.0
+GUY,Guyana,Bondholders (private),Upper middle income,America,1992,8.0
+GUY,Guyana,Brazil (official),Upper middle income,America,1989,8.5
+GUY,Guyana,Brazil (official),Upper middle income,America,1981,8.0
+GUY,Guyana,Brazil (official),Upper middle income,America,1980,8.0
+GUY,Guyana,Brazil (official),Upper middle income,America,1978,8.0
+GUY,Guyana,Brazil (private),Upper middle income,America,1983,8.0
+GUY,Guyana,Brazil (private),Upper middle income,America,1980,7.0
+GUY,Guyana,Canada (official),Upper middle income,America,2023,3.4779
+GUY,Guyana,Canada (official),Upper middle income,America,1981,2.3333
+GUY,Guyana,Canada (official),Upper middle income,America,1977,1.9254
+GUY,Guyana,Canada (official),Upper middle income,America,1976,8.1077
+GUY,Guyana,Canada (official),Upper middle income,America,1974,6.0329
+GUY,Guyana,Canada (private),Upper middle income,America,1978,10.177
+GUY,Guyana,Canada (private),Upper middle income,America,1976,7.8988
+GUY,Guyana,Canada (private),Upper middle income,America,1975,0.5
+GUY,Guyana,Caribbean Community (CARICOM) (official),Upper middle income,America,2016,3.0
+GUY,Guyana,Caribbean Community (CARICOM) (official),Upper middle income,America,2015,3.0
+GUY,Guyana,Caribbean Community (CARICOM) (official),Upper middle income,America,2013,3.0
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,2021,2.9774
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,2018,1.0
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,2017,2.0
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,2015,1.8609
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,2014,0.401
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,2013,1.5848
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,2011,1.6214
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,2009,2.006
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,2008,2.0
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,2006,2.0
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,2005,2.4328
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,2004,3.6521
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,2003,3.7863
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,2002,2.0
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,2001,2.0
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,1998,2.0
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,1995,2.1146
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,1994,2.0
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,1992,1.5201
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,1990,2.0
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,1981,4.0
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,1980,4.0
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,1979,8.274
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,1978,4.0
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,1977,5.6397
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,1976,8.0
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,1975,7.2499
+GUY,Guyana,Caribbean Dev. Bank (official),Upper middle income,America,1974,7.25
+GUY,Guyana,China (official),Upper middle income,America,2023,2.0
+GUY,Guyana,China (official),Upper middle income,America,2022,2.677
+GUY,Guyana,China (official),Upper middle income,America,2018,2.0
+GUY,Guyana,China (official),Upper middle income,America,2017,2.0
+GUY,Guyana,China (official),Upper middle income,America,2012,1.9999
+GUY,Guyana,China (official),Upper middle income,America,2011,2.0
+GUY,Guyana,China (official),Upper middle income,America,2010,1.9999
+GUY,Guyana,China (official),Upper middle income,America,2005,1.0
+GUY,Guyana,China (official),Upper middle income,America,1986,5.0
+GUY,Guyana,Cuba (official),Upper middle income,America,1984,6.0
+GUY,Guyana,Denmark (private),Upper middle income,America,1981,8.6703
+GUY,Guyana,European Development Fund (EDF) (official),Upper middle income,America,1990,1.0
+GUY,Guyana,European Development Fund (EDF) (official),Upper middle income,America,1982,1.0
+GUY,Guyana,European Development Fund (EDF) (official),Upper middle income,America,1980,1.0
+GUY,Guyana,European Development Fund (EDF) (official),Upper middle income,America,1979,1.0
+GUY,Guyana,European Economic Community (EEC) (official),Upper middle income,America,1979,0.75
+GUY,Guyana,European Investment Bank (official),Upper middle income,America,1993,2.0
+GUY,Guyana,European Investment Bank (official),Upper middle income,America,1989,2.0
+GUY,Guyana,European Investment Bank (official),Upper middle income,America,1985,3.2857
+GUY,Guyana,European Investment Bank (official),Upper middle income,America,1978,2.0
+GUY,Guyana,France (private),Upper middle income,America,1974,7.9999
+GUY,Guyana,German Dem. Rep. (official),Upper middle income,America,1986,4.5
+GUY,Guyana,German Dem. Rep. (official),Upper middle income,America,1985,4.5
+GUY,Guyana,German Dem. Rep. (official),Upper middle income,America,1982,4.5
+GUY,Guyana,German Dem. Rep. (official),Upper middle income,America,1981,4.5
+GUY,Guyana,German Dem. Rep. (official),Upper middle income,America,1980,4.5
+GUY,Guyana,German Dem. Rep. (official),Upper middle income,America,1979,4.5
+GUY,Guyana,German Dem. Rep. (official),Upper middle income,America,1978,4.5
+GUY,Guyana,German Dem. Rep. (official),Upper middle income,America,1977,4.5
+GUY,Guyana,German Dem. Rep. (official),Upper middle income,America,1976,4.5
+GUY,Guyana,German Dem. Rep. (official),Upper middle income,America,1975,4.5
+GUY,Guyana,German Dem. Rep. (official),Upper middle income,America,1974,4.5
+GUY,Guyana,Germany (official),Upper middle income,America,1990,0.7499
+GUY,Guyana,Germany (official),Upper middle income,America,1976,8.0
+GUY,Guyana,India (official),Upper middle income,America,2021,1.75
+GUY,Guyana,India (official),Upper middle income,America,2017,1.75
+GUY,Guyana,India (official),Upper middle income,America,2016,1.75
+GUY,Guyana,India (official),Upper middle income,America,2012,1.75
+GUY,Guyana,India (official),Upper middle income,America,2010,1.75
+GUY,Guyana,India (official),Upper middle income,America,2006,1.75
+GUY,Guyana,India (official),Upper middle income,America,2004,1.75
+GUY,Guyana,India (official),Upper middle income,America,1989,5.0
+GUY,Guyana,India (private),Upper middle income,America,1980,8.9999
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,2023,5.9345
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,2022,3.8133
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,2021,0.9779
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,2020,1.12
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,2019,2.4049
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,2018,1.835
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,2017,1.2899
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,2014,0.4361
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,2013,1.7192
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,2011,0.82
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,2010,0.8667
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,2009,2.2012
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,2008,2.9135
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,2007,1.0
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,2005,1.0
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,2004,1.0
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,2003,1.0
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,2002,2.0
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,2001,1.0
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,2000,2.0
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,1999,1.9791
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,1998,1.4963
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,1997,1.7564
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,1996,1.7468
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,1995,1.7659
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,1994,1.7564
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,1993,1.7564
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,1992,1.7721
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,1991,1.7625
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,1990,1.7759
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,1989,1.7721
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,1987,1.7692
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,1985,7.3218
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,1984,8.0
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,1981,3.8905
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,1979,1.7564
+GUY,Guyana,Inter-American Dev. Bank (official),Upper middle income,America,1978,1.7497
+GUY,Guyana,International Fund for Agricultural Dev. (official),Upper middle income,America,2017,1.25
+GUY,Guyana,International Fund for Agricultural Dev. (official),Upper middle income,America,2008,0.75
+GUY,Guyana,International Fund for Agricultural Dev. (official),Upper middle income,America,1997,0.75
+GUY,Guyana,International Fund for Agricultural Dev. (official),Upper middle income,America,1986,4.0
+GUY,Guyana,Islamic Dev. Bank (official),Upper middle income,America,2023,6.0799
+GUY,Guyana,Islamic Dev. Bank (official),Upper middle income,America,2020,4.4052
+GUY,Guyana,Islamic Dev. Bank (official),Upper middle income,America,2018,2.93
+GUY,Guyana,Italy (official),Upper middle income,America,2002,1.0
+GUY,Guyana,Japan (private),Upper middle income,America,1988,7.5
+GUY,Guyana,Japan (private),Upper middle income,America,1983,4.5
+GUY,Guyana,Japan (private),Upper middle income,America,1978,7.5
+GUY,Guyana,Kuwait (official),Upper middle income,America,1995,8.89
+GUY,Guyana,Kuwait (official),Upper middle income,America,1994,8.89
+GUY,Guyana,Kuwait (official),Upper middle income,America,1993,8.89
+GUY,Guyana,Kuwait (official),Upper middle income,America,1991,8.89
+GUY,Guyana,Kuwait (official),Upper middle income,America,1975,8.89
+GUY,Guyana,Libya (official),Upper middle income,America,1980,15.0574
+GUY,Guyana,Libya (official),Upper middle income,America,1978,5.0
+GUY,Guyana,Multiple Lenders (private),Upper middle income,America,1980,19.375
+GUY,Guyana,Multiple Lenders (private),Upper middle income,America,1979,12.894
+GUY,Guyana,Multiple Lenders (private),Upper middle income,America,1976,9.5
+GUY,Guyana,Multiple Lenders (private),Upper middle income,America,1975,9.935
+GUY,Guyana,Multiple Lenders (private),Upper middle income,America,1974,12.685
+GUY,Guyana,Multiple Lenders (private),Upper middle income,America,1973,10.685
+GUY,Guyana,Netherlands (official),Upper middle income,America,1981,2.5
+GUY,Guyana,Netherlands (official),Upper middle income,America,1980,2.4999
+GUY,Guyana,Netherlands (private),Upper middle income,America,1989,9.4999
+GUY,Guyana,Netherlands (private),Upper middle income,America,1987,9.9999
+GUY,Guyana,Netherlands (private),Upper middle income,America,1981,7.6263
+GUY,Guyana,Netherlands (private),Upper middle income,America,1980,7.9005
+GUY,Guyana,Netherlands (private),Upper middle income,America,1979,6.1095
+GUY,Guyana,OPEC Fund for International Dev. (official),Upper middle income,America,1986,3.75
+GUY,Guyana,OPEC Fund for International Dev. (official),Upper middle income,America,1985,0.25
+GUY,Guyana,OPEC Fund for International Dev. (official),Upper middle income,America,1984,3.0
+GUY,Guyana,OPEC Fund for International Dev. (official),Upper middle income,America,1981,4.0
+GUY,Guyana,OPEC Fund for International Dev. (official),Upper middle income,America,1980,4.0
+GUY,Guyana,OPEC Fund for International Dev. (official),Upper middle income,America,1978,4.0
+GUY,Guyana,OPEC Fund for International Dev. (official),Upper middle income,America,1977,0.5
+GUY,Guyana,Saudi Arabia (official),Upper middle income,America,2023,2.0
+GUY,Guyana,Serbia (official),Upper middle income,America,1977,4.0
+GUY,Guyana,Serbia (private),Upper middle income,America,1986,4.0
+GUY,Guyana,Switzerland (private),Upper middle income,America,1979,16.565
+GUY,Guyana,Trinidad and Tobago (official),Upper middle income,America,1985,3.0
+GUY,Guyana,Trinidad and Tobago (official),Upper middle income,America,1981,3.0
+GUY,Guyana,Trinidad and Tobago (official),Upper middle income,America,1974,6.3249
+GUY,Guyana,Trinidad and Tobago (private),Upper middle income,America,2017,6.8
+GUY,Guyana,USSR (official),Upper middle income,America,1984,6.0
+GUY,Guyana,USSR (private),Upper middle income,America,1984,6.0
+GUY,Guyana,United Arab Emirates (official),Upper middle income,America,1975,4.0
+GUY,Guyana,United Kingdom (official),Upper middle income,America,2022,0.7799
+GUY,Guyana,United Kingdom (official),Upper middle income,America,1982,7.5
+GUY,Guyana,United Kingdom (official),Upper middle income,America,1981,3.9999
+GUY,Guyana,United Kingdom (official),Upper middle income,America,1978,3.4117
+GUY,Guyana,United Kingdom (official),Upper middle income,America,1976,3.0
+GUY,Guyana,United Kingdom (official),Upper middle income,America,1973,3.0
+GUY,Guyana,United Kingdom (official),Upper middle income,America,1972,3.4094
+GUY,Guyana,United Kingdom (official),Upper middle income,America,1970,8.021
+GUY,Guyana,United Kingdom (private),Upper middle income,America,1987,8.5649
+GUY,Guyana,United Kingdom (private),Upper middle income,America,1981,7.3823
+GUY,Guyana,United Kingdom (private),Upper middle income,America,1980,7.3623
+GUY,Guyana,United Kingdom (private),Upper middle income,America,1979,7.965
+GUY,Guyana,United Kingdom (private),Upper middle income,America,1978,10.152
+GUY,Guyana,United Kingdom (private),Upper middle income,America,1977,7.25
+GUY,Guyana,United Kingdom (private),Upper middle income,America,1976,7.3506
+GUY,Guyana,United Kingdom (private),Upper middle income,America,1975,7.8123
+GUY,Guyana,United Kingdom (private),Upper middle income,America,1974,6.0
+GUY,Guyana,United Kingdom (private),Upper middle income,America,1973,9.3485
+GUY,Guyana,United States (official),Upper middle income,America,1999,1.25
+GUY,Guyana,United States (official),Upper middle income,America,1997,1.5
+GUY,Guyana,United States (official),Upper middle income,America,1996,2.0
+GUY,Guyana,United States (official),Upper middle income,America,1995,2.8692
+GUY,Guyana,United States (official),Upper middle income,America,1991,2.7999
+GUY,Guyana,United States (official),Upper middle income,America,1990,2.8205
+GUY,Guyana,United States (official),Upper middle income,America,1989,2.453
+GUY,Guyana,United States (official),Upper middle income,America,1987,2.4121
+GUY,Guyana,United States (official),Upper middle income,America,1986,2.453
+GUY,Guyana,United States (official),Upper middle income,America,1983,2.995
+GUY,Guyana,United States (official),Upper middle income,America,1981,8.75
+GUY,Guyana,United States (official),Upper middle income,America,1980,2.5378
+GUY,Guyana,United States (official),Upper middle income,America,1979,2.8074
+GUY,Guyana,United States (official),Upper middle income,America,1978,2.5938
+GUY,Guyana,United States (official),Upper middle income,America,1977,2.799
+GUY,Guyana,United States (official),Upper middle income,America,1975,2.7709
+GUY,Guyana,United States (official),Upper middle income,America,1974,6.0
+GUY,Guyana,United States (official),Upper middle income,America,1973,6.0
+GUY,Guyana,United States (official),Upper middle income,America,1972,2.6103
+GUY,Guyana,United States (official),Upper middle income,America,1971,2.7739
+GUY,Guyana,United States (official),Upper middle income,America,1970,2.969
+GUY,Guyana,United States (private),Upper middle income,America,1996,7.4349
+GUY,Guyana,United States (private),Upper middle income,America,1995,8.8149
+GUY,Guyana,United States (private),Upper middle income,America,1989,10.6777
+GUY,Guyana,United States (private),Upper middle income,America,1988,10.3828
+GUY,Guyana,United States (private),Upper middle income,America,1987,9.2278
+GUY,Guyana,United States (private),Upper middle income,America,1986,8.8947
+GUY,Guyana,United States (private),Upper middle income,America,1985,10.0971
+GUY,Guyana,United States (private),Upper middle income,America,1982,17.625
+GUY,Guyana,United States (private),Upper middle income,America,1980,13.713
+GUY,Guyana,United States (private),Upper middle income,America,1979,13.0
+GUY,Guyana,United States (private),Upper middle income,America,1978,9.5
+GUY,Guyana,United States (private),Upper middle income,America,1977,8.9185
+GUY,Guyana,United States (private),Upper middle income,America,1976,8.4351
+GUY,Guyana,United States (private),Upper middle income,America,1975,7.0
+GUY,Guyana,United States (private),Upper middle income,America,1974,11.3404
+GUY,Guyana,Venezuela (official),Upper middle income,America,2013,1.0
+GUY,Guyana,Venezuela (official),Upper middle income,America,2012,1.0
+GUY,Guyana,Venezuela (official),Upper middle income,America,2011,1.0
+GUY,Guyana,Venezuela (official),Upper middle income,America,2010,1.0
+GUY,Guyana,Venezuela (official),Upper middle income,America,2009,1.0
+GUY,Guyana,Venezuela (official),Upper middle income,America,2008,1.0
+GUY,Guyana,Venezuela (official),Upper middle income,America,2007,1.0
+GUY,Guyana,Venezuela (official),Upper middle income,America,1995,6.6
+GUY,Guyana,Venezuela (official),Upper middle income,America,1993,7.8046
+GUY,Guyana,Venezuela (official),Upper middle income,America,1992,8.0
+GUY,Guyana,Venezuela (official),Upper middle income,America,1991,6.4433
+GUY,Guyana,Venezuela (official),Upper middle income,America,1989,6.5999
+GUY,Guyana,Venezuela (official),Upper middle income,America,1988,7.0
+GUY,Guyana,Venezuela (official),Upper middle income,America,1979,7.5
+GUY,Guyana,Venezuela (official),Upper middle income,America,1978,8.0
+GUY,Guyana,Venezuela (official),Upper middle income,America,1977,8.2704
+GUY,Guyana,Venezuela (official),Upper middle income,America,1976,5.0
+GUY,Guyana,World (official),Upper middle income,America,2023,4.0213
+GUY,Guyana,World (official),Upper middle income,America,2022,2.2827
+GUY,Guyana,World (official),Upper middle income,America,2021,2.135
+GUY,Guyana,World (official),Upper middle income,America,2020,1.6286
+GUY,Guyana,World (official),Upper middle income,America,2019,1.703
+GUY,Guyana,World (official),Upper middle income,America,2018,1.723
+GUY,Guyana,World (official),Upper middle income,America,2017,1.7299
+GUY,Guyana,World (official),Upper middle income,America,2016,1.8713
+GUY,Guyana,World (official),Upper middle income,America,2015,0.7273
+GUY,Guyana,World (official),Upper middle income,America,2014,0.3652
+GUY,Guyana,World (official),Upper middle income,America,2013,1.3756
+GUY,Guyana,World (official),Upper middle income,America,2012,1.4217
+GUY,Guyana,World (official),Upper middle income,America,2011,1.2258
+GUY,Guyana,World (official),Upper middle income,America,2010,1.2196
+GUY,Guyana,World (official),Upper middle income,America,2009,1.6425
+GUY,Guyana,World (official),Upper middle income,America,2008,1.59
+GUY,Guyana,World (official),Upper middle income,America,2007,1.0
+GUY,Guyana,World (official),Upper middle income,America,2006,1.875
+GUY,Guyana,World (official),Upper middle income,America,2005,1.2853
+GUY,Guyana,World (official),Upper middle income,America,2004,1.4233
+GUY,Guyana,World (official),Upper middle income,America,2003,2.9554
+GUY,Guyana,World (official),Upper middle income,America,2002,1.9732
+GUY,Guyana,World (official),Upper middle income,America,2001,0.4838
+GUY,Guyana,World (official),Upper middle income,America,2000,2.0
+GUY,Guyana,World (official),Upper middle income,America,1999,1.6926
+GUY,Guyana,World (official),Upper middle income,America,1998,1.4214
+GUY,Guyana,World (official),Upper middle income,America,1997,1.556
+GUY,Guyana,World (official),Upper middle income,America,1996,1.5772
+GUY,Guyana,World (official),Upper middle income,America,1995,1.5048
+GUY,Guyana,World (official),Upper middle income,America,1994,1.5988
+GUY,Guyana,World (official),Upper middle income,America,1993,1.5495
+GUY,Guyana,World (official),Upper middle income,America,1992,1.687
+GUY,Guyana,World (official),Upper middle income,America,1991,3.0972
+GUY,Guyana,World (official),Upper middle income,America,1990,1.3209
+GUY,Guyana,World (official),Upper middle income,America,1989,3.9439
+GUY,Guyana,World (official),Upper middle income,America,1988,7.0
+GUY,Guyana,World (official),Upper middle income,America,1987,1.9
+GUY,Guyana,World (official),Upper middle income,America,1986,3.8199
+GUY,Guyana,World (official),Upper middle income,America,1985,5.2883
+GUY,Guyana,World (official),Upper middle income,America,1984,7.2389
+GUY,Guyana,World (official),Upper middle income,America,1983,0.0193
+GUY,Guyana,World (official),Upper middle income,America,1982,3.3226
+GUY,Guyana,World (official),Upper middle income,America,1981,4.1119
+GUY,Guyana,World (official),Upper middle income,America,1980,9.1987
+GUY,Guyana,World (official),Upper middle income,America,1979,4.8238
+GUY,Guyana,World (official),Upper middle income,America,1978,3.0542
+GUY,Guyana,World (official),Upper middle income,America,1977,3.5988
+GUY,Guyana,World (official),Upper middle income,America,1976,5.5815
+GUY,Guyana,World (official),Upper middle income,America,1975,4.6315
+GUY,Guyana,World (official),Upper middle income,America,1974,4.929
+GUY,Guyana,World (official),Upper middle income,America,1973,3.979
+GUY,Guyana,World (official),Upper middle income,America,1972,0.7425
+GUY,Guyana,World (official),Upper middle income,America,1971,3.8474
+GUY,Guyana,World (official),Upper middle income,America,1970,5.9587
+GUY,Guyana,World (private),Upper middle income,America,2017,6.8
+GUY,Guyana,World (private),Upper middle income,America,1996,7.4349
+GUY,Guyana,World (private),Upper middle income,America,1995,8.8149
+GUY,Guyana,World (private),Upper middle income,America,1992,8.0
+GUY,Guyana,World (private),Upper middle income,America,1989,10.1085
+GUY,Guyana,World (private),Upper middle income,America,1988,9.2859
+GUY,Guyana,World (private),Upper middle income,America,1987,9.3065
+GUY,Guyana,World (private),Upper middle income,America,1986,7.0087
+GUY,Guyana,World (private),Upper middle income,America,1985,10.0971
+GUY,Guyana,World (private),Upper middle income,America,1984,6.0
+GUY,Guyana,World (private),Upper middle income,America,1983,7.7347
+GUY,Guyana,World (private),Upper middle income,America,1982,17.625
+GUY,Guyana,World (private),Upper middle income,America,1981,7.5451
+GUY,Guyana,World (private),Upper middle income,America,1980,12.3387
+GUY,Guyana,World (private),Upper middle income,America,1979,12.515
+GUY,Guyana,World (private),Upper middle income,America,1978,9.763
+GUY,Guyana,World (private),Upper middle income,America,1977,8.4711
+GUY,Guyana,World (private),Upper middle income,America,1976,7.5562
+GUY,Guyana,World (private),Upper middle income,America,1975,9.3609
+GUY,Guyana,World (private),Upper middle income,America,1974,11.9388
+GUY,Guyana,World (private),Upper middle income,America,1973,10.3446
+GUY,Guyana,World Bank-IBRD (official),Upper middle income,America,1981,9.25
+GUY,Guyana,World Bank-IBRD (official),Upper middle income,America,1980,9.25
+GUY,Guyana,World Bank-IBRD (official),Upper middle income,America,1978,7.9
+GUY,Guyana,World Bank-IBRD (official),Upper middle income,America,1975,8.5
+GUY,Guyana,World Bank-IBRD (official),Upper middle income,America,1974,7.25
+GUY,Guyana,World Bank-IBRD (official),Upper middle income,America,1973,7.25
+GUY,Guyana,World Bank-IBRD (official),Upper middle income,America,1971,7.25
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,2023,0.75
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,2022,0.75
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,2021,0.75
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,2020,0.75
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,2019,0.75
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,2018,0.75
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,2017,1.9999
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,2015,2.0
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,2014,2.0
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,2012,0.7499
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,2011,0.75
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,2003,0.75
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,1999,0.75
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,1998,0.75
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,1997,0.5
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,1996,0.75
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,1995,0.75
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,1994,0.75
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,1993,0.75
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,1992,0.75
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,1991,0.7499
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,1990,0.75
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,1985,0.7499
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,1982,0.7499
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,1981,0.7499
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,1978,0.75
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,1975,0.75
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,1972,0.75
+GUY,Guyana,World Bank-IDA (official),Upper middle income,America,1970,0.75

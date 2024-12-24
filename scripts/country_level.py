@@ -5,6 +5,7 @@ from scripts.config import Paths
 from scripts.ids.interest import get_average_interest
 from bblocks_data_importers import InternationalDebtStatistics
 
+from scripts.ids.tools import imf_emde
 from scripts.logger import logger
 
 
@@ -57,10 +58,40 @@ def download_interest_data_per_african_country():
         df = _download_and_clean_interest_data(country=country)
         start_year, end_year = df.year.min(), df.year.max()
         df.to_csv(
-            Paths.output / "interest_rates" / f"{country}_{start_year}_{end_year}.csv",
+            Paths.output
+            / "interest_rates"
+            / "africa"
+            / f"{country}_{start_year}_{end_year}.csv",
+            index=False,
+        )
+
+
+def download_interest_data_per_emde_country():
+    """Download interest data for each EMDE country (excluding African countries),
+    and save it to a CSV file."""
+
+    # Get the list of African countries
+    african_countries = InternationalDebtStatistics().get_african_countries()
+
+    # Get the list of EMDE countries
+    emde = imf_emde()
+
+    # EMDE not African
+    emde_not_african = list(set(emde) - set(african_countries))
+
+    # Download interest data for each African country
+    for country in emde_not_african:
+        df = _download_and_clean_interest_data(country=country)
+        start_year, end_year = df.year.min(), df.year.max()
+        df.to_csv(
+            Paths.output
+            / "interest_rates"
+            / "emde_non_african"
+            / f"{country}_{start_year}_{end_year}.csv",
             index=False,
         )
 
 
 if __name__ == "__main__":
-    download_interest_data_per_african_country()
+    # download_interest_data_per_african_country()
+    download_interest_data_per_emde_country()

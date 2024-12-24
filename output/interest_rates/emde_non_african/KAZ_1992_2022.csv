@@ -1,0 +1,192 @@
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+KAZ,Kazakhstan,Asian Dev. Bank (official),Upper middle income,Asia,2020,0.5
+KAZ,Kazakhstan,Asian Dev. Bank (official),Upper middle income,Asia,2019,3.3756
+KAZ,Kazakhstan,Asian Dev. Bank (official),Upper middle income,Asia,2017,1.8176
+KAZ,Kazakhstan,Asian Dev. Bank (official),Upper middle income,Asia,2016,1.4438
+KAZ,Kazakhstan,Asian Dev. Bank (official),Upper middle income,Asia,2015,2.358
+KAZ,Kazakhstan,Asian Dev. Bank (official),Upper middle income,Asia,2014,0.4
+KAZ,Kazakhstan,Asian Dev. Bank (official),Upper middle income,Asia,2013,0.8137
+KAZ,Kazakhstan,Asian Dev. Bank (official),Upper middle income,Asia,2012,1.1363
+KAZ,Kazakhstan,Asian Dev. Bank (official),Upper middle income,Asia,2011,0.823
+KAZ,Kazakhstan,Asian Dev. Bank (official),Upper middle income,Asia,2010,0.6484
+KAZ,Kazakhstan,Asian Dev. Bank (official),Upper middle income,Asia,2009,1.1813
+KAZ,Kazakhstan,Asian Dev. Bank (official),Upper middle income,Asia,2004,1.7699
+KAZ,Kazakhstan,Asian Dev. Bank (official),Upper middle income,Asia,2001,6.6999
+KAZ,Kazakhstan,Asian Dev. Bank (official),Upper middle income,Asia,1998,6.763
+KAZ,Kazakhstan,Asian Dev. Bank (official),Upper middle income,Asia,1996,6.121
+KAZ,Kazakhstan,Asian Dev. Bank (official),Upper middle income,Asia,1995,6.9099
+KAZ,Kazakhstan,Asian Dev. Bank (official),Upper middle income,Asia,1994,4.6871
+KAZ,Kazakhstan,Asian Infrastructure Investment Bank (official),Upper middle income,Asia,2020,0.1482
+KAZ,Kazakhstan,Austria (official),Upper middle income,Asia,1994,7.0
+KAZ,Kazakhstan,Austria (private),Upper middle income,Asia,1999,10.7309
+KAZ,Kazakhstan,Austria (private),Upper middle income,Asia,1995,6.4835
+KAZ,Kazakhstan,Austria (private),Upper middle income,Asia,1993,4.2175
+KAZ,Kazakhstan,Bondholders (private),Upper middle income,Asia,2021,4.3324
+KAZ,Kazakhstan,Bondholders (private),Upper middle income,Asia,2020,6.0875
+KAZ,Kazakhstan,Bondholders (private),Upper middle income,Asia,2019,1.1086
+KAZ,Kazakhstan,Bondholders (private),Upper middle income,Asia,2018,4.3105
+KAZ,Kazakhstan,Bondholders (private),Upper middle income,Asia,2015,5.6406
+KAZ,Kazakhstan,Bondholders (private),Upper middle income,Asia,2014,4.275
+KAZ,Kazakhstan,Bondholders (private),Upper middle income,Asia,2013,5.2093
+KAZ,Kazakhstan,Bondholders (private),Upper middle income,Asia,2012,5.248
+KAZ,Kazakhstan,Bondholders (private),Upper middle income,Asia,2000,11.125
+KAZ,Kazakhstan,Bondholders (private),Upper middle income,Asia,1999,13.625
+KAZ,Kazakhstan,Bondholders (private),Upper middle income,Asia,1997,8.375
+KAZ,Kazakhstan,Bondholders (private),Upper middle income,Asia,1996,9.25
+KAZ,Kazakhstan,Canada (official),Upper middle income,Asia,1996,5.255
+KAZ,Kazakhstan,Canada (official),Upper middle income,Asia,1994,7.25
+KAZ,Kazakhstan,Canada (official),Upper middle income,Asia,1993,7.3486
+KAZ,Kazakhstan,China (official),Upper middle income,Asia,2019,2.0
+KAZ,Kazakhstan,China (official),Upper middle income,Asia,2018,2.0
+KAZ,Kazakhstan,China (official),Upper middle income,Asia,2017,2.0
+KAZ,Kazakhstan,China (official),Upper middle income,Asia,2016,3.2809
+KAZ,Kazakhstan,China (official),Upper middle income,Asia,1993,3.9999
+KAZ,Kazakhstan,Czechia (private),Upper middle income,Asia,1995,7.315
+KAZ,Kazakhstan,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2021,1.0
+KAZ,Kazakhstan,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2019,3.3536
+KAZ,Kazakhstan,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2017,2.3176
+KAZ,Kazakhstan,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2016,2.0543
+KAZ,Kazakhstan,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2012,2.0534
+KAZ,Kazakhstan,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2010,1.7809
+KAZ,Kazakhstan,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2009,2.7355
+KAZ,Kazakhstan,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2003,1.22
+KAZ,Kazakhstan,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2002,3.2
+KAZ,Kazakhstan,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2001,2.9809
+KAZ,Kazakhstan,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,2000,6.2039
+KAZ,Kazakhstan,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,1999,6.131
+KAZ,Kazakhstan,European Bank for Reconstruction and Dev. (EBRD) (official),Upper middle income,Asia,1997,6.0
+KAZ,Kazakhstan,European Investment Bank (official),Upper middle income,Asia,1997,6.0
+KAZ,Kazakhstan,European Investment Bank (official),Upper middle income,Asia,1996,6.4349
+KAZ,Kazakhstan,European Investment Bank (official),Upper middle income,Asia,1992,3.9379
+KAZ,Kazakhstan,France (private),Upper middle income,Asia,2002,2.0999
+KAZ,Kazakhstan,France (private),Upper middle income,Asia,1997,7.8119
+KAZ,Kazakhstan,France (private),Upper middle income,Asia,1996,7.315
+KAZ,Kazakhstan,France (private),Upper middle income,Asia,1994,6.335
+KAZ,Kazakhstan,Germany (official),Upper middle income,Asia,2000,2.0
+KAZ,Kazakhstan,Germany (official),Upper middle income,Asia,1998,0.8888
+KAZ,Kazakhstan,Germany (official),Upper middle income,Asia,1996,2.5348
+KAZ,Kazakhstan,Germany (official),Upper middle income,Asia,1995,3.7299
+KAZ,Kazakhstan,Germany (official),Upper middle income,Asia,1993,8.3749
+KAZ,Kazakhstan,Germany (official),Upper middle income,Asia,1992,9.159
+KAZ,Kazakhstan,Germany (private),Upper middle income,Asia,1997,8.985
+KAZ,Kazakhstan,Germany (private),Upper middle income,Asia,1995,3.8714
+KAZ,Kazakhstan,Germany (private),Upper middle income,Asia,1994,4.5
+KAZ,Kazakhstan,Germany (private),Upper middle income,Asia,1993,6.7629
+KAZ,Kazakhstan,Germany (private),Upper middle income,Asia,1992,9.0463
+KAZ,Kazakhstan,India (official),Upper middle income,Asia,1998,10.0
+KAZ,Kazakhstan,Islamic Dev. Bank (official),Upper middle income,Asia,2016,2.4542
+KAZ,Kazakhstan,Islamic Dev. Bank (official),Upper middle income,Asia,2009,5.0999
+KAZ,Kazakhstan,Islamic Dev. Bank (official),Upper middle income,Asia,2003,2.5
+KAZ,Kazakhstan,Islamic Dev. Bank (official),Upper middle income,Asia,2000,5.4879
+KAZ,Kazakhstan,Islamic Dev. Bank (official),Upper middle income,Asia,1999,4.9999
+KAZ,Kazakhstan,Islamic Dev. Bank (official),Upper middle income,Asia,1998,1.2785
+KAZ,Kazakhstan,Israel (private),Upper middle income,Asia,1996,7.065
+KAZ,Kazakhstan,Israel (private),Upper middle income,Asia,1993,5.9
+KAZ,Kazakhstan,Japan (official),Upper middle income,Asia,2010,1.7
+KAZ,Kazakhstan,Japan (official),Upper middle income,Asia,2003,2.0847
+KAZ,Kazakhstan,Japan (official),Upper middle income,Asia,2001,3.5999
+KAZ,Kazakhstan,Japan (official),Upper middle income,Asia,2000,2.0729
+KAZ,Kazakhstan,Japan (official),Upper middle income,Asia,1998,1.9999
+KAZ,Kazakhstan,Japan (official),Upper middle income,Asia,1997,2.5
+KAZ,Kazakhstan,Japan (official),Upper middle income,Asia,1995,4.1344
+KAZ,Kazakhstan,Japan (official),Upper middle income,Asia,1994,4.706
+KAZ,Kazakhstan,Japan (private),Upper middle income,Asia,1995,9.185
+KAZ,Kazakhstan,Kuwait (official),Upper middle income,Asia,2000,3.0
+KAZ,Kazakhstan,Netherlands (private),Upper middle income,Asia,1999,9.683
+KAZ,Kazakhstan,Pakistan (official),Upper middle income,Asia,1992,5.0
+KAZ,Kazakhstan,Saudi Arabia (official),Upper middle income,Asia,2000,3.0
+KAZ,Kazakhstan,South Korea (official),Upper middle income,Asia,2000,3.0
+KAZ,Kazakhstan,South Korea (official),Upper middle income,Asia,1999,6.94
+KAZ,Kazakhstan,South Korea (official),Upper middle income,Asia,1998,5.1799
+KAZ,Kazakhstan,Spain (official),Upper middle income,Asia,2001,2.5
+KAZ,Kazakhstan,Sweden (official),Upper middle income,Asia,1994,6.6799
+KAZ,Kazakhstan,Switzerland (private),Upper middle income,Asia,2002,6.3823
+KAZ,Kazakhstan,Switzerland (private),Upper middle income,Asia,1998,4.5
+KAZ,Kazakhstan,Türkiye (official),Upper middle income,Asia,1998,4.1112
+KAZ,Kazakhstan,Türkiye (official),Upper middle income,Asia,1997,8.3387
+KAZ,Kazakhstan,Türkiye (official),Upper middle income,Asia,1995,8.0649
+KAZ,Kazakhstan,Türkiye (official),Upper middle income,Asia,1994,6.5106
+KAZ,Kazakhstan,Türkiye (official),Upper middle income,Asia,1993,4.8758
+KAZ,Kazakhstan,United Arab Emirates (official),Upper middle income,Asia,2001,3.0
+KAZ,Kazakhstan,United Kingdom (private),Upper middle income,Asia,2001,2.9999
+KAZ,Kazakhstan,United Kingdom (private),Upper middle income,Asia,2000,10.5
+KAZ,Kazakhstan,United Kingdom (private),Upper middle income,Asia,1999,6.1605
+KAZ,Kazakhstan,United Kingdom (private),Upper middle income,Asia,1998,7.8299
+KAZ,Kazakhstan,United Kingdom (private),Upper middle income,Asia,1997,3.7424
+KAZ,Kazakhstan,United States (official),Upper middle income,Asia,1997,6.17
+KAZ,Kazakhstan,United States (official),Upper middle income,Asia,1996,5.775
+KAZ,Kazakhstan,United States (private),Upper middle income,Asia,2000,11.5
+KAZ,Kazakhstan,United States (private),Upper middle income,Asia,1999,9.683
+KAZ,Kazakhstan,United States (private),Upper middle income,Asia,1996,9.165
+KAZ,Kazakhstan,United States (private),Upper middle income,Asia,1994,6.815
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2022,0.4799
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2021,0.7457
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2020,0.3659
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2019,2.8229
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2018,2.0
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2017,2.0126
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2016,2.592
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2015,2.1605
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2014,0.5557
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2013,0.8137
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2012,1.2116
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2011,0.8203
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2010,1.0347
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2009,1.4087
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2008,2.9843
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2006,6.19
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2005,5.0473
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2004,1.7699
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2003,1.8056
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2002,3.2
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2001,3.8377
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,2000,2.9948
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,1999,6.1605
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,1998,5.174
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,1997,5.5307
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,1996,6.4038
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,1995,5.4523
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,1994,5.604
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,1993,6.9177
+KAZ,Kazakhstan,World (official),Upper middle income,Asia,1992,8.443
+KAZ,Kazakhstan,World (private),Upper middle income,Asia,2021,4.3324
+KAZ,Kazakhstan,World (private),Upper middle income,Asia,2020,6.0875
+KAZ,Kazakhstan,World (private),Upper middle income,Asia,2019,1.1086
+KAZ,Kazakhstan,World (private),Upper middle income,Asia,2018,4.3105
+KAZ,Kazakhstan,World (private),Upper middle income,Asia,2015,5.6406
+KAZ,Kazakhstan,World (private),Upper middle income,Asia,2014,4.275
+KAZ,Kazakhstan,World (private),Upper middle income,Asia,2013,5.2093
+KAZ,Kazakhstan,World (private),Upper middle income,Asia,2012,5.248
+KAZ,Kazakhstan,World (private),Upper middle income,Asia,2002,5.2131
+KAZ,Kazakhstan,World (private),Upper middle income,Asia,2001,2.9999
+KAZ,Kazakhstan,World (private),Upper middle income,Asia,2000,10.9972
+KAZ,Kazakhstan,World (private),Upper middle income,Asia,1999,12.4796
+KAZ,Kazakhstan,World (private),Upper middle income,Asia,1998,7.4128
+KAZ,Kazakhstan,World (private),Upper middle income,Asia,1997,7.6476
+KAZ,Kazakhstan,World (private),Upper middle income,Asia,1996,9.0132
+KAZ,Kazakhstan,World (private),Upper middle income,Asia,1995,6.3906
+KAZ,Kazakhstan,World (private),Upper middle income,Asia,1994,6.1331
+KAZ,Kazakhstan,World (private),Upper middle income,Asia,1993,5.8135
+KAZ,Kazakhstan,World (private),Upper middle income,Asia,1992,9.0463
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,2022,0.4799
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,2021,0.6301
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,2017,1.9676
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,2016,1.4887
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,2015,1.0972
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,2014,0.6924
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,2012,1.1064
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,2011,0.7458
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,2010,1.0273
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,2009,1.1174
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,2008,2.9843
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,2006,6.19
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,2005,5.0473
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,2003,2.0899
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,2001,3.2999
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,1999,6.1976
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,1998,6.26
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,1997,7.051
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,1996,6.9472
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,1995,7.1212
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,1994,7.2105
+KAZ,Kazakhstan,World Bank-IBRD (official),Upper middle income,Asia,1993,7.42

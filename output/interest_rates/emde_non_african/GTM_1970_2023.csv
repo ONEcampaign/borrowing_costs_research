@@ -1,0 +1,390 @@
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+GTM,Guatemala,Argentina (official),Upper middle income,America,1983,7.5
+GTM,Guatemala,Austria (private),Upper middle income,America,1984,8.699
+GTM,Guatemala,Belgium (official),Upper middle income,America,1988,9.0
+GTM,Guatemala,Bondholders (private),Upper middle income,America,2023,6.7624
+GTM,Guatemala,Bondholders (private),Upper middle income,America,2022,5.25
+GTM,Guatemala,Bondholders (private),Upper middle income,America,2021,4.175
+GTM,Guatemala,Bondholders (private),Upper middle income,America,2020,5.8125
+GTM,Guatemala,Bondholders (private),Upper middle income,America,2019,5.6145
+GTM,Guatemala,Bondholders (private),Upper middle income,America,2017,4.375
+GTM,Guatemala,Bondholders (private),Upper middle income,America,2013,0.0487
+GTM,Guatemala,Bondholders (private),Upper middle income,America,2012,0.057
+GTM,Guatemala,Bondholders (private),Upper middle income,America,2004,8.13
+GTM,Guatemala,Bondholders (private),Upper middle income,America,2003,9.25
+GTM,Guatemala,Bondholders (private),Upper middle income,America,2001,10.25
+GTM,Guatemala,Bondholders (private),Upper middle income,America,1997,8.5
+GTM,Guatemala,Bondholders (private),Upper middle income,America,1992,9.255
+GTM,Guatemala,Bondholders (private),Upper middle income,America,1990,9.255
+GTM,Guatemala,Bondholders (private),Upper middle income,America,1970,4.5
+GTM,Guatemala,Brazil (official),Upper middle income,America,2013,0.5187
+GTM,Guatemala,Canada (official),Upper middle income,America,1981,10.75
+GTM,Guatemala,Canada (official),Upper middle income,America,1976,7.8749
+GTM,Guatemala,Canada (private),Upper middle income,America,1970,9.685
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,2020,3.889
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,2015,0.4496
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,2014,4.4899
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,2012,0.5849
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,2011,6.6483
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,2010,7.3443
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,2009,1.3788
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,2008,6.4597
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,2007,6.961
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,2006,6.8099
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,2005,6.8499
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,2004,6.8499
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,2003,7.0333
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,2002,9.5563
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,2001,8.1319
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1999,7.7652
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1998,7.213
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1997,7.5
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1995,8.0
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1994,7.3385
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1992,4.8748
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1990,7.0
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1989,8.9546
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1988,7.5
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1987,7.0
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1984,9.9027
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1982,6.0
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1981,8.844
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1980,8.4449
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1979,8.75
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1978,8.75
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1977,9.1465
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1976,7.574
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1975,7.491
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1974,6.02
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1973,6.0883
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1972,5.6251
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1971,6.5523
+GTM,Guatemala,Central American Bank for Econ. Integration (BCIE) (official),Upper middle income,America,1970,5.25
+GTM,Guatemala,China (official),Upper middle income,America,2015,1.32
+GTM,Guatemala,China (official),Upper middle income,America,2002,3.5
+GTM,Guatemala,China (official),Upper middle income,America,1999,4.337
+GTM,Guatemala,China (official),Upper middle income,America,1998,5.0
+GTM,Guatemala,China (official),Upper middle income,America,1996,4.0
+GTM,Guatemala,China (official),Upper middle income,America,1988,4.0
+GTM,Guatemala,China (official),Upper middle income,America,1986,10.0
+GTM,Guatemala,China (official),Upper middle income,America,1985,6.9387
+GTM,Guatemala,China (official),Upper middle income,America,1984,10.0
+GTM,Guatemala,China (official),Upper middle income,America,1982,10.0
+GTM,Guatemala,Costa Rica (official),Upper middle income,America,1985,9.005
+GTM,Guatemala,France (official),Upper middle income,America,1987,1.9999
+GTM,Guatemala,France (official),Upper middle income,America,1986,2.0
+GTM,Guatemala,France (official),Upper middle income,America,1985,2.0
+GTM,Guatemala,France (private),Upper middle income,America,1989,8.55
+GTM,Guatemala,France (private),Upper middle income,America,1987,8.5893
+GTM,Guatemala,France (private),Upper middle income,America,1986,8.75
+GTM,Guatemala,France (private),Upper middle income,America,1985,11.1999
+GTM,Guatemala,France (private),Upper middle income,America,1982,7.75
+GTM,Guatemala,France (private),Upper middle income,America,1981,7.75
+GTM,Guatemala,Germany (official),Upper middle income,America,2008,0.7499
+GTM,Guatemala,Germany (official),Upper middle income,America,2005,0.7499
+GTM,Guatemala,Germany (official),Upper middle income,America,2002,0.75
+GTM,Guatemala,Germany (official),Upper middle income,America,2001,0.75
+GTM,Guatemala,Germany (official),Upper middle income,America,1998,1.75
+GTM,Guatemala,Germany (official),Upper middle income,America,1995,1.75
+GTM,Guatemala,Germany (official),Upper middle income,America,1993,7.4
+GTM,Guatemala,Germany (official),Upper middle income,America,1992,1.7499
+GTM,Guatemala,Germany (official),Upper middle income,America,1991,2.0
+GTM,Guatemala,Germany (official),Upper middle income,America,1990,1.2499
+GTM,Guatemala,Germany (official),Upper middle income,America,1988,8.5
+GTM,Guatemala,Germany (official),Upper middle income,America,1987,0.75
+GTM,Guatemala,Germany (official),Upper middle income,America,1986,0.7717
+GTM,Guatemala,Germany (official),Upper middle income,America,1983,10.0
+GTM,Guatemala,Germany (official),Upper middle income,America,1981,9.42
+GTM,Guatemala,Germany (official),Upper middle income,America,1979,0.75
+GTM,Guatemala,Germany (official),Upper middle income,America,1976,2.0
+GTM,Guatemala,Germany (private),Upper middle income,America,2016,2.9
+GTM,Guatemala,Germany (private),Upper middle income,America,1985,11.0649
+GTM,Guatemala,Germany (private),Upper middle income,America,1983,11.0649
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,2020,1.9348
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,2018,3.42
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,2015,1.4031
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,2013,0.7102
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,2012,0.9329
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,2011,0.5473
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,2010,0.5306
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,2009,1.6227
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,2008,5.4224
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,2007,5.358
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,2006,5.2156
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,2005,4.3305
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,2004,5.29
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,2003,6.0999
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,2002,5.5768
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,2001,6.9705
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,2000,6.7699
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1999,6.98
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1998,6.4943
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1997,6.4738
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1996,6.1395
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1994,5.2618
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1993,1.7549
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1992,1.7712
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1991,2.2756
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1989,1.72
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1988,8.1
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1987,2.7919
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1985,9.554
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1984,7.7659
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1983,6.036
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1982,1.7624
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1981,5.3114
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1980,7.899
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1978,1.7611
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1977,1.761
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1976,2.5331
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1975,1.7655
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1974,1.7552
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1973,1.9376
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1972,3.0
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1971,3.25
+GTM,Guatemala,Inter-American Dev. Bank (official),Upper middle income,America,1970,3.25
+GTM,Guatemala,International Fund for Agricultural Dev. (official),Upper middle income,America,2011,1.3085
+GTM,Guatemala,International Fund for Agricultural Dev. (official),Upper middle income,America,2008,3.9999
+GTM,Guatemala,International Fund for Agricultural Dev. (official),Upper middle income,America,2006,2.5499
+GTM,Guatemala,International Fund for Agricultural Dev. (official),Upper middle income,America,2001,2.68
+GTM,Guatemala,International Fund for Agricultural Dev. (official),Upper middle income,America,1998,6.2499
+GTM,Guatemala,International Fund for Agricultural Dev. (official),Upper middle income,America,1990,4.0
+GTM,Guatemala,International Fund for Agricultural Dev. (official),Upper middle income,America,1984,4.0
+GTM,Guatemala,Italy (official),Upper middle income,America,1992,1.5
+GTM,Guatemala,Italy (official),Upper middle income,America,1990,1.5
+GTM,Guatemala,Italy (official),Upper middle income,America,1989,9.35
+GTM,Guatemala,Italy (official),Upper middle income,America,1985,2.5
+GTM,Guatemala,Japan (official),Upper middle income,America,2012,0.014
+GTM,Guatemala,Japan (official),Upper middle income,America,2006,0.7499
+GTM,Guatemala,Japan (official),Upper middle income,America,1999,2.2499
+GTM,Guatemala,Japan (official),Upper middle income,America,1995,3.0
+GTM,Guatemala,Japan (official),Upper middle income,America,1988,3.4999
+GTM,Guatemala,Macau (private),Upper middle income,America,1985,11.1999
+GTM,Guatemala,Mexico (official),Upper middle income,America,1995,4.0
+GTM,Guatemala,Mexico (official),Upper middle income,America,1994,4.0
+GTM,Guatemala,Mexico (official),Upper middle income,America,1993,4.0
+GTM,Guatemala,Mexico (official),Upper middle income,America,1992,4.0
+GTM,Guatemala,Mexico (official),Upper middle income,America,1991,4.0
+GTM,Guatemala,Mexico (official),Upper middle income,America,1990,4.0
+GTM,Guatemala,Mexico (official),Upper middle income,America,1989,4.0
+GTM,Guatemala,Mexico (official),Upper middle income,America,1988,5.1224
+GTM,Guatemala,Mexico (official),Upper middle income,America,1987,4.0
+GTM,Guatemala,Mexico (official),Upper middle income,America,1985,4.0
+GTM,Guatemala,Mexico (official),Upper middle income,America,1984,4.0
+GTM,Guatemala,Mexico (official),Upper middle income,America,1983,4.0
+GTM,Guatemala,Mexico (official),Upper middle income,America,1982,4.0
+GTM,Guatemala,Mexico (official),Upper middle income,America,1980,4.0
+GTM,Guatemala,Multiple Lenders (official),Upper middle income,America,1987,3.6521
+GTM,Guatemala,OPEC Fund for International Dev. (official),Upper middle income,America,2011,3.4
+GTM,Guatemala,OPEC Fund for International Dev. (official),Upper middle income,America,2008,2.7999
+GTM,Guatemala,OPEC Fund for International Dev. (official),Upper middle income,America,2007,2.5
+GTM,Guatemala,OPEC Fund for International Dev. (official),Upper middle income,America,2006,2.25
+GTM,Guatemala,OPEC Fund for International Dev. (official),Upper middle income,America,2001,2.0
+GTM,Guatemala,OPEC Fund for International Dev. (official),Upper middle income,America,1998,3.75
+GTM,Guatemala,OPEC Fund for International Dev. (official),Upper middle income,America,1997,3.5
+GTM,Guatemala,OPEC Fund for International Dev. (official),Upper middle income,America,1992,3.75
+GTM,Guatemala,OPEC Fund for International Dev. (official),Upper middle income,America,1991,4.5
+GTM,Guatemala,OPEC Fund for International Dev. (official),Upper middle income,America,1988,4.25
+GTM,Guatemala,OPEC Fund for International Dev. (official),Upper middle income,America,1985,0.25
+GTM,Guatemala,Spain (official),Upper middle income,America,2002,1.71
+GTM,Guatemala,Spain (private),Upper middle income,America,2012,0.028
+GTM,Guatemala,Spain (private),Upper middle income,America,1984,8.199
+GTM,Guatemala,Spain (private),Upper middle income,America,1983,10.875
+GTM,Guatemala,Spain (private),Upper middle income,America,1982,11.362
+GTM,Guatemala,Spain (private),Upper middle income,America,1981,8.2983
+GTM,Guatemala,Spain (private),Upper middle income,America,1980,8.199
+GTM,Guatemala,Spain (private),Upper middle income,America,1971,7.0
+GTM,Guatemala,Spain (private),Upper middle income,America,1970,7.5
+GTM,Guatemala,Switzerland (private),Upper middle income,America,2006,3.38
+GTM,Guatemala,Switzerland (private),Upper middle income,America,1989,6.8749
+GTM,Guatemala,United Kingdom (private),Upper middle income,America,1985,11.1999
+GTM,Guatemala,United Kingdom (private),Upper middle income,America,1982,12.0649
+GTM,Guatemala,United Kingdom (private),Upper middle income,America,1981,18.25
+GTM,Guatemala,United Kingdom (private),Upper middle income,America,1980,10.8843
+GTM,Guatemala,United Kingdom (private),Upper middle income,America,1971,7.2685
+GTM,Guatemala,United States (official),Upper middle income,America,2022,3.0
+GTM,Guatemala,United States (official),Upper middle income,America,1999,2.0
+GTM,Guatemala,United States (official),Upper middle income,America,1994,3.0
+GTM,Guatemala,United States (official),Upper middle income,America,1993,3.0
+GTM,Guatemala,United States (official),Upper middle income,America,1992,3.0161
+GTM,Guatemala,United States (official),Upper middle income,America,1991,3.5
+GTM,Guatemala,United States (official),Upper middle income,America,1990,3.5
+GTM,Guatemala,United States (official),Upper middle income,America,1988,6.6167
+GTM,Guatemala,United States (official),Upper middle income,America,1987,3.6112
+GTM,Guatemala,United States (official),Upper middle income,America,1986,3.6566
+GTM,Guatemala,United States (official),Upper middle income,America,1985,3.2392
+GTM,Guatemala,United States (official),Upper middle income,America,1984,3.3649
+GTM,Guatemala,United States (official),Upper middle income,America,1983,2.6427
+GTM,Guatemala,United States (official),Upper middle income,America,1981,2.5961
+GTM,Guatemala,United States (official),Upper middle income,America,1980,2.6078
+GTM,Guatemala,United States (official),Upper middle income,America,1979,2.603
+GTM,Guatemala,United States (official),Upper middle income,America,1978,2.6451
+GTM,Guatemala,United States (official),Upper middle income,America,1977,2.6951
+GTM,Guatemala,United States (official),Upper middle income,America,1976,2.8096
+GTM,Guatemala,United States (official),Upper middle income,America,1975,3.0
+GTM,Guatemala,United States (official),Upper middle income,America,1974,2.7532
+GTM,Guatemala,United States (official),Upper middle income,America,1973,2.767
+GTM,Guatemala,United States (official),Upper middle income,America,1971,2.7648
+GTM,Guatemala,United States (official),Upper middle income,America,1970,2.782
+GTM,Guatemala,United States (private),Upper middle income,America,1993,3.69
+GTM,Guatemala,United States (private),Upper middle income,America,1992,4.69
+GTM,Guatemala,United States (private),Upper middle income,America,1991,3.5058
+GTM,Guatemala,United States (private),Upper middle income,America,1990,8.3663
+GTM,Guatemala,United States (private),Upper middle income,America,1989,10.1494
+GTM,Guatemala,United States (private),Upper middle income,America,1988,10.685
+GTM,Guatemala,United States (private),Upper middle income,America,1987,13.505
+GTM,Guatemala,United States (private),Upper middle income,America,1986,12.4994
+GTM,Guatemala,United States (private),Upper middle income,America,1985,12.2874
+GTM,Guatemala,United States (private),Upper middle income,America,1984,12.0988
+GTM,Guatemala,United States (private),Upper middle income,America,1983,11.8258
+GTM,Guatemala,United States (private),Upper middle income,America,1981,18.375
+GTM,Guatemala,United States (private),Upper middle income,America,1980,10.9399
+GTM,Guatemala,United States (private),Upper middle income,America,1979,10.0
+GTM,Guatemala,United States (private),Upper middle income,America,1978,6.25
+GTM,Guatemala,United States (private),Upper middle income,America,1977,6.25
+GTM,Guatemala,United States (private),Upper middle income,America,1975,8.9216
+GTM,Guatemala,United States (private),Upper middle income,America,1974,5.5212
+GTM,Guatemala,United States (private),Upper middle income,America,1973,5.9464
+GTM,Guatemala,United States (private),Upper middle income,America,1972,9.6443
+GTM,Guatemala,United States (private),Upper middle income,America,1971,5.91
+GTM,Guatemala,United States (private),Upper middle income,America,1970,8.5365
+GTM,Guatemala,Venezuela (official),Upper middle income,America,1996,6.76
+GTM,Guatemala,Venezuela (official),Upper middle income,America,1993,8.0
+GTM,Guatemala,Venezuela (official),Upper middle income,America,1992,8.0
+GTM,Guatemala,Venezuela (official),Upper middle income,America,1991,5.673
+GTM,Guatemala,Venezuela (official),Upper middle income,America,1990,7.9771
+GTM,Guatemala,Venezuela (official),Upper middle income,America,1989,7.5893
+GTM,Guatemala,Venezuela (official),Upper middle income,America,1987,8.0
+GTM,Guatemala,Venezuela (official),Upper middle income,America,1986,8.0
+GTM,Guatemala,Venezuela (official),Upper middle income,America,1985,3.5795
+GTM,Guatemala,Venezuela (official),Upper middle income,America,1984,4.0
+GTM,Guatemala,Venezuela (official),Upper middle income,America,1983,4.0
+GTM,Guatemala,Venezuela (official),Upper middle income,America,1982,4.0
+GTM,Guatemala,Venezuela (official),Upper middle income,America,1981,4.0
+GTM,Guatemala,Venezuela (official),Upper middle income,America,1980,8.25
+GTM,Guatemala,Venezuela (official),Upper middle income,America,1979,4.0
+GTM,Guatemala,Venezuela (official),Upper middle income,America,1977,8.0
+GTM,Guatemala,Venezuela (official),Upper middle income,America,1976,8.0
+GTM,Guatemala,World (official),Upper middle income,America,2022,1.3844
+GTM,Guatemala,World (official),Upper middle income,America,2020,2.6408
+GTM,Guatemala,World (official),Upper middle income,America,2019,3.9166
+GTM,Guatemala,World (official),Upper middle income,America,2018,3.614
+GTM,Guatemala,World (official),Upper middle income,America,2015,0.7823
+GTM,Guatemala,World (official),Upper middle income,America,2014,4.4899
+GTM,Guatemala,World (official),Upper middle income,America,2013,0.7669
+GTM,Guatemala,World (official),Upper middle income,America,2012,0.5987
+GTM,Guatemala,World (official),Upper middle income,America,2011,3.0719
+GTM,Guatemala,World (official),Upper middle income,America,2010,3.7113
+GTM,Guatemala,World (official),Upper middle income,America,2009,1.6359
+GTM,Guatemala,World (official),Upper middle income,America,2008,4.3264
+GTM,Guatemala,World (official),Upper middle income,America,2007,5.8501
+GTM,Guatemala,World (official),Upper middle income,America,2006,5.6125
+GTM,Guatemala,World (official),Upper middle income,America,2005,5.3708
+GTM,Guatemala,World (official),Upper middle income,America,2004,4.1609
+GTM,Guatemala,World (official),Upper middle income,America,2003,5.7001
+GTM,Guatemala,World (official),Upper middle income,America,2002,4.4683
+GTM,Guatemala,World (official),Upper middle income,America,2001,6.3887
+GTM,Guatemala,World (official),Upper middle income,America,2000,7.1796
+GTM,Guatemala,World (official),Upper middle income,America,1999,6.4431
+GTM,Guatemala,World (official),Upper middle income,America,1998,6.2785
+GTM,Guatemala,World (official),Upper middle income,America,1997,6.6088
+GTM,Guatemala,World (official),Upper middle income,America,1996,6.0645
+GTM,Guatemala,World (official),Upper middle income,America,1995,4.1833
+GTM,Guatemala,World (official),Upper middle income,America,1994,5.7306
+GTM,Guatemala,World (official),Upper middle income,America,1993,5.0078
+GTM,Guatemala,World (official),Upper middle income,America,1992,6.1133
+GTM,Guatemala,World (official),Upper middle income,America,1991,3.6346
+GTM,Guatemala,World (official),Upper middle income,America,1990,4.9
+GTM,Guatemala,World (official),Upper middle income,America,1989,8.0336
+GTM,Guatemala,World (official),Upper middle income,America,1988,6.4946
+GTM,Guatemala,World (official),Upper middle income,America,1987,3.0896
+GTM,Guatemala,World (official),Upper middle income,America,1986,4.1421
+GTM,Guatemala,World (official),Upper middle income,America,1985,7.2398
+GTM,Guatemala,World (official),Upper middle income,America,1984,7.4985
+GTM,Guatemala,World (official),Upper middle income,America,1983,6.3331
+GTM,Guatemala,World (official),Upper middle income,America,1982,3.3118
+GTM,Guatemala,World (official),Upper middle income,America,1981,6.4033
+GTM,Guatemala,World (official),Upper middle income,America,1980,7.2814
+GTM,Guatemala,World (official),Upper middle income,America,1979,5.4571
+GTM,Guatemala,World (official),Upper middle income,America,1978,5.8186
+GTM,Guatemala,World (official),Upper middle income,America,1977,6.5334
+GTM,Guatemala,World (official),Upper middle income,America,1976,4.9658
+GTM,Guatemala,World (official),Upper middle income,America,1975,5.7203
+GTM,Guatemala,World (official),Upper middle income,America,1974,4.0693
+GTM,Guatemala,World (official),Upper middle income,America,1973,3.5064
+GTM,Guatemala,World (official),Upper middle income,America,1972,6.4171
+GTM,Guatemala,World (official),Upper middle income,America,1971,4.6444
+GTM,Guatemala,World (official),Upper middle income,America,1970,3.0834
+GTM,Guatemala,World (private),Upper middle income,America,2023,6.7624
+GTM,Guatemala,World (private),Upper middle income,America,2022,5.25
+GTM,Guatemala,World (private),Upper middle income,America,2021,4.175
+GTM,Guatemala,World (private),Upper middle income,America,2020,5.8125
+GTM,Guatemala,World (private),Upper middle income,America,2019,5.6145
+GTM,Guatemala,World (private),Upper middle income,America,2017,4.375
+GTM,Guatemala,World (private),Upper middle income,America,2016,0.0931
+GTM,Guatemala,World (private),Upper middle income,America,2013,0.0487
+GTM,Guatemala,World (private),Upper middle income,America,2012,0.0555
+GTM,Guatemala,World (private),Upper middle income,America,2006,3.38
+GTM,Guatemala,World (private),Upper middle income,America,2004,8.13
+GTM,Guatemala,World (private),Upper middle income,America,2003,9.25
+GTM,Guatemala,World (private),Upper middle income,America,2001,10.25
+GTM,Guatemala,World (private),Upper middle income,America,1997,8.5
+GTM,Guatemala,World (private),Upper middle income,America,1993,3.69
+GTM,Guatemala,World (private),Upper middle income,America,1992,8.7061
+GTM,Guatemala,World (private),Upper middle income,America,1991,3.5058
+GTM,Guatemala,World (private),Upper middle income,America,1990,8.4188
+GTM,Guatemala,World (private),Upper middle income,America,1989,9.0128
+GTM,Guatemala,World (private),Upper middle income,America,1988,10.685
+GTM,Guatemala,World (private),Upper middle income,America,1987,11.4467
+GTM,Guatemala,World (private),Upper middle income,America,1986,11.0092
+GTM,Guatemala,World (private),Upper middle income,America,1985,11.7975
+GTM,Guatemala,World (private),Upper middle income,America,1984,11.5081
+GTM,Guatemala,World (private),Upper middle income,America,1983,11.6715
+GTM,Guatemala,World (private),Upper middle income,America,1982,9.3098
+GTM,Guatemala,World (private),Upper middle income,America,1981,12.8252
+GTM,Guatemala,World (private),Upper middle income,America,1980,8.4832
+GTM,Guatemala,World (private),Upper middle income,America,1979,10.0
+GTM,Guatemala,World (private),Upper middle income,America,1978,6.25
+GTM,Guatemala,World (private),Upper middle income,America,1977,6.25
+GTM,Guatemala,World (private),Upper middle income,America,1975,8.9216
+GTM,Guatemala,World (private),Upper middle income,America,1974,5.5212
+GTM,Guatemala,World (private),Upper middle income,America,1973,5.9464
+GTM,Guatemala,World (private),Upper middle income,America,1972,9.6443
+GTM,Guatemala,World (private),Upper middle income,America,1971,6.7934
+GTM,Guatemala,World (private),Upper middle income,America,1970,8.5413
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,2022,1.3837
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,2020,2.3594
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,2019,3.9166
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,2018,3.7304
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,2015,0.8873
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,2013,1.3467
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,2012,1.7364
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,2011,1.5059
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,2010,1.6024
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,2009,1.7451
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,2008,2.9838
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,2007,6.2157
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,2006,5.8099
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,2004,2.21
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,2003,1.71
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,2002,2.0096
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,2000,7.4299
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,1999,5.9
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,1998,6.3881
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,1997,6.5799
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,1996,6.9699
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,1993,7.4077
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,1992,7.5799
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,1990,7.75
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,1989,8.2299
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,1988,7.6912
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,1985,9.2899
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,1984,10.0799
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,1983,10.47
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,1980,8.25
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,1978,7.5
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,1977,8.199
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,1976,8.7255
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,1975,8.5
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,1972,7.25
+GTM,Guatemala,World Bank-IBRD (official),Upper middle income,America,1971,7.25

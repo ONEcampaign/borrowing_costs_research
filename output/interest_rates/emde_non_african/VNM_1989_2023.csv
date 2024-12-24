@@ -1,0 +1,403 @@
+entity_code,entity_name,counterpart_name,income_level,continent,year,value
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2021,0.8387
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2019,2.0
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2018,2.1821
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2017,1.9109
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2016,1.5108
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2015,1.3727
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2014,1.1915
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2013,1.1014
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2012,1.287
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2011,0.9501
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2010,0.861
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2009,1.9624
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2008,3.1572
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2007,1.7538
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2006,4.1193
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2005,2.9197
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2004,1.3629
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2003,1.3528
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2002,1.377
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2001,1.3775
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,2000,2.7947
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,1999,2.9005
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,1998,3.278
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,1997,3.3242
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,1996,3.4629
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,1995,3.498
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,1994,1.0
+VNM,Viet Nam,Asian Dev. Bank (official),Lower middle income,Asia,1993,1.0
+VNM,Viet Nam,Australia (private),Lower middle income,Asia,2008,7.2139
+VNM,Viet Nam,Austria (official),Lower middle income,Asia,2007,1.4429
+VNM,Viet Nam,Austria (private),Lower middle income,Asia,2018,0.8799
+VNM,Viet Nam,Austria (private),Lower middle income,Asia,2016,0.8999
+VNM,Viet Nam,Austria (private),Lower middle income,Asia,2015,1.0557
+VNM,Viet Nam,Austria (private),Lower middle income,Asia,2014,1.2999
+VNM,Viet Nam,Austria (private),Lower middle income,Asia,2013,0.8999
+VNM,Viet Nam,Austria (private),Lower middle income,Asia,2012,1.3895
+VNM,Viet Nam,Austria (private),Lower middle income,Asia,2011,1.455
+VNM,Viet Nam,Austria (private),Lower middle income,Asia,2010,2.0309
+VNM,Viet Nam,Austria (private),Lower middle income,Asia,2008,1.5844
+VNM,Viet Nam,Austria (private),Lower middle income,Asia,2007,1.7063
+VNM,Viet Nam,Austria (private),Lower middle income,Asia,2005,2.0
+VNM,Viet Nam,Belgium (private),Lower middle income,Asia,2017,0.4
+VNM,Viet Nam,Belgium (private),Lower middle income,Asia,2008,2.8102
+VNM,Viet Nam,Belgium (private),Lower middle income,Asia,2007,1.0
+VNM,Viet Nam,Belgium (private),Lower middle income,Asia,2006,5.0
+VNM,Viet Nam,Belgium (private),Lower middle income,Asia,1998,5.5849
+VNM,Viet Nam,Belgium (private),Lower middle income,Asia,1997,6.459
+VNM,Viet Nam,Bondholders (private),Lower middle income,Asia,2013,1.0
+VNM,Viet Nam,Bondholders (private),Lower middle income,Asia,2010,6.8
+VNM,Viet Nam,Bondholders (private),Lower middle income,Asia,2005,6.9
+VNM,Viet Nam,Canada (official),Lower middle income,Asia,1997,5.25
+VNM,Viet Nam,Canada (official),Lower middle income,Asia,1995,14.8149
+VNM,Viet Nam,China (official),Lower middle income,Asia,2017,3.0
+VNM,Viet Nam,China (official),Lower middle income,Asia,2012,3.6858
+VNM,Viet Nam,China (official),Lower middle income,Asia,2009,2.2752
+VNM,Viet Nam,China (official),Lower middle income,Asia,2008,3.5
+VNM,Viet Nam,China (official),Lower middle income,Asia,2007,4.8142
+VNM,Viet Nam,China (official),Lower middle income,Asia,2006,5.8928
+VNM,Viet Nam,China (official),Lower middle income,Asia,2004,5.0999
+VNM,Viet Nam,China (official),Lower middle income,Asia,2003,2.9999
+VNM,Viet Nam,China (official),Lower middle income,Asia,2000,0.4378
+VNM,Viet Nam,China (official),Lower middle income,Asia,1999,4.0
+VNM,Viet Nam,China (official),Lower middle income,Asia,1997,6.5
+VNM,Viet Nam,China (private),Lower middle income,Asia,1997,6.4475
+VNM,Viet Nam,Denmark (private),Lower middle income,Asia,2012,1.0
+VNM,Viet Nam,European Investment Bank (official),Lower middle income,Asia,2015,1.94
+VNM,Viet Nam,European Investment Bank (official),Lower middle income,Asia,2009,1.94
+VNM,Viet Nam,Finland (official),Lower middle income,Asia,1995,2.0
+VNM,Viet Nam,Finland (private),Lower middle income,Asia,2011,0.1187
+VNM,Viet Nam,Finland (private),Lower middle income,Asia,1997,1.2659
+VNM,Viet Nam,France (official),Lower middle income,Asia,2023,3.4909
+VNM,Viet Nam,France (official),Lower middle income,Asia,2022,0.0799
+VNM,Viet Nam,France (official),Lower middle income,Asia,2021,0.0799
+VNM,Viet Nam,France (official),Lower middle income,Asia,2020,0.0112
+VNM,Viet Nam,France (official),Lower middle income,Asia,2015,0.5521
+VNM,Viet Nam,France (official),Lower middle income,Asia,2014,1.35
+VNM,Viet Nam,France (official),Lower middle income,Asia,2012,0.59
+VNM,Viet Nam,France (official),Lower middle income,Asia,2011,0.125
+VNM,Viet Nam,France (official),Lower middle income,Asia,2010,3.4277
+VNM,Viet Nam,France (official),Lower middle income,Asia,2009,1.8468
+VNM,Viet Nam,France (official),Lower middle income,Asia,2008,1.7799
+VNM,Viet Nam,France (official),Lower middle income,Asia,2007,2.9512
+VNM,Viet Nam,France (official),Lower middle income,Asia,2006,1.8281
+VNM,Viet Nam,France (official),Lower middle income,Asia,2005,2.0763
+VNM,Viet Nam,France (official),Lower middle income,Asia,2004,2.1527
+VNM,Viet Nam,France (official),Lower middle income,Asia,2003,2.3636
+VNM,Viet Nam,France (official),Lower middle income,Asia,1999,3.0
+VNM,Viet Nam,France (official),Lower middle income,Asia,1998,2.9184
+VNM,Viet Nam,France (official),Lower middle income,Asia,1997,3.2244
+VNM,Viet Nam,France (official),Lower middle income,Asia,1996,1.7491
+VNM,Viet Nam,France (official),Lower middle income,Asia,1995,1.0
+VNM,Viet Nam,France (official),Lower middle income,Asia,1994,1.0
+VNM,Viet Nam,France (official),Lower middle income,Asia,1993,2.5999
+VNM,Viet Nam,France (private),Lower middle income,Asia,2015,2.0099
+VNM,Viet Nam,France (private),Lower middle income,Asia,2013,3.2467
+VNM,Viet Nam,France (private),Lower middle income,Asia,2012,1.0
+VNM,Viet Nam,France (private),Lower middle income,Asia,2011,2.9215
+VNM,Viet Nam,France (private),Lower middle income,Asia,2010,2.2022
+VNM,Viet Nam,France (private),Lower middle income,Asia,2009,1.5392
+VNM,Viet Nam,France (private),Lower middle income,Asia,2008,5.4233
+VNM,Viet Nam,France (private),Lower middle income,Asia,2007,7.3271
+VNM,Viet Nam,France (private),Lower middle income,Asia,2006,6.2318
+VNM,Viet Nam,France (private),Lower middle income,Asia,2004,3.294
+VNM,Viet Nam,France (private),Lower middle income,Asia,2003,3.6011
+VNM,Viet Nam,France (private),Lower middle income,Asia,1997,6.7622
+VNM,Viet Nam,France (private),Lower middle income,Asia,1996,6.8299
+VNM,Viet Nam,France (private),Lower middle income,Asia,1995,7.3113
+VNM,Viet Nam,France (private),Lower middle income,Asia,1994,6.09
+VNM,Viet Nam,Germany (official),Lower middle income,Asia,2023,5.611
+VNM,Viet Nam,Germany (official),Lower middle income,Asia,2022,0.7499
+VNM,Viet Nam,Germany (official),Lower middle income,Asia,2021,0.7499
+VNM,Viet Nam,Germany (official),Lower middle income,Asia,2017,1.4571
+VNM,Viet Nam,Germany (official),Lower middle income,Asia,2016,1.6507
+VNM,Viet Nam,Germany (official),Lower middle income,Asia,2015,1.2312
+VNM,Viet Nam,Germany (official),Lower middle income,Asia,2014,1.8344
+VNM,Viet Nam,Germany (official),Lower middle income,Asia,2013,2.5852
+VNM,Viet Nam,Germany (official),Lower middle income,Asia,2010,1.0
+VNM,Viet Nam,Germany (official),Lower middle income,Asia,2009,2.1199
+VNM,Viet Nam,Germany (official),Lower middle income,Asia,2008,5.1817
+VNM,Viet Nam,Germany (official),Lower middle income,Asia,2007,0.7499
+VNM,Viet Nam,Germany (official),Lower middle income,Asia,2006,0.7593
+VNM,Viet Nam,Germany (official),Lower middle income,Asia,2005,0.7951
+VNM,Viet Nam,Germany (official),Lower middle income,Asia,2002,0.8
+VNM,Viet Nam,Germany (official),Lower middle income,Asia,1998,2.0
+VNM,Viet Nam,Germany (official),Lower middle income,Asia,1997,0.7499
+VNM,Viet Nam,Germany (official),Lower middle income,Asia,1996,0.7499
+VNM,Viet Nam,Germany (official),Lower middle income,Asia,1995,0.75
+VNM,Viet Nam,Germany (official),Lower middle income,Asia,1991,0.75
+VNM,Viet Nam,Germany (private),Lower middle income,Asia,2014,4.8
+VNM,Viet Nam,Germany (private),Lower middle income,Asia,2010,4.15
+VNM,Viet Nam,Germany (private),Lower middle income,Asia,1997,5.1068
+VNM,Viet Nam,Germany (private),Lower middle income,Asia,1996,7.2649
+VNM,Viet Nam,Hong Kong (private),Lower middle income,Asia,2014,2.2184
+VNM,Viet Nam,Hong Kong (private),Lower middle income,Asia,2011,2.871
+VNM,Viet Nam,Hong Kong (private),Lower middle income,Asia,2010,0.8384
+VNM,Viet Nam,Hong Kong (private),Lower middle income,Asia,2009,3.1801
+VNM,Viet Nam,Hong Kong (private),Lower middle income,Asia,1997,11.7315
+VNM,Viet Nam,India (official),Lower middle income,Asia,2013,2.0
+VNM,Viet Nam,India (official),Lower middle income,Asia,2008,1.75
+VNM,Viet Nam,India (official),Lower middle income,Asia,2004,1.5
+VNM,Viet Nam,India (official),Lower middle income,Asia,1999,5.0
+VNM,Viet Nam,India (official),Lower middle income,Asia,1997,5.0
+VNM,Viet Nam,India (official),Lower middle income,Asia,1996,5.0
+VNM,Viet Nam,India (official),Lower middle income,Asia,1993,5.0
+VNM,Viet Nam,India (official),Lower middle income,Asia,1990,5.0
+VNM,Viet Nam,India (official),Lower middle income,Asia,1989,5.0
+VNM,Viet Nam,International Bank for Economic Cooperation (IBEC) (official),Lower middle income,Asia,1992,7.0
+VNM,Viet Nam,International Bank for Economic Cooperation (IBEC) (official),Lower middle income,Asia,1990,7.0
+VNM,Viet Nam,International Fund for Agricultural Dev. (official),Lower middle income,Asia,2017,2.0
+VNM,Viet Nam,International Fund for Agricultural Dev. (official),Lower middle income,Asia,2014,0.7499
+VNM,Viet Nam,International Fund for Agricultural Dev. (official),Lower middle income,Asia,2011,0.75
+VNM,Viet Nam,International Fund for Agricultural Dev. (official),Lower middle income,Asia,2009,0.75
+VNM,Viet Nam,International Fund for Agricultural Dev. (official),Lower middle income,Asia,2008,0.7499
+VNM,Viet Nam,International Fund for Agricultural Dev. (official),Lower middle income,Asia,2005,0.8
+VNM,Viet Nam,International Fund for Agricultural Dev. (official),Lower middle income,Asia,1998,0.75
+VNM,Viet Nam,International Fund for Agricultural Dev. (official),Lower middle income,Asia,1997,0.75
+VNM,Viet Nam,International Fund for Agricultural Dev. (official),Lower middle income,Asia,1993,1.0
+VNM,Viet Nam,Italy (official),Lower middle income,Asia,2000,1.5
+VNM,Viet Nam,Italy (official),Lower middle income,Asia,1992,1.5
+VNM,Viet Nam,Italy (official),Lower middle income,Asia,1991,1.4999
+VNM,Viet Nam,Italy (private),Lower middle income,Asia,2006,5.0
+VNM,Viet Nam,Italy (private),Lower middle income,Asia,1997,6.6606
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2023,0.012
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2022,0.0107
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2021,1.0
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2020,0.0278
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2017,0.8306
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2016,0.5465
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2015,0.8967
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2014,1.5822
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2013,0.7591
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2012,0.5811
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2011,0.9023
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2010,0.6848
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2009,0.963
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2008,0.9284
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2007,0.99
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2006,1.0403
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2005,0.8941
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2004,1.0697
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2003,1.7999
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2002,1.7999
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2001,1.26
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,2000,1.3377
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,1999,1.5517
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,1998,1.6944
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,1997,2.5639
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,1996,2.2999
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,1995,1.8017
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,1994,1.0
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,1993,1.0
+VNM,Viet Nam,Japan (official),Lower middle income,Asia,1992,1.0
+VNM,Viet Nam,Japan (private),Lower middle income,Asia,2017,2.5762
+VNM,Viet Nam,Japan (private),Lower middle income,Asia,2016,2.5197
+VNM,Viet Nam,Japan (private),Lower middle income,Asia,2014,1.7152
+VNM,Viet Nam,Japan (private),Lower middle income,Asia,2013,4.5759
+VNM,Viet Nam,Japan (private),Lower middle income,Asia,2012,2.0905
+VNM,Viet Nam,Japan (private),Lower middle income,Asia,2011,1.792
+VNM,Viet Nam,Japan (private),Lower middle income,Asia,2010,1.8753
+VNM,Viet Nam,Japan (private),Lower middle income,Asia,2007,5.3269
+VNM,Viet Nam,Japan (private),Lower middle income,Asia,1997,7.0251
+VNM,Viet Nam,Japan (private),Lower middle income,Asia,1994,7.3749
+VNM,Viet Nam,Japan (private),Lower middle income,Asia,1993,3.875
+VNM,Viet Nam,Japan (private),Lower middle income,Asia,1992,4.565
+VNM,Viet Nam,Japan (private),Lower middle income,Asia,1991,7.3649
+VNM,Viet Nam,Kuwait (official),Lower middle income,Asia,2017,2.0
+VNM,Viet Nam,Kuwait (official),Lower middle income,Asia,2016,2.0
+VNM,Viet Nam,Kuwait (official),Lower middle income,Asia,2015,2.4999
+VNM,Viet Nam,Kuwait (official),Lower middle income,Asia,2012,2.0
+VNM,Viet Nam,Kuwait (official),Lower middle income,Asia,2010,2.4999
+VNM,Viet Nam,Kuwait (official),Lower middle income,Asia,2008,2.5
+VNM,Viet Nam,Kuwait (official),Lower middle income,Asia,1993,2.9999
+VNM,Viet Nam,Multiple Lenders (official),Lower middle income,Asia,1993,3.0
+VNM,Viet Nam,Multiple Lenders (private),Lower middle income,Asia,2022,4.4306
+VNM,Viet Nam,Multiple Lenders (private),Lower middle income,Asia,2016,4.6397
+VNM,Viet Nam,Multiple Lenders (private),Lower middle income,Asia,1997,7.3557
+VNM,Viet Nam,Multiple Lenders (private),Lower middle income,Asia,1996,6.5239
+VNM,Viet Nam,Multiple Lenders (private),Lower middle income,Asia,1995,6.4826
+VNM,Viet Nam,Multiple Lenders (private),Lower middle income,Asia,1994,6.3893
+VNM,Viet Nam,Netherlands (private),Lower middle income,Asia,2004,4.8333
+VNM,Viet Nam,Netherlands (private),Lower middle income,Asia,1997,7.67
+VNM,Viet Nam,Nordic Development Fund (official),Lower middle income,Asia,2006,5.217
+VNM,Viet Nam,Nordic Development Fund (official),Lower middle income,Asia,2004,0.8999
+VNM,Viet Nam,Nordic Investment Bank (official),Lower middle income,Asia,2010,1.8109
+VNM,Viet Nam,Nordic Investment Bank (official),Lower middle income,Asia,2009,1.838
+VNM,Viet Nam,Nordic Investment Bank (official),Lower middle income,Asia,2008,2.95
+VNM,Viet Nam,Nordic Investment Bank (official),Lower middle income,Asia,2006,6.1752
+VNM,Viet Nam,Nordic Investment Bank (official),Lower middle income,Asia,2005,3.6085
+VNM,Viet Nam,Nordic Investment Bank (official),Lower middle income,Asia,1999,6.285
+VNM,Viet Nam,Nordic Investment Bank (official),Lower middle income,Asia,1998,6.255
+VNM,Viet Nam,Nordic Investment Bank (official),Lower middle income,Asia,1997,6.75
+VNM,Viet Nam,Nordic Investment Bank (official),Lower middle income,Asia,1996,6.2849
+VNM,Viet Nam,OPEC Fund for International Dev. (official),Lower middle income,Asia,2017,3.0
+VNM,Viet Nam,OPEC Fund for International Dev. (official),Lower middle income,Asia,2013,1.75
+VNM,Viet Nam,OPEC Fund for International Dev. (official),Lower middle income,Asia,2012,0.7333
+VNM,Viet Nam,OPEC Fund for International Dev. (official),Lower middle income,Asia,2008,2.5
+VNM,Viet Nam,OPEC Fund for International Dev. (official),Lower middle income,Asia,2007,2.5
+VNM,Viet Nam,OPEC Fund for International Dev. (official),Lower middle income,Asia,2005,2.2999
+VNM,Viet Nam,OPEC Fund for International Dev. (official),Lower middle income,Asia,1996,3.0
+VNM,Viet Nam,OPEC Fund for International Dev. (official),Lower middle income,Asia,1995,3.0
+VNM,Viet Nam,OPEC Fund for International Dev. (official),Lower middle income,Asia,1991,3.0
+VNM,Viet Nam,Poland (official),Lower middle income,Asia,2008,0.15
+VNM,Viet Nam,Poland (official),Lower middle income,Asia,1998,4.8125
+VNM,Viet Nam,Poland (official),Lower middle income,Asia,1992,5.0
+VNM,Viet Nam,Poland (official),Lower middle income,Asia,1990,5.0
+VNM,Viet Nam,Russia (official),Lower middle income,Asia,2011,3.0
+VNM,Viet Nam,Russia (official),Lower middle income,Asia,1993,3.0
+VNM,Viet Nam,Russia (official),Lower middle income,Asia,1992,3.0
+VNM,Viet Nam,Russia (official),Lower middle income,Asia,1991,2.0
+VNM,Viet Nam,Saudi Arabia (official),Lower middle income,Asia,2020,2.0
+VNM,Viet Nam,Saudi Arabia (official),Lower middle income,Asia,2018,2.0
+VNM,Viet Nam,Saudi Arabia (official),Lower middle income,Asia,2012,2.0
+VNM,Viet Nam,Singapore (private),Lower middle income,Asia,1997,5.0
+VNM,Viet Nam,South Korea (official),Lower middle income,Asia,2023,0.0346
+VNM,Viet Nam,South Korea (official),Lower middle income,Asia,2022,0.1
+VNM,Viet Nam,South Korea (official),Lower middle income,Asia,2021,1.0
+VNM,Viet Nam,South Korea (official),Lower middle income,Asia,2020,0.1874
+VNM,Viet Nam,South Korea (official),Lower middle income,Asia,2017,0.1082
+VNM,Viet Nam,South Korea (official),Lower middle income,Asia,2016,0.8219
+VNM,Viet Nam,South Korea (official),Lower middle income,Asia,2015,0.7532
+VNM,Viet Nam,South Korea (official),Lower middle income,Asia,2014,1.1904
+VNM,Viet Nam,South Korea (official),Lower middle income,Asia,2013,3.5716
+VNM,Viet Nam,South Korea (official),Lower middle income,Asia,2012,0.2336
+VNM,Viet Nam,South Korea (official),Lower middle income,Asia,2011,1.7848
+VNM,Viet Nam,South Korea (official),Lower middle income,Asia,2009,0.1305
+VNM,Viet Nam,South Korea (official),Lower middle income,Asia,2008,1.0
+VNM,Viet Nam,South Korea (official),Lower middle income,Asia,2007,1.0
+VNM,Viet Nam,South Korea (official),Lower middle income,Asia,2006,1.0
+VNM,Viet Nam,South Korea (official),Lower middle income,Asia,2001,2.5
+VNM,Viet Nam,South Korea (official),Lower middle income,Asia,2000,2.0
+VNM,Viet Nam,South Korea (official),Lower middle income,Asia,1997,2.0
+VNM,Viet Nam,South Korea (official),Lower middle income,Asia,1995,2.4999
+VNM,Viet Nam,South Korea (private),Lower middle income,Asia,1999,6.28
+VNM,Viet Nam,South Korea (private),Lower middle income,Asia,1997,7.7626
+VNM,Viet Nam,South Korea (private),Lower middle income,Asia,1996,3.5
+VNM,Viet Nam,South Korea (private),Lower middle income,Asia,1995,8.1199
+VNM,Viet Nam,Spain (official),Lower middle income,Asia,2009,0.5
+VNM,Viet Nam,Spain (official),Lower middle income,Asia,2008,0.5
+VNM,Viet Nam,Spain (official),Lower middle income,Asia,2007,0.5
+VNM,Viet Nam,Spain (official),Lower middle income,Asia,2006,0.4999
+VNM,Viet Nam,Spain (official),Lower middle income,Asia,2002,0.9359
+VNM,Viet Nam,Spain (official),Lower middle income,Asia,1998,0.3
+VNM,Viet Nam,Spain (official),Lower middle income,Asia,1996,0.8013
+VNM,Viet Nam,Spain (private),Lower middle income,Asia,1999,7.15
+VNM,Viet Nam,Spain (private),Lower middle income,Asia,1998,6.5799
+VNM,Viet Nam,Spain (private),Lower middle income,Asia,1996,7.48
+VNM,Viet Nam,Sweden (official),Lower middle income,Asia,2015,0.7336
+VNM,Viet Nam,Sweden (official),Lower middle income,Asia,2001,1.0
+VNM,Viet Nam,Switzerland (official),Lower middle income,Asia,2015,4.25
+VNM,Viet Nam,Switzerland (official),Lower middle income,Asia,2014,4.2499
+VNM,Viet Nam,Switzerland (official),Lower middle income,Asia,1993,7.625
+VNM,Viet Nam,Thailand (official),Lower middle income,Asia,1995,2.9999
+VNM,Viet Nam,United Kingdom (private),Lower middle income,Asia,2013,3.8464
+VNM,Viet Nam,United Kingdom (private),Lower middle income,Asia,2011,4.176
+VNM,Viet Nam,United Kingdom (private),Lower middle income,Asia,2010,4.947
+VNM,Viet Nam,United Kingdom (private),Lower middle income,Asia,1999,7.1399
+VNM,Viet Nam,United Kingdom (private),Lower middle income,Asia,1997,7.67
+VNM,Viet Nam,United States (official),Lower middle income,Asia,2004,4.9
+VNM,Viet Nam,United States (official),Lower middle income,Asia,2003,4.0501
+VNM,Viet Nam,United States (private),Lower middle income,Asia,2015,1.0016
+VNM,Viet Nam,United States (private),Lower middle income,Asia,2012,2.76
+VNM,Viet Nam,United States (private),Lower middle income,Asia,2011,3.2812
+VNM,Viet Nam,United States (private),Lower middle income,Asia,1997,7.03
+VNM,Viet Nam,World (official),Lower middle income,Asia,2023,0.693
+VNM,Viet Nam,World (official),Lower middle income,Asia,2022,0.059
+VNM,Viet Nam,World (official),Lower middle income,Asia,2021,1.3502
+VNM,Viet Nam,World (official),Lower middle income,Asia,2020,0.334
+VNM,Viet Nam,World (official),Lower middle income,Asia,2019,2.001
+VNM,Viet Nam,World (official),Lower middle income,Asia,2018,2.2845
+VNM,Viet Nam,World (official),Lower middle income,Asia,2017,1.7752
+VNM,Viet Nam,World (official),Lower middle income,Asia,2016,1.2994
+VNM,Viet Nam,World (official),Lower middle income,Asia,2015,1.1983
+VNM,Viet Nam,World (official),Lower middle income,Asia,2014,1.5043
+VNM,Viet Nam,World (official),Lower middle income,Asia,2013,1.6467
+VNM,Viet Nam,World (official),Lower middle income,Asia,2012,1.6614
+VNM,Viet Nam,World (official),Lower middle income,Asia,2011,2.2279
+VNM,Viet Nam,World (official),Lower middle income,Asia,2010,1.0374
+VNM,Viet Nam,World (official),Lower middle income,Asia,2009,1.1666
+VNM,Viet Nam,World (official),Lower middle income,Asia,2008,2.0604
+VNM,Viet Nam,World (official),Lower middle income,Asia,2007,2.2849
+VNM,Viet Nam,World (official),Lower middle income,Asia,2006,2.3228
+VNM,Viet Nam,World (official),Lower middle income,Asia,2005,1.3057
+VNM,Viet Nam,World (official),Lower middle income,Asia,2004,1.4639
+VNM,Viet Nam,World (official),Lower middle income,Asia,2003,1.8847
+VNM,Viet Nam,World (official),Lower middle income,Asia,2002,1.314
+VNM,Viet Nam,World (official),Lower middle income,Asia,2001,1.038
+VNM,Viet Nam,World (official),Lower middle income,Asia,2000,1.3247
+VNM,Viet Nam,World (official),Lower middle income,Asia,1999,1.7068
+VNM,Viet Nam,World (official),Lower middle income,Asia,1998,2.0261
+VNM,Viet Nam,World (official),Lower middle income,Asia,1997,2.0981
+VNM,Viet Nam,World (official),Lower middle income,Asia,1996,1.9206
+VNM,Viet Nam,World (official),Lower middle income,Asia,1995,2.3421
+VNM,Viet Nam,World (official),Lower middle income,Asia,1994,0.9314
+VNM,Viet Nam,World (official),Lower middle income,Asia,1993,2.0172
+VNM,Viet Nam,World (official),Lower middle income,Asia,1992,1.0567
+VNM,Viet Nam,World (official),Lower middle income,Asia,1991,1.8302
+VNM,Viet Nam,World (official),Lower middle income,Asia,1990,5.7434
+VNM,Viet Nam,World (official),Lower middle income,Asia,1989,5.0
+VNM,Viet Nam,World (private),Lower middle income,Asia,2022,4.4306
+VNM,Viet Nam,World (private),Lower middle income,Asia,2018,0.8799
+VNM,Viet Nam,World (private),Lower middle income,Asia,2017,2.517
+VNM,Viet Nam,World (private),Lower middle income,Asia,2016,2.7934
+VNM,Viet Nam,World (private),Lower middle income,Asia,2015,1.2675
+VNM,Viet Nam,World (private),Lower middle income,Asia,2014,3.5385
+VNM,Viet Nam,World (private),Lower middle income,Asia,2013,2.4999
+VNM,Viet Nam,World (private),Lower middle income,Asia,2012,2.1242
+VNM,Viet Nam,World (private),Lower middle income,Asia,2011,2.7281
+VNM,Viet Nam,World (private),Lower middle income,Asia,2010,4.8503
+VNM,Viet Nam,World (private),Lower middle income,Asia,2009,1.7985
+VNM,Viet Nam,World (private),Lower middle income,Asia,2008,5.11
+VNM,Viet Nam,World (private),Lower middle income,Asia,2007,6.5012
+VNM,Viet Nam,World (private),Lower middle income,Asia,2006,6.1708
+VNM,Viet Nam,World (private),Lower middle income,Asia,2005,6.7996
+VNM,Viet Nam,World (private),Lower middle income,Asia,2004,3.8633
+VNM,Viet Nam,World (private),Lower middle income,Asia,2003,3.6011
+VNM,Viet Nam,World (private),Lower middle income,Asia,1999,6.2334
+VNM,Viet Nam,World (private),Lower middle income,Asia,1998,5.5676
+VNM,Viet Nam,World (private),Lower middle income,Asia,1997,6.9564
+VNM,Viet Nam,World (private),Lower middle income,Asia,1996,5.7911
+VNM,Viet Nam,World (private),Lower middle income,Asia,1995,6.7372
+VNM,Viet Nam,World (private),Lower middle income,Asia,1994,6.2597
+VNM,Viet Nam,World (private),Lower middle income,Asia,1993,3.875
+VNM,Viet Nam,World (private),Lower middle income,Asia,1992,4.565
+VNM,Viet Nam,World (private),Lower middle income,Asia,1991,4.9768
+VNM,Viet Nam,World Bank-IBRD (official),Lower middle income,Asia,2017,2.3164
+VNM,Viet Nam,World Bank-IBRD (official),Lower middle income,Asia,2016,2.3042
+VNM,Viet Nam,World Bank-IBRD (official),Lower middle income,Asia,2015,1.7505
+VNM,Viet Nam,World Bank-IBRD (official),Lower middle income,Asia,2014,0.5
+VNM,Viet Nam,World Bank-IBRD (official),Lower middle income,Asia,2012,0.609
+VNM,Viet Nam,World Bank-IBRD (official),Lower middle income,Asia,2011,0.9373
+VNM,Viet Nam,World Bank-IBRD (official),Lower middle income,Asia,2010,0.9919
+VNM,Viet Nam,World Bank-IBRD (official),Lower middle income,Asia,2009,0.5996
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2023,2.0
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2021,1.4957
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2020,1.3643
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2019,2.63
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2018,2.4501
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2017,2.3372
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2016,2.0
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2015,2.0
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2014,2.003
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2013,2.0
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2012,2.1041
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2011,0.75
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2010,1.1198
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2009,0.75
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2008,0.75
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2007,0.75
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2006,0.75
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2005,0.75
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2004,0.75
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2003,0.75
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2002,0.75
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2001,0.75
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,2000,0.75
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,1999,0.75
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,1998,0.75
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,1997,0.5
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,1996,0.75
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,1995,0.75
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,1994,0.75
+VNM,Viet Nam,World Bank-IDA (official),Lower middle income,Asia,1993,0.75
