@@ -547,6 +547,22 @@ files = [
 ]
 
 [[package]]
+name = "oda-reader"
+version = "1.0.0"
+description = "A simple package to import ODA data using the OECD Data API"
+optional = false
+python-versions = "<4.0,>=3.10"
+files = [
+    {file = "oda_reader-1.0.0-py3-none-any.whl", hash = "sha256:637b63645932504421cb5357e2f075971d2ea2f7ff51f71f10cf6a091827c945"},
+    {file = "oda_reader-1.0.0.tar.gz", hash = "sha256:0a01023cee162921978f4a8233f6e41540f56ad618db36ead4469aea3ec14635"},
+]
+
+[package.dependencies]
+pandas = ">=2.2.2,<3.0.0"
+pyarrow = ">=16.0.0"
+requests = ">=2.31.0,<3.0.0"
+
+[[package]]
 name = "opencv-python"
 version = "4.10.0.84"
 description = "Wrapper package for OpenCV python bindings."
@@ -1062,4 +1078,4 @@ tabulate = "*"
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.10, <4.0"
-content-hash = "c5bf66a902fc323e634356d63d4574c99e24c3dbf02da033e6345f70c22cb536"
+content-hash = "2203c753bb0cc0cb8011daa7b4a8335df7d390f04f8fa5aab06ef9993a24eaba"
