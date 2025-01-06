@@ -88,3 +88,36 @@ A few countries have no data in the IDS database:
 - Tuvalu
 - Uruguay
 - Venezuela
+
+
+---
+
+## Project-level World Bank data
+
+Interest rate information is available for a large number of World Bank projects via two different datasets:
+- [IDA statement of Credits, Grants, and Guarantees](https://financesone.worldbank.org/ida-statement-of-credits-grants-and-guarantees-historical-data/DS00976)
+- [IBRD statement of Loans and Guarantees](https://datacatalog.worldbank.org/search/dataset/0037715/IBRD-Statement-Of-Loans-and-Guarantees---Historical-Data)
+
+The [scripts](./scripts/wb/statements_api.py) use the relevant API to extract, clean and harmonise the data.
+
+The two historical datasets are only available from 2011. But they include projects that were approved by the board as far back as 1947. 
+
+Currently, the data is current as of November 2024.
+
+Interest rate data is available for 15,747 projects.
+
+## Missing interest rates
+
+According to the World Bank: "Current Interest rate or service charge applied to loan. For loans that could have more than one interest rate (e.g. FSL or SCL fixed rate loans), the interest rate is shown as “0”.
+
+Data is therefore missing for 5,304 projects.
+
+Project-level data used to be reported by the World Bank to the OECD Development Assistance Committee via the Creditor Reporting System dataset. The World Bank has not reported interest rate data (or loan terms data) since 2018.
+
+Based on the pre-2018 data, some gaps can be filled using the OECD data.
+
+The tools inside the [crs](./scripts/crs/crs_data.py) module help with downloading and processing the CRS data.
+
+The [project_level](./scripts/project_level.py) scripts deal with filling the gaps in World Bank data to the extent possible. This method allows us to add interest rate data for an additional 2,640 projects.
+
+That means that 12.6% of projects still have missing interest rates. Future research will focus on estimating those rates using data reported via the International Debt Statistics (IDS) dataset.
