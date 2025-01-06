@@ -172,6 +172,25 @@ def zero_to_nan(df: pd.DataFrame, column: str) -> pd.DataFrame:
     return df
 
 
+def harmonise_columns(df: pd.DataFrame) -> pd.DataFrame:
+    df.columns = [col.lower().strip() for col in df.columns]
+    return df.rename(
+        columns={
+            "credit_number": "loan_or_credit_number",
+            "service_charge_rate": "interest_rate",
+            "original_principal_amount_us_": "original_principal_amount",
+            "project_name_": "project_name",
+            "loan_number": "loan_or_credit_number",
+        }
+    )
+
+
+def deduplicate(df: pd.DataFrame) -> pd.DataFrame:
+    return df.drop_duplicates(
+        subset=["loan_or_credit_number", "country_code", "project_id"], keep="last"
+    )
+
+
 def get_ida_interest() -> pd.DataFrame:
     """Loads and aggregates IDA interest data from local Parquet.
 
@@ -195,10 +214,9 @@ def get_ida_interest() -> pd.DataFrame:
         ]
         .max()
         .reset_index()
-        .drop_duplicates(
-            subset=["credit_number", "country_code", "project_id"], keep="last"
-        )
         .pipe(zero_to_nan, column="service_charge_rate")
+        .pipe(harmonise_columns)
+        .pipe(deduplicate)
     )
 
     return ida_summary
@@ -228,19 +246,14 @@ def get_ibrd_interest() -> pd.DataFrame:
         ]
         .max()
         .reset_index()
-        .drop_duplicates(
-            subset=["loan_number", "country_code", "project_id"], keep="last"
-        )
         .pipe(zero_to_nan, column="interest_rate")
+        .pipe(harmonise_columns)
+        .pipe(deduplicate)
     )
 
     return ibrd_summary
 
 
 if __name__ == "__main__":
-    # download_ida_interest()
-    # download_ibrd_interest()
-
-    # Just interest rate data
-    ida_summary = get_ida_interest()
-    ibrd_summary = get_ibrd_interest()
+    download_ida_interest()
+    download_ibrd_interest()

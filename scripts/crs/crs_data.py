@@ -2,6 +2,7 @@
 from pathlib import Path
 from typing import List
 
+import numpy as np
 import pandas as pd
 from pandas import DataFrame
 
@@ -16,36 +17,36 @@ def download_crs():
     bulk_download_crs(save_to_path=Paths.raw_data)
 
 
-DEFAULT_FILTERS = [("DonorCode", "in", [901, 903, 905])]
+DEFAULT_FILTERS = [("donor_code", "in", [901, 903, 905])]
 DEFAULT_COLUMNS = [
-    "Year",
-    "DonorCode",
-    "DonorName",
-    "RecipientCode",
-    "RecipientName",
-    "ProjectNumber",
-    "USD_Commitment",
-    "USD_Disbursement",
-    "USD_Received",
-    "ProjectTitle",
-    "PurposeCode",
-    "PurposeName",
-    "CommitmentDate",
-    "TypeRepayment",
-    "NumberRepayment",
-    "Interest1",
-    "Interest2",
-    "Repaydate1",
-    "Repaydate2",
-    "USD_Interest",
-    "USD_Outstanding",
-    "USD_Arrears_Principal",
-    "USD_Arrears_Interest",
+    "year",
+    "donor_code",
+    "donor_name",
+    "recipient_code",
+    "recipient_name",
+    "project_number",
+    "usd_commitment",
+    "usd_disbursement",
+    "usd_received",
+    "project_title",
+    "purpose_code",
+    "purpose_name",
+    "commitment_date",
+    "type_repayment",
+    "number_repayment",
+    "interest1",
+    "interest2",
+    "repaydate1",
+    "repaydate2",
+    "usd_interest",
+    "usd_outstanding",
+    "usd_arrears_principal",
+    "usd_arrears_interest",
 ]
 
 
 def read_parquet_file(
-    file_path: Path, filters: List[tuple], columns: List[str]
+    file_path: Path, filters: List[tuple] = None, columns: List[str] = None
 ) -> DataFrame:
     """Read a Parquet file with specified filters and columns.
 
@@ -61,8 +62,8 @@ def read_parquet_file(
     return pd.read_parquet(file_path, filters=filters, columns=columns)
 
 
-def split_project_number(df: DataFrame, column: str = "ProjectNumber") -> DataFrame:
-    """Split the ProjectNumber column into separate components.
+def split_project_number(df: DataFrame, column: str = "project_number") -> DataFrame:
+    """Split the project_number column into separate components.
 
     Args:
         df (DataFrame): DataFrame containing the ProjectNumber column.
@@ -72,7 +73,7 @@ def split_project_number(df: DataFrame, column: str = "ProjectNumber") -> DataFr
         DataFrame: DataFrame with split project_id, loan_number, and crs_entry columns.
     """
     logger.info(f"Splitting '{column}' into components.")
-    split_columns = ["project_id", "loan_number", "crs_entry"]
+    split_columns = ["project_id", "loan_or_credit_number", "crs_entry"]
     df[split_columns] = df[column].str.split(".", expand=True)
     return df.drop(columns=["crs_entry"])
 
@@ -87,20 +88,48 @@ def deduplicate_crs_data(df: DataFrame) -> DataFrame:
         DataFrame: Deduplicated DataFrame.
     """
     logger.info("Deduplicating CRS data.")
-    return (
-        df.sort_values(["Year", "DonorCode", "RecipientCode", "project_id"])
-        .drop_duplicates(
-            subset=["DonorCode", "RecipientName", "project_id", "loan_number"],
-            keep="last",
-        )
-        .reset_index(drop=True)
+    df = df.rename(columns={"commitment_date": "board_approval_date"})
+    df = df.groupby(
+        [
+            "project_id",
+            "loan_or_credit_number",
+            "recipient_code",
+            "board_approval_date",
+        ],
+        dropna=False,
+        observed=True,
+    ).agg(
+        {
+            "interest1": "max",
+            "interest2": "max",
+            "usd_interest": "sum",
+            "usd_received": "sum",
+            "usd_commitment": "sum",
+            "usd_disbursement": "sum",
+        }
     )
+
+    df["interest_rate"] = np.fmax(df["interest1"], df["interest2"]) / 1000
+    return df.reset_index().drop(columns=["interest1", "interest2"])
+
+
+def drop_missing_interest(df: DataFrame) -> DataFrame:
+    """Drop rows with missing interest rates.
+
+    Args:
+        df (DataFrame): Input DataFrame to deduplicate.
+
+    Returns:
+        DataFrame: DataFrame with missing interest rates removed.
+    """
+    logger.info("Dropping rows with missing interest rates.")
+    return df.dropna(subset=["interest_rate"])
 
 
 def load_and_process_crs_data(
     file_path: Path,
-    filters: List[tuple],
-    columns: List[str],
+    filters: List[tuple] = None,
+    columns: List[str] = None,
 ) -> DataFrame:
     """Load and preprocess CRS data.
 
@@ -115,16 +144,21 @@ def load_and_process_crs_data(
         DataFrame: Preprocessed CRS data.
     """
     logger.info("Loading and processing CRS data.")
-    df = read_parquet_file(file_path, filters, columns)
+    df = read_parquet_file(file_path, filters, columns).astype(
+        {"interest1": "float", "interest2": "float"}
+    )
     df = split_project_number(df)
     df = deduplicate_crs_data(df)
+    df = drop_missing_interest(df)
     return df
 
 
 if __name__ == "__main__":
-    crs_data_path = Path(Paths.raw_data / "crs_data.parquet")
+    crs_data_path = Path(Paths.raw_data / "CRS.parquet")
     if not crs_data_path.exists():
         download_crs()
     crs_data = load_and_process_crs_data(
-        file_path=crs_data_path, filters=DEFAULT_FILTERS, columns=DEFAULT_COLUMNS
+        file_path=crs_data_path,
+        filters=DEFAULT_FILTERS,
+        columns=DEFAULT_COLUMNS,
     )
